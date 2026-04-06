@@ -37,7 +37,15 @@
   "showRibbon": true,
   "vaultSelector": true,
   "deleteFileOption": "trash",
-  "expandedSpaces": [],
+  "expandedSpaces": [
+    "/",
+    "//Tags",
+    "//Untitled",
+    "//raw",
+    "//wiki",
+    "//wiki/wiki/entities",
+    "//wiki/wiki/concepts"
+  ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [
@@ -54,7 +62,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,
