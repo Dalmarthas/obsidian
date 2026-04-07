@@ -11,22 +11,33 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 - [[raw/inbox/2026-04-07-llm-wiki-idea|LLM Wiki Idea]] - The original implementation brief captured as the first raw source for this vault.
 - [[raw/inbox/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]] - Clipped article about turning an idea into a workable screenplay through outlining, structure, formatting, and tool discipline.
+- [[raw/inbox/2026-04-07-aaron-sorkin-masterclass-complete-summary.txt|Aaron Sorkin Masterclass Complete Summary]] - Large secondary summary of Aaron Sorkin's masterclass covering conflict, character, scenes, dialogue, audience, and rewriting.
 
 ## Sources
 
 - [[wiki/sources/2026-04-07-llm-wiki-idea|LLM Wiki Idea (Source Summary)]] - Structured source page for the founding idea behind this vault.
 - [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]] - Source summary of a 2010 article about screenplay preparation and structural discipline.
+- [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]] - Source page for a large secondary guide to Sorkin's screenwriting method.
+
+## Entities
+
+- [[wiki/entities/aaron-sorkin|Aaron Sorkin]] - Screenwriter and teacher whose craft model now anchors several pages in the vault.
 
 ## Concepts
 
 - [[wiki/concepts/llm-wiki|LLM Wiki]] - A persistent, LLM-maintained wiki that compiles and updates knowledge instead of re-deriving it on every query.
 - [[wiki/concepts/screenwriting|Screenwriting]] - Writing a screenplay as a production blueprint for a visual medium.
 - [[wiki/concepts/three-act-structure|Three-Act Structure]] - The classical setup-conflict-resolution model used here as a practical screenwriting scaffold.
+- [[wiki/concepts/intention-and-obstacle|Intention and Obstacle]] - The foundational dramatic rule that somebody wants something and something stands in the way.
+- [[wiki/concepts/audience-as-collaborator|Audience as Collaborator]] - Treating the audience as an intelligent participant who completes part of the storytelling work.
+- [[wiki/concepts/dialogue-as-music|Dialogue as Music]] - Writing dialogue for rhythm, sound, and performance rather than strict realism.
+- [[wiki/concepts/screenplay-rewriting|Screenplay Rewriting]] - Revising a full draft diagnostically by sharpening conflict and cutting what the story can live without.
 
 ## Syntheses
 
 - [[wiki/syntheses/this-vault-operating-model|This Vault Operating Model]] - How the general LLM Wiki pattern is instantiated in this Obsidian vault.
 - [[wiki/syntheses/screenplay-starting-checklist|Screenplay Starting Checklist]] - A durable pre-draft checklist extracted from the current screenwriting source base.
+- [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]] - A reusable craft model distilled from the Aaron Sorkin masterclass summary.
 
 ## Folder Conventions
 

@@ -1,0 +1,47 @@
+---
+type: concept
+title: Dialogue as Music
+created: 2026-04-07
+updated: 2026-04-07
+status: active
+tags:
+  - concept
+  - dialogue
+  - screenwriting
+source_pages:
+  - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
+related:
+  - wiki/concepts/screenwriting.md
+  - wiki/concepts/audience-as-collaborator.md
+  - wiki/syntheses/sorkin-screenwriting-framework.md
+---
+
+# What It Is
+
+Dialogue as music is the view that dramatic speech should be judged not only by meaning but also by rhythm, cadence, repetition, interruption, and performability. In this vault's current evidence, the point is not to imitate literal everyday speech, but to write language that sounds alive when spoken and carries dramatic intention cleanly. Main source: [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]].
+
+# Why It Matters
+
+- Spoken language is experienced in time, so rhythm affects force and clarity.
+- Musicality can make heightened language feel natural in performance.
+- Reading scenes aloud exposes clunky prose that looks acceptable on the page.
+- Distinctive dialogue can become part of a writer's voice without collapsing into empty ornament.
+
+# Evidence In This Vault
+
+- The source argues that what words sound like is as important as what they mean.
+- It emphasizes cadence, repeated structure, interruption, and syllabic precision.
+- Dialogue is tested through physical performance and read-aloud revision.
+- The goal is not strict conversational realism.
+- The audience should not be told information they already know.
+
+# Tensions / Open Questions
+
+- Highly stylized dialogue can become mannered if not supported by character and conflict.
+- The line between expressive voice and self-imitation is an ongoing craft problem.
+
+# Related Pages
+
+- [[wiki/concepts/screenwriting|Screenwriting]]
+- [[wiki/concepts/audience-as-collaborator|Audience as Collaborator]]
+- [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]

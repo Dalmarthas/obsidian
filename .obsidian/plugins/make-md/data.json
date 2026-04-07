@@ -42,9 +42,11 @@
     "//Tags",
     "//Untitled",
     "//raw",
-    "//wiki",
+    "//wiki/wiki/concepts",
+    "//wiki/wiki/syntheses",
     "//wiki/wiki/entities",
-    "//wiki/wiki/concepts"
+    "//wiki/wiki/sources",
+    "//wiki"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

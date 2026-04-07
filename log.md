@@ -43,3 +43,23 @@ Pages touched:
 - [[wiki/concepts/three-act-structure]]
 - [[wiki/syntheses/screenplay-starting-checklist]]
 - [[index]]
+
+## [2026-04-07 11:45] ingest | Aaron Sorkin Masterclass Complete Summary
+
+Raw source: [[raw/inbox/2026-04-07-aaron-sorkin-masterclass-complete-summary.txt]]
+
+Summary: Ingested a large secondary summary of Aaron Sorkin's masterclass by normalizing the raw file into `raw/inbox`, creating a source page, adding an Aaron Sorkin entity page, extracting durable craft concepts for intention and obstacle, audience collaboration, dialogue musicality, and screenplay rewriting, and updating the existing screenwriting and structure pages.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-07-aaron-sorkin-masterclass-complete-summary.txt]]
+- [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary]]
+- [[wiki/entities/aaron-sorkin]]
+- [[wiki/concepts/intention-and-obstacle]]
+- [[wiki/concepts/audience-as-collaborator]]
+- [[wiki/concepts/dialogue-as-music]]
+- [[wiki/concepts/screenplay-rewriting]]
+- [[wiki/concepts/screenwriting]]
+- [[wiki/concepts/three-act-structure]]
+- [[wiki/syntheses/sorkin-screenwriting-framework]]
+- [[index]]
