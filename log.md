@@ -108,3 +108,57 @@ Pages touched:
 - [[wiki/concepts/creative-pitching]]
 - [[wiki/syntheses/goodby-silverstein-advertising-framework]]
 - [[index]]
+
+## [2026-04-07 12:50] ingest | Bill Clinton Leadership Masterclass Master Summary
+
+Raw source: [[raw/inbox/2026-04-07-bill-clinton-leadership-masterclass-master-summary]]
+
+Summary: Ingested a new leadership branch by first converting the raw `.txt` file to `.md` per schema, then creating a source page, adding a Bill Clinton entity page, extracting durable concepts for leadership, diverse teams, negotiation and mediation, and leadership communication, and filing a reusable leadership framework synthesis.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-07-bill-clinton-leadership-masterclass-master-summary]]
+- [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary]]
+- [[wiki/entities/bill-clinton]]
+- [[wiki/concepts/leadership]]
+- [[wiki/concepts/diverse-teams]]
+- [[wiki/concepts/negotiation-and-mediation]]
+- [[wiki/concepts/leadership-communication]]
+- [[wiki/syntheses/clinton-leadership-framework]]
+- [[index]]
+
+## [2026-04-07 12:50] ingest | Building a Career Elaine Welteroth Masterclass Complete Summary
+
+Raw source: [[raw/inbox/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary]]
+
+Summary: Ingested a new career-design branch by first converting the raw `.txt` file to `.md` per schema, then creating a source page, adding an Elaine Welteroth entity page, extracting durable concepts for creative entrepreneurship, zone of genius, career blueprinting, and financial confidence, and filing a reusable career framework synthesis.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary]]
+- [[wiki/entities/elaine-welteroth]]
+- [[wiki/concepts/creative-entrepreneurship]]
+- [[wiki/concepts/zone-of-genius]]
+- [[wiki/concepts/career-blueprint]]
+- [[wiki/concepts/financial-confidence]]
+- [[wiki/syntheses/welteroth-career-framework]]
+- [[index]]
+
+## [2026-04-07 12:50] ingest | Conversation Jane Goodall Masterclass Complete Summary
+
+Raw source: [[raw/inbox/2026-04-07-conversation-jane-goodall-masterclass-complete-summary]]
+
+Summary: Ingested a new conservation branch by first converting the raw `.txt` file to `.md` per schema, then creating a source page, adding a Jane Goodall entity page, extracting durable concepts for conservation, animal cognition, interconnectedness, and community-based conservation, and filing a reusable conservation framework synthesis.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-07-conversation-jane-goodall-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-07-conversation-jane-goodall-masterclass-complete-summary]]
+- [[wiki/entities/jane-goodall]]
+- [[wiki/concepts/conservation]]
+- [[wiki/concepts/animal-cognition]]
+- [[wiki/concepts/interconnectedness-principle]]
+- [[wiki/concepts/community-based-conservation]]
+- [[wiki/syntheses/goodall-conservation-framework]]
+- [[index]]
