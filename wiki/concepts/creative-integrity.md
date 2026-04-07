@@ -14,11 +14,15 @@ source_pages:
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-jeff-koons-art-and-creativity-masterclass-complete-summary.md
 related:
   - wiki/concepts/authentic-communication.md
   - wiki/concepts/idea-development.md
   - wiki/concepts/brand-stewardship.md
   - wiki/concepts/graphic-design.md
+  - wiki/concepts/art-making.md
+  - wiki/concepts/viewer-centered-art.md
+  - wiki/syntheses/jeff-koons-art-framework.md
 ---
 
 # What It Is
@@ -39,6 +43,7 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - Goodby Silverstein insists on truth, cultural observation, and work that does not feel like fake advertising.
 - Welteroth treats authentic voice and lived difference as strengths that should not be hidden to fit inherited formulas.
 - The Duffer Brothers warn against chasing trends instead of writing what you genuinely love.
+- Koons adds a less defensive version of integrity: self-acceptance, anti-judgment, and respect for ordinary cultural material let the work stay open instead of shrinking around shame.
 
 # Source Comparisons
 
@@ -47,6 +52,7 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - Goodby Silverstein frames it as truthfulness and anti-fakery inside commercial communication.
 - Welteroth frames it as self-authorship: do not disappear into a professional costume.
 - The Duffer Brothers frame it as passion discipline: do not build years of work on something you do not actually love.
+- Koons frames it as radical permission: the artist does not need to apologize for pleasure, scale, sentiment, or popular reference if the work is fully inhabited.
 
 # Tensions / Open Questions
 
@@ -59,3 +65,6 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - [[wiki/concepts/idea-development|Idea Development]]
 - [[wiki/concepts/brand-stewardship|Brand Stewardship]]
 - [[wiki/concepts/graphic-design|Graphic Design]]
+- [[wiki/concepts/art-making|Art Making]]
+- [[wiki/concepts/viewer-centered-art|Viewer-Centered Art]]
+- [[wiki/syntheses/jeff-koons-art-framework|Jeff Koons Art Framework]]

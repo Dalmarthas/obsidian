@@ -2,7 +2,7 @@
 type: concept
 title: Leadership Communication
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 status: active
 tags:
   - concept
@@ -10,16 +10,20 @@ tags:
   - leadership
 source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
+  - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
 related:
   - wiki/concepts/leadership.md
   - wiki/concepts/negotiation-and-mediation.md
   - wiki/concepts/authentic-communication.md
+  - wiki/concepts/effective-communication.md
   - wiki/syntheses/clinton-leadership-framework.md
+  - wiki/syntheses/communication-and-influence-models.md
 ---
 
 # What It Is
 
-Leadership communication is the art of helping people understand a situation, trust the speaker, and move toward action. In the current source base, the strongest version is conversational rather than overperformed: authentic tone, story, structure, and audience respect matter more than sounding like a conventional "great speaker." Main source: [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]].
+Leadership communication is the art of helping people understand a situation, trust the speaker, and move toward action. In the current source base, the strongest version is conversational rather than overperformed: authentic tone, story, structure, preparation, and audience respect matter more than sounding like a conventional "great speaker." Main sources: [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]], [[wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary|George Stephanopoulos Effective Communication Masterclass Complete Summary]], and [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary|Bob Iger Disney Leadership Masterclass Complete Summary]].
 
 # Why It Matters
 
@@ -35,6 +39,14 @@ Leadership communication is the art of helping people understand a situation, tr
 - Stories humanize abstract points better than statistics by themselves.
 - Strong speech structure often begins conversationally, builds the argument, and ends with conviction or a call to action.
 - Speakers should not become imprisoned by text or by imitating someone else's style.
+- Stephanopoulos adds that preparation, direct questions, attention to body language, and the disciplined use of silence all shape whether a leader seems credible.
+- Iger adds that repeated strategic language matters because leaders create trust partly by making priorities legible and consistent over time.
+
+# Source Comparisons
+
+- Clinton is strongest on public persuasion through story, tone, and audience respect.
+- Stephanopoulos is strongest on clarity under pressure: preparation, presence, and direct questioning keep communication from turning vague or theatrical.
+- Iger is strongest on institutional clarity: leadership communication must repeat the few priorities that actually govern decisions.
 
 # Tensions / Open Questions
 
@@ -46,4 +58,6 @@ Leadership communication is the art of helping people understand a situation, tr
 - [[wiki/concepts/leadership|Leadership]]
 - [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/effective-communication|Effective Communication]]
 - [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]]
+- [[wiki/syntheses/communication-and-influence-models|Communication and Influence Models]]

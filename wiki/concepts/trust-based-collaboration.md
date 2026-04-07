@@ -2,7 +2,7 @@
 type: concept
 title: Trust-Based Collaboration
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 status: active
 tags:
   - concept
@@ -13,11 +13,16 @@ source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-conversation-jane-goodall-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
+  - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
 related:
   - wiki/concepts/diverse-teams.md
   - wiki/concepts/negotiation-and-mediation.md
   - wiki/concepts/community-based-conservation.md
   - wiki/concepts/creative-pitching.md
+  - wiki/concepts/high-performance-team-culture.md
+  - wiki/concepts/tactical-empathy.md
   - wiki/syntheses/human-centered-change-models.md
 ---
 
@@ -38,6 +43,9 @@ Trust-based collaboration is the practice of designing work so that other people
 - Bill Clinton emphasizes safe disagreement, sharing credit, assuming responsibility, and earning the right to disagree by demonstrating genuine respect for the people involved.
 - Elaine Welteroth recommends boards of advisors, peer mentorship, giving before asking, and hiring for blind spots rather than for comfortable sameness.
 - Jane Goodall's TACARE model begins with listening, uses local staff, builds long-term partnership, and treats dialogue with adversaries as more effective than immediate confrontation.
+- Geno Auriemma adds the team-performance version: trust is inseparable from standards, role acceptance, direct correction, and the belief that hard coaching serves the collective goal.
+- Lewis Hamilton adds the elite-team version: appreciation, calm communication, and visible respect for every role help keep high-pressure groups functional.
+- Chris Voss adds the adversarial version: even in negotiation, progress improves when the counterpart feels heard rather than cornered.
 
 # Source Comparisons
 
@@ -45,6 +53,9 @@ Trust-based collaboration is the practice of designing work so that other people
 - Clinton focuses on trust inside leadership and negotiation: people take hard conversations more seriously when they know you are fair, respectful, and accountable.
 - Welteroth focuses on trust inside career architecture: the right community and advisory structure reduce blind spots and make reinvention less lonely and less reckless.
 - Goodall focuses on trust inside social change: communities and even opponents have to feel listened to before durable change becomes possible.
+- Auriemma focuses on trust inside demanding teams: accountability and emotional honesty are part of trust, not violations of it.
+- Hamilton focuses on trust inside elite execution: culture deteriorates quickly when pressure removes gratitude, role respect, or emotional steadiness.
+- Voss focuses on trust inside bargaining: acknowledgment and calibrated curiosity make counterparts more cooperative without requiring softness.
 
 # Tensions / Open Questions
 
@@ -57,4 +68,6 @@ Trust-based collaboration is the practice of designing work so that other people
 - [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/community-based-conservation|Community-Based Conservation]]
 - [[wiki/concepts/creative-pitching|Creative Pitching]]
+- [[wiki/concepts/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/tactical-empathy|Tactical Empathy]]
 - [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]

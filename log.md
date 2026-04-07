@@ -301,3 +301,94 @@ Pages touched:
 
 - [[AGENTS]]
 - [[log]]
+
+## [2026-04-08 01:59] ingest | Five-source batch: Stephanopoulos, Koons, Auriemma, Hamilton, and Voss
+
+Raw sources:
+
+- [[raw/inbox/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary]]
+- [[raw/inbox/2026-04-08-jeff-koons-art-and-creativity-masterclass-complete-summary]]
+- [[raw/inbox/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary]]
+- [[raw/inbox/2026-04-08-lewis-hamilton-masterclass-master-summary]]
+- [[raw/inbox/2026-04-08-chris-voss-negotiation-masterclass-master-summary]]
+
+Summary: Converted five new raw `.txt` files into canonical `.md` raw sources, moved them into `raw/inbox/`, created source and entity pages for communication, art, team leadership, performance, and negotiation, extracted canonical concepts for effective communication, tactical empathy, high-performance mindset, high-performance team culture, art making, and viewer-centered art, then merged the new material into existing communication, leadership, trust, and creative-integrity pages and filed cross-source comparison syntheses.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary]]
+- [[raw/inbox/2026-04-08-jeff-koons-art-and-creativity-masterclass-complete-summary]]
+- [[raw/inbox/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary]]
+- [[raw/inbox/2026-04-08-lewis-hamilton-masterclass-master-summary]]
+- [[raw/inbox/2026-04-08-chris-voss-negotiation-masterclass-master-summary]]
+- [[wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-08-jeff-koons-art-and-creativity-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary]]
+- [[wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary]]
+- [[wiki/entities/george-stephanopoulos]]
+- [[wiki/entities/jeff-koons]]
+- [[wiki/entities/geno-auriemma]]
+- [[wiki/entities/lewis-hamilton]]
+- [[wiki/entities/chris-voss]]
+- [[wiki/concepts/effective-communication]]
+- [[wiki/concepts/tactical-empathy]]
+- [[wiki/concepts/high-performance-mindset]]
+- [[wiki/concepts/high-performance-team-culture]]
+- [[wiki/concepts/art-making]]
+- [[wiki/concepts/viewer-centered-art]]
+- [[wiki/concepts/authentic-communication]]
+- [[wiki/concepts/leadership-communication]]
+- [[wiki/concepts/negotiation-and-mediation]]
+- [[wiki/concepts/trust-based-collaboration]]
+- [[wiki/concepts/leadership]]
+- [[wiki/concepts/diverse-teams]]
+- [[wiki/concepts/creative-integrity]]
+- [[wiki/syntheses/george-stephanopoulos-communication-framework]]
+- [[wiki/syntheses/chris-voss-negotiation-framework]]
+- [[wiki/syntheses/geno-auriemma-team-leadership-framework]]
+- [[wiki/syntheses/lewis-hamilton-performance-framework]]
+- [[wiki/syntheses/jeff-koons-art-framework]]
+- [[wiki/syntheses/communication-and-influence-models]]
+- [[wiki/syntheses/high-performance-leadership-models]]
+- [[index]]
+
+## [2026-04-08 02:06] admin | Add oversized-batch ingest warning rule
+
+Summary: Updated the schema so that if the user asks to ingest too many documents at once, the assistant must explicitly warn that quality will drop because context and attention get spread too thin, and should recommend smaller or topic-grouped batches.
+
+Pages touched:
+
+- [[AGENTS]]
+- [[log]]
+
+## [2026-04-08 02:12] ingest | Daniel Pink Persuasion Masterclass Complete Summary
+
+Raw source: [[raw/inbox/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary]]
+
+Summary: Converted the new raw `.txt` source into a canonical `.md` file, moved it into `raw/inbox/`, created a Daniel Pink source page and entity page, extracted new canonical concepts for persuasion, attunement, buoyancy, problem-finding, and timing and sequencing, then merged the overlap into the existing communication and influence branch so the new source compounds with Voss, Stephanopoulos, Clinton, and Iger rather than sitting alone.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary]]
+- [[wiki/entities/daniel-pink]]
+- [[wiki/concepts/persuasion]]
+- [[wiki/concepts/attunement]]
+- [[wiki/concepts/buoyancy]]
+- [[wiki/concepts/problem-finding]]
+- [[wiki/concepts/timing-and-sequencing]]
+- [[wiki/concepts/effective-communication]]
+- [[wiki/concepts/tactical-empathy]]
+- [[wiki/syntheses/daniel-pink-persuasion-framework]]
+- [[wiki/syntheses/communication-and-influence-models]]
+- [[index]]
+
+## [2026-04-08 02:20] admin | Add command-length precheck rule
+
+Summary: Updated the schema so the assistant must estimate command length before running shell commands or large `apply_patch` calls on Windows and proactively split oversized work into smaller commands or patches instead of waiting for command-length failures.
+
+Pages touched:
+
+- [[AGENTS]]
+- [[log]]

@@ -310,6 +310,9 @@ Expected behavior:
 - If overlap exists, prefer canonical merged concept pages with source-attributed differences over parallel near-duplicates.
 - New-source discovery happens in `raw/`, not in `raw/inbox/`.
 - `raw/inbox/` is the post-ingest canonical archive, not the place to look for fresh arrivals.
+- If the user asks for too many documents to be deeply ingested at once, do not proceed silently as if quality were unaffected.
+- In that case, explicitly tell the user that ingest quality will be reduced because context and attention get spread too thin across too many sources at once.
+- Prefer recommending smaller or topic-grouped batches when the source count, source size, or topic diversity would make deep extraction meaningfully weaker.
 
 ### Query workflow
 
@@ -334,6 +337,17 @@ Check for:
 - obvious research gaps
 
 If a lint pass produces durable changes, record them in `log.md`.
+
+## Command Execution Hygiene
+
+- Before running a shell command or large `apply_patch`, estimate whether the command length is likely to hit Windows command-size limits.
+- If the command is likely to be too long, split it into multiple smaller commands or multiple smaller patches before running anything.
+- Do not rely on trial-and-error for oversized commands when the size problem is predictable in advance.
+- Prefer several smaller, scoped edits over one giant command when creating or updating many files at once.
+- This rule applies especially to:
+  - large multi-file `apply_patch` calls
+  - very long shell commands with many file paths
+  - bulk index or log updates combined with many other edits in one call
 
 ## Index Rules
 

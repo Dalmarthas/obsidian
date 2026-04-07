@@ -14,12 +14,16 @@ source_pages:
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-conversation-jane-goodall-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
 related:
   - wiki/concepts/mass-intimacy.md
   - wiki/concepts/leadership-communication.md
+  - wiki/concepts/effective-communication.md
   - wiki/concepts/creative-entrepreneurship.md
   - wiki/concepts/conservation.md
   - wiki/syntheses/human-centered-change-models.md
+  - wiki/syntheses/communication-and-influence-models.md
 ---
 
 # What It Is
@@ -40,6 +44,8 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - Elaine Welteroth treats authentic voice as a business asset: first thoughts are often the most voicey, cultural identity strengthens the work, and audiences connect more with authenticity than polish.
 - Jane Goodall treats storytelling, humor, and speaking from the heart as better vehicles for change than confrontation or purely technical explanation.
 - Iger adds the executive version of the same principle: authenticity, clear articulation, and repeated strategic language create more trust than executive theater or jargon.
+- George Stephanopoulos adds the interviewer and broadcaster version: candor, directness, and visible presence create credibility faster than polished evasiveness.
+- Lewis Hamilton adds a performance version of the same lesson: public identity becomes more stable when the person does not split competitive excellence from real personality or values.
 
 # Source Comparisons
 
@@ -48,6 +54,8 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - Welteroth frames authenticity as self-authorship: real voice and lived experience make the work more resonant and help the person avoid disappearing into professional costume.
 - Goodall frames authenticity as moral and emotional reach: scientific facts matter, but people move when they feel the speaker actually means what she says.
 - Iger frames authenticity as managerial credibility: people will follow repeated priorities more readily when they believe the leader actually inhabits the values he is naming.
+- Stephanopoulos frames authenticity as communicative trustworthiness: people answer and listen differently when the tone is direct, fair, and visibly human.
+- Hamilton frames authenticity as grounded excellence under visibility: identity coherence matters because performance pressure can easily turn public figures into brands instead of people.
 
 # Tensions / Open Questions
 
@@ -58,6 +66,8 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 
 - [[wiki/concepts/mass-intimacy|Mass Intimacy]]
 - [[wiki/concepts/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/effective-communication|Effective Communication]]
 - [[wiki/concepts/intention-and-impact|Intention and Impact]]
 - [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]
+- [[wiki/syntheses/communication-and-influence-models|Communication and Influence Models]]
