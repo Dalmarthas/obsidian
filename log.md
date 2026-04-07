@@ -90,3 +90,21 @@ Pages touched:
 - [[wiki/concepts/protect-the-process]]
 - [[wiki/syntheses/dan-brown-thriller-framework]]
 - [[index]]
+
+## [2026-04-07 12:50] ingest | Goodby Silverstein Masterclass Summary
+
+Raw source: [[raw/inbox/2026-04-07-advertising-goodby-silverstein-masterclass-summary]]
+
+Summary: Ingested a new-source branch on advertising by first converting the raw `.txt` file to `.md` per schema, then creating a source page, adding an entity page for Goodby Silverstein & Partners, extracting durable concepts for advertising, mass intimacy, brand strategy, and creative pitching, and filing a reusable advertising framework synthesis.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-07-advertising-goodby-silverstein-masterclass-summary]]
+- [[wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary]]
+- [[wiki/entities/goodby-silverstein-partners]]
+- [[wiki/concepts/advertising]]
+- [[wiki/concepts/mass-intimacy]]
+- [[wiki/concepts/brand-strategy]]
+- [[wiki/concepts/creative-pitching]]
+- [[wiki/syntheses/goodby-silverstein-advertising-framework]]
+- [[index]]
