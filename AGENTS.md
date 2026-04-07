@@ -182,8 +182,9 @@ Use this structure unless the source demands something more specific:
 1. `# What It Is`
 2. `# Why It Matters`
 3. `# Evidence In This Vault`
-4. `# Tensions / Open Questions`
-5. `# Related Pages`
+4. `# Source Comparisons` when two or more sources materially overlap on the concept
+5. `# Tensions / Open Questions`
+6. `# Related Pages`
 
 ### Entity page sections
 
@@ -197,8 +198,52 @@ Use this structure unless the source demands something more specific:
 1. `# Question`
 2. `# Answer`
 3. `# Basis`
-4. `# Gaps`
-5. `# Related Pages`
+4. `# Comparisons` when the synthesis is explicitly cross-source
+5. `# Gaps`
+6. `# Related Pages`
+
+## Deep Extraction Standard
+
+The default goal is not a thin summary. The goal is a source-to-wiki transformation strong enough that the raw source is usually needed only for full detail, obscure examples, or verbatim wording.
+
+For every substantial source, extract as many of the following as are materially present:
+
+- top-level thesis or governing idea
+- frameworks, models, heuristics, and named principles
+- distinctions, contrasts, and paradoxes
+- step-by-step methods and operating procedures
+- examples and case studies that change how a concept is understood
+- failure modes, caveats, and boundary conditions
+- tensions, disagreements, and unresolved questions
+- advice that is generalizable beyond the original context
+- source-specific style or worldview that should not be over-generalized
+
+Do not stop once the main 3 to 5 points are captured if the source obviously contains more reusable structure.
+
+## Cross-Source Integration Rules
+
+When a new or revisited source overlaps with existing material:
+
+- identify the overlapping concepts explicitly
+- prefer updating a canonical concept page instead of leaving the overlap trapped in parallel source-local pages
+- record who says what when multiple sources discuss the same concept differently
+- preserve important differences in framing, scope, or emphasis instead of flattening them into fake agreement
+- create a dedicated comparison synthesis when two or more sources materially agree, disagree, or complement each other
+- link both the shared concept page and the source-specific pages so a reader can move between the merged view and the original framing
+
+The wiki should increasingly behave like a compiled knowledge base, not a stack of adjacent summaries.
+
+## Completeness Check
+
+Before closing an ingest or re-ingest, run this mental checklist:
+
+- Are the key frameworks, methods, distinctions, and tensions out of the raw file and into the wiki?
+- Are any important ideas still trapped only in the source page?
+- Did overlapping concepts get merged or sharpened rather than duplicated?
+- If two sources discuss the same concept, is there a place where their agreement and difference are both visible?
+- Would I need the raw source mainly for full detail or quotes, rather than because the wiki missed the core ideas?
+
+If the answer to the last question is no, the extraction is not deep enough yet.
 
 ## Interaction Modes
 
@@ -218,11 +263,16 @@ If the user message is ambiguous, infer the most likely mode and proceed.
 1. Capture or locate the raw source in `raw/`.
 2. If the raw source is a `.txt` file, convert it to `.md` before continuing.
 3. Read the source.
-4. Clarify emphasis with the user only if the direction is materially ambiguous.
-5. Create or update the corresponding page in `wiki/sources/`.
-6. Update or create relevant concept, entity, and synthesis pages.
-7. Update `index.md`.
-8. Append an entry to `log.md`.
+4. Inventory the source's reusable content: frameworks, methods, distinctions, examples, caveats, and open questions.
+5. Scan the existing wiki for overlapping concepts or nearby branches before creating new pages.
+6. Clarify emphasis with the user only if the direction is materially ambiguous.
+7. Create or update the corresponding page in `wiki/sources/`.
+8. Update or create relevant concept, entity, and synthesis pages.
+9. Merge and sharpen overlapping concepts where two or more sources discuss the same idea.
+10. Create a comparison synthesis when the overlap is materially valuable.
+11. Run the completeness check.
+12. Update `index.md`.
+13. Append an entry to `log.md`.
 
 Expected behavior:
 
@@ -230,6 +280,8 @@ Expected behavior:
 - Preserve contradictions explicitly.
 - Surface missing links and open questions.
 - A single source may update many pages.
+- If the source is rich, create enough concept and synthesis pages that the source page is no longer the only useful entry point.
+- If overlap exists, prefer canonical merged concept pages with source-attributed differences over parallel near-duplicates.
 
 ### Query workflow
 
@@ -278,6 +330,9 @@ If a lint pass produces durable changes, record them in `log.md`.
 - Prefer concise, high-signal prose over long paraphrase.
 - Keep pages updated in place rather than spawning near-duplicates.
 - When a better page structure becomes obvious, refactor the wiki.
+- Treat thin extraction as a quality failure when the source contains reusable structure that was not externalized.
+- Aim for source pages to be gateways, not bottlenecks.
+- Make cross-source agreement and disagreement legible in the wiki itself.
 
 ## Initial Scope
 
