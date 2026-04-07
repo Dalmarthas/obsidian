@@ -15,7 +15,10 @@ related:
   - wiki/concepts/contract-clock-crucible.md
   - wiki/concepts/question-and-answer-structure.md
   - wiki/concepts/protect-the-process.md
+  - wiki/concepts/story-propulsion.md
+  - wiki/concepts/writing-process-and-revision.md
   - wiki/syntheses/dan-brown-thriller-framework.md
+  - wiki/syntheses/writing-craft-overlaps.md
 ---
 
 # What It Is
@@ -36,6 +39,7 @@ Thriller writing is the practice of building fast-moving fiction around danger, 
 - The story should usually rest on one simple dramatic question even if the plot architecture is complex.
 - Chapters should begin with urgency, discomfort, or conflict and end with enough unresolved energy to pull the reader onward.
 - Moral grayness, world collision, and domain-specific research all intensify the genre's core tensions.
+- Brown's thriller advice also overlaps with broader writing craft on setup, payoff, revision, and disciplined process.
 
 # Tensions / Open Questions
 
@@ -47,4 +51,6 @@ Thriller writing is the practice of building fast-moving fiction around danger, 
 - [[wiki/concepts/contract-clock-crucible|Contract, Clock, Crucible]]
 - [[wiki/concepts/question-and-answer-structure|Question-and-Answer Structure]]
 - [[wiki/concepts/protect-the-process|Protect the Process]]
+- [[wiki/concepts/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/dan-brown-thriller-framework|Dan Brown Thriller Framework]]

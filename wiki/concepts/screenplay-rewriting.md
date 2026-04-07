@@ -13,6 +13,7 @@ source_pages:
 related:
   - wiki/concepts/screenwriting.md
   - wiki/concepts/intention-and-obstacle.md
+  - wiki/concepts/writing-process-and-revision.md
   - wiki/syntheses/sorkin-screenwriting-framework.md
 ---
 
@@ -44,4 +45,5 @@ Screenplay rewriting is the disciplined process of diagnosing and solving proble
 
 - [[wiki/concepts/intention-and-obstacle|Intention and Obstacle]]
 - [[wiki/concepts/screenwriting|Screenwriting]]
+- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]

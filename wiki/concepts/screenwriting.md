@@ -16,6 +16,8 @@ related:
   - wiki/concepts/intention-and-obstacle.md
   - wiki/concepts/dialogue-as-music.md
   - wiki/concepts/screenplay-rewriting.md
+  - wiki/concepts/story-propulsion.md
+  - wiki/concepts/writing-process-and-revision.md
   - wiki/syntheses/screenplay-starting-checklist.md
   - wiki/syntheses/sorkin-screenwriting-framework.md
 ---
@@ -40,6 +42,8 @@ Screenwriting is the practice of building a dramatic blueprint for a visual medi
 - Audience model: [[wiki/concepts/audience-as-collaborator|Audience as Collaborator]]
 - Dialogue model: [[wiki/concepts/dialogue-as-music|Dialogue as Music]]
 - Revision model: [[wiki/concepts/screenplay-rewriting|Screenplay Rewriting]]
+- Propulsion model: [[wiki/concepts/story-propulsion|Story Propulsion]]
+- Process model: [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
 - Actionable distillation: [[wiki/syntheses/screenplay-starting-checklist|Screenplay Starting Checklist]]
 - System-level distillation: [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
 
@@ -55,6 +59,8 @@ Screenwriting is the practice of building a dramatic blueprint for a visual medi
 - [[wiki/concepts/intention-and-obstacle|Intention and Obstacle]]
 - [[wiki/concepts/dialogue-as-music|Dialogue as Music]]
 - [[wiki/concepts/screenplay-rewriting|Screenplay Rewriting]]
+- [[wiki/concepts/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/screenplay-starting-checklist|Screenplay Starting Checklist]]
 - [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
 - [[index]]

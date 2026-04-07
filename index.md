@@ -56,6 +56,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/leadership|Leadership]] - Direction-setting and responsibility-taking grounded in framework, process, and action.
 - [[wiki/concepts/leadership-communication|Leadership Communication]] - Conversational, story-driven public communication that builds trust and clarity.
 - [[wiki/concepts/screenwriting|Screenwriting]] - Writing a screenplay as a production blueprint for a visual medium.
+- [[wiki/concepts/story-propulsion|Story Propulsion]] - The structural and scene-by-scene techniques that keep a narrative moving forward.
 - [[wiki/concepts/three-act-structure|Three-Act Structure]] - The classical setup-conflict-resolution model used here as a practical screenwriting scaffold.
 - [[wiki/concepts/intention-and-obstacle|Intention and Obstacle]] - The foundational dramatic rule that somebody wants something and something stands in the way.
 - [[wiki/concepts/audience-as-collaborator|Audience as Collaborator]] - Treating the audience as an intelligent participant who completes part of the storytelling work.
@@ -66,6 +67,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/contract-clock-crucible|Contract, Clock, Crucible]] - Dan Brown's three-part escalation framework for promises, urgency, and confinement.
 - [[wiki/concepts/question-and-answer-structure|Question-and-Answer Structure]] - The suspense rhythm of asking questions, delaying answers, and paying them off cleanly.
 - [[wiki/concepts/protect-the-process|Protect the Process]] - A writing-process rule that prioritizes disciplined routine over daily output anxiety.
+- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]] - A cross-source workflow for planning, drafting, and reshaping narrative work.
 - [[wiki/concepts/zone-of-genius|Zone of Genius]] - The overlap of passion, talents, values, and skills that best guides career design.
 
 ## Syntheses
@@ -77,6 +79,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]] - A reusable framework for humane advertising, strategy, and idea-selling.
 - [[wiki/syntheses/screenplay-starting-checklist|Screenplay Starting Checklist]] - A durable pre-draft checklist extracted from the current screenwriting source base.
 - [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]] - A reusable craft model distilled from the Aaron Sorkin masterclass summary.
+- [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]] - A cross-source comparison of overlapping craft principles across practical screenwriting and thriller writing.
 - [[wiki/syntheses/welteroth-career-framework|Welteroth Career Framework]] - A reusable framework for multi-hyphenate career design, planning, and confident transition.
 
 ## Folder Conventions

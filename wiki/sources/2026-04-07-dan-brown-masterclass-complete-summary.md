@@ -59,7 +59,10 @@ This source is a secondary summary of Dan Brown's writing masterclass focused on
 - [[wiki/concepts/contract-clock-crucible|Contract, Clock, Crucible]]
 - [[wiki/concepts/question-and-answer-structure|Question-and-Answer Structure]]
 - [[wiki/concepts/protect-the-process|Protect the Process]]
+- [[wiki/concepts/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/dan-brown-thriller-framework|Dan Brown Thriller Framework]]
+- [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]]
 
 # Open Questions
 

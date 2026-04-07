@@ -11,14 +11,16 @@ tags:
 source_pages:
   - wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
+  - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
 related:
   - wiki/concepts/screenwriting.md
   - wiki/concepts/intention-and-obstacle.md
+  - wiki/concepts/story-propulsion.md
 ---
 
 # What It Is
 
-Three-act structure is the classical narrative frame that divides a screenplay into setup, conflict, and resolution. In the current source base, it is treated as a practical storytelling language that guides pacing and audience orientation rather than as a formula that eliminates originality. Main sources: [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]] and [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]].
+Three-act structure is the classical narrative frame that divides a story into setup, conflict, and resolution. In the current source base, it is treated less as rigid dogma than as a practical way to orient audiences, locate turning points, and prepare payoffs. Main sources: [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]], [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]], and [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary|Dan Brown Masterclass Complete Summary]].
 
 # Why It Matters
 
@@ -35,7 +37,15 @@ Three-act structure is the classical narrative frame that divides a screenplay i
 - The escape or payoff mechanism should be prepared in Act One rather than appearing magically in Act Three.
 - Exposition should orient the audience before the inciting action, but it should be hidden inside conflict or purpose.
 - If the protagonist or inciting action still has not emerged by roughly page 20 to 25, the script is likely in trouble.
+- Brown's thriller model does not foreground act terminology, but it still assumes a shaped arc with a legible dramatic question, escalation, and eventual payoff.
 - The source also pairs the three-act model with a nine-point beat heuristic: setup, dramatic question, inciting incident, break into act two, initial growth, midpoint, all-is-lost moment, second turning point, and resolution.
+
+# Source Comparisons
+
+- The 2010 screenplay article is the most prescriptive about act proportions and beat placement.
+- Sorkin defends three-act structure as deeply embedded audience language, but he emphasizes dramatic function over page-count obedience.
+- Brown is the least theory-forward about acts, yet his thriller method still relies on equivalent structural movement through question, escalation, and payoff.
+- Across the three, structure matters most as a delivery system for attention and payoff rather than as a formula to imitate mechanically.
 
 # Tensions / Open Questions
 
@@ -47,5 +57,7 @@ Three-act structure is the classical narrative frame that divides a screenplay i
 
 - [[wiki/concepts/screenwriting|Screenwriting]]
 - [[wiki/concepts/intention-and-obstacle|Intention and Obstacle]]
+- [[wiki/concepts/story-propulsion|Story Propulsion]]
 - [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]]
 - [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]]
+- [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary|Dan Brown Masterclass Complete Summary]]

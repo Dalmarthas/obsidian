@@ -162,3 +162,38 @@ Pages touched:
 - [[wiki/concepts/community-based-conservation]]
 - [[wiki/syntheses/goodall-conservation-framework]]
 - [[index]]
+
+## [2026-04-07 17:40] admin | Raise extraction depth standard
+
+Summary: Updated the schema to require deeper extraction, completeness checks, canonical overlap handling, and cross-source comparison syntheses so the wiki compiles more of each source's reusable structure.
+
+Pages touched:
+
+- [[AGENTS]]
+- [[log]]
+
+## [2026-04-07 17:40] lint | Deepen writing-branch extraction across old sources
+
+Sources revisited:
+
+- [[raw/inbox/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay]]
+- [[raw/inbox/2026-04-07-aaron-sorkin-masterclass-complete-summary]]
+- [[raw/inbox/2026-04-07-dan-brown-masterclass-complete-summary]]
+
+Summary: Reprocessed three previously ingested writing sources under the new extraction rules, created shared cross-source concept pages for story propulsion and writing process, sharpened existing overlap pages with source comparisons, and filed a comparison synthesis showing where the sources agree and differ.
+
+Pages touched:
+
+- [[wiki/concepts/story-propulsion]]
+- [[wiki/concepts/writing-process-and-revision]]
+- [[wiki/concepts/three-act-structure]]
+- [[wiki/concepts/question-and-answer-structure]]
+- [[wiki/concepts/screenplay-rewriting]]
+- [[wiki/concepts/protect-the-process]]
+- [[wiki/concepts/screenwriting]]
+- [[wiki/concepts/thriller-writing]]
+- [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay]]
+- [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary]]
+- [[wiki/syntheses/writing-craft-overlaps]]
+- [[index]]

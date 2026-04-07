@@ -12,6 +12,7 @@ source_pages:
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
 related:
   - wiki/concepts/thriller-writing.md
+  - wiki/concepts/writing-process-and-revision.md
   - wiki/syntheses/dan-brown-thriller-framework.md
 ---
 
@@ -42,5 +43,6 @@ Protect the process is Dan Brown's operating principle that consistent working c
 # Related Pages
 
 - [[wiki/concepts/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/dan-brown-thriller-framework|Dan Brown Thriller Framework]]
 - [[index]]

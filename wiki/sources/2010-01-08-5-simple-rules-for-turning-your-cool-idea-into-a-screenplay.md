@@ -48,7 +48,10 @@ This article frames a screenplay as a production document rather than prose and 
 
 - [[wiki/concepts/screenwriting|Screenwriting]]
 - [[wiki/concepts/three-act-structure|Three-Act Structure]]
+- [[wiki/concepts/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/screenplay-starting-checklist|Screenplay Starting Checklist]]
+- [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]]
 
 # Open Questions
 

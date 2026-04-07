@@ -64,7 +64,10 @@ This source is a large secondary summary of Aaron Sorkin's screenwriting masterc
 - [[wiki/concepts/audience-as-collaborator|Audience as Collaborator]]
 - [[wiki/concepts/dialogue-as-music|Dialogue as Music]]
 - [[wiki/concepts/screenplay-rewriting|Screenplay Rewriting]]
+- [[wiki/concepts/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
+- [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]]
 
 # Open Questions
 
