@@ -72,3 +72,21 @@ Pages touched:
 
 - [[AGENTS]]
 - [[log]]
+
+## [2026-04-07 12:43] ingest | Dan Brown Masterclass Complete Summary
+
+Raw source: [[raw/inbox/2026-04-07-dan-brown-masterclass-complete-summary]]
+
+Summary: Ingested a new raw source that arrived as `.txt` by first converting and normalizing it to `.md` per schema, then created a source page, added a Dan Brown entity page, extracted durable thriller-writing concepts for the Three C's, question-and-answer suspense, and process protection, and added a reusable framework synthesis.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-07-dan-brown-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary]]
+- [[wiki/entities/dan-brown]]
+- [[wiki/concepts/thriller-writing]]
+- [[wiki/concepts/contract-clock-crucible]]
+- [[wiki/concepts/question-and-answer-structure]]
+- [[wiki/concepts/protect-the-process]]
+- [[wiki/syntheses/dan-brown-thriller-framework]]
+- [[index]]

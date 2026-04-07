@@ -44,7 +44,8 @@
     "//raw",
     "//wiki/wiki/entities",
     "//wiki",
-    "//wiki/wiki/syntheses"
+    "//wiki/wiki/syntheses",
+    "//wiki/wiki/concepts"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
