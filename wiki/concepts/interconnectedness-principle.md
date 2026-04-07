@@ -13,6 +13,7 @@ source_pages:
 related:
   - wiki/concepts/conservation.md
   - wiki/concepts/community-based-conservation.md
+  - wiki/concepts/framework-driven-action.md
   - wiki/syntheses/goodall-conservation-framework.md
 ---
 
@@ -43,4 +44,5 @@ The interconnectedness principle is the claim that ecological, social, and moral
 
 - [[wiki/concepts/conservation|Conservation]]
 - [[wiki/concepts/community-based-conservation|Community-Based Conservation]]
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
 - [[wiki/syntheses/goodall-conservation-framework|Goodall Conservation Framework]]

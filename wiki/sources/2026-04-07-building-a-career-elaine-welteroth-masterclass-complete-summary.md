@@ -42,6 +42,10 @@ This source is a secondary summary of Elaine Welteroth's career masterclass. It 
   - define the why
   - connect projects visually
   - revisit regularly
+- The communication layer is more developed than the first ingest captured:
+  - authentic voice is a repeatable craft, not just a personality trait
+  - people connect more with authenticity than perfection
+  - voice often sharpens when ideas are spoken aloud before being written
 - Career decisions are filtered through:
   - `Hell yes or no`
   - point of diminishing returns
@@ -51,6 +55,14 @@ This source is a secondary summary of Elaine Welteroth's career masterclass. It 
   - revenue planning
   - testing side hustles
   - CEO-style investment thinking
+- The support-system layer is also load-bearing:
+  - appoint a board of advisors
+  - pursue mentorship strategically
+  - hire for blind spots rather than for culture fit
+  - shift from scarcity thinking to abundance thinking about help and growth
+- The accountability lesson is explicit:
+  - focus on impact before intention when harm occurs
+  - acknowledge why something was harmful before defending yourself
 
 # Tensions / Caveats
 
@@ -66,7 +78,13 @@ This source is a secondary summary of Elaine Welteroth's career masterclass. It 
 - [[wiki/concepts/zone-of-genius|Zone of Genius]]
 - [[wiki/concepts/career-blueprint|Career Blueprint]]
 - [[wiki/concepts/financial-confidence|Financial Confidence]]
+- [[wiki/concepts/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/intention-and-impact|Intention and Impact]]
 - [[wiki/syntheses/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]
 
 # Open Questions
 

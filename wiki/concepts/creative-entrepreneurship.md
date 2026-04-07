@@ -14,6 +14,9 @@ related:
   - wiki/concepts/zone-of-genius.md
   - wiki/concepts/career-blueprint.md
   - wiki/concepts/financial-confidence.md
+  - wiki/concepts/authentic-communication.md
+  - wiki/concepts/trust-based-collaboration.md
+  - wiki/concepts/intention-and-impact.md
   - wiki/syntheses/welteroth-career-framework.md
 ---
 
@@ -46,4 +49,7 @@ Creative entrepreneurship is the practice of designing a career as a flexible en
 - [[wiki/concepts/zone-of-genius|Zone of Genius]]
 - [[wiki/concepts/career-blueprint|Career Blueprint]]
 - [[wiki/concepts/financial-confidence|Financial Confidence]]
+- [[wiki/concepts/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/intention-and-impact|Intention and Impact]]
 - [[wiki/syntheses/welteroth-career-framework|Welteroth Career Framework]]

@@ -17,6 +17,10 @@ basis:
   - wiki/concepts/financial-confidence.md
 related:
   - wiki/entities/elaine-welteroth.md
+  - wiki/concepts/authentic-communication.md
+  - wiki/concepts/trust-based-collaboration.md
+  - wiki/concepts/framework-driven-action.md
+  - wiki/concepts/intention-and-impact.md
 ---
 
 # Question
@@ -60,3 +64,7 @@ The distinct Welteroth layer is permission: reinvention, difference, and self-au
 - [[wiki/entities/elaine-welteroth|Elaine Welteroth]]
 - [[wiki/concepts/creative-entrepreneurship|Creative Entrepreneurship]]
 - [[wiki/concepts/career-blueprint|Career Blueprint]]
+- [[wiki/concepts/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/intention-and-impact|Intention and Impact]]

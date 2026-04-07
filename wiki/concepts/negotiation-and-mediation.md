@@ -14,6 +14,7 @@ source_pages:
 related:
   - wiki/concepts/leadership.md
   - wiki/concepts/leadership-communication.md
+  - wiki/concepts/trust-based-collaboration.md
   - wiki/syntheses/clinton-leadership-framework.md
 ---
 
@@ -45,4 +46,5 @@ Negotiation and mediation are the practices of moving parties with different int
 
 - [[wiki/concepts/leadership|Leadership]]
 - [[wiki/concepts/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]]

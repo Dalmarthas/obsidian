@@ -44,8 +44,17 @@ This source is a secondary summary of Jane Goodall's masterclass on chimpanzees,
   - alternative livelihoods
   - long-term trust
   - technology-enabled local monitoring
+- The source carries a stronger communication philosophy than the first pass captured:
+  - storytelling reaches hearts better than confrontation
+  - dialogue with adversaries usually works better than trying to humiliate them
+  - speaking from the heart still requires preparation
+- The branch also contains a practical everyday ethics model:
+  - ethical consumerism
+  - daily choice questions
+  - local action as an antidote to paralysis
 - The Roots & Shoots model emphasizes youth-selected projects across people, animals, and the environment.
 - The source repeatedly argues for `think locally, act locally` as an antidote to despair and paralysis.
+- Goodall's explicit judgment principle is that head and heart should work together rather than being treated as rivals.
 
 # Tensions / Caveats
 
@@ -61,7 +70,13 @@ This source is a secondary summary of Jane Goodall's masterclass on chimpanzees,
 - [[wiki/concepts/animal-cognition|Animal Cognition]]
 - [[wiki/concepts/interconnectedness-principle|Interconnectedness Principle]]
 - [[wiki/concepts/community-based-conservation|Community-Based Conservation]]
+- [[wiki/concepts/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/ethical-consumerism|Ethical Consumerism]]
 - [[wiki/syntheses/goodall-conservation-framework|Goodall Conservation Framework]]
+- [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]
 
 # Open Questions
 

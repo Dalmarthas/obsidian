@@ -10,8 +10,10 @@ tags:
   - leadership
 source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
+  - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
 related:
   - wiki/concepts/leadership.md
+  - wiki/concepts/trust-based-collaboration.md
   - wiki/syntheses/clinton-leadership-framework.md
 ---
 
@@ -32,6 +34,12 @@ Diverse teams are groups made up of people with different backgrounds, experienc
 - Leaders should know their weaknesses and hire people who know more than they do in those areas.
 - Team failures often come from unclear mission, poor role definition, missing context, or lack of political coordination.
 - Selection should focus on the mission of the job rather than on narrow assumptions about who usually fills it.
+- Welteroth extends the idea into hiring practice: hire for blind spots rather than for culture fit, especially when sameness hides risk.
+
+# Source Comparisons
+
+- Clinton frames diversity as a decision-quality and mission-execution advantage for leaders solving hard collective problems.
+- Welteroth frames it as protection against blind spots in a personal enterprise or growing team where comfort-based hiring creates avoidable mistakes.
 
 # Tensions / Open Questions
 
@@ -42,4 +50,5 @@ Diverse teams are groups made up of people with different backgrounds, experienc
 
 - [[wiki/concepts/leadership|Leadership]]
 - [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]]

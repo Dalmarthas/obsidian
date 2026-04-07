@@ -17,6 +17,10 @@ basis:
   - wiki/concepts/leadership-communication.md
 related:
   - wiki/entities/bill-clinton.md
+  - wiki/concepts/authentic-communication.md
+  - wiki/concepts/trust-based-collaboration.md
+  - wiki/concepts/framework-driven-action.md
+  - wiki/concepts/head-and-heart-harmony.md
 ---
 
 # Question
@@ -60,3 +64,7 @@ The distinctive Clinton layer is pragmatic optimism: act under ambiguity, accept
 - [[wiki/entities/bill-clinton|Bill Clinton]]
 - [[wiki/concepts/leadership|Leadership]]
 - [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
+- [[wiki/concepts/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]

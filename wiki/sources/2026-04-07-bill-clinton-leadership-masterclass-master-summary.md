@@ -34,11 +34,20 @@ This source is a secondary summary of Bill Clinton's leadership masterclass. It 
   - handle unexpected crises
   - look around the corner for low-cost, high-consequence future decisions
 - Team advice emphasizes honest self-assessment, mission clarity, and political skill in coordinating diverse expertise.
+- The team-culture layer is stronger than the first pass captured:
+  - share credit
+  - assume responsibility
+  - create explicit safety for disagreement
+  - build camaraderie rather than treating people as interchangeable staff
 - Negotiation advice includes:
   - know your red lines before entering the room
   - be tough privately and respectful publicly
   - understand the hopes and fears of all parties in mediation
 - Communication advice emphasizes story, tone, eye contact, and authenticity over memorized perfection.
+- The source repeatedly combines rigor with humanity:
+  - framework and process matter
+  - rationality alone is sometimes insufficient
+  - some problems are only movable when people feel respected and understood
 - Criticism and ambiguity are treated as unavoidable, so leaders should focus on whether the process, analysis, and team quality were sound.
 
 # Tensions / Caveats
@@ -55,7 +64,12 @@ This source is a secondary summary of Bill Clinton's leadership masterclass. It 
 - [[wiki/concepts/diverse-teams|Diverse Teams]]
 - [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]]
+- [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]
 
 # Open Questions
 

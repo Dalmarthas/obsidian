@@ -12,6 +12,7 @@ source_pages:
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
 related:
   - wiki/concepts/advertising.md
+  - wiki/concepts/authentic-communication.md
   - wiki/syntheses/goodby-silverstein-advertising-framework.md
 ---
 
@@ -41,5 +42,6 @@ Mass intimacy is the attempt to create messages for millions that still feel lik
 # Related Pages
 
 - [[wiki/concepts/advertising|Advertising]]
+- [[wiki/concepts/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/creative-pitching|Creative Pitching]]
 - [[wiki/syntheses/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]

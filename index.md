@@ -43,6 +43,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/llm-wiki|LLM Wiki]] - A persistent, LLM-maintained wiki that compiles and updates knowledge instead of re-deriving it on every query.
 - [[wiki/concepts/advertising|Advertising]] - Humane, culturally aware brand communication that people may actually want to engage with.
 - [[wiki/concepts/animal-cognition|Animal Cognition]] - The continuity of cognition, emotion, and culture across nonhuman animals.
+- [[wiki/concepts/authentic-communication|Authentic Communication]] - Speaking truthfully and humanly enough that audiences feel respected rather than managed.
 - [[wiki/concepts/mass-intimacy|Mass Intimacy]] - Creating communication at mass scale that still feels personal and respectful.
 - [[wiki/concepts/brand-strategy|Brand Strategy]] - The insight layer that gives creative work a coherent reason to exist.
 - [[wiki/concepts/career-blueprint|Career Blueprint]] - A long-range architecture connecting purpose, projects, lanes, and timing.
@@ -51,10 +52,15 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/creative-pitching|Creative Pitching]] - The craft of helping bold ideas survive contact with clients and decision-makers.
 - [[wiki/concepts/creative-entrepreneurship|Creative Entrepreneurship]] - Designing a flexible multi-lane career as a personal enterprise.
 - [[wiki/concepts/diverse-teams|Diverse Teams]] - Teams with broad backgrounds and perspectives that outperform narrow groups over time.
+- [[wiki/concepts/ethical-consumerism|Ethical Consumerism]] - Using buying choices and brand pressure as one practical lever for aligning markets with values.
 - [[wiki/concepts/financial-confidence|Financial Confidence]] - A concrete plan that makes career risk and transition more navigable.
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]] - Using an explicit strategy, blueprint, or worldview to keep action coherent across decisions.
+- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]] - Combining rigor and human feeling so judgment does not become either cold or sloppy.
 - [[wiki/concepts/interconnectedness-principle|Interconnectedness Principle]] - The systems idea that ecological and human problems are tightly linked.
+- [[wiki/concepts/intention-and-impact|Intention and Impact]] - The accountability distinction between what someone meant and what their actions actually did.
 - [[wiki/concepts/leadership|Leadership]] - Direction-setting and responsibility-taking grounded in framework, process, and action.
 - [[wiki/concepts/leadership-communication|Leadership Communication]] - Conversational, story-driven public communication that builds trust and clarity.
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]] - Turning teams, clients, communities, and counterparts into partners rather than obstacles.
 - [[wiki/concepts/screenwriting|Screenwriting]] - Writing a screenplay as a production blueprint for a visual medium.
 - [[wiki/concepts/story-propulsion|Story Propulsion]] - The structural and scene-by-scene techniques that keep a narrative moving forward.
 - [[wiki/concepts/three-act-structure|Three-Act Structure]] - The classical setup-conflict-resolution model used here as a practical screenwriting scaffold.
@@ -77,6 +83,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/goodall-conservation-framework|Goodall Conservation Framework]] - A reusable conservation model built around interconnectedness, partnership, and hope.
 - [[wiki/syntheses/this-vault-operating-model|This Vault Operating Model]] - How the general LLM Wiki pattern is instantiated in this Obsidian vault.
 - [[wiki/syntheses/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]] - A reusable framework for humane advertising, strategy, and idea-selling.
+- [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]] - A cross-source map of how the non-writing branches approach humane, disciplined change.
 - [[wiki/syntheses/screenplay-starting-checklist|Screenplay Starting Checklist]] - A durable pre-draft checklist extracted from the current screenwriting source base.
 - [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]] - A reusable craft model distilled from the Aaron Sorkin masterclass summary.
 - [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]] - A cross-source comparison of overlapping craft principles across practical screenwriting and thriller writing.

@@ -197,3 +197,45 @@ Pages touched:
 - [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary]]
 - [[wiki/syntheses/writing-craft-overlaps]]
 - [[index]]
+
+## [2026-04-07 23:07] lint | Deepen remaining non-writing branches
+
+Sources revisited:
+
+- [[raw/inbox/2026-04-07-advertising-goodby-silverstein-masterclass-summary]]
+- [[raw/inbox/2026-04-07-bill-clinton-leadership-masterclass-master-summary]]
+- [[raw/inbox/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary]]
+- [[raw/inbox/2026-04-07-conversation-jane-goodall-masterclass-complete-summary]]
+
+Summary: Reprocessed the remaining non-writing branches under the deeper extraction rules, extracted shared cross-source concepts for authentic communication, trust-based collaboration, framework-driven action, head and heart harmony, and ethical consumerism, added an intention-and-impact page, sharpened the existing source summaries and nearby concept pages, and filed a comparison synthesis for the shared human-centered change model.
+
+Pages touched:
+
+- [[wiki/concepts/authentic-communication]]
+- [[wiki/concepts/trust-based-collaboration]]
+- [[wiki/concepts/framework-driven-action]]
+- [[wiki/concepts/head-and-heart-harmony]]
+- [[wiki/concepts/intention-and-impact]]
+- [[wiki/concepts/ethical-consumerism]]
+- [[wiki/concepts/diverse-teams]]
+- [[wiki/concepts/advertising]]
+- [[wiki/concepts/brand-strategy]]
+- [[wiki/concepts/creative-pitching]]
+- [[wiki/concepts/leadership]]
+- [[wiki/concepts/leadership-communication]]
+- [[wiki/concepts/negotiation-and-mediation]]
+- [[wiki/concepts/creative-entrepreneurship]]
+- [[wiki/concepts/career-blueprint]]
+- [[wiki/concepts/conservation]]
+- [[wiki/concepts/interconnectedness-principle]]
+- [[wiki/concepts/community-based-conservation]]
+- [[wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary]]
+- [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary]]
+- [[wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-07-conversation-jane-goodall-masterclass-complete-summary]]
+- [[wiki/syntheses/goodby-silverstein-advertising-framework]]
+- [[wiki/syntheses/clinton-leadership-framework]]
+- [[wiki/syntheses/welteroth-career-framework]]
+- [[wiki/syntheses/goodall-conservation-framework]]
+- [[wiki/syntheses/human-centered-change-models]]
+- [[index]]

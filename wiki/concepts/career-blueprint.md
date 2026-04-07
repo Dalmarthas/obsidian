@@ -14,6 +14,7 @@ related:
   - wiki/concepts/creative-entrepreneurship.md
   - wiki/concepts/zone-of-genius.md
   - wiki/concepts/financial-confidence.md
+  - wiki/concepts/framework-driven-action.md
   - wiki/syntheses/welteroth-career-framework.md
 ---
 
@@ -45,4 +46,5 @@ A career blueprint is the long-range model of where a career is trying to go, ho
 
 - [[wiki/concepts/zone-of-genius|Zone of Genius]]
 - [[wiki/concepts/financial-confidence|Financial Confidence]]
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
 - [[wiki/syntheses/welteroth-career-framework|Welteroth Career Framework]]

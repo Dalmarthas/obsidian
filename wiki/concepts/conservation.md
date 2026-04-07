@@ -14,6 +14,9 @@ related:
   - wiki/concepts/interconnectedness-principle.md
   - wiki/concepts/community-based-conservation.md
   - wiki/concepts/animal-cognition.md
+  - wiki/concepts/authentic-communication.md
+  - wiki/concepts/head-and-heart-harmony.md
+  - wiki/concepts/ethical-consumerism.md
   - wiki/syntheses/goodall-conservation-framework.md
 ---
 
@@ -46,4 +49,7 @@ Conservation is the effort to protect, restore, and sustain living systems, spec
 - [[wiki/concepts/interconnectedness-principle|Interconnectedness Principle]]
 - [[wiki/concepts/community-based-conservation|Community-Based Conservation]]
 - [[wiki/concepts/animal-cognition|Animal Cognition]]
+- [[wiki/concepts/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/ethical-consumerism|Ethical Consumerism]]
 - [[wiki/syntheses/goodall-conservation-framework|Goodall Conservation Framework]]

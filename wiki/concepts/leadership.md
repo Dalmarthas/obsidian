@@ -14,6 +14,9 @@ related:
   - wiki/concepts/diverse-teams.md
   - wiki/concepts/negotiation-and-mediation.md
   - wiki/concepts/leadership-communication.md
+  - wiki/concepts/framework-driven-action.md
+  - wiki/concepts/trust-based-collaboration.md
+  - wiki/concepts/head-and-heart-harmony.md
   - wiki/syntheses/clinton-leadership-framework.md
 ---
 
@@ -46,4 +49,7 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - [[wiki/concepts/diverse-teams|Diverse Teams]]
 - [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]]

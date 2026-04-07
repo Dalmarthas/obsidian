@@ -13,6 +13,8 @@ source_pages:
 related:
   - wiki/concepts/advertising.md
   - wiki/concepts/creative-pitching.md
+  - wiki/concepts/framework-driven-action.md
+  - wiki/concepts/ethical-consumerism.md
   - wiki/syntheses/goodby-silverstein-advertising-framework.md
 ---
 
@@ -44,4 +46,6 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 
 - [[wiki/concepts/advertising|Advertising]]
 - [[wiki/concepts/creative-pitching|Creative Pitching]]
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/ethical-consumerism|Ethical Consumerism]]
 - [[wiki/syntheses/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]

@@ -13,6 +13,7 @@ source_pages:
 related:
   - wiki/concepts/leadership.md
   - wiki/concepts/negotiation-and-mediation.md
+  - wiki/concepts/authentic-communication.md
   - wiki/syntheses/clinton-leadership-framework.md
 ---
 
@@ -44,4 +45,5 @@ Leadership communication is the art of helping people understand a situation, tr
 
 - [[wiki/concepts/leadership|Leadership]]
 - [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
+- [[wiki/concepts/authentic-communication|Authentic Communication]]
 - [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]]

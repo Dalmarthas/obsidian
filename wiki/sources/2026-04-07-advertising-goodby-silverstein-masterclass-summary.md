@@ -42,7 +42,15 @@ This source is a secondary summary of a masterclass taught by Jeff Goodby and Ri
   - trust between partners is foundational
   - companies should be full of makers, not just employees
   - balanced lives and forgiving environments support better work
+- The source is stronger on collaboration than the first ingest captured:
+  - share the CMO's foxhole
+  - treat the client more like a therapist partner than an opponent
+  - avoid performative trust failures such as talking over your partner in the room
 - The modern-media view is that advertising no longer equals only commercials; acts, PR, digital experiences, and social conscience can all be part of the system.
+- The ethics layer is operational rather than decorative:
+  - start from truth
+  - do not fake cultural knowledge
+  - brand conscience only matters when there is real cause and effect behind it
 
 # Tensions / Caveats
 
@@ -58,7 +66,13 @@ This source is a secondary summary of a masterclass taught by Jeff Goodby and Ri
 - [[wiki/concepts/mass-intimacy|Mass Intimacy]]
 - [[wiki/concepts/brand-strategy|Brand Strategy]]
 - [[wiki/concepts/creative-pitching|Creative Pitching]]
+- [[wiki/concepts/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/ethical-consumerism|Ethical Consumerism]]
 - [[wiki/syntheses/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
+- [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]
 
 # Open Questions
 
