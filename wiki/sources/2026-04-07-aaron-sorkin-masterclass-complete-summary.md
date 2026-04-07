@@ -3,7 +3,7 @@ type: source
 title: Aaron Sorkin Masterclass Complete Summary
 created: 2026-04-07
 updated: 2026-04-07
-raw_source: raw/inbox/2026-04-07-aaron-sorkin-masterclass-complete-summary.txt
+raw_source: raw/inbox/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
 source_kind: secondary-summary
 status: active
 tags:
@@ -15,7 +15,7 @@ tags:
 
 # Summary
 
-This source is a large secondary summary of Aaron Sorkin's screenwriting masterclass. It presents a coherent craft system built around intention and obstacle, audience trust, scene propulsion, dialogue musicality, character through tactics, extensive research, and ruthless rewriting. Raw source: [[raw/inbox/2026-04-07-aaron-sorkin-masterclass-complete-summary.txt|Raw source]].
+This source is a large secondary summary of Aaron Sorkin's screenwriting masterclass. It presents a coherent craft system built around intention and obstacle, audience trust, scene propulsion, dialogue musicality, character through tactics, extensive research, and ruthless rewriting. Raw source: [[raw/inbox/2026-04-07-aaron-sorkin-masterclass-complete-summary|Raw source]].
 
 # Key Claims
 

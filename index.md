@@ -11,7 +11,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 - [[raw/inbox/2026-04-07-llm-wiki-idea|LLM Wiki Idea]] - The original implementation brief captured as the first raw source for this vault.
 - [[raw/inbox/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]] - Clipped article about turning an idea into a workable screenplay through outlining, structure, formatting, and tool discipline.
-- [[raw/inbox/2026-04-07-aaron-sorkin-masterclass-complete-summary.txt|Aaron Sorkin Masterclass Complete Summary]] - Large secondary summary of Aaron Sorkin's masterclass covering conflict, character, scenes, dialogue, audience, and rewriting.
+- [[raw/inbox/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]] - Large secondary summary of Aaron Sorkin's masterclass covering conflict, character, scenes, dialogue, audience, and rewriting.
 
 ## Sources
 
