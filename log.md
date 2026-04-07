@@ -239,3 +239,56 @@ Pages touched:
 - [[wiki/syntheses/goodall-conservation-framework]]
 - [[wiki/syntheses/human-centered-change-models]]
 - [[index]]
+
+## [2026-04-08 01:26] ingest | Five-source batch: Duffer, Lynch, Carson, Baldacci, and Iger
+
+Raw sources:
+
+- [[raw/inbox/2026-04-08-duffer-brothers-masterclass-complete-summary]]
+- [[raw/inbox/2026-04-08-david-lynch-writing-summary]]
+- [[raw/inbox/2026-04-08-david-carson-design-masterclass-complete-summary]]
+- [[raw/inbox/2026-04-08-david-baldacci-masterclass-summary]]
+- [[raw/inbox/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary]]
+
+Summary: Converted five new raw `.txt` files into canonical `.md` raw sources, created source pages and entity pages for each, extracted new durable branches for television pilot writing, filmmaking, graphic design, immersive thriller craft, business strategy, and brand stewardship, then applied the deeper extraction method by merging the new material into existing writing, leadership, communication, and brand pages and expanding the cross-source syntheses.
+
+Pages touched:
+
+- [[wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-08-david-lynch-writing-summary]]
+- [[wiki/sources/2026-04-08-david-carson-design-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-08-david-baldacci-masterclass-summary]]
+- [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary]]
+- [[wiki/entities/duffer-brothers]]
+- [[wiki/entities/david-lynch]]
+- [[wiki/entities/david-carson]]
+- [[wiki/entities/david-baldacci]]
+- [[wiki/entities/bob-iger]]
+- [[wiki/concepts/idea-development]]
+- [[wiki/concepts/creative-integrity]]
+- [[wiki/concepts/television-pilot-writing]]
+- [[wiki/concepts/filmmaking]]
+- [[wiki/concepts/graphic-design]]
+- [[wiki/concepts/typography-as-image]]
+- [[wiki/concepts/immersive-research]]
+- [[wiki/concepts/business-strategy]]
+- [[wiki/concepts/brand-stewardship]]
+- [[wiki/concepts/writing-process-and-revision]]
+- [[wiki/concepts/story-propulsion]]
+- [[wiki/concepts/screenwriting]]
+- [[wiki/concepts/thriller-writing]]
+- [[wiki/concepts/question-and-answer-structure]]
+- [[wiki/concepts/protect-the-process]]
+- [[wiki/concepts/leadership]]
+- [[wiki/concepts/negotiation-and-mediation]]
+- [[wiki/concepts/framework-driven-action]]
+- [[wiki/concepts/authentic-communication]]
+- [[wiki/concepts/brand-strategy]]
+- [[wiki/syntheses/duffer-pilot-development-framework]]
+- [[wiki/syntheses/lynch-creative-framework]]
+- [[wiki/syntheses/carson-design-framework]]
+- [[wiki/syntheses/baldacci-thriller-framework]]
+- [[wiki/syntheses/iger-strategy-framework]]
+- [[wiki/syntheses/writing-craft-overlaps]]
+- [[wiki/syntheses/human-centered-change-models]]
+- [[index]]

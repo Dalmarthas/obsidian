@@ -2,7 +2,7 @@
 type: concept
 title: Leadership
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 status: active
 tags:
   - concept
@@ -10,6 +10,7 @@ tags:
   - decision-making
 source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
+  - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
 related:
   - wiki/concepts/diverse-teams.md
   - wiki/concepts/negotiation-and-mediation.md
@@ -17,12 +18,15 @@ related:
   - wiki/concepts/framework-driven-action.md
   - wiki/concepts/trust-based-collaboration.md
   - wiki/concepts/head-and-heart-harmony.md
+  - wiki/concepts/business-strategy.md
+  - wiki/concepts/brand-stewardship.md
   - wiki/syntheses/clinton-leadership-framework.md
+  - wiki/syntheses/iger-strategy-framework.md
 ---
 
 # What It Is
 
-Leadership is the practice of setting direction, making decisions, organizing people, and accepting responsibility for outcomes. In the current source base, effective leadership depends less on personality mythology than on having a coherent framework, a good process, a diverse honest team, and the courage to act under uncertainty. Main source: [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]].
+Leadership is the practice of setting direction, making decisions, organizing people, and accepting responsibility for outcomes. In the current source base, effective leadership depends less on personality mythology than on having a coherent framework, a good process, the ability to communicate priorities clearly, and the courage to act under uncertainty. Main sources: [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]] and [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary|Bob Iger Disney Leadership Masterclass Complete Summary]].
 
 # Why It Matters
 
@@ -38,11 +42,20 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Good process matters because many hard decisions are ambiguous rather than mathematically provable.
 - Shared credit and assumed responsibility are treated as core leadership behaviors.
 - "Get caught trying" is a useful stance against paralysis and fear of failure.
+- Iger adds a trait model centered on authenticity, decisiveness, curiosity, optimism, and integrity.
+- Iger also makes clear that leadership must translate into a small number of repeated strategic priorities rather than a vague aspiration to do everything.
+
+# Source Comparisons
+
+- Clinton is strongest on public leadership under political conflict: frameworks, mediation, diverse teams, and persuasion amid ambiguity.
+- Iger is strongest on institutional and business leadership: capital allocation, disruption, brand stewardship, and repeated strategic focus.
+- Both reject leadership as theater. Each favors clarity, candor, and responsibility over performative certainty.
 
 # Tensions / Open Questions
 
 - Strong frameworks help, but a framework can also become rigid if leaders stop revising it when reality changes.
 - Public leadership often requires compromise, which can be misread as weakness depending on the audience.
+- The current branch now also has a scale tension: some advice is transferable, but Iger's model assumes organizational leverage and capital that many leaders will not have.
 
 # Related Pages
 
@@ -52,4 +65,7 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/business-strategy|Business Strategy]]
+- [[wiki/concepts/brand-stewardship|Brand Stewardship]]
 - [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]]
+- [[wiki/syntheses/iger-strategy-framework|Iger Strategy Framework]]

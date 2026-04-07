@@ -2,7 +2,7 @@
 type: concept
 title: Brand Strategy
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 status: active
 tags:
   - concept
@@ -10,17 +10,20 @@ tags:
   - strategy
 source_pages:
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
+  - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
 related:
   - wiki/concepts/advertising.md
   - wiki/concepts/creative-pitching.md
   - wiki/concepts/framework-driven-action.md
+  - wiki/concepts/brand-stewardship.md
   - wiki/concepts/ethical-consumerism.md
   - wiki/syntheses/goodby-silverstein-advertising-framework.md
+  - wiki/syntheses/iger-strategy-framework.md
 ---
 
 # What It Is
 
-Brand strategy is the clarifying layer that defines what a brand stands for, why anyone should care, and which insight can organize the creative work around it. In the current source base, strategy is not a bureaucratic exercise; it is the support structure that makes bold, memorable work defendable and coherent. Main source: [[wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary|Goodby Silverstein Masterclass Summary]].
+Brand strategy is the clarifying layer that defines what a brand stands for, why anyone should care, and which insight can organize the creative work around it. In the current source base, strategy is not a bureaucratic exercise; it is the support structure that makes bold, memorable work defendable and coherent, and it also connects campaign choices to the longer life of the brand itself. Main sources: [[wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary|Goodby Silverstein Masterclass Summary]] and [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary|Bob Iger Disney Leadership Masterclass Complete Summary]].
 
 # Why It Matters
 
@@ -36,16 +39,26 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - The absence of a product can become the core selling insight, as with the deprivation strategy behind `Got Milk?`.
 - Brands are treated like living organisms with a voice, heritage, and a shape that can be clarified or simplified.
 - Social conscience only matters when it connects genuinely to brand behavior rather than being ornamental posturing.
+- Iger adds the portfolio-level reminder that brand strategy cannot ignore long-term audience relationship, distinct brand identity, or the difference between respecting heritage and freezing it.
+
+# Source Comparisons
+
+- Goodby Silverstein is strongest on campaign-side strategy: finding the audience truth and creative platform that makes a message work.
+- Iger is strongest on enterprise-level brand logic: preserving identity across acquisitions, balancing heritage with reinvention, and treating brand as a long-term relationship rather than a quarterly asset.
+- Together they sharpen the split between brand strategy and [[wiki/concepts/brand-stewardship|Brand Stewardship]] while keeping them linked.
 
 # Tensions / Open Questions
 
 - Strong strategy can still be interpreted too narrowly if teams use it as a cage instead of a launching point.
 - Brand heritage is valuable until it becomes dead weight that prevents useful reinvention.
+- The branch now makes a sharper distinction between campaign insight and enterprise stewardship, but the handoff between the two still needs more evidence from additional brand cases.
 
 # Related Pages
 
 - [[wiki/concepts/advertising|Advertising]]
 - [[wiki/concepts/creative-pitching|Creative Pitching]]
 - [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/brand-stewardship|Brand Stewardship]]
 - [[wiki/concepts/ethical-consumerism|Ethical Consumerism]]
 - [[wiki/syntheses/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
+- [[wiki/syntheses/iger-strategy-framework|Iger Strategy Framework]]

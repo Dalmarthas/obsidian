@@ -2,7 +2,7 @@
 type: concept
 title: Authentic Communication
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 status: active
 tags:
   - concept
@@ -13,6 +13,7 @@ source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-conversation-jane-goodall-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
 related:
   - wiki/concepts/mass-intimacy.md
   - wiki/concepts/leadership-communication.md
@@ -38,6 +39,7 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - Bill Clinton treats conversational speaking, story, tone, and the courage to sound like yourself as more persuasive than theatrical performance.
 - Elaine Welteroth treats authentic voice as a business asset: first thoughts are often the most voicey, cultural identity strengthens the work, and audiences connect more with authenticity than polish.
 - Jane Goodall treats storytelling, humor, and speaking from the heart as better vehicles for change than confrontation or purely technical explanation.
+- Iger adds the executive version of the same principle: authenticity, clear articulation, and repeated strategic language create more trust than executive theater or jargon.
 
 # Source Comparisons
 
@@ -45,6 +47,7 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - Clinton frames authenticity as public credibility: conversational delivery and honest process matter because people can feel when a leader is overacting.
 - Welteroth frames authenticity as self-authorship: real voice and lived experience make the work more resonant and help the person avoid disappearing into professional costume.
 - Goodall frames authenticity as moral and emotional reach: scientific facts matter, but people move when they feel the speaker actually means what she says.
+- Iger frames authenticity as managerial credibility: people will follow repeated priorities more readily when they believe the leader actually inhabits the values he is naming.
 
 # Tensions / Open Questions
 

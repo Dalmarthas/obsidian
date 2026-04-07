@@ -2,7 +2,7 @@
 type: concept
 title: Protect the Process
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 status: active
 tags:
   - concept
@@ -10,15 +10,20 @@ tags:
   - writing
 source_pages:
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-david-lynch-writing-summary.md
+  - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
 related:
   - wiki/concepts/thriller-writing.md
   - wiki/concepts/writing-process-and-revision.md
+  - wiki/concepts/idea-development.md
   - wiki/syntheses/dan-brown-thriller-framework.md
+  - wiki/syntheses/baldacci-thriller-framework.md
 ---
 
 # What It Is
 
-Protect the process is Dan Brown's operating principle that consistent working conditions and repeatable discipline matter more than any single day's output. In the current source base, the writer's job is not to guarantee brilliance every day, but to show up, reduce friction, and preserve the routine that eventually produces the book. Main source: [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary|Dan Brown Masterclass Complete Summary]].
+Protect the process is the operating principle that consistent creative conditions and repeatable discipline matter more than any single day's output. In the current source base, the writer's or filmmaker's job is not to guarantee brilliance on demand, but to show up, reduce friction, protect the signal, and preserve the conditions that eventually produce strong work. Main sources: [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary|Dan Brown Masterclass Complete Summary]], [[wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary|Duffer Brothers Masterclass Complete Summary]], [[wiki/sources/2026-04-08-david-lynch-writing-summary|David Lynch Writing Summary]], and [[wiki/sources/2026-04-08-david-baldacci-masterclass-summary|David Baldacci Masterclass Summary]].
 
 # Why It Matters
 
@@ -34,15 +39,28 @@ Protect the process is Dan Brown's operating principle that consistent working c
 - Drafting stages should be separated rather than collapsed into one overloaded pass.
 - Placeholder text, movement breaks, and ending the day with a starter paragraph are all tools for preserving momentum.
 - "Dare to suck" is treated as a necessary permission structure for discovering stronger material.
+- The Duffer Brothers add an anti-chaos version of the same rule: do not draft before the idea and outline are ready, and solve broken work at the right layer.
+- Lynch adds the inner-condition version: protect daydreaming, catch ideas immediately, and keep negativity from choking off creative flow.
+- Baldacci adds a pragmatic professional version: write when and where you can, re-enter the manuscript deliberately, and use research or side movement to stay unstuck without pretending to have magical consistency.
+
+# Source Comparisons
+
+- Brown treats process protection as routine design and emotional non-drama around imperfect pages.
+- The Duffer Brothers treat it as development discipline: stay zoomed out until the structure can support pages.
+- Lynch treats it as receptivity discipline: protect the mind-state that lets ideas surface.
+- Baldacci treats it as career discipline: keep observing, keep moving, and keep the project alive through practical habits.
 
 # Tensions / Open Questions
 
 - Extreme routine can become rigid if it stops serving the work rather than enabling it.
 - The source gives one writer's process; the transferable principle is discipline, not necessarily Brown's exact schedule.
+- The branch now shows that protecting the process can mean very different things: schedule protection, development sequencing, mental spaciousness, or practical re-entry rituals.
 
 # Related Pages
 
 - [[wiki/concepts/thriller-writing|Thriller Writing]]
 - [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/idea-development|Idea Development]]
 - [[wiki/syntheses/dan-brown-thriller-framework|Dan Brown Thriller Framework]]
+- [[wiki/syntheses/baldacci-thriller-framework|Baldacci Thriller Framework]]
 - [[index]]
