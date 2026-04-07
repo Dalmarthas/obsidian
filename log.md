@@ -63,3 +63,12 @@ Pages touched:
 - [[wiki/concepts/three-act-structure]]
 - [[wiki/syntheses/sorkin-screenwriting-framework]]
 - [[index]]
+
+## [2026-04-07 12:29] admin | Require txt-to-md normalization before ingest
+
+Summary: Updated the schema so any new raw source arriving as a `.txt` file must be converted to `.md` before the ingest workflow proceeds.
+
+Pages touched:
+
+- [[AGENTS]]
+- [[log]]

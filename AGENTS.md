@@ -23,6 +23,7 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
 
 - Path: `raw/`
 - Raw sources are immutable after capture except for filename normalization when needed.
+- If a new source to be ingested is in `.txt` format, convert it to `.md` before ingesting it.
 - Raw sources are the source of truth.
 - The LLM may read raw sources, but must not rewrite their content during normal wiki maintenance.
 
@@ -215,12 +216,13 @@ If the user message is ambiguous, infer the most likely mode and proceed.
 ### Ingest workflow
 
 1. Capture or locate the raw source in `raw/`.
-2. Read the source.
-3. Clarify emphasis with the user only if the direction is materially ambiguous.
-4. Create or update the corresponding page in `wiki/sources/`.
-5. Update or create relevant concept, entity, and synthesis pages.
-6. Update `index.md`.
-7. Append an entry to `log.md`.
+2. If the raw source is a `.txt` file, convert it to `.md` before continuing.
+3. Read the source.
+4. Clarify emphasis with the user only if the direction is materially ambiguous.
+5. Create or update the corresponding page in `wiki/sources/`.
+6. Update or create relevant concept, entity, and synthesis pages.
+7. Update `index.md`.
+8. Append an entry to `log.md`.
 
 Expected behavior:
 
