@@ -292,3 +292,12 @@ Pages touched:
 - [[wiki/syntheses/writing-craft-overlaps]]
 - [[wiki/syntheses/human-centered-change-models]]
 - [[index]]
+
+## [2026-04-08 01:43] admin | Change raw-source landing rule and add Russian ingest mode
+
+Summary: Updated the schema so new source discovery happens in `raw/`, canonical raw files are moved into `raw/inbox/` after ingest, and Russian-language raw sources trigger Russian-language wiki output for titles, headings, tags, summaries, index descriptions, and log summaries while keeping schema-critical YAML structure stable.
+
+Pages touched:
+
+- [[AGENTS]]
+- [[log]]

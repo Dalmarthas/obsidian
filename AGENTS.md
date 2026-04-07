@@ -22,8 +22,10 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
 ### 1. Raw sources
 
 - Path: `raw/`
-- Raw sources are immutable after capture except for filename normalization when needed.
+- New, unprocessed source files arrive in the root of `raw/`, not in `raw/inbox/`.
+- Raw sources are immutable after capture except for filename normalization when needed and the post-ingest move from `raw/` to `raw/inbox/`.
 - If a new source to be ingested is in `.txt` format, convert it to `.md` before ingesting it.
+- After ingest, move the canonical raw source into `raw/inbox/`.
 - Raw sources are the source of truth.
 - The LLM may read raw sources, but must not rewrite their content during normal wiki maintenance.
 
@@ -49,7 +51,8 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
 
 ### Raw layer
 
-- `raw/inbox/`: newly captured source documents waiting to be ingested or already captured as canonical raw sources.
+- `raw/`: landing zone for newly added source documents before ingest. New ingest discovery happens here.
+- `raw/inbox/`: canonical normalized raw sources after ingest.
 - `raw/assets/`: downloaded images, attachments, PDFs, and other source-adjacent files.
 
 ### Wiki layer
@@ -68,11 +71,31 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
 
 Examples:
 
+- `raw/David Lynch writing summary.txt`
 - `raw/inbox/2026-04-07-llm-wiki-idea.md`
 - `wiki/sources/2026-04-07-llm-wiki-idea.md`
 - `wiki/concepts/llm-wiki.md`
 - `wiki/entities/obsidian.md`
 - `wiki/syntheses/this-vault-operating-model.md`
+
+## Language Handling
+
+- Detect the source language at the start of ingest.
+- If a new source in `raw/` is primarily in Russian, operate in Russian for that ingest and for any pages materially created or updated because of it.
+- For Russian ingests, write human-facing wiki content in Russian:
+  - titles
+  - section headings
+  - summaries and extracted claims
+  - concept, entity, source, and synthesis prose
+  - tags
+  - index entry descriptions
+  - log summaries
+- Keep schema-critical structure stable even during Russian ingests:
+  - YAML keys stay in the schema's standard form
+  - required structural values such as `type: source`, `type: concept`, `type: entity`, and `type: synthesis` remain unchanged
+- Do not mix English and Russian prose inside one page unless the user explicitly asks for a bilingual page.
+- If a Russian source overlaps with an existing English page, prefer creating or maintaining a Russian counterpart and cross-linking it rather than turning one page into a mixed-language document.
+- Filenames must still follow lowercase kebab-case. For Russian pages, use a stable transliterated kebab-case slug unless the user explicitly asks for a different naming style.
 
 ## Linking Rules
 
@@ -260,19 +283,22 @@ If the user message is ambiguous, infer the most likely mode and proceed.
 
 ### Ingest workflow
 
-1. Capture or locate the raw source in `raw/`.
-2. If the raw source is a `.txt` file, convert it to `.md` before continuing.
-3. Read the source.
-4. Inventory the source's reusable content: frameworks, methods, distinctions, examples, caveats, and open questions.
-5. Scan the existing wiki for overlapping concepts or nearby branches before creating new pages.
-6. Clarify emphasis with the user only if the direction is materially ambiguous.
-7. Create or update the corresponding page in `wiki/sources/`.
-8. Update or create relevant concept, entity, and synthesis pages.
-9. Merge and sharpen overlapping concepts where two or more sources discuss the same idea.
-10. Create a comparison synthesis when the overlap is materially valuable.
-11. Run the completeness check.
-12. Update `index.md`.
-13. Append an entry to `log.md`.
+1. Capture or locate the new raw source in the root of `raw/`.
+2. Detect the source language.
+3. If the raw source is primarily Russian, set the working language for human-facing wiki output to Russian while keeping schema-critical structure stable.
+4. If the raw source is a `.txt` file, convert it to `.md` before continuing.
+5. Read the source from `raw/`.
+6. Inventory the source's reusable content: frameworks, methods, distinctions, examples, caveats, and open questions.
+7. Scan the existing wiki for overlapping concepts or nearby branches before creating new pages.
+8. Clarify emphasis with the user only if the direction is materially ambiguous.
+9. Create or update the corresponding page in `wiki/sources/`.
+10. Update or create relevant concept, entity, and synthesis pages.
+11. Merge and sharpen overlapping concepts where two or more sources discuss the same idea.
+12. Create a comparison synthesis when the overlap is materially valuable.
+13. Run the completeness check.
+14. Move the canonical normalized raw source into `raw/inbox/` and ensure source references point to the final canonical path.
+15. Update `index.md`.
+16. Append an entry to `log.md`.
 
 Expected behavior:
 
@@ -282,6 +308,8 @@ Expected behavior:
 - A single source may update many pages.
 - If the source is rich, create enough concept and synthesis pages that the source page is no longer the only useful entry point.
 - If overlap exists, prefer canonical merged concept pages with source-attributed differences over parallel near-duplicates.
+- New-source discovery happens in `raw/`, not in `raw/inbox/`.
+- `raw/inbox/` is the post-ingest canonical archive, not the place to look for fresh arrivals.
 
 ### Query workflow
 
