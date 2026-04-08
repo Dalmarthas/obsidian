@@ -44,6 +44,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-1|Мастер-класс «Реальный HR» — модуль 1 из 3]] - Русскоязычная вторичная сводка по первому модулю HR-курса: HR как система масштабирования, продукт HR-отдела, воронка найма, ГФД, адаптация, культура и стратсессии.
 - [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-2|Мастер-класс «Реальный HR» — модуль 2 из 3]] - Русскоязычная вторичная сводка по второму модулю HR-курса: аватар кандидата, многоканальная воронка, академия, «химия» в найме, справедливая мотивация и логика эффективного расширения.
 - [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-3|Мастер-класс «Реальный HR» — модуль 3 из 3]] - Русскоязычная вторичная сводка по завершающему модулю HR-ветки: удержание через гравитацию, каздев, антигравитационные силы и зрелая логика стратсессий.
+- [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-million|Мастер-класс «Реальный миллион» — полная сводка]] - Русскоязычная вторичная сводка о росте собственника через мышление, отстрел балласта, `5 единичек`, делегирование и финансовую дисциплину.
 
 ## Sources
 
@@ -82,6 +83,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-1|Мастер-класс «Реальный HR» — модуль 1 из 3]] - Русская partial source page о HR как engine масштабирования: от продукта HR-отдела и ГФД до воронки найма, адаптации, удержания и стратсессий.
 - [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-2|Мастер-класс «Реальный HR» — модуль 2 из 3]] - Русская source page, которая углубляет HR-ветку через аватар роли, создание «перекандидоза», academy-layer, справедливую мотивацию и бескомпромиссный отбор.
 - [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-3|Мастер-класс «Реальный HR» — модуль 3 из 3]] - Русская source page, которая завершает HR-ветку через удержание, гравитацию команды, каздев и стратегические сессии для хронических проблем.
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-million|Мастер-класс «Реальный миллион» — полная сводка]] - Русская source page о верхнем owner-layer роста: мышление, вычитание балласта, `5 единичек`, переход к управлению и финансовая трезвость.
 
 ## Entities
 
@@ -110,7 +112,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/entities/salman-rushdie|Salman Rushdie]] - Fiction teacher whose source deepens the vault's novel-writing, voice, setting, and worldview branch.
 - [[wiki/entities/shonda-rhimes|Shonda Rhimes]] - Television writer-showrunner whose source deepens the vault's TV writing, room, and showrunning branch.
 
-- [[wiki/entities/mikhail-grebenyuk|Михаил Гребенюк]] - Русскоязычный прикладной teacher, который связывает в хранилище продукт, продажи, управление и полный HR-контур удержания как четыре слоя масштабирования компании.
+- [[wiki/entities/mikhail-grebenyuk|Михаил Гребенюк]] - Русскоязычный прикладной teacher, который связывает в хранилище мышление собственника, продукт, продажи, управление и HR как пять слоев масштабирования компании.
 
 ## Concepts
 
@@ -129,7 +131,10 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/communication/mirroring|Mirroring]] - Repeating a small fragment of the other person's words so they elaborate instead of shutting down or defending.
 - [[wiki/concepts/filmmaking/monologue-preparation|Monologue Preparation]] - Selecting, analyzing, grounding, and varying monologue material until it becomes dramatically playable.
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]] - The insight layer that gives creative work a coherent reason to exist.
-- [[wiki/concepts/business/business-strategy|Business Strategy]] - A small set of strategic priorities that govern where an organization places time, capital, and attention.
+- [[wiki/concepts/business/business-strategy|Business Strategy]] - A small set of strategic priorities that govern where an organization places time, capital, attention, and which directions it actively stops supporting.
+- [[wiki/concepts/business/myshlenie-i-dengi|Мышление и деньги]] - Цепочка, в которой финансовый потолок бизнеса начинается с внутреннего потолка собственника, его нормы и его решений.
+- [[wiki/concepts/business/otstrel-ballasta|Отстрел балласта]] - Логика роста через вычитание: убрать лишние проекты, продукты, связи, расходы и шум до усиления одного ядра.
+- [[wiki/concepts/business/pyat-edinichek|Пять единичек]] - Модель радикальной концентрации вокруг одной аудитории, одной проблемы, одного продукта, одного трафик-источника и одного конвертера.
 - [[wiki/concepts/business/produktovoe-myshlenie|Продуктовое мышление]] - Подход, в котором рост ищут через усиление продукта, клиентской ценности и полного клиентского опыта, а не только через маркетинг и продажи.
 - [[wiki/concepts/business/arhitektura-produkta|Архитектура продукта]] - Отдельная функция системного улучшения продукта через насмотренность, штурмы, конкурентную разведку, внедрение и тестирование гипотез.
 - [[wiki/concepts/business/polnyi-kontur-produkta|Полный контур продукта]] - Представление о продукте как о всей цепочке взаимодействия: до, во время и после основной услуги.
@@ -158,7 +163,9 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]] - Building a film holistically across writing, performance, image, sound, and set culture.
 - [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]] - Fiction as the convergence of story engine, voice, place, character, form, and worldview.
 - [[wiki/concepts/business/financial-confidence|Financial Confidence]] - A concrete plan that makes career risk and transition more navigable.
-- [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]] - Using an explicit strategy, blueprint, or worldview to keep action coherent across decisions.
+- [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]] - Using an explicit strategy, blueprint, or worldview to keep action coherent, compressed, and testable across decisions.
+- [[wiki/concepts/business/flazhki-rosta|Флажки роста]] - Промежуточные подтверждения новой траектории, которые создают аномалию и удерживают фокус до большого результата.
+- [[wiki/concepts/business/nalog-uchreditelya|Налог учредителя]] - Финансовое правило регулярного извлечения прибыли, которое отделяет взрослую экономику бизнеса от самообмана реинвестированием.
 - [[wiki/concepts/business/mvp-testirovanie-nishi|MVP-тестирование ниши]] - Быстрое столкновение оффера с рынком до полноценной сборки продукта, чтобы проверить реальный спрос.
 - [[wiki/concepts/creativity/graphic-design|Graphic Design]] - Design as emotional communication that works before literal reading.
 - [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]] - Combining rigor and human feeling so judgment does not become either cold or sloppy.
@@ -218,7 +225,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/business/svoistvo-vygoda|Свойство -> выгода]] - Перевод продуктовой характеристики в клиентский смысл и релевантную ценность.
 - [[wiki/concepts/business/stratsessii|Стратсессии]] - Стратегические сессии для решения проклятых проблем, синхронизации направления и выхода из операционки в долгий горизонт.
 - [[wiki/concepts/business/proklyatye-problemy|Проклятые проблемы]] - Хронические и тормозящие рост проблемы, которые нельзя решать изнутри ежедневной операционки и нужно выносить на стратсессии.
-- [[wiki/concepts/leadership/upravlenie|Управление]] - Практика построения команд, систем, делегирования и контроля, где руководитель отвечает за работоспособность всей машины.
+- [[wiki/concepts/leadership/upravlenie|Управление]] - Практика построения команд, систем, делегирования и контроля, где руководитель отвечает за работоспособность всей машины и за переход собственника из специалиста в системного управленца.
 - [[wiki/concepts/leadership/hr-otdel|HR-отдел]] - Отдельная система масштабирования компании через людей, а не просто кадровое сопровождение.
 - [[wiki/concepts/leadership/avatar-kandidata|Аватар кандидата]] - Входной стандарт роли, который разделяет личностные качества, обучаемые навыки и необходимый опыт.
 - [[wiki/concepts/leadership/gfd-grob-fail-dolzhnosti|ГФД]] - Живой role-document, который связывает продукт роли, метрику, функционал, полномочия, мотивацию и стратегические цели.
@@ -230,8 +237,9 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/leadership/adaptaciya-sotrudnikov|Адаптация сотрудников]] - Система стажировки, испытательного срока и постоянного развития, которая превращает кандидата в продуктивного участника команды.
 - [[wiki/concepts/leadership/akademiya-obucheniya|Академия обучения]] - Воспроизводимая система ускоренного ввода в роль, которая превращает обучение из ручного объяснения в актив компании.
 - [[wiki/concepts/leadership/kazdev|Каздев]] - Глубокие интервью с командой, которые вскрывают реальные силы удержания и оттока вместо догадок руководства.
-- [[wiki/concepts/leadership/delegirovanie-i-kontrol|Делегирование и контроль]] - Пара управленческих практик, которая освобождает руководителя и одновременно удерживает качество результата.
+- [[wiki/concepts/leadership/delegirovanie-i-kontrol|Делегирование и контроль]] - Пара управленческих практик, которая освобождает руководителя, удерживает качество результата и пробивает ручной потолок собственника.
 - [[wiki/concepts/leadership/boevoi-duh-komandy|Боевой дух команды]] - Энергетическое состояние команды, которое держится на смысле, признании, доверии, справедливости и высокой планке.
+- [[wiki/concepts/leadership/komanda-ne-semya|Команда не семья]] - Модель спортивной команды вместо семейной метафоры, где планка, роли и право на замену важнее ложной безусловности.
 - [[wiki/concepts/leadership/spravedlivaya-motivaciya|Справедливая мотивация]] - Прозрачная и измеримая система оплаты и поощрения, которая удерживает качество без ломки экономики компании.
 - [[wiki/concepts/leadership/upravlencheskie-kompromissy|Управленческие компромиссы]] - Набор типовых trade-offs, через которые руководитель принимает решения без идеальных ответов.
 
@@ -270,6 +278,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 - [[wiki/syntheses/business/freymvork-prodazhi-grebenyuka|Фреймворк продаж Гребенюка]] - Скомпилированная русская модель продаж: от подготовки и диагностики до квалификации, предзакрытия, закрытия и objection-handling.
 - [[wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka|Фреймворк продуктового мышления Гребенюка]] - Скомпилированная русская модель, где рост строится через ККЦ, архитектуру продукта, карту эмоций клиента и системную приоритизацию улучшений.
+- [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Фреймворк «Реального миллиона» Гребенюка]] - Русская owner-growth модель о том, как связать мышление, вычитание балласта, жесткий фокус, делегирование и прибыль в одну машину роста.
 - [[wiki/syntheses/leadership/freymvork-upravleniya-grebenyuka|Фреймворк управления Гребенюка]] - Скомпилированная русская management-модель: от роли руководителя и систем до найма, делегирования, мотивации, контроля и обновления команды.
 - [[wiki/syntheses/leadership/freymvork-realnogo-hr-grebenyuka|Фреймворк «Реального HR» Гребенюка]] - Собранная русская HR-модель по модулям 1-3: вход, фильтр, academy-layer, адаптация, удержание, гравитация команды и стратегическая работа с хроническими проблемами.
 

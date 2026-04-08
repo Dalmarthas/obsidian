@@ -754,3 +754,35 @@ Pages touched:
 - [[wiki/entities/mikhail-grebenyuk]]
 - [[wiki/syntheses/leadership/freymvork-realnogo-hr-grebenyuka]]
 - [[index]]
+
+## [2026-04-08 15:47] ingest | Мастер-класс «Реальный миллион» — полная сводка
+
+Summary: Нормализовал новый русский raw `.txt` в канонический `.md`, заингестил его как отдельный Grebenyuk branch про owner-growth и затем переместил финальный raw source в `raw/inbox/`. Вынес из source отдельные durable pages по мышлению и деньгам, отстрелу балласта, `5 единичкам`, флажкам роста, налогу учредителя и метафоре «команда не семья», а также собрал новый synthesis `Фреймворк «Реального миллиона»`. Параллельно углубил уже существующие canonical pages по business strategy, framework-driven action, управлению, делегированию и entity page Михаила Гребенюка, чтобы ключевые идеи source не остались локально внутри одной source note. Обновил `index.md`, а stale recent-file references на временный raw-path и исходный `.txt` убрал из [[.obsidian/workspace.json]].
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-million]]
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-million]]
+- [[wiki/concepts/business/myshlenie-i-dengi]]
+- [[wiki/concepts/business/otstrel-ballasta]]
+- [[wiki/concepts/business/pyat-edinichek]]
+- [[wiki/concepts/business/flazhki-rosta]]
+- [[wiki/concepts/business/nalog-uchreditelya]]
+- [[wiki/concepts/leadership/komanda-ne-semya]]
+- [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/concepts/business/framework-driven-action]]
+- [[wiki/concepts/leadership/upravlenie]]
+- [[wiki/concepts/leadership/delegirovanie-i-kontrol]]
+- [[wiki/entities/mikhail-grebenyuk]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-08 16:10] admin | Add Health Domain Folder
+
+Summary: Added a dedicated `health/` domain to the vault structure for upcoming health-related ingests. Created `wiki/concepts/health/` and `wiki/syntheses/health/`, updated `AGENTS.md` so health topics now route there by default, and clarified that health material should no longer fall back into `others/` unless explicitly justified.
+
+Pages touched:
+
+- [[AGENTS]]
+- [[log]]

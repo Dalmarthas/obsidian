@@ -18,6 +18,7 @@ source_pages:
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
   - wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka.md
   - wiki/sources/2026-04-08-mikhail-grebenyuk-produkt-polnaya-svodka.md
+  - wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-million.md
 related:
   - wiki/concepts/business/brand-strategy.md
   - wiki/concepts/leadership/leadership.md
@@ -30,11 +31,15 @@ related:
   - wiki/concepts/business/mvp-testirovanie-nishi.md
   - wiki/concepts/business/produktovoe-myshlenie.md
   - wiki/concepts/business/matrica-prioritizacii-bystro-silno.md
+  - wiki/concepts/business/myshlenie-i-dengi.md
+  - wiki/concepts/business/pyat-edinichek.md
+  - wiki/concepts/business/flazhki-rosta.md
   - wiki/syntheses/cross-source/human-centered-change-models.md
   - wiki/syntheses/business/iger-strategy-framework.md
   - wiki/syntheses/communication/axelrod-rove-campaign-framework.md
   - wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa.md
   - wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka.md
+  - wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka.md
 ---
 
 # What It Is
@@ -57,7 +62,8 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - Axelrod and Rove add the campaign version: a written plan, target universe, message filter, budget spread, and monitoring system prevent reactive chaos.
 - Schultz adds a values-driven execution model: priorities, stakeholder visibility, economic literacy, and crisis sequencing.
 - The niche-selection branch adds a selection engine: generate options, score them, narrow them, and force contact with the market.
-- Grebenyuk's new product branch adds an improvement engine: define key customer values, map the full client experience, surface weak emotional points, and prioritize changes by speed and force.
+- Grebenyuk's product branch adds an improvement engine: define key customer values, map the full client experience, surface weak emotional points, and prioritize changes by speed and force.
+- The Realnyi Million branch adds a compression engine: clear false ceilings, cut ballast, concentrate the machine through `5 единичек`, create visible `флажки`, and use control rhythms plus founder-profit discipline to keep the framework from staying rhetorical.
 
 # Source Comparisons
 
@@ -70,13 +76,14 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - Schultz uses frameworks to align values, economics, and organizational behavior.
 - The niche branch uses a framework as a selection machine.
 - Grebenyuk's product branch uses a framework as a continuous improvement machine: not only to choose a direction, but to repeatedly redesign the offer and client journey after the direction is chosen.
+- The Realnyi Million branch uses a framework as disciplined reduction: fewer directions, fewer leaks, clearer proof points, and a tighter loop between owner behavior and business results.
 
 # Tensions / Open Questions
 
 - A framework becomes dangerous when it survives mainly because it sounds coherent.
 - The more abstract the framework, the easier it is to avoid concrete tradeoffs.
 - The niche branch adds one hard test: if the framework cannot produce a real market experiment quickly, it is incomplete.
-- Grebenyuk adds another hard test: if the framework does not change the product, customer experience, or prioritization order, it is still too rhetorical.
+- Grebenyuk adds another hard test: if the framework does not change the product, customer experience, prioritization order, or owner economics, it is still too rhetorical.
 - The main open question is how much structure is enough before a framework starts becoming bureaucratic drag rather than useful compression.
 
 # Related Pages
@@ -92,8 +99,12 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - [[wiki/concepts/business/mvp-testirovanie-nishi|MVP-тестирование ниши]]
 - [[wiki/concepts/business/produktovoe-myshlenie|Продуктовое мышление]]
 - [[wiki/concepts/business/matrica-prioritizacii-bystro-silno|Матрица приоритизации: быстро/долго x сильно/слабо]]
+- [[wiki/concepts/business/myshlenie-i-dengi|Мышление и деньги]]
+- [[wiki/concepts/business/pyat-edinichek|Пять единичек]]
+- [[wiki/concepts/business/flazhki-rosta|Флажки роста]]
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/communication/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
 - [[wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]]
 - [[wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka|Фреймворк продуктового мышления Гребенюка]]
+- [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Фреймворк «Реального миллиона» Гребенюка]]

@@ -63,6 +63,7 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
     - `business/`
     - `communication/`
     - `leadership/`
+    - `health/`
     - `filmmaking/`
     - `creativity/`
     - `others/`
@@ -81,10 +82,12 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
   - business, brand, niche selection, market testing, company-building, career design, self-positioning, financial transition, multi-hyphenate planning -> `business/`
   - communication, persuasion, negotiation, campaigns, messaging, targeting -> `communication/`
   - leadership, culture, teams, performance under pressure, trust, accountability -> `leadership/`
+  - health, medicine, nutrition, exercise, sleep, recovery, mental health, biomarkers, symptoms, treatment, longevity -> `health/`
   - writing, screenwriting, television, film, acting, story craft -> `filmmaking/`
   - art, design, visual thinking, creativity, idea-generation -> `creativity/`
   - smaller standalone branches that do not yet justify their own domain -> `others/`
 - There is no separate `career/` domain folder. Career and professional-development material is filed under `business/`.
+- There is now a dedicated `health/` domain folder. Health-related material should default there rather than being filed under `others/`.
 - Political pages are usually filed under `communication/` unless the page is primarily about organizational leadership or governance.
 - Do not create a new domain folder without explicit user approval.
 
@@ -103,8 +106,10 @@ Examples:
 - `wiki/concepts/llm-wiki.md`
 - `wiki/concepts/business/business-strategy.md`
 - `wiki/concepts/communication/effective-communication.md`
+- `wiki/concepts/health/sleep.md`
 - `wiki/entities/obsidian.md`
 - `wiki/syntheses/cross-source/communication-and-influence-models.md`
+- `wiki/syntheses/health/recovery-protocols-overview.md`
 - `wiki/syntheses/this-vault-operating-model.md`
 
 ## Language Handling

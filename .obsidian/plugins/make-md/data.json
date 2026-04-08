@@ -44,8 +44,8 @@
     "//raw",
     "//wiki",
     "//wiki/wiki/syntheses",
-    "//wiki/wiki/concepts",
-    "//wiki/wiki/concepts/wiki/concepts/business"
+    "//wiki/wiki/concepts/wiki/concepts/business",
+    "//wiki/wiki/entities"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

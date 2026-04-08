@@ -13,6 +13,7 @@ source_pages:
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
   - wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka.md
   - wiki/sources/2026-04-08-mikhail-grebenyuk-produkt-polnaya-svodka.md
+  - wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-million.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/framework-driven-action.md
@@ -22,15 +23,19 @@ related:
   - wiki/concepts/business/podnisha.md
   - wiki/concepts/business/produktovoe-myshlenie.md
   - wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti.md
+  - wiki/concepts/business/otstrel-ballasta.md
+  - wiki/concepts/business/pyat-edinichek.md
+  - wiki/concepts/business/nalog-uchreditelya.md
   - wiki/syntheses/business/iger-strategy-framework.md
   - wiki/syntheses/business/schultz-values-driven-leadership-framework.md
   - wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa.md
   - wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka.md
+  - wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka.md
 ---
 
 # What It Is
 
-Business strategy is the deliberate selection of a few priorities that determine where an organization will place capital, time, operating attention, and product effort. In this vault, strategy is not just market positioning or executive vision. It is the repeatable logic that decides what kind of value a company will create, for whom, and through which operational tradeoffs.
+Business strategy is the deliberate selection of a few priorities that determine where an organization will place capital, time, operating attention, and product effort. In this vault, strategy is not just market positioning or executive vision. It is the repeatable logic that decides what kind of value a company will create, for whom, through which tradeoffs, and which directions it must actively stop supporting.
 
 # Why It Matters
 
@@ -45,8 +50,9 @@ Business strategy is the deliberate selection of a few priorities that determine
 - Leaders must tie each strategic priority to an understandable value proposition.
 - Schultz adds a founder-operator version: choose a few priorities, stay close to unit economics, and treat self-disruption as an intentional move rather than a forced reaction.
 - The niche-selection branch adds an earlier layer of strategy: before scaling, choose the market, narrow to a sub-niche, and test demand against reality.
-- The new Grebenyuk product source adds a harder internal layer: strategy also means choosing which customer values the company will organize itself around, then rebuilding the product and customer experience to match them.
+- Grebenyuk's product branch adds a harder internal layer: strategy also means choosing which customer values the company will organize itself around, then rebuilding the product and customer experience to match them.
 - That source also argues that a revenue problem often exposes a product problem before it exposes a marketing or sales problem, which makes product architecture a strategic concern rather than only an operational one.
+- The new Realnyi Million branch adds a compression layer: before scaling, remove ballast, force one dominant growth contour through `5 единичек`, distinguish project and flow sales, and treat founder profit discipline as part of strategy rather than as an afterthought.
 
 # Source Comparisons
 
@@ -54,13 +60,15 @@ Business strategy is the deliberate selection of a few priorities that determine
 - Schultz is strongest on values-aware business strategy: focus, economic fluency, and offensive self-cannibalization keep a company from drifting.
 - The niche branch is strongest at market-entry strategy: find the field, narrow it, and pressure-test demand before building too much.
 - Grebenyuk's product branch is strongest on inside-the-business strategy: pick two or three key customer values, institutionalize product improvement, and treat the full client journey as part of the offer.
-- Together these sources imply that strategy has at least four layers in this vault: where to play, what to prioritize, what kind of value to deliver, and how to keep improving the product once the market says yes.
+- The Realnyi Million branch is strongest on owner-level strategic compression: stop feeding too many directions, choose one main engine, and force the company to prove it can turn focus into actual owner economics.
+- Together these sources imply that strategy has at least five layers in this vault: where to play, what to stop, what to prioritize, what kind of value to deliver, and how to make the economics honest enough to confirm the choice.
 
 # Tensions / Open Questions
 
 - Focus clarifies action, but it also creates blind spots when yesterday's priorities harden into identity.
 - Large-company strategy assumes capital scale and option space that smaller firms do not have.
 - Product-centered strategy is a useful corrective to sales-first thinking, but it can overstate the role of intrinsic product quality when distribution, timing, or power-law effects dominate.
+- The Realnyi Million branch adds a useful corrective against chaos, but its radical concentration can oversimplify businesses that genuinely need portfolio logic.
 - The strongest open question is where the boundary lies between hygiene and true strategic differentiation: which improvements merely make a company competent, and which ones actually change market choice?
 
 # Related Pages
@@ -73,7 +81,11 @@ Business strategy is the deliberate selection of a few priorities that determine
 - [[wiki/concepts/business/podnisha|Подниша]]
 - [[wiki/concepts/business/produktovoe-myshlenie|Продуктовое мышление]]
 - [[wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti|Ключевые клиентские ценности (ККЦ)]]
+- [[wiki/concepts/business/otstrel-ballasta|Отстрел балласта]]
+- [[wiki/concepts/business/pyat-edinichek|Пять единичек]]
+- [[wiki/concepts/business/nalog-uchreditelya|Налог учредителя]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]
 - [[wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]]
 - [[wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka|Фреймворк продуктового мышления Гребенюка]]
+- [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Фреймворк «Реального миллиона» Гребенюка]]
