@@ -35,6 +35,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[raw/inbox/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary|Shonda Rhimes TV Writing and Showrunning Masterclass Summary]] - Secondary summary of a television masterclass on pilot design, character-driven drama, dialogue, writers' rooms, and showrunning.
 - [[raw/inbox/2026-04-08-kevin-spacey-acting-masterclass-master-summary|Kevin Spacey Acting Masterclass Master Summary]] - Secondary summary of an acting masterclass on truthful reaction, monologues, auditions, screen arc, and professional craft discipline.
 - [[raw/inbox/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary|Howard Schultz Starbucks Values-Driven Leadership Masterclass Summary]] - Secondary summary of a leadership masterclass on values, culture, crisis, self-disruption, and building humane companies.
+- [[raw/inbox/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka|Выбор ниши для бизнеса — полная сводка]] - Русскоязычная вторичная сводка курса о выборе ниши, подниши, быстрых MVP-тестах и поиске спроса до сборки продукта.
 
 ## Sources
 
@@ -64,6 +65,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary|Shonda Rhimes TV Writing and Showrunning Masterclass Summary]] - Source page for a secondary guide to television writing, pilot promises, dialogue, rooms, and showrunning.
 - [[wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary|Kevin Spacey Acting Masterclass Master Summary]] - Source page for a secondary guide to acting truth, text work, monologues, auditions, and stage-versus-screen craft.
 - [[wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary|Howard Schultz Starbucks Values-Driven Leadership Masterclass Summary]] - Source page for a secondary guide to values-driven leadership, culture, crisis transparency, and offensive self-disruption.
+- [[wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka|Выбор ниши для бизнеса — полная сводка]] - Русская source page о генерации идей, фильтрации ниш, выборе подниши и проверке спроса через быстрые тесты.
 
 ## Entities
 
@@ -105,10 +107,13 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/auditioning|Auditioning]] - Preparing, adapting, and presenting work under compressed professional conditions without collapsing into panic or ego display.
 - [[wiki/concepts/brand-stewardship|Brand Stewardship]] - Protecting and evolving a brand's long-term identity without hollowing it out.
 - [[wiki/concepts/mass-intimacy|Mass Intimacy]] - Creating communication at mass scale that still feels personal and respectful.
+- [[wiki/concepts/megatrendy|Мегатренды]] - Большие политические, экономические и социокультурные сдвиги, которые создают и разрушают рынки.
 - [[wiki/concepts/mirroring|Mirroring]] - Repeating a small fragment of the other person's words so they elaborate instead of shutting down or defending.
 - [[wiki/concepts/monologue-preparation|Monologue Preparation]] - Selecting, analyzing, grounding, and varying monologue material until it becomes dramatically playable.
 - [[wiki/concepts/brand-strategy|Brand Strategy]] - The insight layer that gives creative work a coherent reason to exist.
 - [[wiki/concepts/business-strategy|Business Strategy]] - A small set of strategic priorities that govern where an organization places time, capital, and attention.
+- [[wiki/concepts/vybor-nishi|Выбор ниши]] - Системный выбор поля для бизнеса через генерацию идей, фильтрацию и реальные рыночные тесты.
+- [[wiki/concepts/podnisha|Подниша]] - Узкий сегмент внутри ниши: конкретный клиент с конкретной болью, который делает тесты точнее.
 - [[wiki/concepts/buoyancy|Buoyancy]] - Resilience in the face of rejection, friction, and repeated non-catastrophic failure.
 - [[wiki/concepts/calibrated-questions|Calibrated Questions]] - Open-ended `what` and `how` questions designed to reveal constraints, shift thinking, and move negotiations toward implementation reality.
 - [[wiki/concepts/casting-and-performance-direction|Casting and Performance Direction]] - Choosing the right actors and creating the conditions where truthful performance can emerge on camera.
@@ -128,6 +133,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/fiction-writing|Fiction Writing]] - Fiction as the convergence of story engine, voice, place, character, form, and worldview.
 - [[wiki/concepts/financial-confidence|Financial Confidence]] - A concrete plan that makes career risk and transition more navigable.
 - [[wiki/concepts/framework-driven-action|Framework-Driven Action]] - Using an explicit strategy, blueprint, or worldview to keep action coherent across decisions.
+- [[wiki/concepts/mvp-testirovanie-nishi|MVP-тестирование ниши]] - Быстрое столкновение оффера с рынком до полноценной сборки продукта, чтобы проверить реальный спрос.
 - [[wiki/concepts/graphic-design|Graphic Design]] - Design as emotional communication that works before literal reading.
 - [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]] - Combining rigor and human feeling so judgment does not become either cold or sloppy.
 - [[wiki/concepts/high-performance-mindset|High-Performance Mindset]] - The internal operating system for sustaining excellence under pressure.
@@ -196,6 +202,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/high-performance-leadership-models|High-Performance Leadership Models]] - A cross-source model of how elite leadership and performance systems combine standards, trust, and resilience.
 - [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]] - A cross-source map of how the non-writing branches approach humane, disciplined change.
 - [[wiki/syntheses/iger-strategy-framework|Iger Strategy Framework]] - A reusable business-leadership model built around priorities, brand stewardship, negotiation, and risk.
+- [[wiki/syntheses/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]] - Русский reusable framework для генерации идей, фильтрации ниш, выбора подниши и тестирования спроса до масштабирования.
 - [[wiki/syntheses/jeff-koons-art-framework|Jeff Koons Art Framework]] - A reusable art-making model built around self-acceptance, viewer completion, and material freedom.
 - [[wiki/syntheses/kevin-spacey-acting-framework|Kevin Spacey Acting Framework]] - A reusable acting model built around reaction, textual service, stakes, audience restraint, and professional preparation.
 - [[wiki/syntheses/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]] - A reusable high-performance model built around preparation, failure processing, balance, and teamwork.

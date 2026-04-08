@@ -564,3 +564,20 @@ Pages touched:
 - [[wiki/syntheses/communication-and-influence-models]]
 - [[.obsidian/workspace.json]]
 - [[index]]
+
+## [2026-04-08 11:45] ingest | Выбор ниши для бизнеса — полная сводка
+
+Summary: Нормализовал новый raw `.txt` источник в канонический `.md` и переместил его в `raw/inbox/`. Создал русскоязычную source page и новую бизнес-ветку вокруг выбора ниши, подниши, MVP-тестирования спроса и мегатрендов. Затем встроил источник в существующие страницы [[wiki/concepts/business-strategy|Business Strategy]] и [[wiki/concepts/framework-driven-action|Framework-Driven Action]], чтобы новый материал работал как ранний слой стратегии и execution, а не как изолированная русская заметка.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka]]
+- [[wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka]]
+- [[wiki/concepts/vybor-nishi]]
+- [[wiki/concepts/podnisha]]
+- [[wiki/concepts/mvp-testirovanie-nishi]]
+- [[wiki/concepts/megatrendy]]
+- [[wiki/concepts/business-strategy]]
+- [[wiki/concepts/framework-driven-action]]
+- [[wiki/syntheses/freymvork-vybora-nishi-dlya-biznesa]]
+- [[index]]

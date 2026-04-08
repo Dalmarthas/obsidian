@@ -16,6 +16,7 @@ source_pages:
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
+  - wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka.md
 related:
   - wiki/concepts/brand-strategy.md
   - wiki/concepts/leadership.md
@@ -24,9 +25,12 @@ related:
   - wiki/concepts/interconnectedness-principle.md
   - wiki/concepts/business-strategy.md
   - wiki/concepts/political-campaigns.md
+  - wiki/concepts/vybor-nishi.md
+  - wiki/concepts/mvp-testirovanie-nishi.md
   - wiki/syntheses/human-centered-change-models.md
   - wiki/syntheses/iger-strategy-framework.md
   - wiki/syntheses/axelrod-rove-campaign-framework.md
+  - wiki/syntheses/freymvork-vybora-nishi-dlya-biznesa.md
 ---
 
 # What It Is
@@ -49,6 +53,8 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - Iger makes the framework brutally concrete by reducing corporate strategy to three repeated priorities that can steer capital, meetings, and acquisitions.
 - Axelrod and Rove add the campaign version: a written plan, target universe, message filter, budget spread, and monitoring system keep a campaign from becoming reactive chaos.
 - Schultz adds a values-driven operating version: 3-5 priorities, two empty chairs for people and customers, unit-economics literacy, and explicit crisis sequencing keep humane leadership from dissolving into soft rhetoric.
+- Источник по выбору ниши добавляет наиболее жесткую execution-версию страницы: 50-100 идей, балльная фильтрация, 9 подниш, быстрые столкновения с рынком, затем 100 тестов до финального выбора.
+- Он также делает ясным, что фреймворк неполон, пока в нем нет таблицы критериев, способа проверки спроса и механики фиксации результатов.
 
 # Source Comparisons
 
@@ -59,6 +65,7 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - Iger uses frameworks to make a large organization legible to itself: narrow the priorities, repeat them relentlessly, and let them govern where the company actually moves.
 - Axelrod and Rove uses frameworks to make a campaign executable: define the race, assign resources, monitor progress, and keep the candidate on brand through pressure.
 - Schultz uses frameworks to keep a company morally and economically aligned: values, focus, economics, and stakeholder pride all have to be present in the same decision model.
+- Курс по выбору ниши использует framework как машину отбора: сначала он уменьшает хаос выбора, потом заставляет принять решение через реальные тесты, а не бесконечные размышления.
 
 # Tensions / Open Questions
 
@@ -66,6 +73,7 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - The more abstract the framework becomes, the easier it is to sound coherent without actually choosing concrete action.
 - Iger strengthens the page's harder edge: a framework is not complete until it can survive contact with budgets, acquisitions, and repeated operational choices.
 - The campaign branch strengthens a second hard edge: a framework is not real until it can survive attacks, media churn, and election-day logistics.
+- Нишевая ветка добавляет третий hard edge: фреймворк не реален, пока его нельзя за 1-3 дня столкнуть с рынком и получить измеримый отклик.
 
 # Related Pages
 
@@ -76,6 +84,9 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - [[wiki/concepts/interconnectedness-principle|Interconnectedness Principle]]
 - [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]
 - [[wiki/concepts/business-strategy|Business Strategy]]
+- [[wiki/concepts/vybor-nishi|Выбор ниши]]
+- [[wiki/concepts/mvp-testirovanie-nishi|MVP-тестирование ниши]]
 - [[wiki/syntheses/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/concepts/political-campaigns|Political Campaigns]]
 - [[wiki/syntheses/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
+- [[wiki/syntheses/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]]
