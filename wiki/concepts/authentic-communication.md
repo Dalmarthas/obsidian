@@ -16,6 +16,7 @@ source_pages:
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
+  - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
 related:
   - wiki/concepts/mass-intimacy.md
   - wiki/concepts/leadership-communication.md
@@ -46,6 +47,7 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - Iger adds the executive version of the same principle: authenticity, clear articulation, and repeated strategic language create more trust than executive theater or jargon.
 - George Stephanopoulos adds the interviewer and broadcaster version: candor, directness, and visible presence create credibility faster than polished evasiveness.
 - Lewis Hamilton adds a performance version of the same lesson: public identity becomes more stable when the person does not split competitive excellence from real personality or values.
+- Axelrod and Rove add the campaign version: voters can sense when a candidate is running to be something rather than to do something, and campaigns drift when slogans or frames do not match the candidate's real identity.
 
 # Source Comparisons
 
@@ -56,6 +58,7 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - Iger frames authenticity as managerial credibility: people will follow repeated priorities more readily when they believe the leader actually inhabits the values he is naming.
 - Stephanopoulos frames authenticity as communicative trustworthiness: people answer and listen differently when the tone is direct, fair, and visibly human.
 - Hamilton frames authenticity as grounded excellence under visibility: identity coherence matters because performance pressure can easily turn public figures into brands instead of people.
+- Axelrod and Rove frames authenticity as electoral durability: fake positioning, inauthentic pivots, and opportunistic slogans eventually collide with public scrutiny.
 
 # Tensions / Open Questions
 

@@ -392,3 +392,175 @@ Pages touched:
 
 - [[AGENTS]]
 - [[log]]
+
+## [2026-04-08 02:28] ingest | Axelrod Rove Political Campaign Masterclass Complete Summary
+
+Raw source: [[raw/inbox/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary]]
+
+Summary: Converted the new raw `.txt` source into a canonical `.md` file, moved it into `raw/inbox/`, created a campaign source page plus entity pages for David Axelrod and Karl Rove, extracted new canonical concepts for political campaigns, voter targeting, opposition research, and ground game and GOTV, then merged the overlap into persuasion, authenticity, leadership communication, leadership, framework-driven action, and the existing communication-and-influence synthesis.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary]]
+- [[wiki/entities/david-axelrod]]
+- [[wiki/entities/karl-rove]]
+- [[wiki/concepts/political-campaigns]]
+- [[wiki/concepts/voter-targeting]]
+- [[wiki/concepts/opposition-research]]
+- [[wiki/concepts/ground-game-and-gotv]]
+- [[wiki/concepts/persuasion]]
+- [[wiki/concepts/authentic-communication]]
+- [[wiki/concepts/leadership-communication]]
+- [[wiki/concepts/framework-driven-action]]
+- [[wiki/concepts/leadership]]
+- [[wiki/syntheses/axelrod-rove-campaign-framework]]
+- [[wiki/syntheses/communication-and-influence-models]]
+- [[index]]
+
+## [2026-04-08 02:35] ingest | Salman Rushdie Writing Masterclass Complete Summary
+
+Raw source: [[raw/inbox/2026-04-08-salman-rushdie-writing-masterclass-complete-summary]]
+
+Summary: Converted the new raw `.txt` source into a canonical `.md` file, moved it into `raw/inbox/`, created a Salman Rushdie source page and entity page, extracted new canonical concepts for fiction writing, narrative voice and perspective, setting as character, and writer worldview, then merged Rushdie's craft model into the existing writing-process, creative-integrity, dialogue, idea-development, immersive-research, story-propulsion, and writing-overlap branches.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-salman-rushdie-writing-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary]]
+- [[wiki/entities/salman-rushdie]]
+- [[wiki/concepts/fiction-writing]]
+- [[wiki/concepts/narrative-voice-and-perspective]]
+- [[wiki/concepts/setting-as-character]]
+- [[wiki/concepts/writer-worldview]]
+- [[wiki/concepts/writing-process-and-revision]]
+- [[wiki/concepts/creative-integrity]]
+- [[wiki/concepts/dialogue-as-music]]
+- [[wiki/concepts/idea-development]]
+- [[wiki/concepts/immersive-research]]
+- [[wiki/concepts/story-propulsion]]
+- [[wiki/syntheses/salman-rushdie-fiction-framework]]
+- [[wiki/syntheses/writing-craft-overlaps]]
+- [[index]]
+
+## [2026-04-08 02:46] ingest | Martin Scorsese Masterclass Complete Summary
+
+Raw source: [[raw/inbox/2026-04-08-martin-scorsese-masterclass-complete-summary]]
+
+Summary: Converted the new raw `.txt` source into a canonical `.md` file, moved it into `raw/inbox/`, created a Martin Scorsese source page and entity page, extracted new canonical concepts for visual literacy, casting and performance direction, and editing as discovery, then merged Scorsese's filmmaking model into the existing filmmaking, creative-integrity, idea-development, immersive-research, trust-based-collaboration, and writing-process branches so the source compounds with Lynch and the broader narrative-craft layer instead of sitting alone. Also removed the stale old `.txt` workspace reference so Obsidian points only at the canonical archived raw file.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-martin-scorsese-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary]]
+- [[wiki/entities/martin-scorsese]]
+- [[wiki/concepts/visual-literacy]]
+- [[wiki/concepts/casting-and-performance-direction]]
+- [[wiki/concepts/editing-as-discovery]]
+- [[wiki/concepts/filmmaking]]
+- [[wiki/concepts/creative-integrity]]
+- [[wiki/concepts/idea-development]]
+- [[wiki/concepts/immersive-research]]
+- [[wiki/concepts/trust-based-collaboration]]
+- [[wiki/concepts/writing-process-and-revision]]
+- [[wiki/syntheses/scorsese-filmmaking-framework]]
+- [[.obsidian/workspace.json]]
+- [[index]]
+
+## [2026-04-08 02:58] ingest | Shonda Rhimes TV Writing and Showrunning Masterclass Summary
+
+Raw source: [[raw/inbox/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary]]
+
+Summary: Converted the new raw `.txt` source into a canonical `.md` file, moved it into `raw/inbox/`, created a Shonda Rhimes source page and entity page, extracted new canonical concepts for character-driven storytelling, text and subtext, showrunning, and writers' room craft, then merged Rhimes's television model into the existing television-pilot-writing, screenwriting, story-propulsion, dialogue, audience, process, leadership, team-culture, and collaboration branches so the source compounds with the Duffer, Sorkin, and broader leadership material instead of staying isolated. Also removed the stale old `.txt` workspace reference so Obsidian points only at the canonical archived raw file.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary]]
+- [[wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary]]
+- [[wiki/entities/shonda-rhimes]]
+- [[wiki/concepts/character-driven-storytelling]]
+- [[wiki/concepts/text-and-subtext]]
+- [[wiki/concepts/showrunning]]
+- [[wiki/concepts/writers-room-craft]]
+- [[wiki/concepts/television-pilot-writing]]
+- [[wiki/concepts/screenwriting]]
+- [[wiki/concepts/story-propulsion]]
+- [[wiki/concepts/dialogue-as-music]]
+- [[wiki/concepts/writing-process-and-revision]]
+- [[wiki/concepts/idea-development]]
+- [[wiki/concepts/audience-as-collaborator]]
+- [[wiki/concepts/trust-based-collaboration]]
+- [[wiki/concepts/leadership]]
+- [[wiki/concepts/high-performance-team-culture]]
+- [[wiki/syntheses/shonda-tv-writing-and-showrunning-framework]]
+- [[.obsidian/workspace.json]]
+- [[index]]
+
+## [2026-04-08 03:06] ingest | Kevin Spacey Acting Masterclass Master Summary
+
+Raw source: [[raw/inbox/2026-04-08-kevin-spacey-acting-masterclass-master-summary]]
+
+Summary: Converted the new raw `.txt` source into a canonical `.md` file, moved it into `raw/inbox/`, created a Kevin Spacey source page and entity page, extracted new canonical concepts for acting craft, monologue preparation, and auditioning, then merged the acting source into the existing performance, character, dialogue, audience, and creative-integrity branches so the new acting material compounds with Scorsese, Sorkin, Rhimes, and the broader creative layer instead of staying isolated. Also removed the stale old `.txt` workspace reference so Obsidian points only at the canonical archived raw file.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-kevin-spacey-acting-masterclass-master-summary]]
+- [[wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary]]
+- [[wiki/entities/kevin-spacey]]
+- [[wiki/concepts/acting-craft]]
+- [[wiki/concepts/monologue-preparation]]
+- [[wiki/concepts/auditioning]]
+- [[wiki/concepts/casting-and-performance-direction]]
+- [[wiki/concepts/character-driven-storytelling]]
+- [[wiki/concepts/dialogue-as-music]]
+- [[wiki/concepts/audience-as-collaborator]]
+- [[wiki/concepts/creative-integrity]]
+- [[wiki/syntheses/kevin-spacey-acting-framework]]
+- [[.obsidian/workspace.json]]
+- [[index]]
+
+## [2026-04-08 03:16] ingest | Howard Schultz Starbucks Values-Driven Leadership Masterclass Summary
+
+Summary: Converted the new raw `.txt` source into a canonical `.md` file, moved it into `raw/inbox/`, created a Howard Schultz source page and entity page, extracted new canonical concepts for values-driven companies, organizational culture, and self-disruption, then merged Schultz's company-building model into the existing leadership, strategy, brand, trust, team-culture, and framework branches so the source compounds with Iger, Goodby, Clinton, Rhimes, and the broader business layer instead of staying isolated. Also removed the stale old `.txt` workspace reference so Obsidian points only at the canonical archived raw file.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary]]
+- [[wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary]]
+- [[wiki/entities/howard-schultz]]
+- [[wiki/concepts/values-driven-companies]]
+- [[wiki/concepts/organizational-culture]]
+- [[wiki/concepts/self-disruption]]
+- [[wiki/concepts/leadership]]
+- [[wiki/concepts/business-strategy]]
+- [[wiki/concepts/brand-stewardship]]
+- [[wiki/concepts/trust-based-collaboration]]
+- [[wiki/concepts/high-performance-team-culture]]
+- [[wiki/concepts/framework-driven-action]]
+- [[wiki/syntheses/schultz-values-driven-leadership-framework]]
+- [[.obsidian/workspace.json]]
+- [[index]]
+
+## [2026-04-08 03:27] ingest | Chris Voss Workplace Negotiation Masterclass Complete Summary
+
+Summary: Converted the new raw `.txt` source into a canonical `.md` file, moved it into `raw/inbox/`, and treated it as a second, more detailed Chris Voss source rather than a new standalone branch. Created a dedicated source page plus new canonical technique pages for mirroring, labeling, calibrated questions, dynamic silence, no-oriented questions, and accusation audit. Then deepened the existing Voss, negotiation, communication, and persuasion branches so the new material sharpens the vault's tactical-influence layer instead of duplicating it. Also removed the stale old `.txt` workspace reference so Obsidian points only at the canonical archived raw file.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary]]
+- [[wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary]]
+- [[wiki/concepts/mirroring]]
+- [[wiki/concepts/labeling]]
+- [[wiki/concepts/calibrated-questions]]
+- [[wiki/concepts/dynamic-silence]]
+- [[wiki/concepts/no-oriented-questions]]
+- [[wiki/concepts/accusation-audit]]
+- [[wiki/entities/chris-voss]]
+- [[wiki/concepts/tactical-empathy]]
+- [[wiki/concepts/negotiation-and-mediation]]
+- [[wiki/concepts/effective-communication]]
+- [[wiki/concepts/persuasion]]
+- [[wiki/syntheses/chris-voss-negotiation-framework]]
+- [[wiki/syntheses/communication-and-influence-models]]
+- [[.obsidian/workspace.json]]
+- [[index]]

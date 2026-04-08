@@ -14,10 +14,14 @@ source_pages:
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
+  - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
+  - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
   - wiki/concepts/three-act-structure.md
   - wiki/concepts/question-and-answer-structure.md
+  - wiki/concepts/character-driven-storytelling.md
   - wiki/concepts/screenwriting.md
+  - wiki/concepts/fiction-writing.md
   - wiki/concepts/television-pilot-writing.md
   - wiki/concepts/thriller-writing.md
   - wiki/syntheses/writing-craft-overlaps.md
@@ -42,6 +46,8 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - Brown defines suspense as a rhythm of promises and fulfillments that keeps generating fresh reasons to continue.
 - The Duffer Brothers stress that propulsion begins with a simple central drive strong enough to carry multiple storylines and a season engine, not just an individual scene hook.
 - Baldacci treats chapter length, chapter purpose, and the `big pop` opening as concrete propulsion tools that create repeated forward pressure.
+- Rushdie adds the literary-fiction version: conflict remains central, the opening line creates a contract with the reader, and even complex or multi-strand narratives must keep each movement feeling like a real mini-story rather than random switching.
+- Rhimes adds television-specific propulsion tools: each act should turn the story, A/B/C stories should keep moving, planted elements should pay off, and the pilot's promise should keep renewing itself in later episodes.
 - Brown designs chapters to begin with urgency and end with unresolved energy, twists, or deferred revelations.
 - Across the sources, the reader or audience should feel guided rather than inert or confused.
 
@@ -52,7 +58,9 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - Brown works explicitly at the suspense scale, focusing on hooks, deferred answers, and serial momentum.
 - The Duffer Brothers work at the series-engine scale, focusing on a simple core drive that can unify a pilot and an ongoing show.
 - Baldacci works at the chapter-and-opening scale, focusing on a major opening disturbance and compact chapters that each earn their place.
-- All five agree that momentum is not accidental, but they locate the main control point in different places: outline, scene construction, suspense rhythm, series engine, or chapter design.
+- Rhimes works at the episode-machine scale, focusing on pilot promise, act turns, recurring series identity, and multi-strand story servicing across network drama structure.
+- Rushdie works at the reader-contract and section-arc scale, focusing on openings, conflict, and the satisfaction of each narrative movement inside larger complexity.
+- All six agree that momentum is not accidental, but they locate the main control point in different places: outline, scene construction, suspense rhythm, series engine, chapter design, or the form of the telling itself.
 
 # Tensions / Open Questions
 
@@ -65,6 +73,8 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 
 - [[wiki/concepts/three-act-structure|Three-Act Structure]]
 - [[wiki/concepts/question-and-answer-structure|Question-and-Answer Structure]]
+- [[wiki/concepts/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/fiction-writing|Fiction Writing]]
 - [[wiki/concepts/television-pilot-writing|Television Pilot Writing]]
 - [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]]

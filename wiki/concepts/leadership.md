@@ -13,10 +13,16 @@ source_pages:
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
+  - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
+  - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
 related:
   - wiki/concepts/diverse-teams.md
   - wiki/concepts/negotiation-and-mediation.md
   - wiki/concepts/leadership-communication.md
+  - wiki/concepts/showrunning.md
+  - wiki/concepts/values-driven-companies.md
+  - wiki/concepts/organizational-culture.md
   - wiki/concepts/framework-driven-action.md
   - wiki/concepts/trust-based-collaboration.md
   - wiki/concepts/head-and-heart-harmony.md
@@ -51,6 +57,9 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Iger also makes clear that leadership must translate into a small number of repeated strategic priorities rather than a vague aspiration to do everything.
 - Auriemma adds the coaching version of leadership: set standards clearly, make accountability normal, and build practice conditions that force growth under pressure.
 - Hamilton adds the performer-leader version: leaders model preparation, emotional recovery, appreciation, and the ability to keep mission larger than ego.
+- Axelrod and Rove add the campaign version: the way a candidate runs a campaign is itself an early signal of how they might govern under scrutiny, conflict, and time pressure.
+- Rhimes adds the showrunner version: leadership means protecting a creative vision while managing rooms, actors, production realities, budgets, and network pressures without losing the show's identity.
+- Schultz adds the values-driven company version: leadership has to reconcile financial performance, humane treatment, cultural imprinting, and strategic courage instead of treating those as separate domains.
 
 # Source Comparisons
 
@@ -58,6 +67,9 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Iger is strongest on institutional and business leadership: capital allocation, disruption, brand stewardship, and repeated strategic focus.
 - Auriemma is strongest on team leadership under competitive pressure: standards, honest correction, role discipline, and commitment.
 - Hamilton is strongest on leadership through example inside elite performance systems: preparation, resilience, emotional steadiness, and respect across the team.
+- Axelrod and Rove are strongest on leadership under public testing: campaigns expose authenticity, crisis behavior, planning discipline, and whether a person can hold a coherent line under pressure.
+- Rhimes is strongest on leadership inside creative production systems: vision has to survive contact with rooms, deadlines, production, and institutional notes.
+- Schultz is strongest on founder-led institutional leadership: values, culture, transparency, and operational rigor have to remain aligned even during crisis and scale.
 - Both reject leadership as theater. Each favors clarity, candor, and responsibility over performative certainty.
 
 # Tensions / Open Questions
@@ -65,12 +77,16 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Strong frameworks help, but a framework can also become rigid if leaders stop revising it when reality changes.
 - Public leadership often requires compromise, which can be misread as weakness depending on the audience.
 - The current branch now also has a scale tension: some advice is transferable, but Iger's model assumes organizational leverage and capital that many leaders will not have.
+- Schultz sharpens a second scale tension: humane values are easier to preach than to preserve when margins tighten and hard cuts become unavoidable.
 
 # Related Pages
 
 - [[wiki/concepts/diverse-teams|Diverse Teams]]
 - [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/showrunning|Showrunning]]
+- [[wiki/concepts/values-driven-companies|Values-Driven Companies]]
+- [[wiki/concepts/organizational-culture|Organizational Culture]]
 - [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]

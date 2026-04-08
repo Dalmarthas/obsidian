@@ -10,9 +10,14 @@ tags:
   - storytelling
 source_pages:
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
+  - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
 related:
+  - wiki/concepts/acting-craft.md
   - wiki/concepts/screenwriting.md
+  - wiki/concepts/text-and-subtext.md
   - wiki/syntheses/sorkin-screenwriting-framework.md
+  - wiki/syntheses/shonda-tv-writing-and-showrunning-framework.md
 ---
 
 # What It Is
@@ -33,14 +38,20 @@ Audience as collaborator is the idea that the audience completes part of the sto
 - Repeating information the audience already knows kills momentum.
 - Tiny confusion about who is speaking, what is happening, or why it matters creates anxiety that is hard to reverse.
 - Audiences know more than writers often assume because they bring life experience and other media knowledge into the room.
+- Rhimes adds a television-specific version of the same respect: the pilot makes a promise to the audience, episode 2 should fulfill that promise, and exposition works best when a `new person` lets the audience learn naturally rather than through forced explanation.
+- The acting source adds the performance version: audiences want to do about half of the emotional work themselves, so overrelease and overillustration can make them passive instead of pulled in.
 
 # Tensions / Open Questions
 
 - Different media tolerate different startup speeds and amounts of exposition.
 - The boundary between fruitful inference and frustrating obscurity is craft-sensitive and difficult to systematize.
+- TV serialization adds a further question: how much repetition reassures the audience about the show's identity, and how much starts to feel like stalled evolution?
 
 # Related Pages
 
 - [[wiki/concepts/screenwriting|Screenwriting]]
+- [[wiki/concepts/acting-craft|Acting Craft]]
+- [[wiki/concepts/text-and-subtext|Text and Subtext]]
 - [[wiki/concepts/dialogue-as-music|Dialogue as Music]]
 - [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
+- [[wiki/syntheses/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]

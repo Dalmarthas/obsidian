@@ -27,7 +27,14 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[raw/inbox/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary|Geno Auriemma Leadership and Team Building Masterclass Complete Summary]] - Secondary summary of a leadership masterclass on standards, accountability, trust, and team culture.
 - [[raw/inbox/2026-04-08-lewis-hamilton-masterclass-master-summary|Lewis Hamilton Masterclass Master Summary]] - Secondary summary of a performance masterclass on mindset, discipline, failure, teamwork, and authenticity.
 - [[raw/inbox/2026-04-08-chris-voss-negotiation-masterclass-master-summary|Chris Voss Negotiation Masterclass Master Summary]] - Secondary summary of a negotiation masterclass on tactical empathy, question design, labeling, and hidden leverage.
+- [[raw/inbox/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary|Chris Voss Workplace Negotiation Masterclass Complete Summary]] - Secondary summary of a workplace-negotiation masterclass with a fuller Black Swan toolkit, strategic pressure handling, and practical drills.
 - [[raw/inbox/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary|Daniel Pink Persuasion Masterclass Complete Summary]] - Secondary summary of a persuasion masterclass on attunement, buoyancy, clarity, autonomy, and timing.
+- [[raw/inbox/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary|Axelrod Rove Political Campaign Masterclass Complete Summary]] - Secondary summary of a campaign masterclass on electoral framing, research, targeting, field operations, and execution.
+- [[raw/inbox/2026-04-08-salman-rushdie-writing-masterclass-complete-summary|Salman Rushdie Writing Masterclass Complete Summary]] - Secondary summary of a fiction-writing masterclass on story architecture, voice, place, worldview, and rewriting.
+- [[raw/inbox/2026-04-08-martin-scorsese-masterclass-complete-summary|Martin Scorsese Masterclass Complete Summary]] - Secondary summary of a filmmaking masterclass on vocation, visual language, casting, editing, and cinema history.
+- [[raw/inbox/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary|Shonda Rhimes TV Writing and Showrunning Masterclass Summary]] - Secondary summary of a television masterclass on pilot design, character-driven drama, dialogue, writers' rooms, and showrunning.
+- [[raw/inbox/2026-04-08-kevin-spacey-acting-masterclass-master-summary|Kevin Spacey Acting Masterclass Master Summary]] - Secondary summary of an acting masterclass on truthful reaction, monologues, auditions, screen arc, and professional craft discipline.
+- [[raw/inbox/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary|Howard Schultz Starbucks Values-Driven Leadership Masterclass Summary]] - Secondary summary of a leadership masterclass on values, culture, crisis, self-disruption, and building humane companies.
 
 ## Sources
 
@@ -49,7 +56,14 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary|Geno Auriemma Leadership and Team Building Masterclass Complete Summary]] - Source page for a secondary guide to team standards, accountability, trust, and coaching culture.
 - [[wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary|Lewis Hamilton Masterclass Master Summary]] - Source page for a secondary guide to elite performance mindset, preparation, resilience, and teamwork.
 - [[wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary|Chris Voss Negotiation Masterclass Master Summary]] - Source page for a secondary guide to tactical empathy, calibrated questions, and negotiation leverage.
+- [[wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary|Chris Voss Workplace Negotiation Masterclass Complete Summary]] - Source page for a second Voss-derived guide focused on technique sequencing, workplace drills, and strategic pressure handling.
 - [[wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary|Daniel Pink Persuasion Masterclass Complete Summary]] - Source page for a secondary guide to attunement, resilience, problem-finding, autonomy-support, and timing in persuasion.
+- [[wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary|Axelrod Rove Political Campaign Masterclass Complete Summary]] - Source page for a secondary guide to campaign purpose, framing, research, targeting, and turnout execution.
+- [[wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary|Salman Rushdie Writing Masterclass Complete Summary]] - Source page for a secondary guide to fiction craft, voice, place, worldview, and revision.
+- [[wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary|Martin Scorsese Masterclass Complete Summary]] - Source page for a secondary guide to filmmaking vocation, visual literacy, casting, editing, and cinema language.
+- [[wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary|Shonda Rhimes TV Writing and Showrunning Masterclass Summary]] - Source page for a secondary guide to television writing, pilot promises, dialogue, rooms, and showrunning.
+- [[wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary|Kevin Spacey Acting Masterclass Master Summary]] - Source page for a secondary guide to acting truth, text work, monologues, auditions, and stage-versus-screen craft.
+- [[wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary|Howard Schultz Starbucks Values-Driven Leadership Masterclass Summary]] - Source page for a secondary guide to values-driven leadership, culture, crisis transparency, and offensive self-disruption.
 
 ## Entities
 
@@ -58,6 +72,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/entities/bob-iger|Bob Iger]] - Leadership and strategy teacher whose source expands the vault's business and brand branch.
 - [[wiki/entities/chris-voss|Chris Voss]] - Negotiation teacher whose source deepens the vault's communication and dealmaking branch.
 - [[wiki/entities/daniel-pink|Daniel Pink]] - Persuasion teacher whose source anchors the vault's persuasion branch across attunement, buoyancy, and timing.
+- [[wiki/entities/david-axelrod|David Axelrod]] - Political strategist whose source deepens the vault's campaign, message, and authenticity branch.
 - [[wiki/entities/dan-brown|Dan Brown]] - Novelist whose masterclass now anchors the vault's thriller-writing branch.
 - [[wiki/entities/david-baldacci|David Baldacci]] - Novelist whose source deepens the vault's commercial-thriller branch.
 - [[wiki/entities/david-carson|David Carson]] - Designer whose source anchors the vault's graphic-design branch.
@@ -69,31 +84,48 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/entities/goodby-silverstein-partners|Goodby Silverstein & Partners]] - Advertising agency whose philosophy now anchors the vault's advertising branch.
 - [[wiki/entities/jane-goodall|Jane Goodall]] - Primatologist and conservationist whose source now anchors the vault's conservation branch.
 - [[wiki/entities/jeff-koons|Jeff Koons]] - Artist whose source anchors the vault's art-making and viewer-centered art branch.
+- [[wiki/entities/kevin-spacey|Kevin Spacey]] - Acting teacher whose source starts the vault's acting branch across performance, monologues, and auditions.
+- [[wiki/entities/howard-schultz|Howard Schultz]] - Business leader whose source deepens the vault's values-driven company, culture, and strategy branch.
+- [[wiki/entities/karl-rove|Karl Rove]] - Political strategist whose source deepens the vault's campaign planning, targeting, and execution branch.
 - [[wiki/entities/lewis-hamilton|Lewis Hamilton]] - Driver and competitor whose source expands the vault's performance and high-pressure leadership branch.
+- [[wiki/entities/martin-scorsese|Martin Scorsese]] - Filmmaker whose source deepens the vault's filmmaking branch across visual literacy, casting, and editing.
+- [[wiki/entities/salman-rushdie|Salman Rushdie]] - Fiction teacher whose source deepens the vault's novel-writing, voice, setting, and worldview branch.
+- [[wiki/entities/shonda-rhimes|Shonda Rhimes]] - Television writer-showrunner whose source deepens the vault's TV writing, room, and showrunning branch.
 
 ## Concepts
 
 - [[wiki/concepts/llm-wiki|LLM Wiki]] - A persistent, LLM-maintained wiki that compiles and updates knowledge instead of re-deriving it on every query.
 - [[wiki/concepts/advertising|Advertising]] - Humane, culturally aware brand communication that people may actually want to engage with.
+- [[wiki/concepts/acting-craft|Acting Craft]] - Performance truth built from reaction, stakes, textual precision, variation, and arc awareness rather than affectation.
+- [[wiki/concepts/accusation-audit|Accusation Audit]] - A preemptive cluster of negative labels used to surface and defuse the bad story before a difficult ask or hard conversation.
 - [[wiki/concepts/animal-cognition|Animal Cognition]] - The continuity of cognition, emotion, and culture across nonhuman animals.
 - [[wiki/concepts/art-making|Art Making]] - Building art through self-acceptance, material openness, scale, and a generous relationship to the viewer.
 - [[wiki/concepts/authentic-communication|Authentic Communication]] - Speaking truthfully and humanly enough that audiences feel respected rather than managed.
 - [[wiki/concepts/attunement|Attunement]] - Perspective-taking as a practical influence skill for understanding interests, constraints, and likely reactions.
+- [[wiki/concepts/auditioning|Auditioning]] - Preparing, adapting, and presenting work under compressed professional conditions without collapsing into panic or ego display.
 - [[wiki/concepts/brand-stewardship|Brand Stewardship]] - Protecting and evolving a brand's long-term identity without hollowing it out.
 - [[wiki/concepts/mass-intimacy|Mass Intimacy]] - Creating communication at mass scale that still feels personal and respectful.
+- [[wiki/concepts/mirroring|Mirroring]] - Repeating a small fragment of the other person's words so they elaborate instead of shutting down or defending.
+- [[wiki/concepts/monologue-preparation|Monologue Preparation]] - Selecting, analyzing, grounding, and varying monologue material until it becomes dramatically playable.
 - [[wiki/concepts/brand-strategy|Brand Strategy]] - The insight layer that gives creative work a coherent reason to exist.
 - [[wiki/concepts/business-strategy|Business Strategy]] - A small set of strategic priorities that govern where an organization places time, capital, and attention.
 - [[wiki/concepts/buoyancy|Buoyancy]] - Resilience in the face of rejection, friction, and repeated non-catastrophic failure.
+- [[wiki/concepts/calibrated-questions|Calibrated Questions]] - Open-ended `what` and `how` questions designed to reveal constraints, shift thinking, and move negotiations toward implementation reality.
+- [[wiki/concepts/casting-and-performance-direction|Casting and Performance Direction]] - Choosing the right actors and creating the conditions where truthful performance can emerge on camera.
 - [[wiki/concepts/career-blueprint|Career Blueprint]] - A long-range architecture connecting purpose, projects, lanes, and timing.
+- [[wiki/concepts/character-driven-storytelling|Character-Driven Storytelling]] - Story movement generated by needs, wants, contradictions, and choices rather than detached plot machinery.
 - [[wiki/concepts/community-based-conservation|Community-Based Conservation]] - Conservation built through local partnership, trust, and aligned livelihood.
 - [[wiki/concepts/conservation|Conservation]] - Environmental protection understood as both an ecological and human-systems problem.
 - [[wiki/concepts/creative-integrity|Creative Integrity]] - Staying faithful to the living core of an idea instead of diluting it for safety or trend-chasing.
 - [[wiki/concepts/creative-pitching|Creative Pitching]] - The craft of helping bold ideas survive contact with clients and decision-makers.
 - [[wiki/concepts/creative-entrepreneurship|Creative Entrepreneurship]] - Designing a flexible multi-lane career as a personal enterprise.
 - [[wiki/concepts/diverse-teams|Diverse Teams]] - Teams with broad backgrounds and perspectives that outperform narrow groups over time.
+- [[wiki/concepts/dynamic-silence|Dynamic Silence]] - Deliberate pauses used after mirrors, labels, summaries, or questions so the other person keeps talking or thinking.
+- [[wiki/concepts/editing-as-discovery|Editing as Discovery]] - Finding the real film through assembly, rhythm, cutting, screening, and post-production judgment.
 - [[wiki/concepts/effective-communication|Effective Communication]] - Communication as a repeatable skill built from clarity, listening, question design, and respect.
 - [[wiki/concepts/ethical-consumerism|Ethical Consumerism]] - Using buying choices and brand pressure as one practical lever for aligning markets with values.
 - [[wiki/concepts/filmmaking|Filmmaking]] - Building a film holistically across writing, performance, image, sound, and set culture.
+- [[wiki/concepts/fiction-writing|Fiction Writing]] - Fiction as the convergence of story engine, voice, place, character, form, and worldview.
 - [[wiki/concepts/financial-confidence|Financial Confidence]] - A concrete plan that makes career risk and transition more navigable.
 - [[wiki/concepts/framework-driven-action|Framework-Driven Action]] - Using an explicit strategy, blueprint, or worldview to keep action coherent across decisions.
 - [[wiki/concepts/graphic-design|Graphic Design]] - Design as emotional communication that works before literal reading.
@@ -104,14 +136,21 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/immersive-research|Immersive Research]] - Firsthand, reality-based research that deepens plausibility while leaving most of itself off the page.
 - [[wiki/concepts/interconnectedness-principle|Interconnectedness Principle]] - The systems idea that ecological and human problems are tightly linked.
 - [[wiki/concepts/intention-and-impact|Intention and Impact]] - The accountability distinction between what someone meant and what their actions actually did.
+- [[wiki/concepts/labeling|Labeling]] - Naming the emotion, motive, or dynamic you think is present so the other person feels seen and reveals more.
 - [[wiki/concepts/leadership|Leadership]] - Direction-setting and responsibility-taking grounded in framework, process, and action.
 - [[wiki/concepts/leadership-communication|Leadership Communication]] - Conversational, story-driven public communication that builds trust and clarity.
+- [[wiki/concepts/organizational-culture|Organizational Culture]] - The real behavior system of an organization, measured by what is tolerated, corrected, and said when leaders are absent.
+- [[wiki/concepts/opposition-research|Opposition Research]] - Self-research and opponent research used to reduce surprise and ground attacks in documented reality.
+- [[wiki/concepts/political-campaigns|Political Campaigns]] - Electoral strategy as an operating system of purpose, framing, targeting, media, field, and execution.
 - [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]] - Turning teams, clients, communities, and counterparts into partners rather than obstacles.
 - [[wiki/concepts/screenwriting|Screenwriting]] - Writing a screenplay as a production blueprint for a visual medium.
 - [[wiki/concepts/story-propulsion|Story Propulsion]] - The structural and scene-by-scene techniques that keep a narrative moving forward.
+- [[wiki/concepts/setting-as-character|Setting as Character]] - Place and time treated as active narrative forces rather than neutral backdrops.
 - [[wiki/concepts/tactical-empathy|Tactical Empathy]] - Deliberate understanding used to lower resistance, gather information, and influence outcomes.
 - [[wiki/concepts/television-pilot-writing|Television Pilot Writing]] - Designing a pilot that proves a series engine rather than only telling a contained story.
+- [[wiki/concepts/text-and-subtext|Text and Subtext]] - The distinction between what characters say and what they actually mean, want, or conceal.
 - [[wiki/concepts/three-act-structure|Three-Act Structure]] - The classical setup-conflict-resolution model used here as a practical screenwriting scaffold.
+- [[wiki/concepts/voter-targeting|Voter Targeting]] - Segmenting the electorate into movable groups so persuasion and turnout resources hit the voters who matter most.
 - [[wiki/concepts/intention-and-obstacle|Intention and Obstacle]] - The foundational dramatic rule that somebody wants something and something stands in the way.
 - [[wiki/concepts/audience-as-collaborator|Audience as Collaborator]] - Treating the audience as an intelligent participant who completes part of the storytelling work.
 - [[wiki/concepts/dialogue-as-music|Dialogue as Music]] - Writing dialogue for rhythm, sound, and performance rather than strict realism.
@@ -120,13 +159,22 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/thriller-writing|Thriller Writing]] - Fast-moving fiction built around urgency, unresolved questions, and reader propulsion.
 - [[wiki/concepts/contract-clock-crucible|Contract, Clock, Crucible]] - Dan Brown's three-part escalation framework for promises, urgency, and confinement.
 - [[wiki/concepts/question-and-answer-structure|Question-and-Answer Structure]] - The suspense rhythm of asking questions, delaying answers, and paying them off cleanly.
+- [[wiki/concepts/narrative-voice-and-perspective|Narrative Voice and Perspective]] - Point of view, narrator design, style, and rhythm as core story-shaping choices.
+- [[wiki/concepts/no-oriented-questions|No-Oriented Questions]] - Questions framed to invite `no` because `no` often creates more safety, honesty, and autonomy than pressured agreement.
 - [[wiki/concepts/persuasion|Persuasion]] - Human-centered influence built around context, understanding, autonomy, and ethical service.
 - [[wiki/concepts/problem-finding|Problem-Finding]] - Locating the real issue underneath the stated issue before rushing into solution mode.
 - [[wiki/concepts/protect-the-process|Protect the Process]] - A writing-process rule that prioritizes disciplined routine over daily output anxiety.
+- [[wiki/concepts/self-disruption|Self-Disruption]] - Changing or cannibalizing parts of your own business before competitors or market shifts force the move.
+- [[wiki/concepts/showrunning|Showrunning]] - The combined creative and managerial leadership that keeps a television series coherent across writing, production, and institutional pressure.
+- [[wiki/concepts/ground-game-and-gotv|Ground Game and GOTV]] - The field and turnout system that converts identified support into actual votes.
 - [[wiki/concepts/timing-and-sequencing|Timing and Sequencing]] - Using beginnings, midpoints, endings, and ordering effects as part of the influence process.
 - [[wiki/concepts/typography-as-image|Typography as Image]] - Treating words and letterforms as visual meaning rather than neutral containers.
+- [[wiki/concepts/values-driven-companies|Values-Driven Companies]] - Companies that try to align commercial performance with humane treatment, trust, and explicit principles.
+- [[wiki/concepts/writer-worldview|Writer Worldview]] - The deeply personal picture of reality and human nature that makes a writer's work unmistakably theirs.
 - [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]] - A cross-source workflow for planning, drafting, and reshaping narrative work.
+- [[wiki/concepts/writers-room-craft|Writers' Room Craft]] - The room behaviors and contribution patterns that make television collaboration productive under deadline.
 - [[wiki/concepts/viewer-centered-art|Viewer-Centered Art]] - The idea that an artwork becomes fully alive when the viewer completes its meaning.
+- [[wiki/concepts/visual-literacy|Visual Literacy]] - Reading and making meaning through images, sequence, form, and visual contrast rather than words alone.
 - [[wiki/concepts/zone-of-genius|Zone of Genius]] - The overlap of passion, talents, values, and skills that best guides career design.
 
 ## Syntheses
@@ -136,6 +184,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]] - A reusable negotiation model built around tactical empathy, labels, calibrated questions, and black swans.
 - [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]] - A reusable leadership model built around frameworks, teams, negotiation, and responsibility.
 - [[wiki/syntheses/communication-and-influence-models|Communication and Influence Models]] - A cross-source map of how communication, empathy, and question design drive influence.
+- [[wiki/syntheses/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]] - A reusable campaign model built around purpose, framing, research, targeting, and disciplined execution.
 - [[wiki/syntheses/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]] - A reusable persuasion model built around attunement, buoyancy, problem-finding, autonomy, and timing.
 - [[wiki/syntheses/dan-brown-thriller-framework|Dan Brown Thriller Framework]] - A reusable craft model distilled from the Dan Brown masterclass summary.
 - [[wiki/syntheses/duffer-pilot-development-framework|Duffer Pilot Development Framework]] - A reusable television-development model for big ideas, pilot engines, and layered outlining.
@@ -148,8 +197,13 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]] - A cross-source map of how the non-writing branches approach humane, disciplined change.
 - [[wiki/syntheses/iger-strategy-framework|Iger Strategy Framework]] - A reusable business-leadership model built around priorities, brand stewardship, negotiation, and risk.
 - [[wiki/syntheses/jeff-koons-art-framework|Jeff Koons Art Framework]] - A reusable art-making model built around self-acceptance, viewer completion, and material freedom.
+- [[wiki/syntheses/kevin-spacey-acting-framework|Kevin Spacey Acting Framework]] - A reusable acting model built around reaction, textual service, stakes, audience restraint, and professional preparation.
 - [[wiki/syntheses/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]] - A reusable high-performance model built around preparation, failure processing, balance, and teamwork.
 - [[wiki/syntheses/lynch-creative-framework|Lynch Creative Framework]] - A reusable creative model built around idea capture, atmosphere, integrity, and humane filmmaking.
+- [[wiki/syntheses/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]] - A reusable fiction-writing model built around necessity, openings, voice, setting, imagination, and rewriting.
+- [[wiki/syntheses/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]] - A reusable company-building model built around values, culture, focus, crisis truth-telling, and self-disruption.
+- [[wiki/syntheses/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]] - A reusable filmmaking model built around vocation, cinema language, casting, material world-building, and discovery in the edit.
+- [[wiki/syntheses/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]] - A reusable television-writing model built around premise, character engine, pilot promise, subtext, room discipline, and showrunning.
 - [[wiki/syntheses/screenplay-starting-checklist|Screenplay Starting Checklist]] - A durable pre-draft checklist extracted from the current screenwriting source base.
 - [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]] - A reusable craft model distilled from the Aaron Sorkin masterclass summary.
 - [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]] - A cross-source comparison of overlapping craft principles across practical screenwriting and thriller writing.

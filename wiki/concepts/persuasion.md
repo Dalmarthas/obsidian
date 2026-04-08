@@ -12,14 +12,17 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
+  - wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
+  - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
 related:
   - wiki/concepts/effective-communication.md
   - wiki/concepts/tactical-empathy.md
   - wiki/concepts/attunement.md
   - wiki/concepts/problem-finding.md
   - wiki/concepts/timing-and-sequencing.md
+  - wiki/concepts/political-campaigns.md
   - wiki/syntheses/daniel-pink-persuasion-framework.md
   - wiki/syntheses/communication-and-influence-models.md
 ---
@@ -40,21 +43,25 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - Pink gives the branch its clearest governing model: attunement, buoyancy, and clarity inside a world of information parity rather than seller control.
 - Pink also argues that context, autonomy, and doing the right thing matter more than personality mythology or hard-sell aggression.
 - Voss contributes the negotiation-heavy end of the branch through tactical empathy, calibrated questions, and information discovery.
+- The more detailed Voss workplace source expands that contribution: safe `no`, accusation audits, loss aversion, and summary-driven `that's right` moments show how persuasion can move by reducing threat instead of increasing pressure.
 - Stephanopoulos contributes the accountability-and-presence end through preparation, clear questions, silence, and civil pressure.
 - Clinton contributes the leadership-and-public-trust end through story, respect, and persuasion that sounds like a real person rather than a performer.
+- Axelrod and Rove contribute the electoral version: define the choice, keep the message authentic, know the target audience, and repeat the governing frame across every channel.
 
 # Source Comparisons
 
 - Pink is broadest and most meta: persuasion is a general human skill shaped by context, autonomy, ethics, and timing.
-- Voss is most tactical and adversarial: persuasion works through empathy tools, labels, and question design inside bargaining.
+- Voss is most tactical and adversarial: persuasion works through empathy tools, labels, summaries, and question design inside bargaining.
 - Stephanopoulos is strongest on public accountability and conversational credibility under pressure.
 - Clinton is strongest on persuasion as public leadership and trust-building across disagreement.
+- Axelrod and Rove are strongest on persuasion at campaign scale: message, targeting, channel mix, and turnout all have to reinforce the same choice architecture.
 
 # Tensions / Open Questions
 
 - Humane persuasion can still become manipulation if service language is used only cosmetically.
 - Pink's positive-sum framing is strong but not universal; some situations involve real coercion, structural asymmetry, or incompatible interests.
 - The current branch is strongest on spoken influence, not on long-form writing, mass media persuasion, or propaganda.
+- Axelrod and Rove widen the branch into mass political persuasion, but also surface the risk that highly effective campaign techniques can outrun democratic trust if ethics are under-specified.
 
 # Related Pages
 
@@ -63,5 +70,6 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - [[wiki/concepts/attunement|Attunement]]
 - [[wiki/concepts/problem-finding|Problem-Finding]]
 - [[wiki/concepts/timing-and-sequencing|Timing and Sequencing]]
+- [[wiki/concepts/political-campaigns|Political Campaigns]]
 - [[wiki/syntheses/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
 - [[wiki/syntheses/communication-and-influence-models|Communication and Influence Models]]

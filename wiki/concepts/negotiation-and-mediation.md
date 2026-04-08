@@ -13,11 +13,14 @@ source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
+  - wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary.md
 related:
   - wiki/concepts/leadership.md
   - wiki/concepts/leadership-communication.md
   - wiki/concepts/trust-based-collaboration.md
   - wiki/concepts/tactical-empathy.md
+  - wiki/concepts/calibrated-questions.md
+  - wiki/concepts/accusation-audit.md
   - wiki/syntheses/clinton-leadership-framework.md
   - wiki/syntheses/iger-strategy-framework.md
   - wiki/syntheses/chris-voss-negotiation-framework.md
@@ -45,12 +48,13 @@ Negotiation and mediation are the practices of moving parties with different int
 - Iger adds a corporate-dealmaking version of the same lesson: remove ego, surface real interests candidly, and make it easier for both sides to feel the agreement respects what matters to them.
 - Voss adds a tactical toolkit for the same problem: mirroring, labeling, calibrated questions, and no-oriented questions help lower resistance while exposing real constraints.
 - Voss also treats dynamic silence as a negotiation instrument rather than as conversational failure.
+- The more detailed Voss workplace source extends the branch into accusation audits, fairness handling, deadline testing, loss-aversion framing, and practical workplace drills for difficult conversations.
 
 # Source Comparisons
 
 - Clinton is strongest on mediation between opposed human groups whose dignity and lived consequences are part of the negotiation itself.
 - Iger is strongest on high-stakes business negotiation where candor, relationship quality, and clear strategic intent determine whether a deal is even possible.
-- Voss is strongest on repeatable negotiation mechanics: empathy, question design, and precise language choices that shift the interaction moment by moment.
+- Voss is strongest on repeatable negotiation mechanics: empathy, question design, negativity management, and precise language choices that shift the interaction moment by moment.
 - Both treat respect as tactically useful rather than merely morally nice.
 
 # Tensions / Open Questions
@@ -58,6 +62,7 @@ Negotiation and mediation are the practices of moving parties with different int
 - Making the other side feel understood is not the same as conceding their case; balancing empathy and firmness is a live challenge.
 - Public pressure can distort private credibility if leaders overuse dramatic public posturing.
 - The branch now spans political mediation and corporate negotiation; the transferable rule is real-interest understanding, but the power dynamics are not the same.
+- Deadlines and fairness claims are not automatically facts; the more detailed Voss source treats them as signals to test, not just constraints to obey.
 
 # Related Pages
 
@@ -65,6 +70,8 @@ Negotiation and mediation are the practices of moving parties with different int
 - [[wiki/concepts/leadership-communication|Leadership Communication]]
 - [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/tactical-empathy|Tactical Empathy]]
+- [[wiki/concepts/calibrated-questions|Calibrated Questions]]
+- [[wiki/concepts/accusation-audit|Accusation Audit]]
 - [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]]
 - [[wiki/syntheses/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]

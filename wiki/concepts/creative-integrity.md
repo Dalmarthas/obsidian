@@ -15,9 +15,14 @@ source_pages:
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-jeff-koons-art-and-creativity-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
+  - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
+  - wiki/concepts/acting-craft.md
   - wiki/concepts/authentic-communication.md
   - wiki/concepts/idea-development.md
+  - wiki/concepts/filmmaking.md
   - wiki/concepts/brand-stewardship.md
   - wiki/concepts/graphic-design.md
   - wiki/concepts/art-making.md
@@ -44,6 +49,9 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - Welteroth treats authentic voice and lived difference as strengths that should not be hidden to fit inherited formulas.
 - The Duffer Brothers warn against chasing trends instead of writing what you genuinely love.
 - Koons adds a less defensive version of integrity: self-acceptance, anti-judgment, and respect for ordinary cultural material let the work stay open instead of shrinking around shame.
+- Scorsese adds vocation and fidelity to the original spark: research, technology, and production pressure should deepen the work, not pull it away from why it needed to be made.
+- The acting source adds performance humility: serve the writing, not your vanity, and stop treating the text as something to drag down to your comfort level.
+- Rushdie adds artistic necessity: write the books you cannot avoid writing, keep the work tied to your deepest real motives, and resist genericity by becoming more idiosyncratically yourself.
 
 # Source Comparisons
 
@@ -53,6 +61,9 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - Welteroth frames it as self-authorship: do not disappear into a professional costume.
 - The Duffer Brothers frame it as passion discipline: do not build years of work on something you do not actually love.
 - Koons frames it as radical permission: the artist does not need to apologize for pleasure, scale, sentiment, or popular reference if the work is fully inhabited.
+- Scorsese frames it as artistic calling: the work begins in an inner compulsion, and every technical or collaborative choice should stay answerable to that necessity.
+- The acting source frames it as self-forgetting professionalism: the actor is a temporary custodian of the text and should not flatten it into familiar tricks meant to display talent.
+- Rushdie frames it as artistic irreducibility: the work should come from a worldview and necessity that other people cannot counterfeit for you.
 
 # Tensions / Open Questions
 
@@ -61,8 +72,10 @@ Creative integrity is the discipline of staying faithful to the living core of a
 
 # Related Pages
 
+- [[wiki/concepts/acting-craft|Acting Craft]]
 - [[wiki/concepts/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/idea-development|Idea Development]]
+- [[wiki/concepts/filmmaking|Filmmaking]]
 - [[wiki/concepts/brand-stewardship|Brand Stewardship]]
 - [[wiki/concepts/graphic-design|Graphic Design]]
 - [[wiki/concepts/art-making|Art Making]]

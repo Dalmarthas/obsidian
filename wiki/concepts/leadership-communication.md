@@ -12,6 +12,7 @@ source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
 related:
   - wiki/concepts/leadership.md
   - wiki/concepts/negotiation-and-mediation.md
@@ -41,12 +42,14 @@ Leadership communication is the art of helping people understand a situation, tr
 - Speakers should not become imprisoned by text or by imitating someone else's style.
 - Stephanopoulos adds that preparation, direct questions, attention to body language, and the disciplined use of silence all shape whether a leader seems credible.
 - Iger adds that repeated strategic language matters because leaders create trust partly by making priorities legible and consistent over time.
+- Axelrod and Rove add campaign discipline: the stump speech, launch, debate answers, and crisis responses must all serve the same core message or the candidate starts dissolving into noise.
 
 # Source Comparisons
 
 - Clinton is strongest on public persuasion through story, tone, and audience respect.
 - Stephanopoulos is strongest on clarity under pressure: preparation, presence, and direct questioning keep communication from turning vague or theatrical.
 - Iger is strongest on institutional clarity: leadership communication must repeat the few priorities that actually govern decisions.
+- Axelrod and Rove are strongest on message consistency over long campaigns: leaders need a durable public frame that survives attacks, gaffes, media churn, and changing electoral phases.
 
 # Tensions / Open Questions
 

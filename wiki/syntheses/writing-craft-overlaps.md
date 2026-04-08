@@ -16,6 +16,7 @@ basis:
   - wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-david-lynch-writing-summary.md
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
+  - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
   - wiki/concepts/story-propulsion.md
   - wiki/concepts/writing-process-and-revision.md
   - wiki/concepts/idea-development.md
@@ -54,6 +55,9 @@ The current source base now supports seven recurring craft principles:
 7. Strong work needs integrity as well as craft.
    Lynch, the Duffer Brothers, and Sorkin in different ways resist deadening the work through fakery, trend-chasing, or compromise that betrays the living core of the piece.
 
+8. The telling is part of the story, not just the container.
+   Rushdie makes explicit what some earlier sources implied: point of view, voice, rhythm, opening contract, and setting choices are not secondary to story but part of what the story is.
+
 # Basis
 
 - Source summaries: [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]], [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]], [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary|Dan Brown Masterclass Complete Summary]], [[wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary|Duffer Brothers Masterclass Complete Summary]], [[wiki/sources/2026-04-08-david-lynch-writing-summary|David Lynch Writing Summary]], [[wiki/sources/2026-04-08-david-baldacci-masterclass-summary|David Baldacci Masterclass Summary]]
@@ -82,12 +86,20 @@ The current source base now supports seven recurring craft principles:
   The Duffer Brothers emphasize staying zoomed out until the blurry picture comes into focus.
   Lynch emphasizes catching ideas and protecting the state that lets them emerge.
   Baldacci emphasizes working pragmatically, researching seriously, and using editorial challenge productively.
+  Rushdie adds long-form literary patience: false starts, discovering the right door, nightly rereading, and recognizing the moment when more revision may become blind surgery.
 
 - On integrity:
   Lynch is the hardest-line defender of fidelity to the idea.
   The Duffer Brothers reject trend-chasing in favor of genuine enthusiasm for the concept.
   Sorkin treats audience respect as a form of integrity in scene construction.
   Brown and Baldacci are more commercial, but neither treats commercial readability as permission for sloppiness.
+  Rushdie adds necessity and worldview: the work gains force when it is tied to the writer's deepest motives and most idiosyncratic way of seeing.
+
+- On telling:
+  Rushdie is strongest on opening contracts, point of view, setting, and voice.
+  Sorkin is strongest on spoken rhythm and dramatic speech.
+  Brown and Baldacci are stronger on delivery systems that create reading compulsion.
+  Together they show that narrative force comes not only from what happens but from the mode of telling.
 
 - On medium:
   The 2010 article, Sorkin, Duffer Brothers, and Lynch speak from screen storytelling.
@@ -97,7 +109,7 @@ The current source base now supports seven recurring craft principles:
 # Gaps
 
 - This comparison is still built mostly from secondary summaries rather than primary scripts, novels, or transcripts.
-- The vault now has better coverage of process, propulsion, and ideation than of character psychology or scene-level emotional architecture.
+- The vault now has better coverage of process, propulsion, ideation, and narrative telling than before, but still needs more on scene-level emotional architecture.
 - The next useful contrast would be sources that challenge the current mix of structural discipline and creative-integrity thinking from another direction.
 
 # Related Pages

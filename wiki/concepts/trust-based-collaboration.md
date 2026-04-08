@@ -13,10 +13,15 @@ source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-conversation-jane-goodall-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
+  - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
 related:
+  - wiki/concepts/filmmaking.md
+  - wiki/concepts/casting-and-performance-direction.md
   - wiki/concepts/diverse-teams.md
   - wiki/concepts/negotiation-and-mediation.md
   - wiki/concepts/community-based-conservation.md
@@ -43,6 +48,9 @@ Trust-based collaboration is the practice of designing work so that other people
 - Bill Clinton emphasizes safe disagreement, sharing credit, assuming responsibility, and earning the right to disagree by demonstrating genuine respect for the people involved.
 - Elaine Welteroth recommends boards of advisors, peer mentorship, giving before asking, and hiring for blind spots rather than for comfortable sameness.
 - Jane Goodall's TACARE model begins with listening, uses local staff, builds long-term partnership, and treats dialogue with adversaries as more effective than immediate confrontation.
+- Scorsese adds the filmmaking version: actors, editors, cinematographers, and the core crew do better work when they trust that everyone is making the same film and that exploration will not be punished.
+- Rhimes adds the television-room version: writers and staff contribute better when they read notes, build on other people rather than posturing, and understand that collaboration is in service of the show rather than ego display.
+- Schultz adds the scaled-company version: trust deepens when leaders share the full truth, invest materially in people, and make employees feel the company is being built with them rather than on top of them.
 - Geno Auriemma adds the team-performance version: trust is inseparable from standards, role acceptance, direct correction, and the belief that hard coaching serves the collective goal.
 - Lewis Hamilton adds the elite-team version: appreciation, calm communication, and visible respect for every role help keep high-pressure groups functional.
 - Chris Voss adds the adversarial version: even in negotiation, progress improves when the counterpart feels heard rather than cornered.
@@ -53,6 +61,9 @@ Trust-based collaboration is the practice of designing work so that other people
 - Clinton focuses on trust inside leadership and negotiation: people take hard conversations more seriously when they know you are fair, respectful, and accountable.
 - Welteroth focuses on trust inside career architecture: the right community and advisory structure reduce blind spots and make reinvention less lonely and less reckless.
 - Goodall focuses on trust inside social change: communities and even opponents have to feel listened to before durable change becomes possible.
+- Scorsese focuses on trust inside high-stakes creative production: long-term collaborators, actor safety, and a small core team make it easier to take artistic risks without losing coherence.
+- Rhimes focuses on trust inside fast television systems: room usefulness depends on preparedness, contribution quality, and enough mutual confidence that ideas can be built collaboratively under deadline.
+- Schultz focuses on trust inside large organizations: transparency, benefits, empathy, and no-retribution forums create the reservoir of trust needed before a crisis arrives.
 - Auriemma focuses on trust inside demanding teams: accountability and emotional honesty are part of trust, not violations of it.
 - Hamilton focuses on trust inside elite execution: culture deteriorates quickly when pressure removes gratitude, role respect, or emotional steadiness.
 - Voss focuses on trust inside bargaining: acknowledgment and calibrated curiosity make counterparts more cooperative without requiring softness.
@@ -64,6 +75,8 @@ Trust-based collaboration is the practice of designing work so that other people
 
 # Related Pages
 
+- [[wiki/concepts/filmmaking|Filmmaking]]
+- [[wiki/concepts/casting-and-performance-direction|Casting and Performance Direction]]
 - [[wiki/concepts/diverse-teams|Diverse Teams]]
 - [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/community-based-conservation|Community-Based Conservation]]
