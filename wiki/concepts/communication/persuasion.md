@@ -16,8 +16,10 @@ source_pages:
   - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
+  - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
 related:
   - wiki/concepts/communication/effective-communication.md
+  - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/attunement.md
   - wiki/concepts/communication/problem-finding.md
@@ -47,6 +49,7 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - Stephanopoulos contributes the accountability-and-presence end through preparation, clear questions, silence, and civil pressure.
 - Clinton contributes the leadership-and-public-trust end through story, respect, and persuasion that sounds like a real person rather than a performer.
 - Axelrod and Rove contribute the electoral version: define the choice, keep the message authentic, know the target audience, and repeat the governing frame across every channel.
+- Harry Dry adds a written persuasion layer at the level of claims and lines: persuasion gets stronger when the sentence is vivid, checkable, and anchored in something uniquely true.
 
 # Source Comparisons
 
@@ -55,17 +58,19 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - Stephanopoulos is strongest on public accountability and conversational credibility under pressure.
 - Clinton is strongest on persuasion as public leadership and trust-building across disagreement.
 - Axelrod and Rove are strongest on persuasion at campaign scale: message, targeting, channel mix, and turnout all have to reinforce the same choice architecture.
+- Harry Dry is strongest on persuasion through wording itself: before the audience reaches context, timing, or empathy, the line has to be concrete enough to survive first contact.
 
 # Tensions / Open Questions
 
 - Humane persuasion can still become manipulation if service language is used only cosmetically.
 - Pink's positive-sum framing is strong but not universal; some situations involve real coercion, structural asymmetry, or incompatible interests.
-- The current branch is strongest on spoken influence, not on long-form writing, mass media persuasion, or propaganda.
+- The branch is now stronger on written influence than before, but it still needs more direct-response, long-form sales, and mass-media propaganda sources.
 - Axelrod and Rove widen the branch into mass political persuasion, but also surface the risk that highly effective campaign techniques can outrun democratic trust if ethics are under-specified.
 
 # Related Pages
 
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/concepts/communication/attunement|Attunement]]
 - [[wiki/concepts/communication/problem-finding|Problem-Finding]]

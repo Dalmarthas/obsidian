@@ -17,7 +17,9 @@ basis:
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
+  - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
   - wiki/concepts/communication/effective-communication.md
+  - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/attunement.md
   - wiki/concepts/communication/persuasion.md
@@ -60,7 +62,10 @@ The current source base supports a seven-part model:
 7. Hold accountability and civility together.
    The strongest communicators do not confuse aggression with strength, and the strongest persuaders do not confuse pressure with movement.
 
-8. Define the choice and repeat it relentlessly.
+8. Make the claim concrete enough to stick.
+   At scale, a message becomes stronger when people can picture it, test it against reality, and repeat it without flattening it into generic abstraction.
+
+9. Define the choice and repeat it relentlessly.
    At scale, influence depends on framing what the audience believes the decision is about and reinforcing that frame across channels and crises.
 
 # Basis
@@ -76,10 +81,11 @@ The current source base supports a seven-part model:
 - Axelrod and Rove are strongest on influence at electoral scale: define the choice, stay on brand, and coordinate every channel and field action around that frame.
 - Clinton is strongest on human-scale persuasion through story, tone, and audience respect.
 - Iger is strongest on repeated strategic clarity inside institutional leadership.
+- Harry Dry is strongest on written influence at first contact: if the line is not vivid, falsifiable, and distinct, much of the later persuasion work never gets a chance to happen.
 
 # Gaps
 
-- The current overlap map is strongest on one-to-one and one-to-many communication, not on written communication at scale.
+- The current overlap map is now stronger on written communication at scale, but it still needs more sources from direct response, propaganda, and editorial or journalistic writing traditions.
 - The vault still needs sources from more adversarial debate traditions and from therapeutic or counseling communication traditions.
 - Pink broadens the branch into self-motivation and timing design, but the vault still needs stronger counter-models for explicitly coercive or zero-sum persuasion environments.
 - Axelrod and Rove extend the branch into mass political persuasion, but the vault still needs a stronger treatment of democratic ethics, misinformation, and the public-cost side of highly optimized campaign influence.

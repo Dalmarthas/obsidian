@@ -11,14 +11,18 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
+  - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
 related:
   - wiki/concepts/business/advertising.md
+  - wiki/concepts/business/copywriting.md
   - wiki/concepts/business/creative-pitching.md
+  - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/business/brand-stewardship.md
   - wiki/concepts/business/ethical-consumerism.md
   - wiki/syntheses/business/goodby-silverstein-advertising-framework.md
   - wiki/syntheses/business/iger-strategy-framework.md
+  - wiki/syntheses/business/harry-dry-copywriting-framework.md
 ---
 
 # What It Is
@@ -40,11 +44,13 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - Brands are treated like living organisms with a voice, heritage, and a shape that can be clarified or simplified.
 - Social conscience only matters when it connects genuinely to brand behavior rather than being ornamental posturing.
 - Iger adds the portfolio-level reminder that brand strategy cannot ignore long-term audience relationship, distinct brand identity, or the difference between respecting heritage and freezing it.
+- Harry Dry adds a sharper language test for strategy execution: the message should say something only this brand can say, and it should do so in terms concrete enough to picture and check.
 
 # Source Comparisons
 
 - Goodby Silverstein is strongest on campaign-side strategy: finding the audience truth and creative platform that makes a message work.
 - Iger is strongest on enterprise-level brand logic: preserving identity across acquisitions, balancing heritage with reinvention, and treating brand as a long-term relationship rather than a quarterly asset.
+- Harry Dry is strongest on translating strategy into lines the market can actually remember and trust: a differentiated claim is not strategically complete until it becomes specific written language.
 - Together they sharpen the split between brand strategy and [[wiki/concepts/business/brand-stewardship|Brand Stewardship]] while keeping them linked.
 
 # Tensions / Open Questions
@@ -52,13 +58,17 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - Strong strategy can still be interpreted too narrowly if teams use it as a cage instead of a launching point.
 - Brand heritage is valuable until it becomes dead weight that prevents useful reinvention.
 - The branch now makes a sharper distinction between campaign insight and enterprise stewardship, but the handoff between the two still needs more evidence from additional brand cases.
+- A good strategy can still die in execution if the copy sounds generic enough that competitors could swap names and say the same thing.
 
 # Related Pages
 
 - [[wiki/concepts/business/advertising|Advertising]]
+- [[wiki/concepts/business/copywriting|Copywriting]]
 - [[wiki/concepts/business/creative-pitching|Creative Pitching]]
+- [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
 - [[wiki/concepts/business/ethical-consumerism|Ethical Consumerism]]
 - [[wiki/syntheses/business/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
+- [[wiki/syntheses/business/harry-dry-copywriting-framework|Harry Dry Copywriting Framework]]

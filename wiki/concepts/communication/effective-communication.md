@@ -14,8 +14,10 @@ source_pages:
   - wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary.md
+  - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
 related:
   - wiki/concepts/communication/authentic-communication.md
+  - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/leadership/leadership-communication.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/negotiation-and-mediation.md
@@ -45,6 +47,7 @@ Effective communication is the disciplined practice of making another person und
 - The more detailed Voss workplace source sharpens the branch further: tone of voice, paraphrase, summary, no-oriented questions, and accusation audits all change how much truth the other person is willing to reveal.
 - Bill Clinton contributes the leadership side of the same idea: conversational tone, story, and audience respect make people more willing to follow the argument.
 - Daniel Pink adds a clarity layer: curate rather than dump information, surface the hidden problem, and avoid argument overload that creates cognitive noise.
+- Harry Dry adds the strongest written-communication layer so far: good language should be concrete enough to picture, factual enough to check, and specific enough that it does not sound like anyone could have written it for anyone.
 - Across these sources, effective communication is not just self-expression. It is shaped around what helps the other person hear, think, and answer.
 
 # Source Comparisons
@@ -53,15 +56,18 @@ Effective communication is the disciplined practice of making another person und
 - Voss is strongest on tactical dialogue design: regulate tone, reflect, summarize, question, and let silence do work.
 - Clinton is strongest on audience trust and narrative framing: people absorb meaning better when it sounds human and feels relevant to lived stakes.
 - Pink is strongest on communication as diagnosis and curation: fewer arguments, better framing, and clearer problem definition beat information excess.
+- Harry Dry is strongest on first-contact written communication: the sentence itself has to carry vividness, checkability, and distinctiveness before dialogue even begins.
 
 # Tensions / Open Questions
 
 - Communication optimized for accountability can become interrogation if it loses empathy or proportion.
 - Communication optimized for rapport can become evasive if it avoids directness when clarity is required.
+- Communication optimized for polish can still fail if it remains abstract enough to be forgettable or unbelievable.
 
 # Related Pages
 
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]]
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]

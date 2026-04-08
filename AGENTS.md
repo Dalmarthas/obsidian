@@ -61,10 +61,12 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
 - `wiki/concepts/`: stable pages for concepts, methods, frameworks, themes, recurring ideas.
   - Domain subfolders are used for navigation:
     - `business/`
+    - `chess/`
     - `communication/`
     - `leadership/`
     - `health/`
     - `filmmaking/`
+    - `productivity/`
     - `creativity/`
     - `others/`
   - Meta/system concept pages for the vault itself may remain flat at the root of `wiki/concepts/`.
@@ -80,14 +82,18 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
 - Choose the folder by dominant topic, not by every tag the page happens to touch.
 - Use these defaults:
   - business, brand, niche selection, market testing, company-building, career design, self-positioning, financial transition, multi-hyphenate planning -> `business/`
+  - chess, openings, tactics, middlegame, endgame, calculation, positional play, training games, chess improvement -> `chess/`
   - communication, persuasion, negotiation, campaigns, messaging, targeting -> `communication/`
   - leadership, culture, teams, performance under pressure, trust, accountability -> `leadership/`
   - health, medicine, nutrition, exercise, sleep, recovery, mental health, biomarkers, symptoms, treatment, longevity -> `health/`
   - writing, screenwriting, television, film, acting, story craft -> `filmmaking/`
+  - productivity, focus, planning, execution, time management, systems, habits, workflows, note-taking, personal organization -> `productivity/`
   - art, design, visual thinking, creativity, idea-generation -> `creativity/`
   - smaller standalone branches that do not yet justify their own domain -> `others/`
 - There is no separate `career/` domain folder. Career and professional-development material is filed under `business/`.
 - There is now a dedicated `health/` domain folder. Health-related material should default there rather than being filed under `others/`.
+- There is now a dedicated `chess/` domain folder. Chess-related material should default there rather than being filed under `others/`.
+- There is now a dedicated `productivity/` domain folder. Productivity and personal-systems material should default there rather than being filed under `others/`.
 - Political pages are usually filed under `communication/` unless the page is primarily about organizational leadership or governance.
 - Do not create a new domain folder without explicit user approval.
 
@@ -105,11 +111,15 @@ Examples:
 - `wiki/sources/2026-04-07-llm-wiki-idea.md`
 - `wiki/concepts/llm-wiki.md`
 - `wiki/concepts/business/business-strategy.md`
+- `wiki/concepts/chess/endgame-technique.md`
 - `wiki/concepts/communication/effective-communication.md`
 - `wiki/concepts/health/sleep.md`
+- `wiki/concepts/productivity/task-prioritization.md`
 - `wiki/entities/obsidian.md`
 - `wiki/syntheses/cross-source/communication-and-influence-models.md`
 - `wiki/syntheses/health/recovery-protocols-overview.md`
+- `wiki/syntheses/chess/opening-preparation-overview.md`
+- `wiki/syntheses/productivity/weekly-review-protocol.md`
 - `wiki/syntheses/this-vault-operating-model.md`
 
 ## Language Handling

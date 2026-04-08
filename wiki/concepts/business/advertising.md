@@ -10,10 +10,13 @@ tags:
   - communication
 source_pages:
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
+  - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
 related:
+  - wiki/concepts/business/copywriting.md
   - wiki/concepts/business/mass-intimacy.md
   - wiki/concepts/business/brand-strategy.md
   - wiki/concepts/business/creative-pitching.md
+  - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/business/ethical-consumerism.md
@@ -38,17 +41,21 @@ Advertising is the practice of shaping messages, stories, images, and experience
 - Truth, authenticity, and cultural observation are treated as non-negotiable sources of ideas.
 - Modern advertising can include PR, experiences, social acts, and digital behavior, not just traditional commercials.
 - Craft details such as timing, casting, typography, sound, and production are treated as load-bearing rather than decorative.
+- The Harry Dry branch adds a more sentence-level layer: copy becomes stronger when the claim is visualizable, falsifiable, and specific enough that only this brand or product could credibly say it.
 
 # Tensions / Open Questions
 
 - The line between genuine cultural participation and manipulative appropriation is always unstable.
 - Work that avoids "looking like advertising" still has to perform within a business system.
+- Strong advertising still has to solve the language problem: vivid truth and memorability can drift into empty cleverness if they are not tied to real differentiation.
 
 # Related Pages
 
+- [[wiki/concepts/business/copywriting|Copywriting]]
 - [[wiki/concepts/business/mass-intimacy|Mass Intimacy]]
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]]
 - [[wiki/concepts/business/creative-pitching|Creative Pitching]]
+- [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/business/ethical-consumerism|Ethical Consumerism]]

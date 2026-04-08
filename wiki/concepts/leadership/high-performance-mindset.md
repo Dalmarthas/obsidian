@@ -11,10 +11,12 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
+  - wiki/sources/2026-04-08-rhonda-patrick-sleep-tips.md
 related:
   - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/leadership/head-and-heart-harmony.md
+  - wiki/concepts/health/sleep-quality.md
   - wiki/syntheses/leadership/lewis-hamilton-performance-framework.md
   - wiki/syntheses/cross-source/high-performance-leadership-models.md
 ---
@@ -35,12 +37,14 @@ High-performance mindset is the psychological operating system that allows a per
 - Hamilton also insists that failure should be logged, studied, and converted into faster future response.
 - Hamilton pairs discipline with balance, arguing that recovery and diverse interests protect long-term performance.
 - Geno Auriemma adds the external-performance side of the same idea: train above game conditions, expect pressure, and build standards that survive fatigue.
+- The first health branch adds a physiological layer beneath the same theme: recovery is not just an attitude but also a sleep system shaped by circadian timing, environment, and the removal of avoidable nighttime disruption.
 
 # Source Comparisons
 
 - Hamilton is strongest on the interior mindset: confidence, identity, failure recovery, and rituals that protect focus.
 - Auriemma is strongest on the behavioral enforcement side: hard standards, pressure practice, and commitment beyond baseline effort.
-- Together they suggest that elite performance needs both inward regulation and outwardly demanding systems.
+- Rhonda Patrick adds a more concrete recovery layer: elite performance also depends on whether the body is getting enough high-quality sleep to restore cognition, mood, and adaptation.
+- Together these sources suggest that elite performance needs inward regulation, outwardly demanding systems, and a physical recovery base that is strong enough to support both.
 
 # Tensions / Open Questions
 
@@ -52,5 +56,6 @@ High-performance mindset is the psychological operating system that allows a per
 - [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/health/sleep-quality|Sleep Quality]]
 - [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]

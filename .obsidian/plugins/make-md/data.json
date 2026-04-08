@@ -39,13 +39,12 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags",
     "//Untitled",
     "//raw",
-    "//wiki",
-    "//wiki/wiki/syntheses",
     "//wiki/wiki/concepts/wiki/concepts/business",
-    "//wiki/wiki/entities"
+    "//wiki/wiki/concepts",
+    "//wiki/wiki/concepts/wiki/concepts/chess",
+    "//wiki"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

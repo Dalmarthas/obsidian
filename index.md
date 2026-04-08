@@ -45,6 +45,26 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-2|Мастер-класс «Реальный HR» — модуль 2 из 3]] - Русскоязычная вторичная сводка по второму модулю HR-курса: аватар кандидата, многоканальная воронка, академия, «химия» в найме, справедливая мотивация и логика эффективного расширения.
 - [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-3|Мастер-класс «Реальный HR» — модуль 3 из 3]] - Русскоязычная вторичная сводка по завершающему модулю HR-ветки: удержание через гравитацию, каздев, антигравитационные силы и зрелая логика стратсессий.
 - [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-million|Мастер-класс «Реальный миллион» — полная сводка]] - Русскоязычная вторичная сводка о росте собственника через мышление, отстрел балласта, `5 единичек`, делегирование и финансовую дисциплину.
+- [[raw/inbox/2026-04-08-rhonda-patrick-sleep-tips|Rhonda Patrick Sleep Tips]] - Secondary summary of a sleep video on circadian timing, nighttime awakenings, sleep supplements, and evidence-oriented recovery habits.
+- [[raw/inbox/2026-04-08-michael-greger-plant-based-nutrition|Michael Greger Plant-Based Nutrition]] - Secondary summary of a preventive-nutrition branch on whole-food plant-based eating, chronic disease, the `Daily Dozen`, and healthspan.
+- [[raw/inbox/2026-04-08-longevity-health-tips-composite-summary|Longevity Health Tips Composite Summary]] - Composite secondary summary on aging biology, healthspan, longevity fundamentals, sleep overlap, and skepticism toward overhyped biohacks.
+- [[raw/inbox/2026-04-08-pavel-tsatsouline-strength-and-conditioning|Pavel Tsatsouline Strength and Conditioning]] - Secondary summary of a strength-and-conditioning branch on foundational strength, minimal effective dose, `greasing the groove`, and recovery-aware training.
+- [[raw/inbox/2026-04-08-keep-your-brain-sharp-at-90-summary|Keep Your Brain Sharp at 90 Summary]] - Secondary summary of a brain-health branch on aerobic exercise, deep sleep, glymphatic clearance, dementia risk, and cautious interest in multivitamins.
+- [[raw/inbox/2026-04-09-harry-dry-copywriting-tips|Harry Dry Copywriting Tips]] - Secondary summary of practical copywriting advice on vivid specificity, falsifiable claims, brand-only truth, and revision in the real medium.
+- [[raw/inbox/2026-04-09-gothamchess-how-to-win-at-chess|GothamChess How to Win at Chess]] - Secondary summary of a practical chess-improvement series focused on opening plans, tactical awareness, purposeful exchanges, and endgame conversion.
+- [[raw/inbox/2026-04-09-gothamchess-beginner-chess-guide|GothamChess Beginner Chess Guide]] - Secondary summary of a beginner-focused chess-improvement source on opening principles, trade evaluation, board vision, time management, and anti-blunder checklists.
+- [[raw/inbox/2026-04-09-gothamchess-essential-chess-tips|GothamChess Essential Chess Tips]] - Secondary summary of a practical chess-planning source on opening-to-middlegame continuity, imbalances, mistake-punishing checklists, attack conditions, and repertoire depth.
+- [[raw/inbox/2026-04-09-gothamchess-beating-beginner-chess-bots|GothamChess Beating Beginner Chess Bots]] - Secondary summary of a Gotham training source on principled play versus weak bots, simplification when ahead, basic conversion, and the limits of bot-only practice.
+- [[raw/inbox/2026-04-09-chess-calculation-guide|Chess Calculation Guide]] - Secondary summary of a chess-calculation source on candidate moves, falsification, visualization, and opponent-best-response thinking.
+- [[raw/inbox/2026-04-09-john-bartholomew-trades-in-chess|John Bartholomew Trades in Chess]] - Secondary summary of a chess-strategy source on purposeful exchanges, bishop-versus-knight judgment, pawn-structure outcomes, and tactical intermezzos in trade sequences.
+- [[raw/inbox/2026-04-09-john-bartholomew-pawn-play-in-chess|John Bartholomew Pawn Play in Chess]] - Secondary summary of a chess-strategy source on pawn structures, pawn breaks, hooks, and the strategic role of the pawn skeleton.
+- [[raw/inbox/2026-04-09-john-bartholomew-beginner-chess-mistakes|John Bartholomew Beginner Chess Mistakes]] - Secondary summary of a chess-improvement source on beginner error patterns, opponent-threat blindness, piece coordination, weak squares, and timing pawn breaks.
+- [[raw/inbox/2026-04-09-essential-chess-principles|Essential Chess Principles]] - Secondary summary of a generic chess-principles source on opening discipline, piece activity, pawn structure, exchange rules, endgame heuristics, and principled flexibility.
+- [[raw/inbox/2026-04-09-john-bartholomew-piece-and-pawn-coordination|John Bartholomew Piece and Pawn Coordination]] - Secondary summary of a chess-coordination source on development tempo, pawn restraint, undefended pieces, and how pieces and pawns should support one another.
+- [[raw/inbox/2026-04-09-john-bartholomew-recurring-beginner-chess-mistakes|John Bartholomew Recurring Beginner Chess Mistakes]] - Secondary summary of a case-study chess source on repeated beginner errors around forcing-reply blindness, mistimed pawn breaks, development lag, and square-based planning.
+- [[raw/inbox/2026-04-09-john-bartholomew-undefended-pieces|John Bartholomew Undefended Pieces]] - Secondary summary of a chess-improvement source on loose pieces, overprotection, danger sense, and using piece safety as a first anti-blunder filter.
+- [[raw/inbox/2026-04-09-polgar-long-term-chess-improvement-plan|Polgar Long-Term Chess Improvement Plan]] - Secondary summary of a Polgar-rooted chess-training source on position-solving, physical-board study, long-horizon repetition, and de-emphasis on early opening theory.
+- [[raw/inbox/2026-04-09-ben-finegold-blunders-in-chess|Ben Finegold Blunders in Chess]] - Secondary summary of a chess-psychology source on blunders, premature resignation, complacency, and practical resistance under pressure.
 
 ## Sources
 
@@ -84,6 +104,26 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-2|Мастер-класс «Реальный HR» — модуль 2 из 3]] - Русская source page, которая углубляет HR-ветку через аватар роли, создание «перекандидоза», academy-layer, справедливую мотивацию и бескомпромиссный отбор.
 - [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-3|Мастер-класс «Реальный HR» — модуль 3 из 3]] - Русская source page, которая завершает HR-ветку через удержание, гравитацию команды, каздев и стратегические сессии для хронических проблем.
 - [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-million|Мастер-класс «Реальный миллион» — полная сводка]] - Русская source page о верхнем owner-layer роста: мышление, вычитание балласта, `5 единичек`, переход к управлению и финансовая трезвость.
+- [[wiki/sources/2026-04-08-rhonda-patrick-sleep-tips|Rhonda Patrick Sleep Tips]] - Source page for the first dedicated health branch, focused on sleep quality, fragmentation, circadian cues, and cautious supplement use.
+- [[wiki/sources/2026-04-08-michael-greger-plant-based-nutrition|Michael Greger Plant-Based Nutrition]] - Source page for a nutrition-centered health branch on plant-based prevention, lifestyle medicine, diet-disease links, and healthspan.
+- [[wiki/sources/2026-04-08-longevity-health-tips-composite-summary|Longevity Health Tips Composite Summary]] - Source page for a composite longevity branch on aging as disease, epigenetic information loss, healthspan, fundamentals, and biohack caution.
+- [[wiki/sources/2026-04-08-pavel-tsatsouline-strength-and-conditioning|Pavel Tsatsouline Strength and Conditioning]] - Source page for a strength-and-conditioning branch on strength as a base quality, low-cost progression, and recovery-aware exercise design.
+- [[wiki/sources/2026-04-08-keep-your-brain-sharp-at-90-summary|Keep Your Brain Sharp at 90 Summary]] - Source page for a brain-health branch on cognitive aging, aerobic exercise, sleep-dependent waste clearance, and dementia-risk reduction.
+- [[wiki/sources/2026-04-09-harry-dry-copywriting-tips|Harry Dry Copywriting Tips]] - Source page for a copywriting branch on concrete specificity, falsifiable claims, brand differentiation, and iterative written persuasion.
+- [[wiki/sources/2026-04-09-gothamchess-how-to-win-at-chess|GothamChess How to Win at Chess]] - Source page for the first chess branch, focused on practical improvement through opening plans, tactical scanning, and cleaner endgame conversion.
+- [[wiki/sources/2026-04-09-gothamchess-beginner-chess-guide|GothamChess Beginner Chess Guide]] - Source page that deepens the chess branch with beginner fundamentals, board vision, trade discipline, time use, and checklist-driven play.
+- [[wiki/sources/2026-04-09-gothamchess-essential-chess-tips|GothamChess Essential Chess Tips]] - Source page that deepens the Gotham branch with imbalance-based planning, checklist punishment of mistakes, principled responses to offbeat moves, and opening-depth logic.
+- [[wiki/sources/2026-04-09-gothamchess-beating-beginner-chess-bots|GothamChess Beating Beginner Chess Bots]] - Source page that deepens the Gotham branch with bot-based training logic, steady simplification, basic mating technique, and the warning that bots should not replace human practice.
+- [[wiki/sources/2026-04-09-chess-calculation-guide|Chess Calculation Guide]] - Source page that deepens the chess branch with explicit calculation process, candidate-move testing, and opponent-best-response analysis.
+- [[wiki/sources/2026-04-09-john-bartholomew-trades-in-chess|John Bartholomew Trades in Chess]] - Source page that deepens the chess branch with strategic exchange discipline, structure-aware trades, and tactical in-between moves.
+- [[wiki/sources/2026-04-09-john-bartholomew-pawn-play-in-chess|John Bartholomew Pawn Play in Chess]] - Source page that deepens the chess branch with pawn structures, pawn breaks, hooks, and the planning role of pawn play.
+- [[wiki/sources/2026-04-09-john-bartholomew-beginner-chess-mistakes|John Bartholomew Beginner Chess Mistakes]] - Source page that deepens the chess branch with recurring beginner errors around threats, coordination, key squares, and development-to-break conversion.
+- [[wiki/sources/2026-04-09-essential-chess-principles|Essential Chess Principles]] - Source page that deepens the chess branch with a phase-spanning map of opening rules, piece activity, structural judgment, exchange heuristics, and endgame technique.
+- [[wiki/sources/2026-04-09-john-bartholomew-piece-and-pawn-coordination|John Bartholomew Piece and Pawn Coordination]] - Source page that deepens the chess branch with coordinated development, pawn restraint, development tempo, and exchange timing under development pressure.
+- [[wiki/sources/2026-04-09-john-bartholomew-recurring-beginner-chess-mistakes|John Bartholomew Recurring Beginner Chess Mistakes]] - Source page that deepens the chess branch with forcing-reply vigilance, development-sensitive pawn-break logic, weak-square creation, and recurring club-level planning errors.
+- [[wiki/sources/2026-04-09-john-bartholomew-undefended-pieces|John Bartholomew Undefended Pieces]] - Source page that deepens the chess branch with loose-piece awareness, overprotection, practical danger sense, and piece-safety-first anti-blunder discipline.
+- [[wiki/sources/2026-04-09-polgar-long-term-chess-improvement-plan|Polgar Long-Term Chess Improvement Plan]] - Source page that deepens the chess branch with problem-first training, physical-board solving, delayed opening emphasis, and a long-horizon study architecture.
+- [[wiki/sources/2026-04-09-ben-finegold-blunders-in-chess|Ben Finegold Blunders in Chess]] - Source page that deepens the chess branch with resignation discipline, anti-complacency logic, hidden saving resources, and practical blunder psychology.
 
 ## Entities
 
@@ -106,11 +146,20 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/entities/jeff-koons|Jeff Koons]] - Artist whose source anchors the vault's art-making and viewer-centered art branch.
 - [[wiki/entities/kevin-spacey|Kevin Spacey]] - Acting teacher whose source starts the vault's acting branch across performance, monologues, and auditions.
 - [[wiki/entities/howard-schultz|Howard Schultz]] - Business leader whose source deepens the vault's values-driven company, culture, and strategy branch.
+- [[wiki/entities/harry-dry|Harry Dry]] - Copywriting teacher whose source starts the vault's first explicit branch for written persuasion, specificity, and brand-distinctive claims.
 - [[wiki/entities/karl-rove|Karl Rove]] - Political strategist whose source deepens the vault's campaign planning, targeting, and execution branch.
 - [[wiki/entities/lewis-hamilton|Lewis Hamilton]] - Driver and competitor whose source expands the vault's performance and high-pressure leadership branch.
 - [[wiki/entities/martin-scorsese|Martin Scorsese]] - Filmmaker whose source deepens the vault's filmmaking branch across visual literacy, casting, and editing.
 - [[wiki/entities/salman-rushdie|Salman Rushdie]] - Fiction teacher whose source deepens the vault's novel-writing, voice, setting, and worldview branch.
 - [[wiki/entities/shonda-rhimes|Shonda Rhimes]] - Television writer-showrunner whose source deepens the vault's TV writing, room, and showrunning branch.
+- [[wiki/entities/rhonda-patrick|Rhonda Patrick]] - Health educator whose first branch anchors the vault's sleep and circadian-recovery layer.
+- [[wiki/entities/michael-greger|Michael Greger]] - Physician-educator whose branch anchors the vault's nutrition, plant-based prevention, and healthspan layer.
+- [[wiki/entities/david-sinclair|David Sinclair]] - Longevity researcher whose branch anchors the vault's aging-biology, healthspan, and prevention-first medicine layer.
+- [[wiki/entities/pavel-tsatsouline|Pavel Tsatsouline]] - Strength teacher whose branch anchors the vault's exercise-design, recoverable training, and functional-capacity layer.
+- [[wiki/entities/gothamchess|GothamChess]] - Chess educator whose sources anchor the vault's practical-improvement branch across openings, imbalances, checklists, simplification, bot-based training logic, trade discipline, tactics, and time use.
+- [[wiki/entities/john-bartholomew|John Bartholomew]] - Chess educator whose sources deepen the vault's strategic and beginner-improvement layers around exchanges, pawn structures, coordination, development tempo, loose-piece awareness, and forcing-reply vigilance.
+- [[wiki/entities/laszlo-polgar|Laszlo Polgar]] - Training philosopher whose branch anchors the vault's long-horizon chess-study layer around positions, sparse instruction, and delayed opening emphasis.
+- [[wiki/entities/ben-finegold|Ben Finegold]] - Chess teacher whose branch anchors the vault's practical-resilience layer around blunders, anti-resignation discipline, and non-complacent conversion.
 
 - [[wiki/entities/mikhail-grebenyuk|Михаил Гребенюк]] - Русскоязычный прикладной teacher, который связывает в хранилище мышление собственника, продукт, продажи, управление и HR как пять слоев масштабирования компании.
 
@@ -149,12 +198,34 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]] - Open-ended `what` and `how` questions designed to reveal constraints, shift thinking, and move negotiations toward implementation reality.
 - [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]] - Choosing the right actors and creating the conditions where truthful performance can emerge on camera.
 - [[wiki/concepts/business/career-blueprint|Career Blueprint]] - A long-range architecture connecting purpose, projects, lanes, and timing.
+- [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]] - Communication that uses vivid, particular, checkable language so the claim can be pictured, remembered, and challenged.
 - [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]] - Story movement generated by needs, wants, contradictions, and choices rather than detached plot machinery.
 - [[wiki/concepts/others/community-based-conservation|Community-Based Conservation]] - Conservation built through local partnership, trust, and aligned livelihood.
 - [[wiki/concepts/others/conservation|Conservation]] - Environmental protection understood as both an ecological and human-systems problem.
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]] - Staying faithful to the living core of an idea instead of diluting it for safety or trend-chasing.
 - [[wiki/concepts/business/creative-pitching|Creative Pitching]] - The craft of helping bold ideas survive contact with clients and decision-makers.
 - [[wiki/concepts/business/creative-entrepreneurship|Creative Entrepreneurship]] - Designing a flexible multi-lane career as a personal enterprise.
+- [[wiki/concepts/business/copywriting|Copywriting]] - Written persuasion designed to make a reader see, believe, and act through concrete, distinctive, and revisable language.
+- [[wiki/concepts/chess/chess|Chess]] - Practical chess here is treated as a phased decision system linking opening plans, tactical awareness, and endgame conversion.
+- [[wiki/concepts/chess/opening-preparation|Opening Preparation]] - Knowing opening plans, motifs, and common mistakes well enough to reach a playable middlegame with purpose.
+- [[wiki/concepts/chess/calculation-in-chess|Calculation in Chess]] - Deliberate candidate-move search that tests ideas against the opponent's best responses before committing.
+- [[wiki/concepts/chess/board-vision|Board Vision]] - Seeing what each piece attacks, defends, and enables before and after a move so blunders become less frequent.
+- [[wiki/concepts/chess/trade-evaluation|Trade Evaluation]] - Judging exchanges by positional and tactical consequences instead of playing automatic recaptures.
+- [[wiki/concepts/chess/pawn-play|Pawn Play]] - Reading the pawn skeleton as the strategic layer that determines plans, targets, and which ideas are actually available.
+- [[wiki/concepts/chess/pawn-breaks|Pawn Breaks]] - Pawn advances that change the structure, open lines, and turn preparation into concrete action.
+- [[wiki/concepts/chess/pawn-structure-weaknesses|Pawn Structure Weaknesses]] - Structural patterns such as isolated, doubled, and backward pawns treated as context-dependent strategic facts rather than automatic defects.
+- [[wiki/concepts/chess/imbalances-in-chess|Imbalances in Chess]] - The structural and positional asymmetries that tell you what kind of middlegame plan actually makes sense.
+- [[wiki/concepts/chess/piece-activity|Piece Activity]] - The practical effectiveness of a piece based on structure, open lines, phase, and how well it can create useful pressure.
+- [[wiki/concepts/chess/piece-coordination|Piece Coordination]] - Keeping pieces mutually supportive, unblocked, and harmonized so activity is real rather than cosmetic.
+- [[wiki/concepts/chess/undefended-pieces|Undefended Pieces]] - Loose or under-defended material treated as one of the fastest practical signals for blunders, tactical chances, and piece-safety discipline.
+- [[wiki/concepts/chess/development-tempo|Development Tempo]] - The pace of useful development, where repeated moves, decorative pawn moves, and mistimed trades waste time and increase coordination stress.
+- [[wiki/concepts/chess/weak-squares-and-outposts|Weak Squares and Outposts]] - Long-term squares created by pawn structure that become strategic platforms or targets.
+- [[wiki/concepts/chess/time-management-in-chess|Time Management in Chess]] - Matching thinking time to the position so tactical checks happen without falling into panic or paralysis.
+- [[wiki/concepts/chess/training-with-chess-bots|Training With Chess Bots]] - Using bots as a controlled practice environment for patterns and conversion without mistaking them for a full replacement for human play.
+- [[wiki/concepts/chess/problem-first-chess-training|Problem-First Chess Training]] - A study model where large numbers of positions and short instructive games do the heavy lifting of improvement instead of theory-heavy consumption.
+- [[wiki/concepts/chess/resignation-psychology|Resignation Psychology]] - The practical discipline of not losing the game in your head before the board is finished, including anti-resignation and anti-complacency habits.
+- [[wiki/concepts/chess/tactical-awareness|Tactical Awareness]] - A repeatable scan for forcing ideas and tactical danger before slower positional play takes over.
+- [[wiki/concepts/chess/endgame-conversion|Endgame Conversion]] - Turning an advantage into a result through simplification, structure management, and counterplay reduction.
 - [[wiki/concepts/leadership/diverse-teams|Diverse Teams]] - Teams with broad backgrounds and perspectives that outperform narrow groups over time.
 - [[wiki/concepts/communication/dynamic-silence|Dynamic Silence]] - Deliberate pauses used after mirrors, labels, summaries, or questions so the other person keeps talking or thinking.
 - [[wiki/concepts/filmmaking/editing-as-discovery|Editing as Discovery]] - Finding the real film through assembly, rhythm, cutting, screening, and post-production judgment.
@@ -171,6 +242,27 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]] - Combining rigor and human feeling so judgment does not become either cold or sloppy.
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]] - The internal operating system for sustaining excellence under pressure.
 - [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]] - The standards, trust, and accountability patterns that let teams perform under stress.
+- [[wiki/concepts/health/circadian-alignment|Circadian Alignment]] - Using morning light, evening darkness, and timing discipline to make the body's sleep-wake rhythm more reliable.
+- [[wiki/concepts/health/aging-as-disease|Aging as Disease]] - The claim that aging itself should become a direct target of medicine rather than only its downstream diseases.
+- [[wiki/concepts/health/biohack-skepticism|Biohack Skepticism]] - Decision hygiene that keeps thin-evidence interventions from displacing fundamentals like sleep, exercise, and diet.
+- [[wiki/concepts/health/daily-dozen|Daily Dozen]] - A daily checklist that operationalizes plant-based nutrition into repeatable food and habit coverage.
+- [[wiki/concepts/health/diet-and-chronic-disease|Diet and Chronic Disease]] - The link between habitual eating patterns and the long-term burden of heart disease, diabetes, hypertension, cancer risk, and related illness.
+- [[wiki/concepts/health/healthspan|Healthspan]] - The portion of life lived with strong function and low disease burden rather than mere survival.
+- [[wiki/concepts/health/information-theory-of-aging|Information Theory of Aging]] - The aging model that treats epigenetic information loss as a major upstream cause of biological decline.
+- [[wiki/concepts/health/longevity-fundamentals|Longevity Fundamentals]] - The durable daily levers that matter more than trend-chasing for preserving long-term function and independence.
+- [[wiki/concepts/health/lifestyle-medicine|Lifestyle Medicine]] - Root-cause health work built around changing daily causes such as diet, movement, and routine rather than only managing downstream symptoms.
+- [[wiki/concepts/health/brain-health-and-cognitive-aging|Brain Health and Cognitive Aging]] - Preserving memory, processing speed, and dementia resistance through upstream habits rather than late-life resignation.
+- [[wiki/concepts/health/aerobic-exercise-and-brain-health|Aerobic Exercise and Brain Health]] - Regular cardiovascular training treated here as one of the clearest practical levers for protecting cognition and hippocampal integrity.
+- [[wiki/concepts/health/glymphatic-clearance|Glymphatic Clearance]] - The deep-sleep-linked brain waste-removal process that helps explain why sleep quality matters for cognitive aging.
+- [[wiki/concepts/health/multivitamins-and-cognition|Multivitamins and Cognition]] - A promising but still lower-confidence claim that standard multivitamin use may support older-adult cognition.
+- [[wiki/concepts/health/strength-training|Strength Training]] - Deliberate force and resilience building treated here as a foundational health and capability system rather than a niche athletic concern.
+- [[wiki/concepts/health/minimal-effective-dose-training|Minimal Effective Dose Training]] - Sizing training so adaptation keeps moving without wasting recovery on avoidable fatigue.
+- [[wiki/concepts/health/greasing-the-groove|Greasing the Groove]] - Frequent, submaximal strength practice that improves capacity through repeated technical quality instead of exhaustion.
+- [[wiki/concepts/health/recovery-and-heterochronicity|Recovery and Heterochronicity]] - The idea that different tissues and systems recover on different timelines, so load and recovery must be managed accordingly.
+- [[wiki/concepts/health/nighttime-awakenings|Nighttime Awakenings]] - Repeated sleep interruption treated as a diagnostic problem with behavioral, circadian, environmental, and medical causes.
+- [[wiki/concepts/health/sleep-quality|Sleep Quality]] - Sleep as a systems outcome shaped by timing, continuity, environment, stress, and underlying causes rather than hours alone.
+- [[wiki/concepts/health/sleep-supplementation|Sleep Supplementation]] - The careful use of melatonin, magnesium, L-theanine, glycine, and related tools as support layers rather than primary fixes.
+- [[wiki/concepts/health/whole-food-plant-based-diet|Whole-Food Plant-Based Diet]] - A minimally processed, plant-centered dietary pattern treated here as the core preventive nutrition strategy.
 - [[wiki/concepts/creativity/idea-development|Idea Development]] - Catching, testing, and refining raw creative signals until they can support real work.
 - [[wiki/concepts/filmmaking/immersive-research|Immersive Research]] - Firsthand, reality-based research that deepens plausibility while leaving most of itself off the page.
 - [[wiki/concepts/others/interconnectedness-principle|Interconnectedness Principle]] - The systems idea that ecological and human problems are tightly linked.
@@ -259,8 +351,21 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/others/goodall-conservation-framework|Goodall Conservation Framework]] - A reusable conservation model built around interconnectedness, partnership, and hope.
 - [[wiki/syntheses/this-vault-operating-model|This Vault Operating Model]] - How the general LLM Wiki pattern is instantiated in this Obsidian vault.
 - [[wiki/syntheses/business/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]] - A reusable framework for humane advertising, strategy, and idea-selling.
+- [[wiki/syntheses/business/harry-dry-copywriting-framework|Harry Dry Copywriting Framework]] - A reusable copywriting model built around audience-state change, vivid specificity, falsifiable claims, distinctiveness, and revision in context.
+- [[wiki/syntheses/chess/chess-calculation-process|Chess Calculation Process]] - A reusable calculation model built around opponent threats, forcing-move checklists, candidate moves, falsification, and selective depth.
+- [[wiki/syntheses/chess/essential-chess-principles-framework|Essential Chess Principles Framework]] - A reusable principle map tying opening discipline, activity, pawn structure, exchanges, endgame technique, and anti-hope-chess thinking together.
+- [[wiki/syntheses/chess/gothamchess-practical-improvement-framework|GothamChess Practical Improvement Framework]] - A reusable chess-improvement model built around opening plans, imbalances, checklists, attack discipline, bot-training limits, time use, and cleaner conversion.
+- [[wiki/syntheses/chess/john-bartholomew-coordination-framework|John Bartholomew Coordination Framework]] - A reusable coordination model built around piece-and-pawn harmony, development tempo, pawn restraint, tactical liability checks, and recovery mini-goals.
+- [[wiki/syntheses/chess/john-bartholomew-trade-discipline-framework|John Bartholomew Trade Discipline Framework]] - A reusable exchange-discipline model built around purpose, structure, activity, tactical intermezzos, and reviewing trades by result rather than habit.
+- [[wiki/syntheses/chess/john-bartholomew-pawn-play-framework|John Bartholomew Pawn Play Framework]] - A reusable pawn-play model built around structures, breaks, hooks, preparation, and context-sensitive judgment about pawn weaknesses.
+- [[wiki/syntheses/chess/john-bartholomew-beginner-improvement-framework|John Bartholomew Beginner Improvement Framework]] - A reusable beginner-improvement model built around counterplay awareness, coordination, development tempo, structural timing, key squares, and pattern-based review.
+- [[wiki/syntheses/chess/john-bartholomew-piece-safety-framework|John Bartholomew Piece Safety Framework]] - A reusable anti-blunder model built around loose-piece scanning, overprotection, two-sided danger sense, and treating piece safety as a first practical filter.
+- [[wiki/syntheses/chess/polgar-long-term-chess-improvement-framework|Polgar Long-Term Chess Improvement Framework]] - A reusable long-horizon training model built around position-solving, physical-board work, slow quality, and delayed opening emphasis.
+- [[wiki/syntheses/chess/ben-finegold-blunder-management-framework|Ben Finegold Blunder Management Framework]] - A reusable practical-resistance model built around anti-resignation discipline, anti-complacency focus, and searching for saving resources.
+- [[wiki/syntheses/cross-source/chess-improvement-models|Chess Improvement Models]] - A cross-source map showing how Gotham, John Bartholomew, Polgar, and Ben Finegold operate at different layers of the same chess-improvement stack.
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]] - A cross-source model of how elite leadership and performance systems combine standards, trust, and resilience.
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]] - A cross-source map of how the non-writing branches approach humane, disciplined change.
+- [[wiki/syntheses/cross-source/preventive-health-and-longevity-models|Preventive Health and Longevity Models]] - A cross-source map of how the current health branches converge on prevention, healthspan, and fundamentals while differing on diet and intervention emphasis.
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]] - A reusable business-leadership model built around priorities, brand stewardship, negotiation, and risk.
 - [[wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]] - Скомпилированная русская модель выбора ниши из двух сводок: от генерации идей и фильтров до оффера, КЭФ и серии быстрых тестов.
 - [[wiki/syntheses/creativity/jeff-koons-art-framework|Jeff Koons Art Framework]] - A reusable art-making model built around self-acceptance, viewer completion, and material freedom.
@@ -279,6 +384,11 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/business/freymvork-prodazhi-grebenyuka|Фреймворк продаж Гребенюка]] - Скомпилированная русская модель продаж: от подготовки и диагностики до квалификации, предзакрытия, закрытия и objection-handling.
 - [[wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka|Фреймворк продуктового мышления Гребенюка]] - Скомпилированная русская модель, где рост строится через ККЦ, архитектуру продукта, карту эмоций клиента и системную приоритизацию улучшений.
 - [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Фреймворк «Реального миллиона» Гребенюка]] - Русская owner-growth модель о том, как связать мышление, вычитание балласта, жесткий фокус, делегирование и прибыль в одну машину роста.
+- [[wiki/syntheses/health/rhonda-patrick-sleep-protocol|Rhonda Patrick Sleep Protocol]] - A practical sleep-improvement protocol built around diagnosis, light timing, environment, routines, and careful supplement use.
+- [[wiki/syntheses/health/michael-greger-nutrition-framework|Michael Greger Nutrition Framework]] - A preventive-health framework built around diet as cause, whole-food plant-based defaults, lifestyle medicine, the `Daily Dozen`, and healthspan.
+- [[wiki/syntheses/health/longevity-health-fundamentals-framework|Longevity Health Fundamentals Framework]] - A longevity framework built around aging as a target, information loss, healthspan, fundamentals, and skepticism toward overhyped interventions.
+- [[wiki/syntheses/health/pavel-tsatsouline-strength-framework|Pavel Tsatsouline Strength Framework]] - A strength-and-conditioning framework built around foundational strength, skillful repetition, submaximal training, and recovery-aware progression.
+- [[wiki/syntheses/health/brain-sharpness-at-90-protocol|Brain Sharpness at 90 Protocol]] - A practical cognitive-aging protocol built around aerobic exercise, deep sleep, basic risk reduction, and cautious interest in multivitamins.
 - [[wiki/syntheses/leadership/freymvork-upravleniya-grebenyuka|Фреймворк управления Гребенюка]] - Скомпилированная русская management-модель: от роли руководителя и систем до найма, делегирования, мотивации, контроля и обновления команды.
 - [[wiki/syntheses/leadership/freymvork-realnogo-hr-grebenyuka|Фреймворк «Реального HR» Гребенюка]] - Собранная русская HR-модель по модулям 1-3: вход, фильтр, academy-layer, адаптация, удержание, гравитация команды и стратегическая работа с хроническими проблемами.
 

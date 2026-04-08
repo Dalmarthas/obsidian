@@ -73,6 +73,80 @@ Pages touched:
 - [[AGENTS]]
 - [[log]]
 
+## [2026-04-09 00:28] ingest | GothamChess How to Win at Chess
+
+Summary: Ingested a new English chess source as the vault's first chess branch, then moved the canonical raw file into `raw/inbox/`. Created a source page, a GothamChess entity page, canonical chess pages for [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/opening-preparation]], [[wiki/concepts/chess/tactical-awareness]], and [[wiki/concepts/chess/endgame-conversion]], plus a reusable synthesis page for the overall practical-improvement framework. The source was treated as a secondary summary with visible encoding artifacts, so the durable value was extracted into clean wiki pages rather than left trapped in the raw note, and stale raw-root references were removed from [[.obsidian/workspace.json]] after archiving.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-gothamchess-how-to-win-at-chess]]
+- [[wiki/sources/2026-04-09-gothamchess-how-to-win-at-chess]]
+- [[wiki/entities/gothamchess]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/concepts/chess/opening-preparation]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/concepts/chess/endgame-conversion]]
+- [[wiki/syntheses/chess/gothamchess-practical-improvement-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 02:09] ingest | Ben Finegold Blunders in Chess
+
+Summary: Ingested a new English Ben Finegold chess source and moved the canonical raw file into `raw/inbox/`. Created a new source page, a new entity page at [[wiki/entities/ben-finegold]], a canonical concept page at [[wiki/concepts/chess/resignation-psychology]], and a reusable synthesis page at [[wiki/syntheses/chess/ben-finegold-blunder-management-framework]]. Then deepened [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/tactical-awareness]], [[wiki/concepts/chess/endgame-conversion]], and [[wiki/syntheses/cross-source/chess-improvement-models]]. The main gain is a practical-resilience layer around premature resignation, anti-complacency discipline, hidden saving resources, and the claim that many results are still decided by the final blunder rather than the earlier quality of play. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-ben-finegold-blunders-in-chess]]
+- [[wiki/sources/2026-04-09-ben-finegold-blunders-in-chess]]
+- [[wiki/entities/ben-finegold]]
+- [[wiki/concepts/chess/resignation-psychology]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/concepts/chess/endgame-conversion]]
+- [[wiki/syntheses/chess/ben-finegold-blunder-management-framework]]
+- [[wiki/syntheses/cross-source/chess-improvement-models]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 02:04] ingest | Polgar Long-Term Chess Improvement Plan
+
+Summary: Ingested a new English chess-training source rooted in Laszlo Polgar's philosophy and moved the canonical raw file into `raw/inbox/`. Created a new source page, a new entity page at [[wiki/entities/laszlo-polgar]], a canonical concept page at [[wiki/concepts/chess/problem-first-chess-training]], a reusable synthesis page at [[wiki/syntheses/chess/polgar-long-term-chess-improvement-framework]], and a cross-source comparison page at [[wiki/syntheses/cross-source/chess-improvement-models]]. Then deepened [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/opening-preparation]], [[wiki/concepts/chess/calculation-in-chess]], [[wiki/concepts/chess/board-vision]], and [[wiki/concepts/chess/tactical-awareness]]. The main gain is a long-horizon training layer around position-solving, physical-board work, sparse explanation, and delayed opening emphasis. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-polgar-long-term-chess-improvement-plan]]
+- [[wiki/sources/2026-04-09-polgar-long-term-chess-improvement-plan]]
+- [[wiki/entities/laszlo-polgar]]
+- [[wiki/concepts/chess/problem-first-chess-training]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/concepts/chess/opening-preparation]]
+- [[wiki/concepts/chess/calculation-in-chess]]
+- [[wiki/concepts/chess/board-vision]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/syntheses/chess/polgar-long-term-chess-improvement-framework]]
+- [[wiki/syntheses/cross-source/chess-improvement-models]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 01:46] ingest | John Bartholomew Undefended Pieces
+
+Summary: Ingested a new English John Bartholomew chess source and moved the canonical raw file into `raw/inbox/`. Created a new source page, a canonical concept page at [[wiki/concepts/chess/undefended-pieces]], and a reusable synthesis page at [[wiki/syntheses/chess/john-bartholomew-piece-safety-framework]], then deepened [[wiki/entities/john-bartholomew]], [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/board-vision]], [[wiki/concepts/chess/tactical-awareness]], [[wiki/concepts/chess/piece-coordination]], and [[wiki/syntheses/chess/john-bartholomew-beginner-improvement-framework]]. The main gain is a sharper anti-blunder layer around loose-piece scanning, overprotection, two-sided danger sense, and using piece safety as a first practical filter before more advanced study. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-john-bartholomew-undefended-pieces]]
+- [[wiki/sources/2026-04-09-john-bartholomew-undefended-pieces]]
+- [[wiki/concepts/chess/undefended-pieces]]
+- [[wiki/entities/john-bartholomew]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/concepts/chess/board-vision]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/concepts/chess/piece-coordination]]
+- [[wiki/syntheses/chess/john-bartholomew-piece-safety-framework]]
+- [[wiki/syntheses/chess/john-bartholomew-beginner-improvement-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
 ## [2026-04-07 12:43] ingest | Dan Brown Masterclass Complete Summary
 
 Raw source: [[raw/inbox/2026-04-07-dan-brown-masterclass-complete-summary]]
@@ -786,3 +860,316 @@ Pages touched:
 
 - [[AGENTS]]
 - [[log]]
+
+## [2026-04-08 22:36] ingest | Rhonda Patrick Sleep Tips
+
+Summary: Ingested a new English health source as the first real branch inside the `health/` domain, then moved the canonical raw file into `raw/inbox/`. Created a source page, a Rhonda Patrick entity page, canonical health concepts for sleep quality, circadian alignment, nighttime awakenings, and sleep supplementation, and a reusable synthesis page for the overall sleep protocol. Also updated [[wiki/concepts/leadership/high-performance-mindset]] so the vault's performance branch now links recovery to a more concrete physiological sleep layer instead of leaving it abstract.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-rhonda-patrick-sleep-tips]]
+- [[wiki/sources/2026-04-08-rhonda-patrick-sleep-tips]]
+- [[wiki/entities/rhonda-patrick]]
+- [[wiki/concepts/health/sleep-quality]]
+- [[wiki/concepts/health/circadian-alignment]]
+- [[wiki/concepts/health/sleep-supplementation]]
+- [[wiki/concepts/health/nighttime-awakenings]]
+- [[wiki/syntheses/health/rhonda-patrick-sleep-protocol]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-08 23:19] ingest | Michael Greger Plant-Based Nutrition
+
+Summary: Ingested a new English health source as the vault's first nutrition-centered branch, then moved the canonical raw file into `raw/inbox/`. Created a source page, a Michael Greger entity page, canonical health concepts for whole-food plant-based diet, diet and chronic disease, lifestyle medicine, `Daily Dozen`, and healthspan, plus a reusable synthesis page for the overall preventive-health framework. Also updated [[wiki/concepts/health/sleep-quality]] so the existing sleep branch now links forward into a broader healthspan model instead of remaining isolated as a recovery-only note, and removed stale raw-root references from [[.obsidian/workspace.json]] after archiving the source.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-michael-greger-plant-based-nutrition]]
+- [[wiki/sources/2026-04-08-michael-greger-plant-based-nutrition]]
+- [[wiki/entities/michael-greger]]
+- [[wiki/concepts/health/whole-food-plant-based-diet]]
+- [[wiki/concepts/health/diet-and-chronic-disease]]
+- [[wiki/concepts/health/lifestyle-medicine]]
+- [[wiki/concepts/health/daily-dozen]]
+- [[wiki/concepts/health/healthspan]]
+- [[wiki/concepts/health/sleep-quality]]
+- [[wiki/syntheses/health/michael-greger-nutrition-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-08 23:41] ingest | Longevity Health Tips Composite Summary
+
+Summary: Ingested a new English health source as a mixed longevity branch, then moved the canonical raw file into `raw/inbox/`. Because the raw file was not a clean single-speaker transcript, I treated it as a composite secondary summary: extracted a David Sinclair-centered aging layer around aging as disease and the information theory of aging, created a practical longevity layer around fundamentals and biohack skepticism, and preserved the source-level caveat that later sections blend broader health advice and duplicate some of the existing sleep branch. I also updated [[wiki/concepts/health/healthspan]] so the health domain now shows a clearer three-way overlap between sleep, nutrition, and longevity, created a new cross-source synthesis at [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]], and removed stale raw-root references from [[.obsidian/workspace.json]] after archiving the source.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-longevity-health-tips-composite-summary]]
+- [[wiki/sources/2026-04-08-longevity-health-tips-composite-summary]]
+- [[wiki/entities/david-sinclair]]
+- [[wiki/concepts/health/aging-as-disease]]
+- [[wiki/concepts/health/information-theory-of-aging]]
+- [[wiki/concepts/health/longevity-fundamentals]]
+- [[wiki/concepts/health/biohack-skepticism]]
+- [[wiki/concepts/health/healthspan]]
+- [[wiki/syntheses/health/longevity-health-fundamentals-framework]]
+- [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-08 23:53] ingest | Pavel Tsatsouline Strength and Conditioning
+
+Summary: Ingested a new English health source as the vault's first explicit strength-training branch, then moved the canonical raw file into `raw/inbox/`. Created a source page, a Pavel Tsatsouline entity page, canonical health concepts for strength training, minimal effective dose training, `greasing the groove`, and recovery plus heterochronicity, and a reusable synthesis page for the overall strength-and-conditioning framework. I also updated [[wiki/concepts/health/longevity-fundamentals]], [[wiki/concepts/health/healthspan]], and the existing cross-source synthesis [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]] so the health domain now includes a clearer movement-capacity layer instead of treating exercise as a generic recommendation, and removed stale raw-root references from [[.obsidian/workspace.json]] after archiving the source.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-pavel-tsatsouline-strength-and-conditioning]]
+- [[wiki/sources/2026-04-08-pavel-tsatsouline-strength-and-conditioning]]
+- [[wiki/entities/pavel-tsatsouline]]
+- [[wiki/concepts/health/strength-training]]
+- [[wiki/concepts/health/minimal-effective-dose-training]]
+- [[wiki/concepts/health/greasing-the-groove]]
+- [[wiki/concepts/health/recovery-and-heterochronicity]]
+- [[wiki/concepts/health/longevity-fundamentals]]
+- [[wiki/concepts/health/healthspan]]
+- [[wiki/syntheses/health/pavel-tsatsouline-strength-framework]]
+- [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 00:02] ingest | Keep Your Brain Sharp at 90 Summary
+
+Summary: Ingested a new English health source as a brain-health and cognitive-aging branch, then moved the canonical raw file into `raw/inbox/`. Created a source page plus canonical health concepts for brain health and cognitive aging, aerobic exercise and brain health, glymphatic clearance, and multivitamins plus cognition, along with a reusable synthesis page for the overall brain-sharpness protocol. I also updated [[wiki/concepts/health/sleep-quality]], [[wiki/concepts/health/longevity-fundamentals]], [[wiki/concepts/health/healthspan]], and the existing cross-source synthesis [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]] so the health domain now shows a clearer cognitive endpoint for why sleep, exercise, and long-horizon prevention matter, and removed stale raw-root references from [[.obsidian/workspace.json]] after archiving the source.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-keep-your-brain-sharp-at-90-summary]]
+- [[wiki/sources/2026-04-08-keep-your-brain-sharp-at-90-summary]]
+- [[wiki/concepts/health/brain-health-and-cognitive-aging]]
+- [[wiki/concepts/health/aerobic-exercise-and-brain-health]]
+- [[wiki/concepts/health/glymphatic-clearance]]
+- [[wiki/concepts/health/multivitamins-and-cognition]]
+- [[wiki/concepts/health/sleep-quality]]
+- [[wiki/concepts/health/longevity-fundamentals]]
+- [[wiki/concepts/health/healthspan]]
+- [[wiki/syntheses/health/brain-sharpness-at-90-protocol]]
+- [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 00:15] ingest | Harry Dry Copywriting Tips
+
+Summary: Ingested a new English business and communication source as the vault's first explicit copywriting branch, then moved the canonical raw file into `raw/inbox/`. Created a source page, a Harry Dry entity page, canonical pages for [[wiki/concepts/business/copywriting]] and [[wiki/concepts/communication/concrete-specificity]], plus a reusable synthesis page for the overall copywriting framework. I also updated [[wiki/concepts/business/advertising]], [[wiki/concepts/business/brand-strategy]], [[wiki/concepts/communication/effective-communication]], [[wiki/concepts/communication/persuasion]], and [[wiki/syntheses/cross-source/communication-and-influence-models]] so the vault now has a clearer written-persuasion layer built around vivid specificity, falsifiable claims, and brand-distinctive truth, and removed stale raw-root references from [[.obsidian/workspace.json]] after archiving the source.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-harry-dry-copywriting-tips]]
+- [[wiki/sources/2026-04-09-harry-dry-copywriting-tips]]
+- [[wiki/entities/harry-dry]]
+- [[wiki/concepts/business/copywriting]]
+- [[wiki/concepts/communication/concrete-specificity]]
+- [[wiki/concepts/business/advertising]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/concepts/communication/persuasion]]
+- [[wiki/syntheses/business/harry-dry-copywriting-framework]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 00:20] admin | Add Chess and Productivity Domains
+
+Summary: Added dedicated `chess/` and `productivity/` domain folders to the wiki structure so future ingests no longer have to fall back to `others/` for these branches. Created the new concept and synthesis directories, updated [[AGENTS]] so both domains are part of the official folder taxonomy and default routing rules, and recorded the routing expectations for future ingests.
+
+Pages touched:
+
+- [[AGENTS]]
+- [[log]]
+
+## [2026-04-09 00:36] ingest | GothamChess Beginner Chess Guide
+
+Summary: Ingested a second English GothamChess source into the existing chess branch, then moved the canonical raw file into `raw/inbox/`. Created a new source page and new canonical chess concepts for [[wiki/concepts/chess/board-vision]], [[wiki/concepts/chess/trade-evaluation]], and [[wiki/concepts/chess/time-management-in-chess]], then deepened [[wiki/entities/gothamchess]], [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/opening-preparation]], [[wiki/concepts/chess/tactical-awareness]], [[wiki/concepts/chess/endgame-conversion]], and [[wiki/syntheses/chess/gothamchess-practical-improvement-framework]] so the branch now captures beginner anti-blunder discipline rather than only phase-level play. The source was treated as a secondary summary with encoding artifacts, and stale raw-root references were removed from [[.obsidian/workspace.json]] after archiving.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-gothamchess-beginner-chess-guide]]
+- [[wiki/sources/2026-04-09-gothamchess-beginner-chess-guide]]
+- [[wiki/entities/gothamchess]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/concepts/chess/opening-preparation]]
+- [[wiki/concepts/chess/board-vision]]
+- [[wiki/concepts/chess/trade-evaluation]]
+- [[wiki/concepts/chess/time-management-in-chess]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/concepts/chess/endgame-conversion]]
+- [[wiki/syntheses/chess/gothamchess-practical-improvement-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 00:42] ingest | Chess Calculation Guide
+
+Summary: Ingested a new English chess-calculation source and moved the canonical raw file into `raw/inbox/`. Created a new source page, a canonical concept page at [[wiki/concepts/chess/calculation-in-chess]], and a reusable synthesis page at [[wiki/syntheses/chess/chess-calculation-process]], then deepened [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/board-vision]], [[wiki/concepts/chess/time-management-in-chess]], and [[wiki/concepts/chess/tactical-awareness]] so the chess branch now distinguishes tactical scanning from fuller candidate-move calculation and opponent-best-response testing. The source was left unattributed at the entity layer because the raw summary did not clearly identify a named teacher, and stale raw-root references were removed from [[.obsidian/workspace.json]] after archiving.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-chess-calculation-guide]]
+- [[wiki/sources/2026-04-09-chess-calculation-guide]]
+- [[wiki/concepts/chess/calculation-in-chess]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/concepts/chess/board-vision]]
+- [[wiki/concepts/chess/time-management-in-chess]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/syntheses/chess/chess-calculation-process]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 00:49] ingest | John Bartholomew Trades in Chess
+
+Summary: Ingested a new English chess source by John Bartholomew and moved the canonical raw file into `raw/inbox/`. Created a new source page, a John Bartholomew entity page, and a reusable synthesis page at [[wiki/syntheses/chess/john-bartholomew-trade-discipline-framework]], then deepened [[wiki/concepts/chess/trade-evaluation]], [[wiki/concepts/chess/calculation-in-chess]], [[wiki/concepts/chess/endgame-conversion]], and [[wiki/concepts/chess/chess]] so the branch now treats exchanges less as simplification and more as structure-aware, activity-aware, and tactic-sensitive decisions. Stale raw-root references for both the current John source and the prior calculation source were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-john-bartholomew-trades-in-chess]]
+- [[wiki/sources/2026-04-09-john-bartholomew-trades-in-chess]]
+- [[wiki/entities/john-bartholomew]]
+- [[wiki/concepts/chess/trade-evaluation]]
+- [[wiki/concepts/chess/calculation-in-chess]]
+- [[wiki/concepts/chess/endgame-conversion]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/syntheses/chess/john-bartholomew-trade-discipline-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 00:59] ingest | John Bartholomew Pawn Play in Chess
+
+Summary: Ingested a new English chess source by John Bartholomew and moved the canonical raw file into `raw/inbox/`. Created a new source page, new canonical chess concepts for [[wiki/concepts/chess/pawn-play]], [[wiki/concepts/chess/pawn-breaks]], and [[wiki/concepts/chess/pawn-structure-weaknesses]], plus a reusable synthesis page at [[wiki/syntheses/chess/john-bartholomew-pawn-play-framework]]. I also deepened [[wiki/entities/john-bartholomew]], [[wiki/concepts/chess/trade-evaluation]], and [[wiki/concepts/chess/chess]] so the chess branch now includes an explicit structural layer around isolated, doubled, and backward pawns, hooks, and break preparation rather than treating pawn play as background. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-john-bartholomew-pawn-play-in-chess]]
+- [[wiki/sources/2026-04-09-john-bartholomew-pawn-play-in-chess]]
+- [[wiki/entities/john-bartholomew]]
+- [[wiki/concepts/chess/pawn-play]]
+- [[wiki/concepts/chess/pawn-breaks]]
+- [[wiki/concepts/chess/pawn-structure-weaknesses]]
+- [[wiki/concepts/chess/trade-evaluation]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/syntheses/chess/john-bartholomew-pawn-play-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 01:05] ingest | John Bartholomew Beginner Chess Mistakes
+
+Summary: Ingested a new English chess source by John Bartholomew and moved the canonical raw file into `raw/inbox/`. Created a new source page, new canonical chess concepts for [[wiki/concepts/chess/piece-coordination]] and [[wiki/concepts/chess/weak-squares-and-outposts]], plus a reusable synthesis page at [[wiki/syntheses/chess/john-bartholomew-beginner-improvement-framework]]. I also deepened [[wiki/entities/john-bartholomew]], [[wiki/concepts/chess/board-vision]], [[wiki/concepts/chess/opening-preparation]], [[wiki/concepts/chess/pawn-breaks]], and [[wiki/concepts/chess/tactical-awareness]] so the branch now captures beginner mistake patterns around opponent threats, loose pieces, sequencing, strategic squares, and development-to-break conversion. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-john-bartholomew-beginner-chess-mistakes]]
+- [[wiki/sources/2026-04-09-john-bartholomew-beginner-chess-mistakes]]
+- [[wiki/entities/john-bartholomew]]
+- [[wiki/concepts/chess/piece-coordination]]
+- [[wiki/concepts/chess/weak-squares-and-outposts]]
+- [[wiki/concepts/chess/board-vision]]
+- [[wiki/concepts/chess/opening-preparation]]
+- [[wiki/concepts/chess/pawn-breaks]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/syntheses/chess/john-bartholomew-beginner-improvement-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 01:11] ingest | Essential Chess Principles
+
+Summary: Ingested a new English generic chess source and moved the canonical raw file into `raw/inbox/`. Created a new source page, a canonical concept page at [[wiki/concepts/chess/piece-activity]], and a reusable synthesis page at [[wiki/syntheses/chess/essential-chess-principles-framework]], then deepened [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/opening-preparation]], [[wiki/concepts/chess/piece-coordination]], [[wiki/concepts/chess/pawn-structure-weaknesses]], [[wiki/concepts/chess/trade-evaluation]], [[wiki/concepts/chess/endgame-conversion]], [[wiki/concepts/chess/calculation-in-chess]], and [[wiki/concepts/chess/tactical-awareness]] so the chess branch now has a clearer principle-level map of activity, structure, exchanges, endgame technique, and anti-"hope chess" discipline. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-essential-chess-principles]]
+- [[wiki/sources/2026-04-09-essential-chess-principles]]
+- [[wiki/concepts/chess/piece-activity]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/concepts/chess/opening-preparation]]
+- [[wiki/concepts/chess/piece-coordination]]
+- [[wiki/concepts/chess/pawn-structure-weaknesses]]
+- [[wiki/concepts/chess/trade-evaluation]]
+- [[wiki/concepts/chess/endgame-conversion]]
+- [[wiki/concepts/chess/calculation-in-chess]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/syntheses/chess/essential-chess-principles-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 01:21] ingest | John Bartholomew Piece and Pawn Coordination
+
+Summary: Ingested a new English John Bartholomew chess source and moved the canonical raw file into `raw/inbox/`. Created a new source page, a canonical concept page at [[wiki/concepts/chess/development-tempo]], and a reusable synthesis page at [[wiki/syntheses/chess/john-bartholomew-coordination-framework]], then deepened [[wiki/entities/john-bartholomew]], [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/piece-coordination]], [[wiki/concepts/chess/opening-preparation]], [[wiki/concepts/chess/pawn-play]], [[wiki/concepts/chess/trade-evaluation]], and [[wiki/concepts/chess/tactical-awareness]] so the chess branch now has a clearer coordination layer around pawn restraint, development lag, undefended pieces, and mini-goal recovery. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-john-bartholomew-piece-and-pawn-coordination]]
+- [[wiki/sources/2026-04-09-john-bartholomew-piece-and-pawn-coordination]]
+- [[wiki/concepts/chess/development-tempo]]
+- [[wiki/entities/john-bartholomew]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/concepts/chess/piece-coordination]]
+- [[wiki/concepts/chess/opening-preparation]]
+- [[wiki/concepts/chess/pawn-play]]
+- [[wiki/concepts/chess/trade-evaluation]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/syntheses/chess/john-bartholomew-coordination-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 01:26] ingest | John Bartholomew Recurring Beginner Chess Mistakes
+
+Summary: Ingested a new English John Bartholomew chess source and moved the canonical raw file into `raw/inbox/`. Created a new source page and deepened the existing beginner-improvement cluster instead of spawning a duplicate branch: updated [[wiki/entities/john-bartholomew]], [[wiki/concepts/chess/piece-coordination]], [[wiki/concepts/chess/development-tempo]], [[wiki/concepts/chess/opening-preparation]], [[wiki/concepts/chess/pawn-breaks]], [[wiki/concepts/chess/weak-squares-and-outposts]], [[wiki/concepts/chess/tactical-awareness]], [[wiki/concepts/chess/calculation-in-chess]], and [[wiki/syntheses/chess/john-bartholomew-beginner-improvement-framework]]. The main gain is a sharper case-study layer around forcing-reply blindness, development-sensitive pawn-break timing, weak-square creation, and recurring club-level planning errors. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-john-bartholomew-recurring-beginner-chess-mistakes]]
+- [[wiki/sources/2026-04-09-john-bartholomew-recurring-beginner-chess-mistakes]]
+- [[wiki/entities/john-bartholomew]]
+- [[wiki/concepts/chess/piece-coordination]]
+- [[wiki/concepts/chess/development-tempo]]
+- [[wiki/concepts/chess/opening-preparation]]
+- [[wiki/concepts/chess/pawn-breaks]]
+- [[wiki/concepts/chess/weak-squares-and-outposts]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/concepts/chess/calculation-in-chess]]
+- [[wiki/syntheses/chess/john-bartholomew-beginner-improvement-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 01:32] ingest | GothamChess Essential Chess Tips
+
+Summary: Ingested a new English GothamChess chess source and moved the canonical raw file into `raw/inbox/`. Created a new source page and a canonical concept page at [[wiki/concepts/chess/imbalances-in-chess]], then deepened [[wiki/entities/gothamchess]], [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/opening-preparation]], [[wiki/concepts/chess/trade-evaluation]], [[wiki/concepts/chess/tactical-awareness]], and [[wiki/syntheses/chess/gothamchess-practical-improvement-framework]]. The main gain is a stronger planning layer around opening-to-middlegame continuity, imbalance recognition, attack conditions, repertoire depth, and calm principled play against offbeat moves. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-gothamchess-essential-chess-tips]]
+- [[wiki/sources/2026-04-09-gothamchess-essential-chess-tips]]
+- [[wiki/concepts/chess/imbalances-in-chess]]
+- [[wiki/entities/gothamchess]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/concepts/chess/opening-preparation]]
+- [[wiki/concepts/chess/trade-evaluation]]
+- [[wiki/concepts/chess/tactical-awareness]]
+- [[wiki/syntheses/chess/gothamchess-practical-improvement-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 01:38] ingest | GothamChess Beating Beginner Chess Bots
+
+Summary: Ingested a new English GothamChess chess source and moved the canonical raw file into `raw/inbox/`. Created a new source page plus a canonical concept page at [[wiki/concepts/chess/training-with-chess-bots]], then deepened [[wiki/entities/gothamchess]], [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/trade-evaluation]], [[wiki/concepts/chess/time-management-in-chess]], [[wiki/concepts/chess/endgame-conversion]], and [[wiki/syntheses/chess/gothamchess-practical-improvement-framework]]. The main gain is a clearer training-context layer around principled play versus weak bots, simplification when ahead, conversion drills, and the warning that bots should support learning rather than replace human opponents and analysis. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-gothamchess-beating-beginner-chess-bots]]
+- [[wiki/sources/2026-04-09-gothamchess-beating-beginner-chess-bots]]
+- [[wiki/concepts/chess/training-with-chess-bots]]
+- [[wiki/entities/gothamchess]]
+- [[wiki/concepts/chess/chess]]
+- [[wiki/concepts/chess/trade-evaluation]]
+- [[wiki/concepts/chess/time-management-in-chess]]
+- [[wiki/concepts/chess/endgame-conversion]]
+- [[wiki/syntheses/chess/gothamchess-practical-improvement-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
