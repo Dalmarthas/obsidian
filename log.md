@@ -668,3 +668,89 @@ Pages touched:
 - [[wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka]]
 - [[index]]
 - [[.obsidian/workspace.json]]
+
+## [2026-04-08 13:58] ingest | Мастер-класс по управлению — полная сводка
+
+Summary: Нормализовал новый русский raw `.txt` в канонический `.md`, затем заингестил его как третью ветку Михаила Гребенюка — уже не про продажи и не про продукт, а про управление людьми и системами. Вынес из source отдельные durable pages по управлению, системам и стандартизации, найму и обновлению команды, делегированию и контролю, боевому духу команды и управленческим компромиссам. Дополнительно переписал [[wiki/entities/mikhail-grebenyuk|entity page]] как трехслойную ветку `продажи -> продукт -> управление`, обновил [[index]] и после ingest перенес финальный raw source в `raw/inbox/`.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-mikhail-grebenyuk-upravlenie-polnaya-svodka]]
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-upravlenie-polnaya-svodka]]
+- [[wiki/entities/mikhail-grebenyuk]]
+- [[wiki/concepts/leadership/upravlenie]]
+- [[wiki/concepts/leadership/sistemy-i-standartizaciya]]
+- [[wiki/concepts/leadership/naim-i-obnovlenie-komandy]]
+- [[wiki/concepts/leadership/delegirovanie-i-kontrol]]
+- [[wiki/concepts/leadership/boevoi-duh-komandy]]
+- [[wiki/concepts/leadership/upravlencheskie-kompromissy]]
+- [[wiki/syntheses/leadership/freymvork-upravleniya-grebenyuka]]
+- [[index]]
+
+## [2026-04-08 14:14] ingest | Мастер-класс «Реальный HR» — модуль 1 из 3
+
+Summary: Нормализовал новый русский raw `.txt` в canonical `.md` с явной пометкой `modul-1`, чтобы не спутать его с будущими модулями 2 и 3, затем заингестил как partial HR-branch внутри Grebenyuk ветки. Вынес из source отдельные durable pages по HR-отделу, ГФД, воронке найма, адаптации сотрудников и стратсессиям; параллельно углубил русские leadership pages по управлению, найму, системам и боевому духу команды. Обновил entity page Гребенюка как уже четырехслойную ветку `продукт -> продажи -> управление -> HR`, дополнил `index.md`, записал историю и переместил финальный raw source в `raw/inbox/`.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-1]]
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-1]]
+- [[wiki/entities/mikhail-grebenyuk]]
+- [[wiki/concepts/leadership/hr-otdel]]
+- [[wiki/concepts/leadership/gfd-grob-fail-dolzhnosti]]
+- [[wiki/concepts/leadership/voronka-naima]]
+- [[wiki/concepts/leadership/adaptaciya-sotrudnikov]]
+- [[wiki/concepts/business/stratsessii]]
+- [[wiki/concepts/leadership/upravlenie]]
+- [[wiki/concepts/leadership/naim-i-obnovlenie-komandy]]
+- [[wiki/concepts/leadership/sistemy-i-standartizaciya]]
+- [[wiki/concepts/leadership/boevoi-duh-komandy]]
+- [[wiki/syntheses/leadership/freymvork-realnogo-hr-grebenyuka]]
+- [[index]]
+
+## [2026-04-08 15:15] ingest | Мастер-класс «Реальный HR» — модуль 2 из 3
+
+Summary: Нормализовал новый русский raw `.txt` в канонический `.md`, встроил модуль 2 не как параллельную ветку, а как углубление существующего partial branch `realnyi-hr`, а затем переместил финальный raw source в `raw/inbox/`. Вынес из source отдельные durable pages по аватару кандидата, академии обучения, «химии» в найме и справедливой мотивации; одновременно перепрошил канонические HR-узлы через многоканальную воронку, academy-layer, бескомпромиссный отбор, слой мотивации и логику эффективного масштабирования. Обновил общий HR synthesis до покрытия модулей 1-2 из 3, дополнил `index.md` и очистил stale recent-file references на временный raw-path и исходный `.txt` из [[.obsidian/workspace.json]].
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-2]]
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-1]]
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-2]]
+- [[wiki/concepts/leadership/avatar-kandidata]]
+- [[wiki/concepts/leadership/akademiya-obucheniya]]
+- [[wiki/concepts/leadership/himiya-v-naime]]
+- [[wiki/concepts/leadership/spravedlivaya-motivaciya]]
+- [[wiki/concepts/leadership/hr-otdel]]
+- [[wiki/concepts/leadership/voronka-naima]]
+- [[wiki/concepts/leadership/adaptaciya-sotrudnikov]]
+- [[wiki/concepts/leadership/sistemy-i-standartizaciya]]
+- [[wiki/concepts/leadership/naim-i-obnovlenie-komandy]]
+- [[wiki/concepts/leadership/boevoi-duh-komandy]]
+- [[wiki/entities/mikhail-grebenyuk]]
+- [[wiki/syntheses/leadership/freymvork-realnogo-hr-grebenyuka]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-08 15:27] ingest | Мастер-класс «Реальный HR» — модуль 3 из 3
+
+Summary: Нормализовал новый русский raw `.txt` в канонический `.md`, использовал его как завершающий модуль 3 для уже существующего branch `realnyi-hr`, а затем достроил ветку до полного покрытия по модулям 1-3. Вынес из source отдельные durable pages по гравитации команды, каздеву и проклятым проблемам, а также перепрошил ключевые canonical pages через retention-layer, антигравитационные силы и зрелую методику стратсессий. Обновил source pages модулей 1-2, entity page Гребенюка, общий HR synthesis, `index.md`, а stale recent-file references на временный raw-path и исходный `.txt` после перемещения raw source в `raw/inbox/` были очищены из [[.obsidian/workspace.json]].
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-3]]
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-1]]
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-2]]
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-hr-modul-3]]
+- [[wiki/concepts/leadership/gravitaciya-komandy]]
+- [[wiki/concepts/leadership/kazdev]]
+- [[wiki/concepts/business/proklyatye-problemy]]
+- [[wiki/concepts/business/stratsessii]]
+- [[wiki/concepts/leadership/hr-otdel]]
+- [[wiki/concepts/leadership/adaptaciya-sotrudnikov]]
+- [[wiki/concepts/leadership/boevoi-duh-komandy]]
+- [[wiki/concepts/leadership/spravedlivaya-motivaciya]]
+- [[wiki/concepts/leadership/upravlenie]]
+- [[wiki/entities/mikhail-grebenyuk]]
+- [[wiki/syntheses/leadership/freymvork-realnogo-hr-grebenyuka]]
+- [[index]]
