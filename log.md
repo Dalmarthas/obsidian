@@ -627,3 +627,44 @@ Pages touched:
 - [[wiki/concepts/business/kef-klyuchevoi-etap-voronki]]
 - [[wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa]]
 - [[index]]
+
+## [2026-04-08 13:13] ingest | Мастер-класс по продажам — полная сводка
+
+Summary: Нормализовал новый русский raw `.txt` в канонический `.md`, заингестил его как отдельную sales-ветку и затем перенес финальный raw source в `raw/inbox/`. Вместо одного summary-файла вынес из источника отдельные durable pages под продажи как систему, этапы продажи, выявление боли, квалификацию, предзакрытие, обработку возражений и формулу `свойство -> выгода`. Дополнительно связал новую ветку с существующими influence-концептами через сравнения с [[wiki/concepts/communication/persuasion|Persuasion]] и [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]], обновил [[index]] и убрал stale recent-file references на временный raw-path и исходный `.txt` из [[.obsidian/workspace.json]].
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-mikhail-grebenyuk-prodazhi-polnaya-svodka]]
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-prodazhi-polnaya-svodka]]
+- [[wiki/entities/mikhail-grebenyuk]]
+- [[wiki/concepts/business/prodazhi]]
+- [[wiki/concepts/business/etapy-prodazhi]]
+- [[wiki/concepts/business/vyyavlenie-boli-klienta]]
+- [[wiki/concepts/business/kvalifikaciya-klienta]]
+- [[wiki/concepts/business/predzakrytie]]
+- [[wiki/concepts/business/obrabotka-vozrazhenii]]
+- [[wiki/concepts/business/svoistvo-vygoda]]
+- [[wiki/syntheses/business/freymvork-prodazhi-grebenyuka]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-08 13:31] ingest | Мастер-класс: продуктовое мышление в бизнесе — полная сводка
+
+Summary: Нормализовал новый русский raw `.txt` в канонический `.md`, затем заингестил его как вторую ветку Михаила Гребенюка, но уже про продукт, а не про продажи. Вместо thin summary вынес из source отдельные durable pages по продуктовому мышлению, архитектуре продукта, полному контуру продукта, карте эмоций клиента, ККЦ и матрице приоритизации улучшений. Дополнительно углубил [[wiki/entities/mikhail-grebenyuk|entity page]] и встроил новый source в общие business hubs [[wiki/concepts/business/business-strategy|Business Strategy]] и [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], чтобы product-layer был виден рядом с нишей, стратегией и execution frameworks. После ingest перенес финальный raw source в `raw/inbox/`, обновил [[index]] и очистил stale recent-file references из [[.obsidian/workspace.json]].
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-mikhail-grebenyuk-produkt-polnaya-svodka]]
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-produkt-polnaya-svodka]]
+- [[wiki/entities/mikhail-grebenyuk]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/concepts/business/framework-driven-action]]
+- [[wiki/concepts/business/produktovoe-myshlenie]]
+- [[wiki/concepts/business/arhitektura-produkta]]
+- [[wiki/concepts/business/polnyi-kontur-produkta]]
+- [[wiki/concepts/business/karta-emocii-klienta]]
+- [[wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti]]
+- [[wiki/concepts/business/matrica-prioritizacii-bystro-silno]]
+- [[wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka]]
+- [[index]]
+- [[.obsidian/workspace.json]]

@@ -38,6 +38,9 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[raw/inbox/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka|Выбор ниши для бизнеса — полная сводка]] - Русскоязычная вторичная сводка курса о выборе ниши, подниши, быстрых MVP-тестах и поиске спроса до сборки продукта.
 - [[raw/inbox/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka-2|Выбор ниши для бизнеса — полная сводка 2]] - Вторая, более детальная русская сводка по выбору ниши с балльной фильтрацией, формулой «что кому как», КЭФ и более плотным execution-layer.
 
+- [[raw/inbox/2026-04-08-mikhail-grebenyuk-prodazhi-polnaya-svodka|Мастер-класс по продажам — полная сводка]] - Русскоязычная вторичная сводка по продажам как системе из КФУ, восьми этапов сделки, квалификации, предзакрытия и обработки возражений.
+- [[raw/inbox/2026-04-08-mikhail-grebenyuk-produkt-polnaya-svodka|Мастер-класс: продуктовое мышление в бизнесе — полная сводка]] - Русскоязычная вторичная сводка о продукте как полном клиентском контуре, ККЦ, архитектуре продукта и системном улучшении опыта.
+
 ## Sources
 
 - [[wiki/sources/2026-04-07-llm-wiki-idea|LLM Wiki Idea (Source Summary)]] - Structured source page for the founding idea behind this vault.
@@ -69,6 +72,9 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka|Выбор ниши для бизнеса — полная сводка]] - Русская source page о генерации идей, фильтрации ниш, выборе подниши и проверке спроса через быстрые тесты.
 - [[wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka-2|Выбор ниши для бизнеса — полная сводка 2]] - Вторая русская source page, усиливающая ветку через балльную фильтрацию, формулу «что кому как», КЭФ и партнерский вход в нишу.
 
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-prodazhi-polnaya-svodka|Мастер-класс по продажам — полная сводка]] - Русская source page о продажах как системном процессе: от КФУ и психологии продавца до предзакрытия, callback и работы с возражениями.
+- [[wiki/sources/2026-04-08-mikhail-grebenyuk-produkt-polnaya-svodka|Мастер-класс: продуктовое мышление в бизнесе — полная сводка]] - Русская source page о продуктовом мышлении, архитектуре продукта, ККЦ, карте эмоций клиента и приоритизации улучшений.
+
 ## Entities
 
 - [[wiki/entities/aaron-sorkin|Aaron Sorkin]] - Screenwriter and teacher whose craft model now anchors several pages in the vault.
@@ -96,6 +102,8 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/entities/salman-rushdie|Salman Rushdie]] - Fiction teacher whose source deepens the vault's novel-writing, voice, setting, and worldview branch.
 - [[wiki/entities/shonda-rhimes|Shonda Rhimes]] - Television writer-showrunner whose source deepens the vault's TV writing, room, and showrunning branch.
 
+- [[wiki/entities/mikhail-grebenyuk|Михаил Гребенюк]] - Русскоязычный коммерческий teacher, который связывает в хранилище продукт, продажи, клиентскую ценность и операционную дисциплину.
+
 ## Concepts
 
 - [[wiki/concepts/llm-wiki|LLM Wiki]] - A persistent, LLM-maintained wiki that compiles and updates knowledge instead of re-deriving it on every query.
@@ -114,6 +122,12 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/filmmaking/monologue-preparation|Monologue Preparation]] - Selecting, analyzing, grounding, and varying monologue material until it becomes dramatically playable.
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]] - The insight layer that gives creative work a coherent reason to exist.
 - [[wiki/concepts/business/business-strategy|Business Strategy]] - A small set of strategic priorities that govern where an organization places time, capital, and attention.
+- [[wiki/concepts/business/produktovoe-myshlenie|Продуктовое мышление]] - Подход, в котором рост ищут через усиление продукта, клиентской ценности и полного клиентского опыта, а не только через маркетинг и продажи.
+- [[wiki/concepts/business/arhitektura-produkta|Архитектура продукта]] - Отдельная функция системного улучшения продукта через насмотренность, штурмы, конкурентную разведку, внедрение и тестирование гипотез.
+- [[wiki/concepts/business/polnyi-kontur-produkta|Полный контур продукта]] - Представление о продукте как о всей цепочке взаимодействия: до, во время и после основной услуги.
+- [[wiki/concepts/business/karta-emocii-klienta|Карта эмоций клиента]] - Диагностическая карта точек контакта, которая делит опыт на wow, ok и проблемные моменты.
+- [[wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti|Ключевые клиентские ценности (ККЦ)]] - 2-3 опорные ценности, под которые компания собирает продукт, сервис и коммуникацию.
+- [[wiki/concepts/business/matrica-prioritizacii-bystro-silno|Матрица приоритизации: быстро/долго x сильно/слабо]] - Простая матрица выбора улучшений, где быстрые изменения с сильным эффектом получают приоритет.
 - [[wiki/concepts/business/chto-komu-kak|Формула «что кому как»]] - Компактная схема сборки оффера через продукт, поднишу и конкретную выгоду.
 - [[wiki/concepts/business/vybor-nishi|Выбор ниши]] - Системный выбор поля для бизнеса через генерацию идей, фильтрацию и реальные рыночные тесты.
 - [[wiki/concepts/business/kef-klyuchevoi-etap-voronki|КЭФ (ключевой этап воронки)]] - Ближайший шаг доверия перед сделкой, который лучше измеряет реальный интерес, чем продажа в лоб.
@@ -187,6 +201,14 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/creativity/visual-literacy|Visual Literacy]] - Reading and making meaning through images, sequence, form, and visual contrast rather than words alone.
 - [[wiki/concepts/business/zone-of-genius|Zone of Genius]] - The overlap of passion, talents, values, and skills that best guides career design.
 
+- [[wiki/concepts/business/prodazhi|Продажи]] - Системный взгляд на продажи как связку экспертизы, понимания клиента, техники разговора и управляемой воронки.
+- [[wiki/concepts/business/etapy-prodazhi|Этапы продажи]] - Восьмишаговый каркас сделки: от подготовки и диагностики до предзакрытия, закрытия и обработки возражений.
+- [[wiki/concepts/business/vyyavlenie-boli-klienta|Выявление боли клиента]] - Диагностический слой продажи, где клиент проговаривает текущую ситуацию, последствия и желаемую реальность.
+- [[wiki/concepts/business/kvalifikaciya-klienta|Квалификация клиента]] - Ранний фильтр по бюджету, полномочиям, потребности, срокам и мотивации.
+- [[wiki/concepts/business/predzakrytie|Предзакрытие]] - Проверка готовности клиента до финального ask, которая показывает, чего еще не хватает для решения.
+- [[wiki/concepts/business/obrabotka-vozrazhenii|Обработка возражений]] - Работа с ложными и истинными возражениями без прямого спора с клиентом.
+- [[wiki/concepts/business/svoistvo-vygoda|Свойство -> выгода]] - Перевод продуктовой характеристики в клиентский смысл и релевантную ценность.
+
 ## Syntheses
 
 - [[wiki/syntheses/filmmaking/baldacci-thriller-framework|Baldacci Thriller Framework]] - A reusable thriller-fiction model built around openings, plausibility, research, and chapter momentum.
@@ -219,6 +241,9 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]] - A reusable craft model distilled from the Aaron Sorkin masterclass summary.
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]] - A cross-source comparison of overlapping craft principles across practical screenwriting and thriller writing.
 - [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]] - A reusable framework for multi-hyphenate career design, planning, and confident transition.
+
+- [[wiki/syntheses/business/freymvork-prodazhi-grebenyuka|Фреймворк продаж Гребенюка]] - Скомпилированная русская модель продаж: от подготовки и диагностики до квалификации, предзакрытия, закрытия и objection-handling.
+- [[wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka|Фреймворк продуктового мышления Гребенюка]] - Скомпилированная русская модель, где рост строится через ККЦ, архитектуру продукта, карту эмоций клиента и системную приоритизацию улучшений.
 
 ## Folder Conventions
 
