@@ -12,9 +12,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-david-carson-design-masterclass-complete-summary.md
 related:
-  - wiki/concepts/graphic-design.md
-  - wiki/concepts/typography-as-image.md
-  - wiki/syntheses/carson-design-framework.md
+  - wiki/concepts/creativity/graphic-design.md
+  - wiki/concepts/creativity/typography-as-image.md
+  - wiki/syntheses/creativity/carson-design-framework.md
 ---
 
 # Overview
@@ -27,13 +27,13 @@ Carson currently anchors the vault's new design branch, especially the pages on 
 
 # Evidence In This Vault
 
-- Branch anchor: [[wiki/concepts/graphic-design|Graphic Design]]
-- Typography model: [[wiki/concepts/typography-as-image|Typography as Image]]
-- Shared integrity model: [[wiki/concepts/creative-integrity|Creative Integrity]]
-- System-level distillation: [[wiki/syntheses/carson-design-framework|Carson Design Framework]]
+- Branch anchor: [[wiki/concepts/creativity/graphic-design|Graphic Design]]
+- Typography model: [[wiki/concepts/creativity/typography-as-image|Typography as Image]]
+- Shared integrity model: [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
+- System-level distillation: [[wiki/syntheses/creativity/carson-design-framework|Carson Design Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/graphic-design|Graphic Design]]
-- [[wiki/concepts/typography-as-image|Typography as Image]]
-- [[wiki/syntheses/carson-design-framework|Carson Design Framework]]
+- [[wiki/concepts/creativity/graphic-design|Graphic Design]]
+- [[wiki/concepts/creativity/typography-as-image|Typography as Image]]
+- [[wiki/syntheses/creativity/carson-design-framework|Carson Design Framework]]

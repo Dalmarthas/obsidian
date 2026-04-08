@@ -12,10 +12,10 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-david-lynch-writing-summary.md
 related:
-  - wiki/concepts/filmmaking.md
-  - wiki/concepts/creative-integrity.md
-  - wiki/concepts/idea-development.md
-  - wiki/syntheses/lynch-creative-framework.md
+  - wiki/concepts/filmmaking/filmmaking.md
+  - wiki/concepts/creativity/creative-integrity.md
+  - wiki/concepts/creativity/idea-development.md
+  - wiki/syntheses/creativity/lynch-creative-framework.md
 ---
 
 # Overview
@@ -28,13 +28,13 @@ Lynch currently anchors the vault's material on catching ideas, protecting creat
 
 # Evidence In This Vault
 
-- Branch anchor: [[wiki/concepts/filmmaking|Filmmaking]]
-- Shared ideation model: [[wiki/concepts/idea-development|Idea Development]]
-- Shared integrity model: [[wiki/concepts/creative-integrity|Creative Integrity]]
-- System-level distillation: [[wiki/syntheses/lynch-creative-framework|Lynch Creative Framework]]
+- Branch anchor: [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
+- Shared ideation model: [[wiki/concepts/creativity/idea-development|Idea Development]]
+- Shared integrity model: [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
+- System-level distillation: [[wiki/syntheses/creativity/lynch-creative-framework|Lynch Creative Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking|Filmmaking]]
-- [[wiki/concepts/creative-integrity|Creative Integrity]]
-- [[wiki/syntheses/lynch-creative-framework|Lynch Creative Framework]]
+- [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
+- [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
+- [[wiki/syntheses/creativity/lynch-creative-framework|Lynch Creative Framework]]

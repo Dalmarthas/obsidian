@@ -12,9 +12,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
 related:
-  - wiki/concepts/high-performance-mindset.md
-  - wiki/concepts/trust-based-collaboration.md
-  - wiki/syntheses/lewis-hamilton-performance-framework.md
+  - wiki/concepts/leadership/leadership/high-performance-mindset.md
+  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/syntheses/leadership/lewis-hamilton-performance-framework.md
 ---
 
 # Overview
@@ -27,12 +27,12 @@ Hamilton currently anchors the vault's performance branch while also strengtheni
 
 # Evidence In This Vault
 
-- Performance branch: [[wiki/concepts/high-performance-mindset|High-Performance Mindset]]
-- Team and trust overlap: [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
-- System-level distillation: [[wiki/syntheses/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]
+- Performance branch: [[wiki/concepts/leadership/leadership/high-performance-mindset|High-Performance Mindset]]
+- Team and trust overlap: [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- System-level distillation: [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/high-performance-mindset|High-Performance Mindset]]
-- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/syntheses/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]
+- [[wiki/concepts/leadership/leadership/high-performance-mindset|High-Performance Mindset]]
+- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]

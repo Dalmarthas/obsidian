@@ -11,8 +11,8 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
 related:
-  - wiki/concepts/advertising.md
-  - wiki/syntheses/goodby-silverstein-advertising-framework.md
+  - wiki/concepts/business/advertising.md
+  - wiki/syntheses/business/goodby-silverstein-advertising-framework.md
 ---
 
 # Overview
@@ -25,14 +25,14 @@ This entity anchors the advertising branch of the wiki. It is the current source
 
 # Evidence In This Vault
 
-- Advertising philosophy: [[wiki/concepts/advertising|Advertising]]
-- Audience and tone model: [[wiki/concepts/mass-intimacy|Mass Intimacy]]
-- Strategic foundation: [[wiki/concepts/brand-strategy|Brand Strategy]]
-- Idea-selling craft: [[wiki/concepts/creative-pitching|Creative Pitching]]
-- System summary: [[wiki/syntheses/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
+- Advertising philosophy: [[wiki/concepts/business/advertising|Advertising]]
+- Audience and tone model: [[wiki/concepts/business/mass-intimacy|Mass Intimacy]]
+- Strategic foundation: [[wiki/concepts/business/brand-strategy|Brand Strategy]]
+- Idea-selling craft: [[wiki/concepts/business/creative-pitching|Creative Pitching]]
+- System summary: [[wiki/syntheses/business/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/advertising|Advertising]]
-- [[wiki/concepts/mass-intimacy|Mass Intimacy]]
-- [[wiki/syntheses/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
+- [[wiki/concepts/business/advertising|Advertising]]
+- [[wiki/concepts/business/mass-intimacy|Mass Intimacy]]
+- [[wiki/syntheses/business/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]

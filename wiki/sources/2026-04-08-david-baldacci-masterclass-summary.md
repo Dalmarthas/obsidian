@@ -69,12 +69,12 @@ This source is a large secondary summary of David Baldacci's thriller-writing ma
 # Links
 
 - [[wiki/entities/david-baldacci|David Baldacci]]
-- [[wiki/concepts/thriller-writing|Thriller Writing]]
-- [[wiki/concepts/immersive-research|Immersive Research]]
-- [[wiki/concepts/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
-- [[wiki/syntheses/baldacci-thriller-framework|Baldacci Thriller Framework]]
-- [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]]
+- [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/filmmaking/immersive-research|Immersive Research]]
+- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/syntheses/filmmaking/baldacci-thriller-framework|Baldacci Thriller Framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]
 
 # Open Questions
 

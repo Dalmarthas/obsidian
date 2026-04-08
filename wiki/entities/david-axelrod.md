@@ -12,9 +12,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
 related:
-  - wiki/concepts/political-campaigns.md
-  - wiki/concepts/leadership-communication.md
-  - wiki/syntheses/axelrod-rove-campaign-framework.md
+  - wiki/concepts/communication/political-campaigns.md
+  - wiki/concepts/leadership/leadership/leadership-communication.md
+  - wiki/syntheses/communication/axelrod-rove-campaign-framework.md
 ---
 
 # Overview
@@ -27,13 +27,13 @@ Axelrod helps anchor the vault's campaign branch, especially on campaign purpose
 
 # Evidence In This Vault
 
-- Campaign branch: [[wiki/concepts/political-campaigns|Political Campaigns]]
-- Communication overlap: [[wiki/concepts/leadership-communication|Leadership Communication]]
-- System-level distillation: [[wiki/syntheses/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
+- Campaign branch: [[wiki/concepts/communication/political-campaigns|Political Campaigns]]
+- Communication overlap: [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- System-level distillation: [[wiki/syntheses/communication/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/political-campaigns|Political Campaigns]]
-- [[wiki/concepts/leadership-communication|Leadership Communication]]
-- [[wiki/syntheses/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
+- [[wiki/concepts/communication/political-campaigns|Political Campaigns]]
+- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/syntheses/communication/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
 

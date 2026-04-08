@@ -12,8 +12,8 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-conversation-jane-goodall-masterclass-complete-summary.md
 related:
-  - wiki/concepts/conservation.md
-  - wiki/syntheses/goodall-conservation-framework.md
+  - wiki/concepts/others/conservation.md
+  - wiki/syntheses/others/goodall-conservation-framework.md
 ---
 
 # Overview
@@ -26,14 +26,14 @@ Goodall anchors the current conservation branch of the wiki. Her source is the m
 
 # Evidence In This Vault
 
-- Broad field: [[wiki/concepts/conservation|Conservation]]
-- Animal mind and emotion: [[wiki/concepts/animal-cognition|Animal Cognition]]
-- Systems frame: [[wiki/concepts/interconnectedness-principle|Interconnectedness Principle]]
-- Applied method: [[wiki/concepts/community-based-conservation|Community-Based Conservation]]
-- System summary: [[wiki/syntheses/goodall-conservation-framework|Goodall Conservation Framework]]
+- Broad field: [[wiki/concepts/others/conservation|Conservation]]
+- Animal mind and emotion: [[wiki/concepts/others/animal-cognition|Animal Cognition]]
+- Systems frame: [[wiki/concepts/others/interconnectedness-principle|Interconnectedness Principle]]
+- Applied method: [[wiki/concepts/others/community-based-conservation|Community-Based Conservation]]
+- System summary: [[wiki/syntheses/others/goodall-conservation-framework|Goodall Conservation Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/conservation|Conservation]]
-- [[wiki/concepts/community-based-conservation|Community-Based Conservation]]
-- [[wiki/syntheses/goodall-conservation-framework|Goodall Conservation Framework]]
+- [[wiki/concepts/others/conservation|Conservation]]
+- [[wiki/concepts/others/community-based-conservation|Community-Based Conservation]]
+- [[wiki/syntheses/others/goodall-conservation-framework|Goodall Conservation Framework]]

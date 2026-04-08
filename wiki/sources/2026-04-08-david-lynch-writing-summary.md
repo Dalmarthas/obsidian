@@ -61,10 +61,10 @@ This source is a secondary summary of David Lynch's masterclass on creativity an
 # Links
 
 - [[wiki/entities/david-lynch|David Lynch]]
-- [[wiki/concepts/filmmaking|Filmmaking]]
-- [[wiki/concepts/idea-development|Idea Development]]
-- [[wiki/concepts/creative-integrity|Creative Integrity]]
-- [[wiki/syntheses/lynch-creative-framework|Lynch Creative Framework]]
+- [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
+- [[wiki/concepts/creativity/idea-development|Idea Development]]
+- [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
+- [[wiki/syntheses/creativity/lynch-creative-framework|Lynch Creative Framework]]
 
 # Open Questions
 

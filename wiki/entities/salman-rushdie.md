@@ -12,10 +12,10 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
-  - wiki/concepts/fiction-writing.md
-  - wiki/concepts/narrative-voice-and-perspective.md
-  - wiki/concepts/writer-worldview.md
-  - wiki/syntheses/salman-rushdie-fiction-framework.md
+  - wiki/concepts/filmmaking/filmmaking/fiction-writing.md
+  - wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective.md
+  - wiki/concepts/filmmaking/filmmaking/writer-worldview.md
+  - wiki/syntheses/filmmaking/salman-rushdie-fiction-framework.md
 ---
 
 # Overview
@@ -28,14 +28,14 @@ Rushdie now anchors the vault's broader fiction-writing branch, especially on op
 
 # Evidence In This Vault
 
-- Core fiction branch: [[wiki/concepts/fiction-writing|Fiction Writing]]
-- Voice and form branch: [[wiki/concepts/narrative-voice-and-perspective|Narrative Voice and Perspective]]
-- Worldview branch: [[wiki/concepts/writer-worldview|Writer Worldview]]
-- System-level distillation: [[wiki/syntheses/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
+- Core fiction branch: [[wiki/concepts/filmmaking/filmmaking/fiction-writing|Fiction Writing]]
+- Voice and form branch: [[wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
+- Worldview branch: [[wiki/concepts/filmmaking/filmmaking/writer-worldview|Writer Worldview]]
+- System-level distillation: [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/fiction-writing|Fiction Writing]]
-- [[wiki/concepts/narrative-voice-and-perspective|Narrative Voice and Perspective]]
-- [[wiki/concepts/writer-worldview|Writer Worldview]]
-- [[wiki/syntheses/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
+- [[wiki/concepts/filmmaking/filmmaking/fiction-writing|Fiction Writing]]
+- [[wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
+- [[wiki/concepts/filmmaking/filmmaking/writer-worldview|Writer Worldview]]
+- [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]

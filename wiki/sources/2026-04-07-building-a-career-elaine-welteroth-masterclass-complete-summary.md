@@ -74,17 +74,17 @@ This source is a secondary summary of Elaine Welteroth's career masterclass. It 
 # Links
 
 - [[wiki/entities/elaine-welteroth|Elaine Welteroth]]
-- [[wiki/concepts/creative-entrepreneurship|Creative Entrepreneurship]]
-- [[wiki/concepts/zone-of-genius|Zone of Genius]]
-- [[wiki/concepts/career-blueprint|Career Blueprint]]
-- [[wiki/concepts/financial-confidence|Financial Confidence]]
-- [[wiki/concepts/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
-- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
-- [[wiki/concepts/intention-and-impact|Intention and Impact]]
-- [[wiki/syntheses/welteroth-career-framework|Welteroth Career Framework]]
-- [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]
+- [[wiki/concepts/career/creative-entrepreneurship|Creative Entrepreneurship]]
+- [[wiki/concepts/career/zone-of-genius|Zone of Genius]]
+- [[wiki/concepts/career/career-blueprint|Career Blueprint]]
+- [[wiki/concepts/career/financial-confidence|Financial Confidence]]
+- [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/communication/intention-and-impact|Intention and Impact]]
+- [[wiki/syntheses/career/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 
 # Open Questions
 

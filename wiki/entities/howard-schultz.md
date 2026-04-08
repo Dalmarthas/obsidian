@@ -13,10 +13,10 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
 related:
-  - wiki/concepts/values-driven-companies.md
-  - wiki/concepts/organizational-culture.md
-  - wiki/concepts/self-disruption.md
-  - wiki/syntheses/schultz-values-driven-leadership-framework.md
+  - wiki/concepts/business/values-driven-companies.md
+  - wiki/concepts/leadership/leadership/organizational-culture.md
+  - wiki/concepts/business/self-disruption.md
+  - wiki/syntheses/business/schultz-values-driven-leadership-framework.md
 ---
 
 # Overview
@@ -29,14 +29,14 @@ Schultz deepens the vault's business-leadership branch by adding a strong model 
 
 # Evidence In This Vault
 
-- Values branch: [[wiki/concepts/values-driven-companies|Values-Driven Companies]]
-- Culture branch: [[wiki/concepts/organizational-culture|Organizational Culture]]
-- Strategy branch: [[wiki/concepts/self-disruption|Self-Disruption]]
-- System-level distillation: [[wiki/syntheses/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]
+- Values branch: [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
+- Culture branch: [[wiki/concepts/leadership/leadership/organizational-culture|Organizational Culture]]
+- Strategy branch: [[wiki/concepts/business/self-disruption|Self-Disruption]]
+- System-level distillation: [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/values-driven-companies|Values-Driven Companies]]
-- [[wiki/concepts/organizational-culture|Organizational Culture]]
-- [[wiki/concepts/self-disruption|Self-Disruption]]
-- [[wiki/syntheses/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]
+- [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
+- [[wiki/concepts/leadership/leadership/organizational-culture|Organizational Culture]]
+- [[wiki/concepts/business/self-disruption|Self-Disruption]]
+- [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]

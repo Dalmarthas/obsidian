@@ -11,8 +11,8 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
 related:
-  - wiki/concepts/leadership.md
-  - wiki/syntheses/clinton-leadership-framework.md
+  - wiki/concepts/leadership/leadership.md
+  - wiki/syntheses/leadership/clinton-leadership-framework.md
 ---
 
 # Overview
@@ -25,14 +25,14 @@ Clinton anchors the current leadership branch of the wiki. His source is the mai
 
 # Evidence In This Vault
 
-- Core leadership frame: [[wiki/concepts/leadership|Leadership]]
-- Team model: [[wiki/concepts/diverse-teams|Diverse Teams]]
-- Conflict model: [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
-- Communication model: [[wiki/concepts/leadership-communication|Leadership Communication]]
-- System summary: [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]]
+- Core leadership frame: [[wiki/concepts/leadership/leadership|Leadership]]
+- Team model: [[wiki/concepts/leadership/leadership/diverse-teams|Diverse Teams]]
+- Conflict model: [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
+- Communication model: [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- System summary: [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/leadership|Leadership]]
-- [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
-- [[wiki/syntheses/clinton-leadership-framework|Clinton Leadership Framework]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
+- [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]

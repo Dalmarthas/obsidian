@@ -12,9 +12,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
 related:
-  - wiki/concepts/thriller-writing.md
-  - wiki/concepts/immersive-research.md
-  - wiki/syntheses/baldacci-thriller-framework.md
+  - wiki/concepts/filmmaking/filmmaking/thriller-writing.md
+  - wiki/concepts/filmmaking/filmmaking/immersive-research.md
+  - wiki/syntheses/filmmaking/baldacci-thriller-framework.md
 ---
 
 # Overview
@@ -27,13 +27,13 @@ Baldacci currently deepens the vault's thriller branch and strengthens its cover
 
 # Evidence In This Vault
 
-- Genre anchor: [[wiki/concepts/thriller-writing|Thriller Writing]]
-- Research model: [[wiki/concepts/immersive-research|Immersive Research]]
-- Shared process model: [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
-- System-level distillation: [[wiki/syntheses/baldacci-thriller-framework|Baldacci Thriller Framework]]
+- Genre anchor: [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
+- Research model: [[wiki/concepts/filmmaking/filmmaking/immersive-research|Immersive Research]]
+- Shared process model: [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- System-level distillation: [[wiki/syntheses/filmmaking/baldacci-thriller-framework|Baldacci Thriller Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/thriller-writing|Thriller Writing]]
-- [[wiki/concepts/immersive-research|Immersive Research]]
-- [[wiki/syntheses/baldacci-thriller-framework|Baldacci Thriller Framework]]
+- [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/filmmaking/immersive-research|Immersive Research]]
+- [[wiki/syntheses/filmmaking/baldacci-thriller-framework|Baldacci Thriller Framework]]

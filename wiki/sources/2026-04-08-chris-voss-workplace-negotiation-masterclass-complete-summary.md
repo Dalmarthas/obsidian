@@ -69,16 +69,16 @@ This source is a second and more operationally detailed secondary summary of Chr
 # Links
 
 - [[wiki/entities/chris-voss|Chris Voss]]
-- [[wiki/concepts/tactical-empathy|Tactical Empathy]]
-- [[wiki/concepts/mirroring|Mirroring]]
-- [[wiki/concepts/labeling|Labeling]]
-- [[wiki/concepts/dynamic-silence|Dynamic Silence]]
-- [[wiki/concepts/calibrated-questions|Calibrated Questions]]
-- [[wiki/concepts/no-oriented-questions|No-Oriented Questions]]
-- [[wiki/concepts/accusation-audit|Accusation Audit]]
-- [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
+- [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
+- [[wiki/concepts/communication/mirroring|Mirroring]]
+- [[wiki/concepts/communication/labeling|Labeling]]
+- [[wiki/concepts/communication/dynamic-silence|Dynamic Silence]]
+- [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]]
+- [[wiki/concepts/communication/no-oriented-questions|No-Oriented Questions]]
+- [[wiki/concepts/communication/accusation-audit|Accusation Audit]]
+- [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary|Chris Voss Negotiation Masterclass Master Summary]]
-- [[wiki/syntheses/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]
+- [[wiki/syntheses/communication/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]
 
 # Open Questions
 

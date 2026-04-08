@@ -12,10 +12,10 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
 related:
-  - wiki/concepts/leadership.md
-  - wiki/concepts/business-strategy.md
-  - wiki/concepts/brand-stewardship.md
-  - wiki/syntheses/iger-strategy-framework.md
+  - wiki/concepts/leadership/leadership.md
+  - wiki/concepts/business/business-strategy.md
+  - wiki/concepts/business/brand-stewardship.md
+  - wiki/syntheses/business/iger-strategy-framework.md
 ---
 
 # Overview
@@ -28,14 +28,14 @@ Iger currently expands the vault's leadership branch toward business strategy, p
 
 # Evidence In This Vault
 
-- Leadership anchor: [[wiki/concepts/leadership|Leadership]]
-- Strategy model: [[wiki/concepts/business-strategy|Business Strategy]]
-- Brand model: [[wiki/concepts/brand-stewardship|Brand Stewardship]]
-- System-level distillation: [[wiki/syntheses/iger-strategy-framework|Iger Strategy Framework]]
+- Leadership anchor: [[wiki/concepts/leadership/leadership|Leadership]]
+- Strategy model: [[wiki/concepts/business/business-strategy|Business Strategy]]
+- Brand model: [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
+- System-level distillation: [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/leadership|Leadership]]
-- [[wiki/concepts/business-strategy|Business Strategy]]
-- [[wiki/concepts/brand-stewardship|Brand Stewardship]]
-- [[wiki/syntheses/iger-strategy-framework|Iger Strategy Framework]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/business/business-strategy|Business Strategy]]
+- [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
+- [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]

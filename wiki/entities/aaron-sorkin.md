@@ -11,8 +11,8 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
 related:
-  - wiki/concepts/screenwriting.md
-  - wiki/syntheses/sorkin-screenwriting-framework.md
+  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
+  - wiki/syntheses/filmmaking/sorkin-screenwriting-framework.md
 ---
 
 # Overview
@@ -25,14 +25,14 @@ Sorkin functions here as a craft reference point rather than a biographical subj
 
 # Evidence In This Vault
 
-- Foundation of drama: [[wiki/concepts/intention-and-obstacle|Intention and Obstacle]]
-- Audience model: [[wiki/concepts/audience-as-collaborator|Audience as Collaborator]]
-- Dialogue model: [[wiki/concepts/dialogue-as-music|Dialogue as Music]]
-- Revision model: [[wiki/concepts/screenplay-rewriting|Screenplay Rewriting]]
-- System-level distillation: [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
+- Foundation of drama: [[wiki/concepts/filmmaking/filmmaking/intention-and-obstacle|Intention and Obstacle]]
+- Audience model: [[wiki/concepts/filmmaking/filmmaking/audience-as-collaborator|Audience as Collaborator]]
+- Dialogue model: [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]]
+- Revision model: [[wiki/concepts/filmmaking/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
+- System-level distillation: [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/screenwriting|Screenwriting]]
-- [[wiki/concepts/three-act-structure|Three-Act Structure]]
-- [[wiki/syntheses/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
+- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/filmmaking/three-act-structure|Three-Act Structure]]
+- [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]

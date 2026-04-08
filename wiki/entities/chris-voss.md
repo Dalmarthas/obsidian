@@ -13,13 +13,13 @@ source_pages:
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
   - wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary.md
 related:
-  - wiki/concepts/tactical-empathy.md
-  - wiki/concepts/negotiation-and-mediation.md
-  - wiki/concepts/mirroring.md
-  - wiki/concepts/labeling.md
-  - wiki/concepts/calibrated-questions.md
-  - wiki/concepts/accusation-audit.md
-  - wiki/syntheses/chris-voss-negotiation-framework.md
+  - wiki/concepts/communication/tactical-empathy.md
+  - wiki/concepts/communication/negotiation-and-mediation.md
+  - wiki/concepts/communication/mirroring.md
+  - wiki/concepts/communication/labeling.md
+  - wiki/concepts/communication/calibrated-questions.md
+  - wiki/concepts/communication/accusation-audit.md
+  - wiki/syntheses/communication/chris-voss-negotiation-framework.md
 ---
 
 # Overview
@@ -32,17 +32,17 @@ Voss currently deepens the vault's negotiation branch and adds a more tactical c
 
 # Evidence In This Vault
 
-- Named principle: [[wiki/concepts/tactical-empathy|Tactical Empathy]]
-- Negotiation branch: [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
-- Technique pages: [[wiki/concepts/mirroring|Mirroring]], [[wiki/concepts/labeling|Labeling]], [[wiki/concepts/calibrated-questions|Calibrated Questions]], [[wiki/concepts/accusation-audit|Accusation Audit]]
-- System-level distillation: [[wiki/syntheses/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]
+- Named principle: [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
+- Negotiation branch: [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
+- Technique pages: [[wiki/concepts/communication/mirroring|Mirroring]], [[wiki/concepts/communication/labeling|Labeling]], [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]], [[wiki/concepts/communication/accusation-audit|Accusation Audit]]
+- System-level distillation: [[wiki/syntheses/communication/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/tactical-empathy|Tactical Empathy]]
-- [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
-- [[wiki/concepts/mirroring|Mirroring]]
-- [[wiki/concepts/labeling|Labeling]]
-- [[wiki/concepts/calibrated-questions|Calibrated Questions]]
-- [[wiki/concepts/accusation-audit|Accusation Audit]]
-- [[wiki/syntheses/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]
+- [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
+- [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
+- [[wiki/concepts/communication/mirroring|Mirroring]]
+- [[wiki/concepts/communication/labeling|Labeling]]
+- [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]]
+- [[wiki/concepts/communication/accusation-audit|Accusation Audit]]
+- [[wiki/syntheses/communication/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]

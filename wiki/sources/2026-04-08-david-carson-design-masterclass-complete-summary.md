@@ -66,10 +66,10 @@ This source is a large secondary summary of David Carson's masterclass on graphi
 # Links
 
 - [[wiki/entities/david-carson|David Carson]]
-- [[wiki/concepts/graphic-design|Graphic Design]]
-- [[wiki/concepts/typography-as-image|Typography as Image]]
-- [[wiki/concepts/creative-integrity|Creative Integrity]]
-- [[wiki/syntheses/carson-design-framework|Carson Design Framework]]
+- [[wiki/concepts/creativity/graphic-design|Graphic Design]]
+- [[wiki/concepts/creativity/typography-as-image|Typography as Image]]
+- [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
+- [[wiki/syntheses/creativity/carson-design-framework|Carson Design Framework]]
 
 # Open Questions
 

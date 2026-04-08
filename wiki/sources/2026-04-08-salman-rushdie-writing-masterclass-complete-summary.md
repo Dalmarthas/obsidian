@@ -83,14 +83,14 @@ This source is a large secondary summary of Salman Rushdie's masterclass on fict
 # Links
 
 - [[wiki/entities/salman-rushdie|Salman Rushdie]]
-- [[wiki/concepts/fiction-writing|Fiction Writing]]
-- [[wiki/concepts/narrative-voice-and-perspective|Narrative Voice and Perspective]]
-- [[wiki/concepts/setting-as-character|Setting as Character]]
-- [[wiki/concepts/writer-worldview|Writer Worldview]]
-- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
-- [[wiki/concepts/creative-integrity|Creative Integrity]]
-- [[wiki/syntheses/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
-- [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]]
+- [[wiki/concepts/filmmaking/filmmaking/fiction-writing|Fiction Writing]]
+- [[wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
+- [[wiki/concepts/filmmaking/filmmaking/setting-as-character|Setting as Character]]
+- [[wiki/concepts/filmmaking/filmmaking/writer-worldview|Writer Worldview]]
+- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
+- [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]
 
 # Open Questions
 

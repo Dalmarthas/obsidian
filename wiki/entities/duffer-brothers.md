@@ -12,9 +12,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary.md
 related:
-  - wiki/concepts/television-pilot-writing.md
-  - wiki/concepts/screenwriting.md
-  - wiki/syntheses/duffer-pilot-development-framework.md
+  - wiki/concepts/filmmaking/filmmaking/television-pilot-writing.md
+  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
+  - wiki/syntheses/filmmaking/duffer-pilot-development-framework.md
 ---
 
 # Overview
@@ -27,13 +27,13 @@ The Duffer Brothers currently anchor the vault's strongest material on televisio
 
 # Evidence In This Vault
 
-- Pilot-specific method: [[wiki/concepts/television-pilot-writing|Television Pilot Writing]]
-- Shared ideation model: [[wiki/concepts/idea-development|Idea Development]]
-- Shared process model: [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
-- System-level distillation: [[wiki/syntheses/duffer-pilot-development-framework|Duffer Pilot Development Framework]]
+- Pilot-specific method: [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- Shared ideation model: [[wiki/concepts/creativity/idea-development|Idea Development]]
+- Shared process model: [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- System-level distillation: [[wiki/syntheses/filmmaking/duffer-pilot-development-framework|Duffer Pilot Development Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/television-pilot-writing|Television Pilot Writing]]
-- [[wiki/concepts/screenwriting|Screenwriting]]
-- [[wiki/syntheses/duffer-pilot-development-framework|Duffer Pilot Development Framework]]
+- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/syntheses/filmmaking/duffer-pilot-development-framework|Duffer Pilot Development Framework]]

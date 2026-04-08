@@ -61,10 +61,10 @@ This source is a large secondary summary of Jeff Koons's masterclass on art and 
 # Links
 
 - [[wiki/entities/jeff-koons|Jeff Koons]]
-- [[wiki/concepts/art-making|Art Making]]
-- [[wiki/concepts/viewer-centered-art|Viewer-Centered Art]]
-- [[wiki/concepts/creative-integrity|Creative Integrity]]
-- [[wiki/syntheses/jeff-koons-art-framework|Jeff Koons Art Framework]]
+- [[wiki/concepts/creativity/art-making|Art Making]]
+- [[wiki/concepts/creativity/viewer-centered-art|Viewer-Centered Art]]
+- [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
+- [[wiki/syntheses/creativity/jeff-koons-art-framework|Jeff Koons Art Framework]]
 
 # Open Questions
 

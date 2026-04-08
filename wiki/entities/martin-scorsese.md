@@ -12,11 +12,11 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking.md
-  - wiki/concepts/visual-literacy.md
-  - wiki/concepts/casting-and-performance-direction.md
-  - wiki/concepts/editing-as-discovery.md
-  - wiki/syntheses/scorsese-filmmaking-framework.md
+  - wiki/concepts/filmmaking/filmmaking.md
+  - wiki/concepts/creativity/visual-literacy.md
+  - wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction.md
+  - wiki/concepts/filmmaking/filmmaking/editing-as-discovery.md
+  - wiki/syntheses/filmmaking/scorsese-filmmaking-framework.md
 ---
 
 # Overview
@@ -29,16 +29,16 @@ Scorsese expands the vault's filmmaking branch beyond atmosphere and integrity i
 
 # Evidence In This Vault
 
-- Holistic filmmaking branch: [[wiki/concepts/filmmaking|Filmmaking]]
-- Film-language branch: [[wiki/concepts/visual-literacy|Visual Literacy]]
-- Performance branch: [[wiki/concepts/casting-and-performance-direction|Casting and Performance Direction]]
-- Editorial branch: [[wiki/concepts/editing-as-discovery|Editing as Discovery]]
-- System-level distillation: [[wiki/syntheses/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]
+- Holistic filmmaking branch: [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
+- Film-language branch: [[wiki/concepts/creativity/visual-literacy|Visual Literacy]]
+- Performance branch: [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
+- Editorial branch: [[wiki/concepts/filmmaking/filmmaking/editing-as-discovery|Editing as Discovery]]
+- System-level distillation: [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking|Filmmaking]]
-- [[wiki/concepts/visual-literacy|Visual Literacy]]
-- [[wiki/concepts/casting-and-performance-direction|Casting and Performance Direction]]
-- [[wiki/concepts/editing-as-discovery|Editing as Discovery]]
-- [[wiki/syntheses/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]
+- [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
+- [[wiki/concepts/creativity/visual-literacy|Visual Literacy]]
+- [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
+- [[wiki/concepts/filmmaking/filmmaking/editing-as-discovery|Editing as Discovery]]
+- [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]

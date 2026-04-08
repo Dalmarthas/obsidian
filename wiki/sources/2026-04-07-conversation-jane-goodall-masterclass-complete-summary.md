@@ -66,17 +66,17 @@ This source is a secondary summary of Jane Goodall's masterclass on chimpanzees,
 # Links
 
 - [[wiki/entities/jane-goodall|Jane Goodall]]
-- [[wiki/concepts/conservation|Conservation]]
-- [[wiki/concepts/animal-cognition|Animal Cognition]]
-- [[wiki/concepts/interconnectedness-principle|Interconnectedness Principle]]
-- [[wiki/concepts/community-based-conservation|Community-Based Conservation]]
-- [[wiki/concepts/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
-- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
-- [[wiki/concepts/ethical-consumerism|Ethical Consumerism]]
-- [[wiki/syntheses/goodall-conservation-framework|Goodall Conservation Framework]]
-- [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]
+- [[wiki/concepts/others/conservation|Conservation]]
+- [[wiki/concepts/others/animal-cognition|Animal Cognition]]
+- [[wiki/concepts/others/interconnectedness-principle|Interconnectedness Principle]]
+- [[wiki/concepts/others/community-based-conservation|Community-Based Conservation]]
+- [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/business/ethical-consumerism|Ethical Consumerism]]
+- [[wiki/syntheses/others/goodall-conservation-framework|Goodall Conservation Framework]]
+- [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 
 # Open Questions
 

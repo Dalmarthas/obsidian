@@ -73,13 +73,13 @@ tags:
 
 # Связи
 
-- [[wiki/concepts/vybor-nishi|Выбор ниши]]
-- [[wiki/concepts/podnisha|Подниша]]
-- [[wiki/concepts/mvp-testirovanie-nishi|MVP-тестирование ниши]]
-- [[wiki/concepts/megatrendy|Мегатренды]]
-- [[wiki/concepts/business-strategy|Business Strategy]]
-- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
-- [[wiki/syntheses/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]]
+- [[wiki/concepts/business/vybor-nishi|Выбор ниши]]
+- [[wiki/concepts/business/podnisha|Подниша]]
+- [[wiki/concepts/business/mvp-testirovanie-nishi|MVP-тестирование ниши]]
+- [[wiki/concepts/business/megatrendy|Мегатренды]]
+- [[wiki/concepts/business/business-strategy|Business Strategy]]
+- [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
+- [[wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]]
 
 # Открытые вопросы
 

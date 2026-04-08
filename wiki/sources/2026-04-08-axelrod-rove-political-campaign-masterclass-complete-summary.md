@@ -79,15 +79,15 @@ This source is a large secondary summary of a political campaign masterclass tau
 
 - [[wiki/entities/david-axelrod|David Axelrod]]
 - [[wiki/entities/karl-rove|Karl Rove]]
-- [[wiki/concepts/political-campaigns|Political Campaigns]]
-- [[wiki/concepts/voter-targeting|Voter Targeting]]
-- [[wiki/concepts/opposition-research|Opposition Research]]
-- [[wiki/concepts/ground-game-and-gotv|Ground Game and GOTV]]
-- [[wiki/concepts/persuasion|Persuasion]]
-- [[wiki/concepts/leadership-communication|Leadership Communication]]
-- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
-- [[wiki/syntheses/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
-- [[wiki/syntheses/communication-and-influence-models|Communication and Influence Models]]
+- [[wiki/concepts/communication/political-campaigns|Political Campaigns]]
+- [[wiki/concepts/communication/voter-targeting|Voter Targeting]]
+- [[wiki/concepts/communication/opposition-research|Opposition Research]]
+- [[wiki/concepts/communication/ground-game-and-gotv|Ground Game and GOTV]]
+- [[wiki/concepts/communication/persuasion|Persuasion]]
+- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
+- [[wiki/syntheses/communication/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
 
 # Open Questions
 

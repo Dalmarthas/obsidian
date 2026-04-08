@@ -12,9 +12,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-jeff-koons-art-and-creativity-masterclass-complete-summary.md
 related:
-  - wiki/concepts/art-making.md
-  - wiki/concepts/viewer-centered-art.md
-  - wiki/syntheses/jeff-koons-art-framework.md
+  - wiki/concepts/creativity/art-making.md
+  - wiki/concepts/creativity/viewer-centered-art.md
+  - wiki/syntheses/creativity/jeff-koons-art-framework.md
 ---
 
 # Overview
@@ -27,12 +27,12 @@ Koons currently opens the vault's dedicated art branch and deepens the broader c
 
 # Evidence In This Vault
 
-- Art branch anchor: [[wiki/concepts/art-making|Art Making]]
-- Viewer philosophy: [[wiki/concepts/viewer-centered-art|Viewer-Centered Art]]
-- System-level distillation: [[wiki/syntheses/jeff-koons-art-framework|Jeff Koons Art Framework]]
+- Art branch anchor: [[wiki/concepts/creativity/art-making|Art Making]]
+- Viewer philosophy: [[wiki/concepts/creativity/viewer-centered-art|Viewer-Centered Art]]
+- System-level distillation: [[wiki/syntheses/creativity/jeff-koons-art-framework|Jeff Koons Art Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/art-making|Art Making]]
-- [[wiki/concepts/viewer-centered-art|Viewer-Centered Art]]
-- [[wiki/syntheses/jeff-koons-art-framework|Jeff Koons Art Framework]]
+- [[wiki/concepts/creativity/art-making|Art Making]]
+- [[wiki/concepts/creativity/viewer-centered-art|Viewer-Centered Art]]
+- [[wiki/syntheses/creativity/jeff-koons-art-framework|Jeff Koons Art Framework]]

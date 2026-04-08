@@ -12,9 +12,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
 related:
-  - wiki/concepts/effective-communication.md
-  - wiki/concepts/leadership-communication.md
-  - wiki/syntheses/george-stephanopoulos-communication-framework.md
+  - wiki/concepts/communication/effective-communication.md
+  - wiki/concepts/leadership/leadership/leadership-communication.md
+  - wiki/syntheses/communication/george-stephanopoulos-communication-framework.md
 ---
 
 # Overview
@@ -27,12 +27,12 @@ Stephanopoulos currently anchors the vault's communication branch, especially on
 
 # Evidence In This Vault
 
-- Core communication model: [[wiki/concepts/effective-communication|Effective Communication]]
-- Adjacent leadership branch: [[wiki/concepts/leadership-communication|Leadership Communication]]
-- System-level distillation: [[wiki/syntheses/george-stephanopoulos-communication-framework|George Stephanopoulos Communication Framework]]
+- Core communication model: [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- Adjacent leadership branch: [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- System-level distillation: [[wiki/syntheses/communication/george-stephanopoulos-communication-framework|George Stephanopoulos Communication Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/effective-communication|Effective Communication]]
-- [[wiki/concepts/leadership-communication|Leadership Communication]]
-- [[wiki/syntheses/george-stephanopoulos-communication-framework|George Stephanopoulos Communication Framework]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/syntheses/communication/george-stephanopoulos-communication-framework|George Stephanopoulos Communication Framework]]

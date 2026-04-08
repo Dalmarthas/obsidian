@@ -12,10 +12,10 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary.md
 related:
-  - wiki/concepts/persuasion.md
-  - wiki/concepts/attunement.md
-  - wiki/concepts/buoyancy.md
-  - wiki/syntheses/daniel-pink-persuasion-framework.md
+  - wiki/concepts/communication/persuasion.md
+  - wiki/concepts/communication/attunement.md
+  - wiki/concepts/leadership/buoyancy.md
+  - wiki/syntheses/communication/daniel-pink-persuasion-framework.md
 ---
 
 # Overview
@@ -28,16 +28,16 @@ Pink now anchors the vault's persuasion branch, especially on attunement, reject
 
 # Evidence In This Vault
 
-- Core branch page: [[wiki/concepts/persuasion|Persuasion]]
-- Perspective-taking branch: [[wiki/concepts/attunement|Attunement]]
-- Rejection resilience branch: [[wiki/concepts/buoyancy|Buoyancy]]
-- System-level distillation: [[wiki/syntheses/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
+- Core branch page: [[wiki/concepts/communication/persuasion|Persuasion]]
+- Perspective-taking branch: [[wiki/concepts/communication/attunement|Attunement]]
+- Rejection resilience branch: [[wiki/concepts/leadership/buoyancy|Buoyancy]]
+- System-level distillation: [[wiki/syntheses/communication/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/persuasion|Persuasion]]
-- [[wiki/concepts/attunement|Attunement]]
-- [[wiki/concepts/buoyancy|Buoyancy]]
-- [[wiki/concepts/problem-finding|Problem-Finding]]
-- [[wiki/syntheses/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
+- [[wiki/concepts/communication/persuasion|Persuasion]]
+- [[wiki/concepts/communication/attunement|Attunement]]
+- [[wiki/concepts/leadership/buoyancy|Buoyancy]]
+- [[wiki/concepts/communication/problem-finding|Problem-Finding]]
+- [[wiki/syntheses/communication/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
 

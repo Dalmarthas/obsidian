@@ -74,15 +74,15 @@ This source is a large secondary summary of a leadership masterclass centered on
 # Links
 
 - [[wiki/entities/howard-schultz|Howard Schultz]]
-- [[wiki/concepts/values-driven-companies|Values-Driven Companies]]
-- [[wiki/concepts/organizational-culture|Organizational Culture]]
-- [[wiki/concepts/self-disruption|Self-Disruption]]
-- [[wiki/concepts/leadership|Leadership]]
-- [[wiki/concepts/business-strategy|Business Strategy]]
-- [[wiki/concepts/brand-stewardship|Brand Stewardship]]
-- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/high-performance-team-culture|High-Performance Team Culture]]
-- [[wiki/syntheses/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]
+- [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
+- [[wiki/concepts/leadership/leadership/organizational-culture|Organizational Culture]]
+- [[wiki/concepts/business/self-disruption|Self-Disruption]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/business/business-strategy|Business Strategy]]
+- [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
+- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]
 
 # Open Questions
 

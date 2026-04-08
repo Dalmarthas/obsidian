@@ -69,15 +69,15 @@ This source is a large secondary summary of Daniel Pink's persuasion masterclass
 # Links
 
 - [[wiki/entities/daniel-pink|Daniel Pink]]
-- [[wiki/concepts/persuasion|Persuasion]]
-- [[wiki/concepts/attunement|Attunement]]
-- [[wiki/concepts/buoyancy|Buoyancy]]
-- [[wiki/concepts/problem-finding|Problem-Finding]]
-- [[wiki/concepts/timing-and-sequencing|Timing and Sequencing]]
-- [[wiki/concepts/effective-communication|Effective Communication]]
-- [[wiki/concepts/tactical-empathy|Tactical Empathy]]
-- [[wiki/syntheses/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
-- [[wiki/syntheses/communication-and-influence-models|Communication and Influence Models]]
+- [[wiki/concepts/communication/persuasion|Persuasion]]
+- [[wiki/concepts/communication/attunement|Attunement]]
+- [[wiki/concepts/leadership/buoyancy|Buoyancy]]
+- [[wiki/concepts/communication/problem-finding|Problem-Finding]]
+- [[wiki/concepts/communication/timing-and-sequencing|Timing and Sequencing]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
+- [[wiki/syntheses/communication/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
 
 # Open Questions
 

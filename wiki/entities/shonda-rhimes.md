@@ -13,11 +13,11 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
 related:
-  - wiki/concepts/television-pilot-writing.md
-  - wiki/concepts/showrunning.md
-  - wiki/concepts/character-driven-storytelling.md
-  - wiki/concepts/writers-room-craft.md
-  - wiki/syntheses/shonda-tv-writing-and-showrunning-framework.md
+  - wiki/concepts/filmmaking/filmmaking/television-pilot-writing.md
+  - wiki/concepts/filmmaking/filmmaking/showrunning.md
+  - wiki/concepts/filmmaking/filmmaking/character-driven-storytelling.md
+  - wiki/concepts/filmmaking/filmmaking/writers-room-craft.md
+  - wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework.md
 ---
 
 # Overview
@@ -30,17 +30,17 @@ Rhimes deepens the vault's television branch beyond pilot structure alone. She a
 
 # Evidence In This Vault
 
-- Pilot branch: [[wiki/concepts/television-pilot-writing|Television Pilot Writing]]
-- Character branch: [[wiki/concepts/character-driven-storytelling|Character-Driven Storytelling]]
-- Dialogue branch: [[wiki/concepts/text-and-subtext|Text and Subtext]]
-- Leadership branch: [[wiki/concepts/showrunning|Showrunning]]
-- Room branch: [[wiki/concepts/writers-room-craft|Writers' Room Craft]]
-- System-level distillation: [[wiki/syntheses/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
+- Pilot branch: [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- Character branch: [[wiki/concepts/filmmaking/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- Dialogue branch: [[wiki/concepts/filmmaking/filmmaking/text-and-subtext|Text and Subtext]]
+- Leadership branch: [[wiki/concepts/filmmaking/filmmaking/showrunning|Showrunning]]
+- Room branch: [[wiki/concepts/filmmaking/filmmaking/writers-room-craft|Writers' Room Craft]]
+- System-level distillation: [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/television-pilot-writing|Television Pilot Writing]]
-- [[wiki/concepts/showrunning|Showrunning]]
-- [[wiki/concepts/character-driven-storytelling|Character-Driven Storytelling]]
-- [[wiki/concepts/writers-room-craft|Writers' Room Craft]]
-- [[wiki/syntheses/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
+- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/filmmaking/showrunning|Showrunning]]
+- [[wiki/concepts/filmmaking/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/filmmaking/writers-room-craft|Writers' Room Craft]]
+- [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]

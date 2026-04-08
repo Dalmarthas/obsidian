@@ -61,12 +61,12 @@ This source is a large secondary summary of George Stephanopoulos's masterclass 
 # Links
 
 - [[wiki/entities/george-stephanopoulos|George Stephanopoulos]]
-- [[wiki/concepts/effective-communication|Effective Communication]]
-- [[wiki/concepts/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership-communication|Leadership Communication]]
-- [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
-- [[wiki/syntheses/george-stephanopoulos-communication-framework|George Stephanopoulos Communication Framework]]
-- [[wiki/syntheses/communication-and-influence-models|Communication and Influence Models]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
+- [[wiki/syntheses/communication/george-stephanopoulos-communication-framework|George Stephanopoulos Communication Framework]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
 
 # Open Questions
 

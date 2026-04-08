@@ -62,17 +62,17 @@ This source is a secondary summary of a masterclass taught by Jeff Goodby and Ri
 # Links
 
 - [[wiki/entities/goodby-silverstein-partners|Goodby Silverstein & Partners]]
-- [[wiki/concepts/advertising|Advertising]]
-- [[wiki/concepts/mass-intimacy|Mass Intimacy]]
-- [[wiki/concepts/brand-strategy|Brand Strategy]]
-- [[wiki/concepts/creative-pitching|Creative Pitching]]
-- [[wiki/concepts/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
-- [[wiki/concepts/head-and-heart-harmony|Head and Heart Harmony]]
-- [[wiki/concepts/ethical-consumerism|Ethical Consumerism]]
-- [[wiki/syntheses/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
-- [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]
+- [[wiki/concepts/business/advertising|Advertising]]
+- [[wiki/concepts/business/mass-intimacy|Mass Intimacy]]
+- [[wiki/concepts/business/brand-strategy|Brand Strategy]]
+- [[wiki/concepts/business/creative-pitching|Creative Pitching]]
+- [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/business/ethical-consumerism|Ethical Consumerism]]
+- [[wiki/syntheses/business/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
+- [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 
 # Open Questions
 

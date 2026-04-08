@@ -65,12 +65,12 @@ This source is a large secondary summary of Bob Iger's masterclass on business s
 # Links
 
 - [[wiki/entities/bob-iger|Bob Iger]]
-- [[wiki/concepts/leadership|Leadership]]
-- [[wiki/concepts/business-strategy|Business Strategy]]
-- [[wiki/concepts/brand-stewardship|Brand Stewardship]]
-- [[wiki/concepts/framework-driven-action|Framework-Driven Action]]
-- [[wiki/syntheses/iger-strategy-framework|Iger Strategy Framework]]
-- [[wiki/syntheses/human-centered-change-models|Human-Centered Change Models]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/business/business-strategy|Business Strategy]]
+- [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
+- [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
+- [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
+- [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 
 # Open Questions
 

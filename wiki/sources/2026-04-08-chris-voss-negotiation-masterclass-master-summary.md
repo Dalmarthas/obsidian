@@ -62,12 +62,12 @@ This source is a large secondary summary of Chris Voss's negotiation masterclass
 # Links
 
 - [[wiki/entities/chris-voss|Chris Voss]]
-- [[wiki/concepts/tactical-empathy|Tactical Empathy]]
-- [[wiki/concepts/negotiation-and-mediation|Negotiation and Mediation]]
-- [[wiki/concepts/effective-communication|Effective Communication]]
-- [[wiki/concepts/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/syntheses/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]
-- [[wiki/syntheses/communication-and-influence-models|Communication and Influence Models]]
+- [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
+- [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/syntheses/communication/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
 
 # Open Questions
 

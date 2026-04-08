@@ -12,9 +12,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
 related:
-  - wiki/concepts/political-campaigns.md
-  - wiki/concepts/voter-targeting.md
-  - wiki/syntheses/axelrod-rove-campaign-framework.md
+  - wiki/concepts/communication/political-campaigns.md
+  - wiki/concepts/communication/voter-targeting.md
+  - wiki/syntheses/communication/axelrod-rove-campaign-framework.md
 ---
 
 # Overview
@@ -27,12 +27,12 @@ Rove helps anchor the vault's campaign branch, especially on voter targeting, ca
 
 # Evidence In This Vault
 
-- Campaign branch: [[wiki/concepts/political-campaigns|Political Campaigns]]
-- Targeting branch: [[wiki/concepts/voter-targeting|Voter Targeting]]
-- System-level distillation: [[wiki/syntheses/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
+- Campaign branch: [[wiki/concepts/communication/political-campaigns|Political Campaigns]]
+- Targeting branch: [[wiki/concepts/communication/voter-targeting|Voter Targeting]]
+- System-level distillation: [[wiki/syntheses/communication/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/political-campaigns|Political Campaigns]]
-- [[wiki/concepts/voter-targeting|Voter Targeting]]
-- [[wiki/syntheses/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
+- [[wiki/concepts/communication/political-campaigns|Political Campaigns]]
+- [[wiki/concepts/communication/voter-targeting|Voter Targeting]]
+- [[wiki/syntheses/communication/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]

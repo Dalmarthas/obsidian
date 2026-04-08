@@ -70,13 +70,13 @@ This source is a large secondary summary of the Duffer Brothers' television-scre
 # Links
 
 - [[wiki/entities/duffer-brothers|Duffer Brothers]]
-- [[wiki/concepts/screenwriting|Screenwriting]]
-- [[wiki/concepts/television-pilot-writing|Television Pilot Writing]]
-- [[wiki/concepts/idea-development|Idea Development]]
-- [[wiki/concepts/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
-- [[wiki/syntheses/duffer-pilot-development-framework|Duffer Pilot Development Framework]]
-- [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]]
+- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/creativity/idea-development|Idea Development]]
+- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/syntheses/filmmaking/duffer-pilot-development-framework|Duffer Pilot Development Framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]
 
 # Open Questions
 

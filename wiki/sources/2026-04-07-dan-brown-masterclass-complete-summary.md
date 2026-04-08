@@ -55,14 +55,14 @@ This source is a secondary summary of Dan Brown's writing masterclass focused on
 # Links
 
 - [[wiki/entities/dan-brown|Dan Brown]]
-- [[wiki/concepts/thriller-writing|Thriller Writing]]
-- [[wiki/concepts/contract-clock-crucible|Contract, Clock, Crucible]]
-- [[wiki/concepts/question-and-answer-structure|Question-and-Answer Structure]]
-- [[wiki/concepts/protect-the-process|Protect the Process]]
-- [[wiki/concepts/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/writing-process-and-revision|Writing Process and Revision]]
-- [[wiki/syntheses/dan-brown-thriller-framework|Dan Brown Thriller Framework]]
-- [[wiki/syntheses/writing-craft-overlaps|Writing Craft Overlaps]]
+- [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/filmmaking/contract-clock-crucible|Contract, Clock, Crucible]]
+- [[wiki/concepts/filmmaking/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
+- [[wiki/concepts/filmmaking/filmmaking/protect-the-process|Protect the Process]]
+- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/syntheses/filmmaking/dan-brown-thriller-framework|Dan Brown Thriller Framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]
 
 # Open Questions
 
