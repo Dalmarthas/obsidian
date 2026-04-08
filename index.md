@@ -36,6 +36,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[raw/inbox/2026-04-08-kevin-spacey-acting-masterclass-master-summary|Kevin Spacey Acting Masterclass Master Summary]] - Secondary summary of an acting masterclass on truthful reaction, monologues, auditions, screen arc, and professional craft discipline.
 - [[raw/inbox/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary|Howard Schultz Starbucks Values-Driven Leadership Masterclass Summary]] - Secondary summary of a leadership masterclass on values, culture, crisis, self-disruption, and building humane companies.
 - [[raw/inbox/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka|Выбор ниши для бизнеса — полная сводка]] - Русскоязычная вторичная сводка курса о выборе ниши, подниши, быстрых MVP-тестах и поиске спроса до сборки продукта.
+- [[raw/inbox/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka-2|Выбор ниши для бизнеса — полная сводка 2]] - Вторая, более детальная русская сводка по выбору ниши с балльной фильтрацией, формулой «что кому как», КЭФ и более плотным execution-layer.
 
 ## Sources
 
@@ -66,6 +67,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary|Kevin Spacey Acting Masterclass Master Summary]] - Source page for a secondary guide to acting truth, text work, monologues, auditions, and stage-versus-screen craft.
 - [[wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary|Howard Schultz Starbucks Values-Driven Leadership Masterclass Summary]] - Source page for a secondary guide to values-driven leadership, culture, crisis transparency, and offensive self-disruption.
 - [[wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka|Выбор ниши для бизнеса — полная сводка]] - Русская source page о генерации идей, фильтрации ниш, выборе подниши и проверке спроса через быстрые тесты.
+- [[wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka-2|Выбор ниши для бизнеса — полная сводка 2]] - Вторая русская source page, усиливающая ветку через балльную фильтрацию, формулу «что кому как», КЭФ и партнерский вход в нишу.
 
 ## Entities
 
@@ -112,7 +114,9 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/filmmaking/monologue-preparation|Monologue Preparation]] - Selecting, analyzing, grounding, and varying monologue material until it becomes dramatically playable.
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]] - The insight layer that gives creative work a coherent reason to exist.
 - [[wiki/concepts/business/business-strategy|Business Strategy]] - A small set of strategic priorities that govern where an organization places time, capital, and attention.
+- [[wiki/concepts/business/chto-komu-kak|Формула «что кому как»]] - Компактная схема сборки оффера через продукт, поднишу и конкретную выгоду.
 - [[wiki/concepts/business/vybor-nishi|Выбор ниши]] - Системный выбор поля для бизнеса через генерацию идей, фильтрацию и реальные рыночные тесты.
+- [[wiki/concepts/business/kef-klyuchevoi-etap-voronki|КЭФ (ключевой этап воронки)]] - Ближайший шаг доверия перед сделкой, который лучше измеряет реальный интерес, чем продажа в лоб.
 - [[wiki/concepts/business/podnisha|Подниша]] - Узкий сегмент внутри ниши: конкретный клиент с конкретной болью, который делает тесты точнее.
 - [[wiki/concepts/leadership/buoyancy|Buoyancy]] - Resilience in the face of rejection, friction, and repeated non-catastrophic failure.
 - [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]] - Open-ended `what` and `how` questions designed to reveal constraints, shift thinking, and move negotiations toward implementation reality.
@@ -202,7 +206,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]] - A cross-source model of how elite leadership and performance systems combine standards, trust, and resilience.
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]] - A cross-source map of how the non-writing branches approach humane, disciplined change.
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]] - A reusable business-leadership model built around priorities, brand stewardship, negotiation, and risk.
-- [[wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]] - Русский reusable framework для генерации идей, фильтрации ниш, выбора подниши и тестирования спроса до масштабирования.
+- [[wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]] - Скомпилированная русская модель выбора ниши из двух сводок: от генерации идей и фильтров до оффера, КЭФ и серии быстрых тестов.
 - [[wiki/syntheses/creativity/jeff-koons-art-framework|Jeff Koons Art Framework]] - A reusable art-making model built around self-acceptance, viewer completion, and material freedom.
 - [[wiki/syntheses/filmmaking/kevin-spacey-acting-framework|Kevin Spacey Acting Framework]] - A reusable acting model built around reaction, textual service, stakes, audience restraint, and professional preparation.
 - [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]] - A reusable high-performance model built around preparation, failure processing, balance, and teamwork.

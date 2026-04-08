@@ -610,3 +610,20 @@ Pages touched:
 - [[wiki/concepts/business/financial-confidence]]
 - [[wiki/concepts/business/zone-of-genius]]
 - [[wiki/syntheses/business/welteroth-career-framework]]
+
+## [2026-04-08 12:47] ingest | Выбор ниши для бизнеса — полная сводка 2
+
+Summary: Нормализовал новый русский raw `.txt` в канонический `.md`, затем заингестил его как вторую, более детализированную source page в уже существующую ветку по выбору ниши. Вместо дубля branch усилил общие canonical pages: углубил `Выбор ниши`, `Подниша`, `MVP-тестирование ниши`, `Мегатренды`, расширил общий synthesis до merged view по двум сводкам и вынес два reusable concepts — формулу `что кому как` и `КЭФ`. После ingest перенес нормализованный raw source в `raw/inbox/`.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka-2]]
+- [[wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka-2]]
+- [[wiki/concepts/business/vybor-nishi]]
+- [[wiki/concepts/business/podnisha]]
+- [[wiki/concepts/business/mvp-testirovanie-nishi]]
+- [[wiki/concepts/business/megatrendy]]
+- [[wiki/concepts/business/chto-komu-kak]]
+- [[wiki/concepts/business/kef-klyuchevoi-etap-voronki]]
+- [[wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa]]
+- [[index]]
