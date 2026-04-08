@@ -11,9 +11,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
 related:
-  - wiki/concepts/career/creative-entrepreneurship.md
-  - wiki/concepts/career/career-blueprint.md
-  - wiki/syntheses/career/welteroth-career-framework.md
+  - wiki/concepts/business/creative-entrepreneurship.md
+  - wiki/concepts/business/career-blueprint.md
+  - wiki/syntheses/business/welteroth-career-framework.md
 ---
 
 # What It Is
@@ -42,6 +42,6 @@ Zone of genius is the intersection of a person's passions, talents, values, and 
 
 # Related Pages
 
-- [[wiki/concepts/career/creative-entrepreneurship|Creative Entrepreneurship]]
-- [[wiki/concepts/career/career-blueprint|Career Blueprint]]
-- [[wiki/syntheses/career/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/concepts/business/creative-entrepreneurship|Creative Entrepreneurship]]
+- [[wiki/concepts/business/career-blueprint|Career Blueprint]]
+- [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]

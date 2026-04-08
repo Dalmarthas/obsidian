@@ -15,7 +15,7 @@ related:
   - wiki/concepts/others/community-based-conservation.md
   - wiki/concepts/others/animal-cognition.md
   - wiki/concepts/communication/authentic-communication.md
-  - wiki/concepts/leadership/leadership/head-and-heart-harmony.md
+  - wiki/concepts/leadership/head-and-heart-harmony.md
   - wiki/concepts/business/ethical-consumerism.md
   - wiki/syntheses/others/goodall-conservation-framework.md
 ---
@@ -50,6 +50,6 @@ Conservation is the effort to protect, restore, and sustain living systems, spec
 - [[wiki/concepts/others/community-based-conservation|Community-Based Conservation]]
 - [[wiki/concepts/others/animal-cognition|Animal Cognition]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/concepts/business/ethical-consumerism|Ethical Consumerism]]
 - [[wiki/syntheses/others/goodall-conservation-framework|Goodall Conservation Framework]]

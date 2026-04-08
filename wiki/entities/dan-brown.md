@@ -12,7 +12,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/thriller-writing.md
+  - wiki/concepts/filmmaking/thriller-writing.md
   - wiki/syntheses/filmmaking/dan-brown-thriller-framework.md
 ---
 
@@ -26,14 +26,14 @@ Brown functions here primarily as a craft reference for thriller construction ra
 
 # Evidence In This Vault
 
-- Genre model: [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
-- Escalation framework: [[wiki/concepts/filmmaking/filmmaking/contract-clock-crucible|Contract, Clock, Crucible]]
-- Suspense model: [[wiki/concepts/filmmaking/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
-- Process model: [[wiki/concepts/filmmaking/filmmaking/protect-the-process|Protect the Process]]
+- Genre model: [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]]
+- Escalation framework: [[wiki/concepts/filmmaking/contract-clock-crucible|Contract, Clock, Crucible]]
+- Suspense model: [[wiki/concepts/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
+- Process model: [[wiki/concepts/filmmaking/protect-the-process|Protect the Process]]
 - System distillation: [[wiki/syntheses/filmmaking/dan-brown-thriller-framework|Dan Brown Thriller Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/contract-clock-crucible|Contract, Clock, Crucible]]
+- [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/contract-clock-crucible|Contract, Clock, Crucible]]
 - [[wiki/syntheses/filmmaking/dan-brown-thriller-framework|Dan Brown Thriller Framework]]

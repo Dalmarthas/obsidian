@@ -11,8 +11,8 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
-  - wiki/concepts/filmmaking/filmmaking/three-act-structure.md
+  - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/three-act-structure.md
   - wiki/syntheses/filmmaking/sorkin-screenwriting-framework.md
 ---
 
@@ -42,6 +42,6 @@ Intention and obstacle is the claim that drama begins when somebody urgently wan
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/three-act-structure|Three-Act Structure]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]
 - [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]

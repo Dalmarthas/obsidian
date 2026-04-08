@@ -11,10 +11,10 @@ tags:
 question: What reusable thriller-writing framework emerges from the David Baldacci masterclass summary?
 basis:
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
-  - wiki/concepts/filmmaking/filmmaking/thriller-writing.md
-  - wiki/concepts/filmmaking/filmmaking/immersive-research.md
-  - wiki/concepts/filmmaking/filmmaking/story-propulsion.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/thriller-writing.md
+  - wiki/concepts/filmmaking/immersive-research.md
+  - wiki/concepts/filmmaking/story-propulsion.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
 related:
   - wiki/entities/david-baldacci.md
 ---
@@ -50,7 +50,7 @@ The distinctive Baldacci layer is professional stamina: treat thriller writing a
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-david-baldacci-masterclass-summary|David Baldacci Masterclass Summary]]
-- Related concepts: [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]], [[wiki/concepts/filmmaking/filmmaking/immersive-research|Immersive Research]], [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]], [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- Related concepts: [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]], [[wiki/concepts/filmmaking/immersive-research|Immersive Research]], [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]], [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 
 # Gaps
 
@@ -61,6 +61,6 @@ The distinctive Baldacci layer is professional stamina: treat thriller writing a
 # Related Pages
 
 - [[wiki/entities/david-baldacci|David Baldacci]]
-- [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/immersive-research|Immersive Research]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/immersive-research|Immersive Research]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]

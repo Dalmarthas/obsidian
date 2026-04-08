@@ -17,12 +17,12 @@ basis:
   - wiki/sources/2026-04-08-david-lynch-writing-summary.md
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
-  - wiki/concepts/filmmaking/filmmaking/story-propulsion.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/story-propulsion.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
   - wiki/concepts/creativity/idea-development.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
-  - wiki/concepts/filmmaking/filmmaking/thriller-writing.md
+  - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/thriller-writing.md
   - wiki/concepts/creativity/creative-integrity.md
 ---
 
@@ -61,7 +61,7 @@ The current source base now supports seven recurring craft principles:
 # Basis
 
 - Source summaries: [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]], [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]], [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary|Dan Brown Masterclass Complete Summary]], [[wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary|Duffer Brothers Masterclass Complete Summary]], [[wiki/sources/2026-04-08-david-lynch-writing-summary|David Lynch Writing Summary]], [[wiki/sources/2026-04-08-david-baldacci-masterclass-summary|David Baldacci Masterclass Summary]]
-- Shared concepts: [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]], [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]], [[wiki/concepts/creativity/idea-development|Idea Development]], [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
+- Shared concepts: [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]], [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]], [[wiki/concepts/creativity/idea-development|Idea Development]], [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 
 # Comparisons
 
@@ -114,9 +114,9 @@ The current source base now supports seven recurring craft principles:
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]]

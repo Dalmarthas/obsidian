@@ -12,8 +12,8 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/fiction-writing.md
-  - wiki/concepts/filmmaking/filmmaking/immersive-research.md
+  - wiki/concepts/filmmaking/fiction-writing.md
+  - wiki/concepts/filmmaking/immersive-research.md
   - wiki/syntheses/filmmaking/salman-rushdie-fiction-framework.md
 ---
 
@@ -42,6 +42,6 @@ Setting as character is the idea that place is not a neutral backdrop but an act
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/fiction-writing|Fiction Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/immersive-research|Immersive Research]]
+- [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
+- [[wiki/concepts/filmmaking/immersive-research|Immersive Research]]
 - [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]

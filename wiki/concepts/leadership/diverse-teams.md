@@ -14,8 +14,8 @@ source_pages:
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
 related:
   - wiki/concepts/leadership/leadership.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
-  - wiki/concepts/leadership/leadership/high-performance-team-culture.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/syntheses/leadership/clinton-leadership-framework.md
   - wiki/syntheses/leadership/geno-auriemma-team-leadership-framework.md
 ---
@@ -55,7 +55,7 @@ Diverse teams are groups made up of people with different backgrounds, experienc
 
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
 - [[wiki/syntheses/leadership/geno-auriemma-team-leadership-framework|Geno Auriemma Team Leadership Framework]]

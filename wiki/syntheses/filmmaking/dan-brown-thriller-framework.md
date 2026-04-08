@@ -11,10 +11,10 @@ tags:
 question: What reusable thriller-writing framework emerges from the Dan Brown masterclass summary?
 basis:
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
-  - wiki/concepts/filmmaking/filmmaking/thriller-writing.md
-  - wiki/concepts/filmmaking/filmmaking/contract-clock-crucible.md
-  - wiki/concepts/filmmaking/filmmaking/question-and-answer-structure.md
-  - wiki/concepts/filmmaking/filmmaking/protect-the-process.md
+  - wiki/concepts/filmmaking/thriller-writing.md
+  - wiki/concepts/filmmaking/contract-clock-crucible.md
+  - wiki/concepts/filmmaking/question-and-answer-structure.md
+  - wiki/concepts/filmmaking/protect-the-process.md
 related:
   - wiki/entities/dan-brown.md
 ---
@@ -47,7 +47,7 @@ The distinct Brown signature here is commercial clarity: a thriller should make 
 # Basis
 
 - Main source: [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary|Dan Brown Masterclass Complete Summary]]
-- Related craft pages: [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]], [[wiki/concepts/filmmaking/filmmaking/contract-clock-crucible|Contract, Clock, Crucible]], [[wiki/concepts/filmmaking/filmmaking/question-and-answer-structure|Question-and-Answer Structure]], [[wiki/concepts/filmmaking/filmmaking/protect-the-process|Protect the Process]]
+- Related craft pages: [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]], [[wiki/concepts/filmmaking/contract-clock-crucible|Contract, Clock, Crucible]], [[wiki/concepts/filmmaking/question-and-answer-structure|Question-and-Answer Structure]], [[wiki/concepts/filmmaking/protect-the-process|Protect the Process]]
 
 # Gaps
 
@@ -58,5 +58,5 @@ The distinct Brown signature here is commercial clarity: a thriller should make 
 # Related Pages
 
 - [[wiki/entities/dan-brown|Dan Brown]]
-- [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
+- [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]

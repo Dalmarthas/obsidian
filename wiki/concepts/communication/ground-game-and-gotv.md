@@ -14,7 +14,7 @@ source_pages:
 related:
   - wiki/concepts/communication/political-campaigns.md
   - wiki/concepts/communication/voter-targeting.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/syntheses/communication/axelrod-rove-campaign-framework.md
 ---
 
@@ -49,6 +49,6 @@ Ground game and GOTV are the volunteer-driven, voter-contact parts of a campaign
 
 - [[wiki/concepts/communication/political-campaigns|Political Campaigns]]
 - [[wiki/concepts/communication/voter-targeting|Voter Targeting]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/syntheses/communication/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
 

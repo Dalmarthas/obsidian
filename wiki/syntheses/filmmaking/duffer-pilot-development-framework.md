@@ -12,13 +12,13 @@ tags:
 question: What reusable television-pilot framework emerges from the Duffer Brothers masterclass summary?
 basis:
   - wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary.md
-  - wiki/concepts/filmmaking/filmmaking/television-pilot-writing.md
+  - wiki/concepts/filmmaking/television-pilot-writing.md
   - wiki/concepts/creativity/idea-development.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
 related:
   - wiki/entities/duffer-brothers.md
-  - wiki/concepts/filmmaking/filmmaking/story-propulsion.md
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/story-propulsion.md
+  - wiki/concepts/filmmaking/screenwriting.md
 ---
 
 # Question
@@ -52,7 +52,7 @@ The distinctive Duffer layer is anti-chaos discipline: the faster route is often
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary|Duffer Brothers Masterclass Complete Summary]]
-- Related concepts: [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]], [[wiki/concepts/creativity/idea-development|Idea Development]], [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]], [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
+- Related concepts: [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]], [[wiki/concepts/creativity/idea-development|Idea Development]], [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]], [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
 
 # Gaps
 
@@ -63,6 +63,6 @@ The distinctive Duffer layer is anti-chaos discipline: the faster route is often
 # Related Pages
 
 - [[wiki/entities/duffer-brothers|Duffer Brothers]]
-- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]

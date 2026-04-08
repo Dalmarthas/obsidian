@@ -12,15 +12,15 @@ question: What reusable leadership framework emerges from the Bill Clinton maste
 basis:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/concepts/leadership/leadership.md
-  - wiki/concepts/leadership/leadership/diverse-teams.md
+  - wiki/concepts/leadership/diverse-teams.md
   - wiki/concepts/communication/negotiation-and-mediation.md
-  - wiki/concepts/leadership/leadership/leadership-communication.md
+  - wiki/concepts/leadership/leadership-communication.md
 related:
   - wiki/entities/bill-clinton.md
   - wiki/concepts/communication/authentic-communication.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/business/framework-driven-action.md
-  - wiki/concepts/leadership/leadership/head-and-heart-harmony.md
+  - wiki/concepts/leadership/head-and-heart-harmony.md
 ---
 
 # Question
@@ -51,7 +51,7 @@ The distinctive Clinton layer is pragmatic optimism: act under ambiguity, accept
 # Basis
 
 - Main source: [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]]
-- Related concepts: [[wiki/concepts/leadership/leadership|Leadership]], [[wiki/concepts/leadership/leadership/diverse-teams|Diverse Teams]], [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]], [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- Related concepts: [[wiki/concepts/leadership/leadership|Leadership]], [[wiki/concepts/leadership/diverse-teams|Diverse Teams]], [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]], [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 
 # Gaps
 
@@ -65,6 +65,6 @@ The distinctive Clinton layer is pragmatic optimism: act under ambiguity, accept
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
-- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]

@@ -13,9 +13,9 @@ source_pages:
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/dialogue-as-music.md
-  - wiki/concepts/filmmaking/filmmaking/fiction-writing.md
-  - wiki/concepts/filmmaking/filmmaking/story-propulsion.md
+  - wiki/concepts/filmmaking/dialogue-as-music.md
+  - wiki/concepts/filmmaking/fiction-writing.md
+  - wiki/concepts/filmmaking/story-propulsion.md
   - wiki/syntheses/filmmaking/salman-rushdie-fiction-framework.md
 ---
 
@@ -50,8 +50,8 @@ Narrative voice and perspective are the choices that determine who seems to be t
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]]
-- [[wiki/concepts/filmmaking/filmmaking/fiction-writing|Fiction Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
 - [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
 

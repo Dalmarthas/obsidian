@@ -13,7 +13,7 @@ source_pages:
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
 related:
   - wiki/concepts/communication/political-campaigns.md
-  - wiki/concepts/filmmaking/filmmaking/immersive-research.md
+  - wiki/concepts/filmmaking/immersive-research.md
   - wiki/concepts/communication/persuasion.md
   - wiki/syntheses/communication/axelrod-rove-campaign-framework.md
 ---
@@ -44,6 +44,6 @@ Opposition research is the disciplined collection and interpretation of publicly
 # Related Pages
 
 - [[wiki/concepts/communication/political-campaigns|Political Campaigns]]
-- [[wiki/concepts/filmmaking/filmmaking/immersive-research|Immersive Research]]
+- [[wiki/concepts/filmmaking/immersive-research|Immersive Research]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]
 - [[wiki/syntheses/communication/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]

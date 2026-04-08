@@ -12,11 +12,11 @@ source_pages:
   - wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/screenwriting.md
   - wiki/concepts/creativity/idea-development.md
-  - wiki/concepts/filmmaking/filmmaking/character-driven-storytelling.md
-  - wiki/concepts/filmmaking/filmmaking/story-propulsion.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/character-driven-storytelling.md
+  - wiki/concepts/filmmaking/story-propulsion.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
   - wiki/syntheses/filmmaking/duffer-pilot-development-framework.md
   - wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework.md
 ---
@@ -58,10 +58,10 @@ Television pilot writing is the craft of building an opening episode that introd
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
-- [[wiki/concepts/filmmaking/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/filmmaking/duffer-pilot-development-framework|Duffer Pilot Development Framework]]
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]

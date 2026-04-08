@@ -72,13 +72,13 @@ This source is a large secondary summary of Martin Scorsese's masterclass on fil
 - [[wiki/entities/martin-scorsese|Martin Scorsese]]
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
 - [[wiki/concepts/creativity/visual-literacy|Visual Literacy]]
-- [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
-- [[wiki/concepts/filmmaking/filmmaking/editing-as-discovery|Editing as Discovery]]
+- [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
+- [[wiki/concepts/filmmaking/editing-as-discovery|Editing as Discovery]]
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
-- [[wiki/concepts/filmmaking/filmmaking/immersive-research|Immersive Research]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/immersive-research|Immersive Research]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]
 
 # Open Questions

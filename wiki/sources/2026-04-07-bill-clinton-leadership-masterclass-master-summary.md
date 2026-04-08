@@ -61,13 +61,13 @@ This source is a secondary summary of Bill Clinton's leadership masterclass. It 
 
 - [[wiki/entities/bill-clinton|Bill Clinton]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
-- [[wiki/concepts/leadership/leadership/diverse-teams|Diverse Teams]]
+- [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
-- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
-- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 

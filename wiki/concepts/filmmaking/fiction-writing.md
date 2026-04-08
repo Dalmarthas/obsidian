@@ -14,11 +14,11 @@ source_pages:
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/story-propulsion.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
-  - wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective.md
-  - wiki/concepts/filmmaking/filmmaking/setting-as-character.md
-  - wiki/concepts/filmmaking/filmmaking/writer-worldview.md
+  - wiki/concepts/filmmaking/story-propulsion.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/narrative-voice-and-perspective.md
+  - wiki/concepts/filmmaking/setting-as-character.md
+  - wiki/concepts/filmmaking/writer-worldview.md
   - wiki/syntheses/filmmaking/salman-rushdie-fiction-framework.md
   - wiki/syntheses/cross-source/writing-craft-overlaps.md
 ---
@@ -54,11 +54,11 @@ Fiction writing is the craft of inventing narrative worlds, voices, people, and 
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
-- [[wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
-- [[wiki/concepts/filmmaking/filmmaking/setting-as-character|Setting as Character]]
-- [[wiki/concepts/filmmaking/filmmaking/writer-worldview|Writer Worldview]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
+- [[wiki/concepts/filmmaking/setting-as-character|Setting as Character]]
+- [[wiki/concepts/filmmaking/writer-worldview|Writer Worldview]]
 - [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]
 

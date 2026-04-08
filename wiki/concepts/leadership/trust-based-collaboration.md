@@ -21,12 +21,12 @@ source_pages:
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
 related:
   - wiki/concepts/filmmaking/filmmaking.md
-  - wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction.md
-  - wiki/concepts/leadership/leadership/diverse-teams.md
+  - wiki/concepts/filmmaking/casting-and-performance-direction.md
+  - wiki/concepts/leadership/diverse-teams.md
   - wiki/concepts/communication/negotiation-and-mediation.md
   - wiki/concepts/others/community-based-conservation.md
   - wiki/concepts/business/creative-pitching.md
-  - wiki/concepts/leadership/leadership/high-performance-team-culture.md
+  - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/syntheses/cross-source/human-centered-change-models.md
 ---
@@ -76,11 +76,11 @@ Trust-based collaboration is the practice of designing work so that other people
 # Related Pages
 
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
-- [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
-- [[wiki/concepts/leadership/leadership/diverse-teams|Diverse Teams]]
+- [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
+- [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/others/community-based-conservation|Community-Based Conservation]]
 - [[wiki/concepts/business/creative-pitching|Creative Pitching]]
-- [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]

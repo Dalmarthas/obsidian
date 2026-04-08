@@ -46,10 +46,10 @@ This article frames a screenplay as a production document rather than prose and 
 
 # Links
 
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/three-act-structure|Three-Act Structure]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/filmmaking/screenplay-starting-checklist|Screenplay Starting Checklist]]
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]
 

@@ -16,8 +16,8 @@ source_pages:
   - wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary.md
 related:
   - wiki/concepts/leadership/leadership.md
-  - wiki/concepts/leadership/leadership/leadership-communication.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/leadership-communication.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/calibrated-questions.md
   - wiki/concepts/communication/accusation-audit.md
@@ -67,8 +67,8 @@ Negotiation and mediation are the practices of moving parties with different int
 # Related Pages
 
 - [[wiki/concepts/leadership/leadership|Leadership]]
-- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]]
 - [[wiki/concepts/communication/accusation-audit|Accusation Audit]]

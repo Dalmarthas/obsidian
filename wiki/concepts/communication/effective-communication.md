@@ -16,7 +16,7 @@ source_pages:
   - wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary.md
 related:
   - wiki/concepts/communication/authentic-communication.md
-  - wiki/concepts/leadership/leadership/leadership-communication.md
+  - wiki/concepts/leadership/leadership-communication.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/negotiation-and-mediation.md
   - wiki/concepts/communication/persuasion.md
@@ -62,7 +62,7 @@ Effective communication is the disciplined practice of making another person und
 # Related Pages
 
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]

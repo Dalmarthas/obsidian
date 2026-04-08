@@ -15,18 +15,18 @@ source_pages:
   - wiki/sources/2026-04-08-david-lynch-writing-summary.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/three-act-structure.md
-  - wiki/concepts/filmmaking/filmmaking/intention-and-obstacle.md
-  - wiki/concepts/filmmaking/filmmaking/dialogue-as-music.md
-  - wiki/concepts/filmmaking/filmmaking/character-driven-storytelling.md
-  - wiki/concepts/filmmaking/filmmaking/text-and-subtext.md
-  - wiki/concepts/filmmaking/filmmaking/screenplay-rewriting.md
-  - wiki/concepts/filmmaking/filmmaking/story-propulsion.md
-  - wiki/concepts/filmmaking/filmmaking/television-pilot-writing.md
+  - wiki/concepts/filmmaking/three-act-structure.md
+  - wiki/concepts/filmmaking/intention-and-obstacle.md
+  - wiki/concepts/filmmaking/dialogue-as-music.md
+  - wiki/concepts/filmmaking/character-driven-storytelling.md
+  - wiki/concepts/filmmaking/text-and-subtext.md
+  - wiki/concepts/filmmaking/screenplay-rewriting.md
+  - wiki/concepts/filmmaking/story-propulsion.md
+  - wiki/concepts/filmmaking/television-pilot-writing.md
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/creativity/idea-development.md
   - wiki/concepts/creativity/creative-integrity.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
   - wiki/syntheses/filmmaking/screenplay-starting-checklist.md
   - wiki/syntheses/filmmaking/sorkin-screenwriting-framework.md
   - wiki/syntheses/filmmaking/duffer-pilot-development-framework.md
@@ -53,16 +53,16 @@ Screenwriting is the practice of building a dramatic blueprint for a visual medi
 - Pilot-development system: [[wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary|Duffer Brothers Masterclass Complete Summary]]
 - Intuition-led filmmaking system: [[wiki/sources/2026-04-08-david-lynch-writing-summary|David Lynch Writing Summary]]
 - Television-writing and showrunning system: [[wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary|Shonda Rhimes TV Writing and Showrunning Masterclass Summary]]
-- Structure heuristic: [[wiki/concepts/filmmaking/filmmaking/three-act-structure|Three-Act Structure]]
-- Dramatic foundation: [[wiki/concepts/filmmaking/filmmaking/intention-and-obstacle|Intention and Obstacle]]
-- Audience model: [[wiki/concepts/filmmaking/filmmaking/audience-as-collaborator|Audience as Collaborator]]
-- Dialogue model: [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]]
-- Character model: [[wiki/concepts/filmmaking/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
-- Implication model: [[wiki/concepts/filmmaking/filmmaking/text-and-subtext|Text and Subtext]]
-- Revision model: [[wiki/concepts/filmmaking/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
-- Propulsion model: [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
-- Process model: [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
-- Pilot model: [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- Structure heuristic: [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]
+- Dramatic foundation: [[wiki/concepts/filmmaking/intention-and-obstacle|Intention and Obstacle]]
+- Audience model: [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
+- Dialogue model: [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
+- Character model: [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- Implication model: [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
+- Revision model: [[wiki/concepts/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
+- Propulsion model: [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- Process model: [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- Pilot model: [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
 - Holistic production model: [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
 - Ideation model: [[wiki/concepts/creativity/idea-development|Idea Development]]
 - Integrity model: [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
@@ -81,18 +81,18 @@ Screenwriting is the practice of building a dramatic blueprint for a visual medi
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/three-act-structure|Three-Act Structure]]
-- [[wiki/concepts/filmmaking/filmmaking/intention-and-obstacle|Intention and Obstacle]]
-- [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]]
-- [[wiki/concepts/filmmaking/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
-- [[wiki/concepts/filmmaking/filmmaking/text-and-subtext|Text and Subtext]]
-- [[wiki/concepts/filmmaking/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]
+- [[wiki/concepts/filmmaking/intention-and-obstacle|Intention and Obstacle]]
+- [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
+- [[wiki/concepts/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/filmmaking/screenplay-starting-checklist|Screenplay Starting Checklist]]
 - [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
 - [[wiki/syntheses/filmmaking/duffer-pilot-development-framework|Duffer Pilot Development Framework]]

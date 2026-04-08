@@ -13,9 +13,9 @@ source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/acting-craft.md
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
-  - wiki/concepts/filmmaking/filmmaking/text-and-subtext.md
+  - wiki/concepts/filmmaking/acting-craft.md
+  - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/text-and-subtext.md
   - wiki/syntheses/filmmaking/sorkin-screenwriting-framework.md
   - wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework.md
 ---
@@ -49,9 +49,9 @@ Audience as collaborator is the idea that the audience completes part of the sto
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/acting-craft|Acting Craft]]
-- [[wiki/concepts/filmmaking/filmmaking/text-and-subtext|Text and Subtext]]
-- [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
+- [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
+- [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
 - [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]

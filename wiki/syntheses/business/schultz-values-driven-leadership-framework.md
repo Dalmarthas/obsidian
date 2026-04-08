@@ -13,7 +13,7 @@ question: What durable company-building framework can be extracted from the Howa
 basis:
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
   - wiki/concepts/business/values-driven-companies.md
-  - wiki/concepts/leadership/leadership/organizational-culture.md
+  - wiki/concepts/leadership/organizational-culture.md
   - wiki/concepts/business/self-disruption.md
 related:
   - wiki/entities/howard-schultz.md
@@ -55,7 +55,7 @@ The current source base supports an eight-part model:
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary|Howard Schultz Starbucks Values-Driven Leadership Masterclass Summary]]
-- Canonical concepts: [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]], [[wiki/concepts/leadership/leadership/organizational-culture|Organizational Culture]], [[wiki/concepts/business/self-disruption|Self-Disruption]]
+- Canonical concepts: [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]], [[wiki/concepts/leadership/organizational-culture|Organizational Culture]], [[wiki/concepts/business/self-disruption|Self-Disruption]]
 
 # Gaps
 
@@ -67,6 +67,6 @@ The current source base supports an eight-part model:
 
 - [[wiki/entities/howard-schultz|Howard Schultz]]
 - [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
-- [[wiki/concepts/leadership/leadership/organizational-culture|Organizational Culture]]
+- [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
 - [[wiki/concepts/business/self-disruption|Self-Disruption]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]

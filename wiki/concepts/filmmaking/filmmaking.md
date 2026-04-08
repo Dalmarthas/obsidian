@@ -15,9 +15,9 @@ related:
   - wiki/concepts/creativity/idea-development.md
   - wiki/concepts/creativity/creative-integrity.md
   - wiki/concepts/creativity/visual-literacy.md
-  - wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction.md
-  - wiki/concepts/filmmaking/filmmaking/editing-as-discovery.md
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/casting-and-performance-direction.md
+  - wiki/concepts/filmmaking/editing-as-discovery.md
+  - wiki/concepts/filmmaking/screenwriting.md
   - wiki/syntheses/creativity/lynch-creative-framework.md
   - wiki/syntheses/filmmaking/scorsese-filmmaking-framework.md
 ---
@@ -60,8 +60,8 @@ Filmmaking is the coordinated act of turning ideas into moving image, performanc
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/concepts/creativity/visual-literacy|Visual Literacy]]
-- [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
-- [[wiki/concepts/filmmaking/filmmaking/editing-as-discovery|Editing as Discovery]]
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
+- [[wiki/concepts/filmmaking/editing-as-discovery|Editing as Discovery]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
 - [[wiki/syntheses/creativity/lynch-creative-framework|Lynch Creative Framework]]
 - [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]

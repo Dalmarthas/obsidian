@@ -21,7 +21,7 @@ related:
   - wiki/concepts/business/brand-strategy.md
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/values-driven-companies.md
-  - wiki/concepts/career/career-blueprint.md
+  - wiki/concepts/business/career-blueprint.md
   - wiki/concepts/others/interconnectedness-principle.md
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/communication/political-campaigns.md
@@ -80,7 +80,7 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
-- [[wiki/concepts/career/career-blueprint|Career Blueprint]]
+- [[wiki/concepts/business/career-blueprint|Career Blueprint]]
 - [[wiki/concepts/others/interconnectedness-principle|Interconnectedness Principle]]
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]

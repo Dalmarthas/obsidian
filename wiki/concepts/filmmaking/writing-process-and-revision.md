@@ -19,15 +19,15 @@ source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/editing-as-discovery.md
-  - wiki/concepts/filmmaking/filmmaking/screenplay-rewriting.md
-  - wiki/concepts/filmmaking/filmmaking/protect-the-process.md
-  - wiki/concepts/filmmaking/filmmaking/writers-room-craft.md
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
-  - wiki/concepts/filmmaking/filmmaking/thriller-writing.md
+  - wiki/concepts/filmmaking/editing-as-discovery.md
+  - wiki/concepts/filmmaking/screenplay-rewriting.md
+  - wiki/concepts/filmmaking/protect-the-process.md
+  - wiki/concepts/filmmaking/writers-room-craft.md
+  - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/thriller-writing.md
   - wiki/concepts/creativity/idea-development.md
-  - wiki/concepts/filmmaking/filmmaking/fiction-writing.md
-  - wiki/concepts/filmmaking/filmmaking/television-pilot-writing.md
+  - wiki/concepts/filmmaking/fiction-writing.md
+  - wiki/concepts/filmmaking/television-pilot-writing.md
   - wiki/syntheses/cross-source/writing-craft-overlaps.md
 ---
 
@@ -82,12 +82,12 @@ Writing process and revision is the larger workflow that governs how a writer or
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/editing-as-discovery|Editing as Discovery]]
-- [[wiki/concepts/filmmaking/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
-- [[wiki/concepts/filmmaking/filmmaking/protect-the-process|Protect the Process]]
-- [[wiki/concepts/filmmaking/filmmaking/writers-room-craft|Writers' Room Craft]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/editing-as-discovery|Editing as Discovery]]
+- [[wiki/concepts/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
+- [[wiki/concepts/filmmaking/protect-the-process|Protect the Process]]
+- [[wiki/concepts/filmmaking/writers-room-craft|Writers' Room Craft]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
-- [[wiki/concepts/filmmaking/filmmaking/fiction-writing|Fiction Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
+- [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]

@@ -13,12 +13,12 @@ source_pages:
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/contract-clock-crucible.md
-  - wiki/concepts/filmmaking/filmmaking/question-and-answer-structure.md
-  - wiki/concepts/filmmaking/filmmaking/protect-the-process.md
-  - wiki/concepts/filmmaking/filmmaking/immersive-research.md
-  - wiki/concepts/filmmaking/filmmaking/story-propulsion.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/contract-clock-crucible.md
+  - wiki/concepts/filmmaking/question-and-answer-structure.md
+  - wiki/concepts/filmmaking/protect-the-process.md
+  - wiki/concepts/filmmaking/immersive-research.md
+  - wiki/concepts/filmmaking/story-propulsion.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
   - wiki/syntheses/filmmaking/dan-brown-thriller-framework.md
   - wiki/syntheses/filmmaking/baldacci-thriller-framework.md
   - wiki/syntheses/cross-source/writing-craft-overlaps.md
@@ -61,11 +61,11 @@ Thriller writing is the practice of building fast-moving fiction around danger, 
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/contract-clock-crucible|Contract, Clock, Crucible]]
-- [[wiki/concepts/filmmaking/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
-- [[wiki/concepts/filmmaking/filmmaking/protect-the-process|Protect the Process]]
-- [[wiki/concepts/filmmaking/filmmaking/immersive-research|Immersive Research]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/contract-clock-crucible|Contract, Clock, Crucible]]
+- [[wiki/concepts/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
+- [[wiki/concepts/filmmaking/protect-the-process|Protect the Process]]
+- [[wiki/concepts/filmmaking/immersive-research|Immersive Research]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/filmmaking/dan-brown-thriller-framework|Dan Brown Thriller Framework]]
 - [[wiki/syntheses/filmmaking/baldacci-thriller-framework|Baldacci Thriller Framework]]

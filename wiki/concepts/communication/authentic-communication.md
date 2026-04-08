@@ -19,9 +19,9 @@ source_pages:
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
 related:
   - wiki/concepts/business/mass-intimacy.md
-  - wiki/concepts/leadership/leadership/leadership-communication.md
+  - wiki/concepts/leadership/leadership-communication.md
   - wiki/concepts/communication/effective-communication.md
-  - wiki/concepts/career/creative-entrepreneurship.md
+  - wiki/concepts/business/creative-entrepreneurship.md
   - wiki/concepts/others/conservation.md
   - wiki/syntheses/cross-source/human-centered-change-models.md
   - wiki/syntheses/cross-source/communication-and-influence-models.md
@@ -68,9 +68,9 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 # Related Pages
 
 - [[wiki/concepts/business/mass-intimacy|Mass Intimacy]]
-- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/communication/intention-and-impact|Intention and Impact]]
-- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]

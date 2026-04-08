@@ -72,14 +72,14 @@ This source is a large secondary summary of Shonda Rhimes's masterclass on telev
 # Links
 
 - [[wiki/entities/shonda-rhimes|Shonda Rhimes]]
-- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
-- [[wiki/concepts/filmmaking/filmmaking/text-and-subtext|Text and Subtext]]
-- [[wiki/concepts/filmmaking/filmmaking/showrunning|Showrunning]]
-- [[wiki/concepts/filmmaking/filmmaking/writers-room-craft|Writers' Room Craft]]
-- [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
+- [[wiki/concepts/filmmaking/showrunning|Showrunning]]
+- [[wiki/concepts/filmmaking/writers-room-craft|Writers' Room Craft]]
+- [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
 
 # Open Questions

@@ -13,9 +13,9 @@ source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/dialogue-as-music.md
-  - wiki/concepts/filmmaking/filmmaking/audience-as-collaborator.md
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/dialogue-as-music.md
+  - wiki/concepts/filmmaking/audience-as-collaborator.md
+  - wiki/concepts/filmmaking/screenwriting.md
   - wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework.md
 ---
 
@@ -48,8 +48,8 @@ Text and subtext is the distinction between what characters literally say and wh
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]]
-- [[wiki/concepts/filmmaking/filmmaking/audience-as-collaborator|Audience as Collaborator]]
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
 

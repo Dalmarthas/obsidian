@@ -11,8 +11,8 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/thriller-writing.md
-  - wiki/concepts/filmmaking/filmmaking/question-and-answer-structure.md
+  - wiki/concepts/filmmaking/thriller-writing.md
+  - wiki/concepts/filmmaking/question-and-answer-structure.md
   - wiki/syntheses/filmmaking/dan-brown-thriller-framework.md
 ---
 
@@ -42,6 +42,6 @@ Contract, clock, crucible is Dan Brown's three-part framework for escalating a t
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
+- [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
 - [[wiki/syntheses/filmmaking/dan-brown-thriller-framework|Dan Brown Thriller Framework]]

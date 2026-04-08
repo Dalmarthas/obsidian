@@ -14,10 +14,10 @@ source_pages:
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
-  - wiki/concepts/filmmaking/filmmaking/text-and-subtext.md
-  - wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective.md
-  - wiki/concepts/filmmaking/filmmaking/audience-as-collaborator.md
+  - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/text-and-subtext.md
+  - wiki/concepts/filmmaking/narrative-voice-and-perspective.md
+  - wiki/concepts/filmmaking/audience-as-collaborator.md
   - wiki/syntheses/filmmaking/sorkin-screenwriting-framework.md
   - wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework.md
   - wiki/syntheses/filmmaking/salman-rushdie-fiction-framework.md
@@ -59,10 +59,10 @@ Dialogue as music is the view that dramatic speech should be judged not only by 
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/text-and-subtext|Text and Subtext]]
-- [[wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
-- [[wiki/concepts/filmmaking/filmmaking/audience-as-collaborator|Audience as Collaborator]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
+- [[wiki/concepts/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
 - [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
 - [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]

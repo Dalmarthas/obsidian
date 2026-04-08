@@ -12,10 +12,10 @@ tags:
 question: What durable fiction-writing framework can be extracted from the Salman Rushdie masterclass summary?
 basis:
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
-  - wiki/concepts/filmmaking/filmmaking/fiction-writing.md
-  - wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective.md
-  - wiki/concepts/filmmaking/filmmaking/setting-as-character.md
-  - wiki/concepts/filmmaking/filmmaking/writer-worldview.md
+  - wiki/concepts/filmmaking/fiction-writing.md
+  - wiki/concepts/filmmaking/narrative-voice-and-perspective.md
+  - wiki/concepts/filmmaking/setting-as-character.md
+  - wiki/concepts/filmmaking/writer-worldview.md
 related:
   - wiki/entities/salman-rushdie.md
   - wiki/syntheses/cross-source/writing-craft-overlaps.md
@@ -56,7 +56,7 @@ The current source base supports an eight-part framework:
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary|Salman Rushdie Writing Masterclass Complete Summary]]
-- Canonical concepts: [[wiki/concepts/filmmaking/filmmaking/fiction-writing|Fiction Writing]], [[wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]], [[wiki/concepts/filmmaking/filmmaking/setting-as-character|Setting as Character]], [[wiki/concepts/filmmaking/filmmaking/writer-worldview|Writer Worldview]]
+- Canonical concepts: [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]], [[wiki/concepts/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]], [[wiki/concepts/filmmaking/setting-as-character|Setting as Character]], [[wiki/concepts/filmmaking/writer-worldview|Writer Worldview]]
 
 # Gaps
 
@@ -67,8 +67,8 @@ The current source base supports an eight-part framework:
 # Related Pages
 
 - [[wiki/entities/salman-rushdie|Salman Rushdie]]
-- [[wiki/concepts/filmmaking/filmmaking/fiction-writing|Fiction Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
-- [[wiki/concepts/filmmaking/filmmaking/setting-as-character|Setting as Character]]
-- [[wiki/concepts/filmmaking/filmmaking/writer-worldview|Writer Worldview]]
+- [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
+- [[wiki/concepts/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
+- [[wiki/concepts/filmmaking/setting-as-character|Setting as Character]]
+- [[wiki/concepts/filmmaking/writer-worldview|Writer Worldview]]
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]

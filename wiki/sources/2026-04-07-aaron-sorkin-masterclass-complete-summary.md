@@ -59,13 +59,13 @@ This source is a large secondary summary of Aaron Sorkin's screenwriting masterc
 # Links
 
 - [[wiki/entities/aaron-sorkin|Aaron Sorkin]]
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/intention-and-obstacle|Intention and Obstacle]]
-- [[wiki/concepts/filmmaking/filmmaking/audience-as-collaborator|Audience as Collaborator]]
-- [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]]
-- [[wiki/concepts/filmmaking/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/intention-and-obstacle|Intention and Obstacle]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
+- [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/concepts/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]
 

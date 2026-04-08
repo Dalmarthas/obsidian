@@ -11,11 +11,11 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
 related:
-  - wiki/concepts/career/creative-entrepreneurship.md
-  - wiki/concepts/career/zone-of-genius.md
-  - wiki/concepts/career/financial-confidence.md
+  - wiki/concepts/business/creative-entrepreneurship.md
+  - wiki/concepts/business/zone-of-genius.md
+  - wiki/concepts/business/financial-confidence.md
   - wiki/concepts/business/framework-driven-action.md
-  - wiki/syntheses/career/welteroth-career-framework.md
+  - wiki/syntheses/business/welteroth-career-framework.md
 ---
 
 # What It Is
@@ -44,7 +44,7 @@ A career blueprint is the long-range model of where a career is trying to go, ho
 
 # Related Pages
 
-- [[wiki/concepts/career/zone-of-genius|Zone of Genius]]
-- [[wiki/concepts/career/financial-confidence|Financial Confidence]]
+- [[wiki/concepts/business/zone-of-genius|Zone of Genius]]
+- [[wiki/concepts/business/financial-confidence|Financial Confidence]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
-- [[wiki/syntheses/career/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]

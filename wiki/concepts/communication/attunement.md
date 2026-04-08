@@ -18,7 +18,7 @@ related:
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/persuasion.md
-  - wiki/concepts/leadership/leadership/leadership-communication.md
+  - wiki/concepts/leadership/leadership-communication.md
   - wiki/syntheses/cross-source/communication-and-influence-models.md
 ---
 
@@ -59,6 +59,6 @@ Attunement is the discipline of aligning with another person's perspective close
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]
-- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
 

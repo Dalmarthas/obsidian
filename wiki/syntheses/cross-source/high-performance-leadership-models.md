@@ -15,8 +15,8 @@ basis:
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
-  - wiki/concepts/leadership/leadership/high-performance-mindset.md
-  - wiki/concepts/leadership/leadership/high-performance-team-culture.md
+  - wiki/concepts/leadership/high-performance-mindset.md
+  - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/concepts/leadership/leadership.md
 related:
   - wiki/syntheses/leadership/geno-auriemma-team-leadership-framework.md
@@ -56,7 +56,7 @@ The shared meta-lesson is that high performance is not only intensity. It is str
 # Basis
 
 - Source pages: [[wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary|Geno Auriemma Leadership and Team Building Masterclass Complete Summary]], [[wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary|Lewis Hamilton Masterclass Master Summary]], [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]], [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary|Bob Iger Disney Leadership Masterclass Complete Summary]]
-- Canonical concepts: [[wiki/concepts/leadership/leadership/high-performance-mindset|High-Performance Mindset]], [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]], [[wiki/concepts/leadership/leadership|Leadership]]
+- Canonical concepts: [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]], [[wiki/concepts/leadership/leadership|Leadership]]
 
 # Comparisons
 

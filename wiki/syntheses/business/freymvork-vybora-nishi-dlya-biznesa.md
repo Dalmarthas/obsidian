@@ -19,8 +19,8 @@ basis:
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/business/framework-driven-action.md
 related:
-  - wiki/concepts/career/career-blueprint.md
-  - wiki/syntheses/career/welteroth-career-framework.md
+  - wiki/concepts/business/career-blueprint.md
+  - wiki/syntheses/business/welteroth-career-framework.md
   - wiki/syntheses/business/schultz-values-driven-leadership-framework.md
 ---
 
@@ -59,7 +59,7 @@ related:
 
 - Главный источник: [[wiki/sources/2026-04-08-vybor-nishi-dlya-biznesa-polnaya-svodka|Выбор ниши для бизнеса — полная сводка]]
 - Канонические концепты: [[wiki/concepts/business/vybor-nishi|Выбор ниши]], [[wiki/concepts/business/podnisha|Подниша]], [[wiki/concepts/business/mvp-testirovanie-nishi|MVP-тестирование ниши]], [[wiki/concepts/business/megatrendy|Мегатренды]]
-- Соседние ветки: [[wiki/concepts/business/business-strategy|Business Strategy]], [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], [[wiki/concepts/career/career-blueprint|Career Blueprint]]
+- Соседние ветки: [[wiki/concepts/business/business-strategy|Business Strategy]], [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], [[wiki/concepts/business/career-blueprint|Career Blueprint]]
 
 # Пробелы
 
@@ -75,6 +75,6 @@ related:
 - [[wiki/concepts/business/megatrendy|Мегатренды]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
-- [[wiki/concepts/career/career-blueprint|Career Blueprint]]
-- [[wiki/syntheses/career/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/concepts/business/career-blueprint|Career Blueprint]]
+- [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]
 - [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]

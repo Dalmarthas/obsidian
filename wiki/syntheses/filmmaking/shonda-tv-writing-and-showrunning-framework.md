@@ -13,11 +13,11 @@ tags:
 question: What durable television-writing and showrunning framework can be extracted from the Shonda Rhimes masterclass summary?
 basis:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
-  - wiki/concepts/filmmaking/filmmaking/television-pilot-writing.md
-  - wiki/concepts/filmmaking/filmmaking/character-driven-storytelling.md
-  - wiki/concepts/filmmaking/filmmaking/text-and-subtext.md
-  - wiki/concepts/filmmaking/filmmaking/showrunning.md
-  - wiki/concepts/filmmaking/filmmaking/writers-room-craft.md
+  - wiki/concepts/filmmaking/television-pilot-writing.md
+  - wiki/concepts/filmmaking/character-driven-storytelling.md
+  - wiki/concepts/filmmaking/text-and-subtext.md
+  - wiki/concepts/filmmaking/showrunning.md
+  - wiki/concepts/filmmaking/writers-room-craft.md
 related:
   - wiki/entities/shonda-rhimes.md
   - wiki/syntheses/filmmaking/duffer-pilot-development-framework.md
@@ -55,7 +55,7 @@ The current source base supports a seven-part model:
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary|Shonda Rhimes TV Writing and Showrunning Masterclass Summary]]
-- Canonical concepts: [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]], [[wiki/concepts/filmmaking/filmmaking/character-driven-storytelling|Character-Driven Storytelling]], [[wiki/concepts/filmmaking/filmmaking/text-and-subtext|Text and Subtext]], [[wiki/concepts/filmmaking/filmmaking/showrunning|Showrunning]], [[wiki/concepts/filmmaking/filmmaking/writers-room-craft|Writers' Room Craft]]
+- Canonical concepts: [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]], [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]], [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]], [[wiki/concepts/filmmaking/showrunning|Showrunning]], [[wiki/concepts/filmmaking/writers-room-craft|Writers' Room Craft]]
 
 # Gaps
 
@@ -66,9 +66,9 @@ The current source base supports a seven-part model:
 # Related Pages
 
 - [[wiki/entities/shonda-rhimes|Shonda Rhimes]]
-- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
-- [[wiki/concepts/filmmaking/filmmaking/text-and-subtext|Text and Subtext]]
-- [[wiki/concepts/filmmaking/filmmaking/showrunning|Showrunning]]
-- [[wiki/concepts/filmmaking/filmmaking/writers-room-craft|Writers' Room Craft]]
+- [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
+- [[wiki/concepts/filmmaking/showrunning|Showrunning]]
+- [[wiki/concepts/filmmaking/writers-room-craft|Writers' Room Craft]]
 - [[wiki/syntheses/filmmaking/duffer-pilot-development-framework|Duffer Pilot Development Framework]]

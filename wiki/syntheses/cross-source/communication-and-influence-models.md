@@ -21,7 +21,7 @@ basis:
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/attunement.md
   - wiki/concepts/communication/persuasion.md
-  - wiki/concepts/leadership/leadership/leadership-communication.md
+  - wiki/concepts/leadership/leadership-communication.md
 related:
   - wiki/syntheses/communication/george-stephanopoulos-communication-framework.md
   - wiki/syntheses/communication/chris-voss-negotiation-framework.md
@@ -66,7 +66,7 @@ The current source base supports a seven-part model:
 # Basis
 
 - Source pages: [[wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary|George Stephanopoulos Effective Communication Masterclass Complete Summary]], [[wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary|Chris Voss Negotiation Masterclass Master Summary]], [[wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary|Daniel Pink Persuasion Masterclass Complete Summary]], [[wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary|Axelrod Rove Political Campaign Masterclass Complete Summary]], [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]], [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary|Bob Iger Disney Leadership Masterclass Complete Summary]]
-- Canonical concepts: [[wiki/concepts/communication/effective-communication|Effective Communication]], [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]], [[wiki/concepts/communication/attunement|Attunement]], [[wiki/concepts/communication/persuasion|Persuasion]], [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- Canonical concepts: [[wiki/concepts/communication/effective-communication|Effective Communication]], [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]], [[wiki/concepts/communication/attunement|Attunement]], [[wiki/concepts/communication/persuasion|Persuasion]], [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 
 # Comparisons
 

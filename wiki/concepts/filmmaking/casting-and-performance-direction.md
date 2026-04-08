@@ -14,9 +14,9 @@ source_pages:
   - wiki/sources/2026-04-08-david-lynch-writing-summary.md
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/acting-craft.md
+  - wiki/concepts/filmmaking/acting-craft.md
   - wiki/concepts/filmmaking/filmmaking.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/creativity/creative-integrity.md
   - wiki/syntheses/filmmaking/scorsese-filmmaking-framework.md
 ---
@@ -54,7 +54,7 @@ Casting and performance direction is the work of choosing the right human beings
 # Related Pages
 
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
-- [[wiki/concepts/filmmaking/filmmaking/acting-craft|Acting Craft]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]

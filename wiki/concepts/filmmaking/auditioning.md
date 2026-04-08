@@ -12,8 +12,8 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/acting-craft.md
-  - wiki/concepts/filmmaking/filmmaking/monologue-preparation.md
+  - wiki/concepts/filmmaking/acting-craft.md
+  - wiki/concepts/filmmaking/monologue-preparation.md
   - wiki/concepts/creativity/creative-integrity.md
   - wiki/syntheses/filmmaking/kevin-spacey-acting-framework.md
 ---
@@ -43,8 +43,8 @@ Auditioning is the professional practice of showing readiness, range, adaptabili
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/acting-craft|Acting Craft]]
-- [[wiki/concepts/filmmaking/filmmaking/monologue-preparation|Monologue Preparation]]
+- [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
+- [[wiki/concepts/filmmaking/monologue-preparation|Monologue Preparation]]
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/syntheses/filmmaking/kevin-spacey-acting-framework|Kevin Spacey Acting Framework]]
 

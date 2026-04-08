@@ -11,14 +11,14 @@ tags:
 question: What reusable career-design framework emerges from the Elaine Welteroth masterclass summary?
 basis:
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
-  - wiki/concepts/career/creative-entrepreneurship.md
-  - wiki/concepts/career/zone-of-genius.md
-  - wiki/concepts/career/career-blueprint.md
-  - wiki/concepts/career/financial-confidence.md
+  - wiki/concepts/business/creative-entrepreneurship.md
+  - wiki/concepts/business/zone-of-genius.md
+  - wiki/concepts/business/career-blueprint.md
+  - wiki/concepts/business/financial-confidence.md
 related:
   - wiki/entities/elaine-welteroth.md
   - wiki/concepts/communication/authentic-communication.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/communication/intention-and-impact.md
 ---
@@ -51,7 +51,7 @@ The distinct Welteroth layer is permission: reinvention, difference, and self-au
 # Basis
 
 - Main source: [[wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary|Building a Career Elaine Welteroth Masterclass Complete Summary]]
-- Related concepts: [[wiki/concepts/career/creative-entrepreneurship|Creative Entrepreneurship]], [[wiki/concepts/career/zone-of-genius|Zone of Genius]], [[wiki/concepts/career/career-blueprint|Career Blueprint]], [[wiki/concepts/career/financial-confidence|Financial Confidence]]
+- Related concepts: [[wiki/concepts/business/creative-entrepreneurship|Creative Entrepreneurship]], [[wiki/concepts/business/zone-of-genius|Zone of Genius]], [[wiki/concepts/business/career-blueprint|Career Blueprint]], [[wiki/concepts/business/financial-confidence|Financial Confidence]]
 
 # Gaps
 
@@ -62,9 +62,9 @@ The distinct Welteroth layer is permission: reinvention, difference, and self-au
 # Related Pages
 
 - [[wiki/entities/elaine-welteroth|Elaine Welteroth]]
-- [[wiki/concepts/career/creative-entrepreneurship|Creative Entrepreneurship]]
-- [[wiki/concepts/career/career-blueprint|Career Blueprint]]
+- [[wiki/concepts/business/creative-entrepreneurship|Creative Entrepreneurship]]
+- [[wiki/concepts/business/career-blueprint|Career Blueprint]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/communication/intention-and-impact|Intention and Impact]]

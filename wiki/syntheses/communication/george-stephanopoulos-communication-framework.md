@@ -12,7 +12,7 @@ question: What durable communication framework can be extracted from the George 
 basis:
   - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
   - wiki/concepts/communication/effective-communication.md
-  - wiki/concepts/leadership/leadership/leadership-communication.md
+  - wiki/concepts/leadership/leadership-communication.md
 related:
   - wiki/entities/george-stephanopoulos.md
   - wiki/syntheses/cross-source/communication-and-influence-models.md
@@ -47,7 +47,7 @@ The current source base supports a six-part framework:
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary|George Stephanopoulos Effective Communication Masterclass Complete Summary]]
-- Canonical concepts: [[wiki/concepts/communication/effective-communication|Effective Communication]], [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- Canonical concepts: [[wiki/concepts/communication/effective-communication|Effective Communication]], [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 
 # Gaps
 
@@ -58,5 +58,5 @@ The current source base supports a six-part framework:
 
 - [[wiki/entities/george-stephanopoulos|George Stephanopoulos]]
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
-- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]

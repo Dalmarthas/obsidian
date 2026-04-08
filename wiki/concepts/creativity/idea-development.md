@@ -18,11 +18,11 @@ source_pages:
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
   - wiki/concepts/filmmaking/filmmaking.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
-  - wiki/concepts/filmmaking/filmmaking/television-pilot-writing.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/television-pilot-writing.md
   - wiki/concepts/creativity/creative-integrity.md
   - wiki/concepts/creativity/graphic-design.md
-  - wiki/concepts/filmmaking/filmmaking/writer-worldview.md
+  - wiki/concepts/filmmaking/writer-worldview.md
 ---
 
 # What It Is
@@ -64,8 +64,8 @@ Idea development is the process of noticing, catching, testing, and gradually re
 # Related Pages
 
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
-- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/concepts/creativity/graphic-design|Graphic Design]]
-- [[wiki/concepts/filmmaking/filmmaking/writer-worldview|Writer Worldview]]
+- [[wiki/concepts/filmmaking/writer-worldview|Writer Worldview]]

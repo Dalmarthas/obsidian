@@ -11,7 +11,7 @@ tags:
 question: What durable team-leadership framework can be extracted from the Geno Auriemma masterclass summary?
 basis:
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
-  - wiki/concepts/leadership/leadership/high-performance-team-culture.md
+  - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/concepts/leadership/leadership.md
 related:
   - wiki/entities/geno-auriemma.md
@@ -47,7 +47,7 @@ The current source base supports a six-part framework:
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary|Geno Auriemma Leadership and Team Building Masterclass Complete Summary]]
-- Canonical concepts: [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]], [[wiki/concepts/leadership/leadership|Leadership]]
+- Canonical concepts: [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]], [[wiki/concepts/leadership/leadership|Leadership]]
 
 # Gaps
 
@@ -57,6 +57,6 @@ The current source base supports a six-part framework:
 # Related Pages
 
 - [[wiki/entities/geno-auriemma|Geno Auriemma]]
-- [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]

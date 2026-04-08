@@ -84,7 +84,7 @@ This source is a large secondary summary of a political campaign masterclass tau
 - [[wiki/concepts/communication/opposition-research|Opposition Research]]
 - [[wiki/concepts/communication/ground-game-and-gotv|Ground Game and GOTV]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]
-- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/syntheses/communication/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]

@@ -13,10 +13,10 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction.md
-  - wiki/concepts/filmmaking/filmmaking/character-driven-storytelling.md
-  - wiki/concepts/filmmaking/filmmaking/dialogue-as-music.md
-  - wiki/concepts/filmmaking/filmmaking/audience-as-collaborator.md
+  - wiki/concepts/filmmaking/casting-and-performance-direction.md
+  - wiki/concepts/filmmaking/character-driven-storytelling.md
+  - wiki/concepts/filmmaking/dialogue-as-music.md
+  - wiki/concepts/filmmaking/audience-as-collaborator.md
   - wiki/syntheses/filmmaking/kevin-spacey-acting-framework.md
 ---
 
@@ -45,9 +45,9 @@ Acting craft is the disciplined practice of making a performance feel truthful, 
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
-- [[wiki/concepts/filmmaking/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
-- [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]]
-- [[wiki/concepts/filmmaking/filmmaking/audience-as-collaborator|Audience as Collaborator]]
+- [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
 - [[wiki/syntheses/filmmaking/kevin-spacey-acting-framework|Kevin Spacey Acting Framework]]
 

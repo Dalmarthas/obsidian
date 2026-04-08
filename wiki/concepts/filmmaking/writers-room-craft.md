@@ -12,10 +12,10 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/showrunning.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
-  - wiki/concepts/leadership/leadership/high-performance-team-culture.md
-  - wiki/concepts/filmmaking/filmmaking/television-pilot-writing.md
+  - wiki/concepts/filmmaking/showrunning.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/high-performance-team-culture.md
+  - wiki/concepts/filmmaking/television-pilot-writing.md
   - wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework.md
 ---
 
@@ -43,8 +43,8 @@ Writers' room craft is the set of behaviors, contribution patterns, reading habi
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/showrunning|Showrunning]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
-- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/showrunning|Showrunning]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]

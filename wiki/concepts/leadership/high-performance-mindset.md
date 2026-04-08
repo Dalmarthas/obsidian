@@ -12,9 +12,9 @@ source_pages:
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
 related:
-  - wiki/concepts/leadership/leadership/high-performance-team-culture.md
+  - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/concepts/leadership/leadership.md
-  - wiki/concepts/leadership/leadership/head-and-heart-harmony.md
+  - wiki/concepts/leadership/head-and-heart-harmony.md
   - wiki/syntheses/leadership/lewis-hamilton-performance-framework.md
   - wiki/syntheses/cross-source/high-performance-leadership-models.md
 ---
@@ -49,8 +49,8 @@ High-performance mindset is the psychological operating system that allows a per
 
 # Related Pages
 
-- [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
-- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]

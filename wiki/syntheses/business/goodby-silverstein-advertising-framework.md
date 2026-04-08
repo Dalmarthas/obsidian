@@ -18,7 +18,7 @@ basis:
 related:
   - wiki/entities/goodby-silverstein-partners.md
   - wiki/concepts/communication/authentic-communication.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/business/ethical-consumerism.md
 ---
@@ -65,6 +65,6 @@ The distinct Goodby Silverstein layer is humane non-corporate tone: the work sho
 - [[wiki/concepts/business/advertising|Advertising]]
 - [[wiki/concepts/business/creative-pitching|Creative Pitching]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/business/ethical-consumerism|Ethical Consumerism]]

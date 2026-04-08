@@ -26,9 +26,9 @@ Clinton anchors the current leadership branch of the wiki. His source is the mai
 # Evidence In This Vault
 
 - Core leadership frame: [[wiki/concepts/leadership/leadership|Leadership]]
-- Team model: [[wiki/concepts/leadership/leadership/diverse-teams|Diverse Teams]]
+- Team model: [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
 - Conflict model: [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
-- Communication model: [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- Communication model: [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - System summary: [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
 
 # Related Pages

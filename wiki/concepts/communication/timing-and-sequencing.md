@@ -13,7 +13,7 @@ source_pages:
   - wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary.md
 related:
   - wiki/concepts/communication/persuasion.md
-  - wiki/concepts/leadership/leadership/high-performance-mindset.md
+  - wiki/concepts/leadership/high-performance-mindset.md
   - wiki/syntheses/communication/daniel-pink-persuasion-framework.md
 ---
 
@@ -46,6 +46,6 @@ Timing and sequencing is the claim that outcomes depend not only on content but 
 # Related Pages
 
 - [[wiki/concepts/communication/persuasion|Persuasion]]
-- [[wiki/concepts/leadership/leadership/high-performance-mindset|High-Performance Mindset]]
+- [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/syntheses/communication/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
 

@@ -19,7 +19,7 @@ source_pages:
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/acting-craft.md
+  - wiki/concepts/filmmaking/acting-craft.md
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/creativity/idea-development.md
   - wiki/concepts/filmmaking/filmmaking.md
@@ -72,7 +72,7 @@ Creative integrity is the discipline of staying faithful to the living core of a
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/acting-craft|Acting Craft]]
+- [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]

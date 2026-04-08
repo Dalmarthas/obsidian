@@ -11,14 +11,14 @@ tags:
 question: What reusable screenwriting framework emerges from the Aaron Sorkin masterclass summary?
 basis:
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
-  - wiki/concepts/filmmaking/filmmaking/three-act-structure.md
+  - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/three-act-structure.md
 related:
   - wiki/entities/aaron-sorkin.md
-  - wiki/concepts/filmmaking/filmmaking/intention-and-obstacle.md
-  - wiki/concepts/filmmaking/filmmaking/audience-as-collaborator.md
-  - wiki/concepts/filmmaking/filmmaking/dialogue-as-music.md
-  - wiki/concepts/filmmaking/filmmaking/screenplay-rewriting.md
+  - wiki/concepts/filmmaking/intention-and-obstacle.md
+  - wiki/concepts/filmmaking/audience-as-collaborator.md
+  - wiki/concepts/filmmaking/dialogue-as-music.md
+  - wiki/concepts/filmmaking/screenplay-rewriting.md
 ---
 
 # Question
@@ -52,7 +52,7 @@ The distinctive Sorkin layer on top of this is audience trust: the writer should
 # Basis
 
 - Main source: [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]]
-- Related craft pages: [[wiki/concepts/filmmaking/filmmaking/intention-and-obstacle|Intention and Obstacle]], [[wiki/concepts/filmmaking/filmmaking/audience-as-collaborator|Audience as Collaborator]], [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]], [[wiki/concepts/filmmaking/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
+- Related craft pages: [[wiki/concepts/filmmaking/intention-and-obstacle|Intention and Obstacle]], [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]], [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]], [[wiki/concepts/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
 
 # Gaps
 
@@ -63,5 +63,5 @@ The distinctive Sorkin layer on top of this is audience trust: the writer should
 # Related Pages
 
 - [[wiki/entities/aaron-sorkin|Aaron Sorkin]]
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/three-act-structure|Three-Act Structure]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]

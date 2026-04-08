@@ -14,8 +14,8 @@ basis:
   - wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary.md
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/creativity/visual-literacy.md
-  - wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction.md
-  - wiki/concepts/filmmaking/filmmaking/editing-as-discovery.md
+  - wiki/concepts/filmmaking/casting-and-performance-direction.md
+  - wiki/concepts/filmmaking/editing-as-discovery.md
 related:
   - wiki/entities/martin-scorsese.md
   - wiki/syntheses/creativity/lynch-creative-framework.md
@@ -56,7 +56,7 @@ The current source base supports an eight-part model:
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary|Martin Scorsese Masterclass Complete Summary]]
-- Canonical concepts: [[wiki/concepts/filmmaking/filmmaking|Filmmaking]], [[wiki/concepts/creativity/visual-literacy|Visual Literacy]], [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]], [[wiki/concepts/filmmaking/filmmaking/editing-as-discovery|Editing as Discovery]]
+- Canonical concepts: [[wiki/concepts/filmmaking/filmmaking|Filmmaking]], [[wiki/concepts/creativity/visual-literacy|Visual Literacy]], [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]], [[wiki/concepts/filmmaking/editing-as-discovery|Editing as Discovery]]
 
 # Gaps
 
@@ -69,6 +69,6 @@ The current source base supports an eight-part model:
 - [[wiki/entities/martin-scorsese|Martin Scorsese]]
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
 - [[wiki/concepts/creativity/visual-literacy|Visual Literacy]]
-- [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
-- [[wiki/concepts/filmmaking/filmmaking/editing-as-discovery|Editing as Discovery]]
+- [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
+- [[wiki/concepts/filmmaking/editing-as-discovery|Editing as Discovery]]
 - [[wiki/syntheses/creativity/lynch-creative-framework|Lynch Creative Framework]]

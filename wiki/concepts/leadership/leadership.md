@@ -17,19 +17,19 @@ source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
 related:
-  - wiki/concepts/leadership/leadership/diverse-teams.md
+  - wiki/concepts/leadership/diverse-teams.md
   - wiki/concepts/communication/negotiation-and-mediation.md
-  - wiki/concepts/leadership/leadership/leadership-communication.md
-  - wiki/concepts/filmmaking/filmmaking/showrunning.md
+  - wiki/concepts/leadership/leadership-communication.md
+  - wiki/concepts/filmmaking/showrunning.md
   - wiki/concepts/business/values-driven-companies.md
-  - wiki/concepts/leadership/leadership/organizational-culture.md
+  - wiki/concepts/leadership/organizational-culture.md
   - wiki/concepts/business/framework-driven-action.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
-  - wiki/concepts/leadership/leadership/head-and-heart-harmony.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/head-and-heart-harmony.md
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/business/brand-stewardship.md
-  - wiki/concepts/leadership/leadership/high-performance-mindset.md
-  - wiki/concepts/leadership/leadership/high-performance-team-culture.md
+  - wiki/concepts/leadership/high-performance-mindset.md
+  - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/syntheses/leadership/clinton-leadership-framework.md
   - wiki/syntheses/business/iger-strategy-framework.md
   - wiki/syntheses/cross-source/high-performance-leadership-models.md
@@ -81,19 +81,19 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 
 # Related Pages
 
-- [[wiki/concepts/leadership/leadership/diverse-teams|Diverse Teams]]
+- [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
-- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
-- [[wiki/concepts/filmmaking/filmmaking/showrunning|Showrunning]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/filmmaking/showrunning|Showrunning]]
 - [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
-- [[wiki/concepts/leadership/leadership/organizational-culture|Organizational Culture]]
+- [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
-- [[wiki/concepts/leadership/leadership/high-performance-mindset|High-Performance Mindset]]
-- [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]

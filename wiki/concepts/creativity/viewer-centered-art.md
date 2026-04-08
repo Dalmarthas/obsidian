@@ -12,7 +12,7 @@ source_pages:
   - wiki/sources/2026-04-08-jeff-koons-art-and-creativity-masterclass-complete-summary.md
 related:
   - wiki/concepts/creativity/art-making.md
-  - wiki/concepts/filmmaking/filmmaking/audience-as-collaborator.md
+  - wiki/concepts/filmmaking/audience-as-collaborator.md
   - wiki/syntheses/creativity/jeff-koons-art-framework.md
 ---
 
@@ -41,5 +41,5 @@ Viewer-centered art is the claim that a work does not fully exist as art until a
 # Related Pages
 
 - [[wiki/concepts/creativity/art-making|Art Making]]
-- [[wiki/concepts/filmmaking/filmmaking/audience-as-collaborator|Audience as Collaborator]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
 - [[wiki/syntheses/creativity/jeff-koons-art-framework|Jeff Koons Art Framework]]

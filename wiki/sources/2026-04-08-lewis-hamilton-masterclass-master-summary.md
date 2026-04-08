@@ -63,9 +63,9 @@ This source is a large secondary summary of Lewis Hamilton's masterclass on the 
 # Links
 
 - [[wiki/entities/lewis-hamilton|Lewis Hamilton]]
-- [[wiki/concepts/leadership/leadership/high-performance-mindset|High-Performance Mindset]]
+- [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]

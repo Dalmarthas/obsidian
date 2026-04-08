@@ -15,9 +15,9 @@ source_pages:
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
 related:
   - wiki/concepts/leadership/leadership.md
-  - wiki/concepts/leadership/leadership/organizational-culture.md
+  - wiki/concepts/leadership/organizational-culture.md
   - wiki/concepts/business/brand-stewardship.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/syntheses/business/schultz-values-driven-leadership-framework.md
 ---
 
@@ -52,8 +52,8 @@ Values-driven companies are organizations that explicitly try to align commercia
 # Related Pages
 
 - [[wiki/concepts/leadership/leadership|Leadership]]
-- [[wiki/concepts/leadership/leadership/organizational-culture|Organizational Culture]]
+- [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]
 

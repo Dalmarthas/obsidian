@@ -11,9 +11,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
-  - wiki/concepts/filmmaking/filmmaking/intention-and-obstacle.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/intention-and-obstacle.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
   - wiki/syntheses/filmmaking/sorkin-screenwriting-framework.md
 ---
 
@@ -43,7 +43,7 @@ Screenplay rewriting is the disciplined process of diagnosing and solving proble
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/intention-and-obstacle|Intention and Obstacle]]
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/intention-and-obstacle|Intention and Obstacle]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]

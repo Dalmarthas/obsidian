@@ -13,9 +13,9 @@ source_pages:
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
-  - wiki/concepts/filmmaking/filmmaking/intention-and-obstacle.md
-  - wiki/concepts/filmmaking/filmmaking/story-propulsion.md
+  - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/intention-and-obstacle.md
+  - wiki/concepts/filmmaking/story-propulsion.md
 ---
 
 # What It Is
@@ -55,9 +55,9 @@ Three-act structure is the classical narrative frame that divides a story into s
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/intention-and-obstacle|Intention and Obstacle]]
-- [[wiki/concepts/filmmaking/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/intention-and-obstacle|Intention and Obstacle]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
 - [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]]
 - [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]]
 - [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary|Dan Brown Masterclass Complete Summary]]

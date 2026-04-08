@@ -17,7 +17,7 @@ source_pages:
 related:
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/negotiation-and-mediation.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/communication/attunement.md
   - wiki/concepts/communication/labeling.md
   - wiki/concepts/communication/calibrated-questions.md
@@ -61,7 +61,7 @@ Tactical empathy is the deliberate use of understanding to lower defensiveness, 
 
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/communication/attunement|Attunement]]
 - [[wiki/concepts/communication/labeling|Labeling]]
 - [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]]

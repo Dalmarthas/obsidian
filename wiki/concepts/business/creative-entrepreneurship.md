@@ -11,13 +11,13 @@ tags:
 source_pages:
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
 related:
-  - wiki/concepts/career/zone-of-genius.md
-  - wiki/concepts/career/career-blueprint.md
-  - wiki/concepts/career/financial-confidence.md
+  - wiki/concepts/business/zone-of-genius.md
+  - wiki/concepts/business/career-blueprint.md
+  - wiki/concepts/business/financial-confidence.md
   - wiki/concepts/communication/authentic-communication.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/communication/intention-and-impact.md
-  - wiki/syntheses/career/welteroth-career-framework.md
+  - wiki/syntheses/business/welteroth-career-framework.md
 ---
 
 # What It Is
@@ -46,10 +46,10 @@ Creative entrepreneurship is the practice of designing a career as a flexible en
 
 # Related Pages
 
-- [[wiki/concepts/career/zone-of-genius|Zone of Genius]]
-- [[wiki/concepts/career/career-blueprint|Career Blueprint]]
-- [[wiki/concepts/career/financial-confidence|Financial Confidence]]
+- [[wiki/concepts/business/zone-of-genius|Zone of Genius]]
+- [[wiki/concepts/business/career-blueprint|Career Blueprint]]
+- [[wiki/concepts/business/financial-confidence|Financial Confidence]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/communication/intention-and-impact|Intention and Impact]]
-- [[wiki/syntheses/career/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]

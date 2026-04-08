@@ -15,11 +15,11 @@ source_pages:
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
   - wiki/concepts/filmmaking/filmmaking.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
   - wiki/concepts/others/conservation.md
-  - wiki/concepts/filmmaking/filmmaking/thriller-writing.md
-  - wiki/concepts/filmmaking/filmmaking/setting-as-character.md
-  - wiki/concepts/filmmaking/filmmaking/writer-worldview.md
+  - wiki/concepts/filmmaking/thriller-writing.md
+  - wiki/concepts/filmmaking/setting-as-character.md
+  - wiki/concepts/filmmaking/writer-worldview.md
 ---
 
 # What It Is
@@ -58,8 +58,8 @@ Immersive research is firsthand, embodied, or highly engaged inquiry that aims t
 # Related Pages
 
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/concepts/others/conservation|Conservation]]
-- [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/setting-as-character|Setting as Character]]
-- [[wiki/concepts/filmmaking/filmmaking/writer-worldview|Writer Worldview]]
+- [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/setting-as-character|Setting as Character]]
+- [[wiki/concepts/filmmaking/writer-worldview|Writer Worldview]]

@@ -12,8 +12,8 @@ question: What should be in place before drafting a screenplay?
 basis:
   - wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
-  - wiki/concepts/filmmaking/filmmaking/three-act-structure.md
+  - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/three-act-structure.md
 ---
 
 # Question
@@ -39,7 +39,7 @@ Operational interpretation:
 # Basis
 
 - Source summary: [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]]
-- Related concepts: [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]], [[wiki/concepts/filmmaking/filmmaking/three-act-structure|Three-Act Structure]]
+- Related concepts: [[wiki/concepts/filmmaking/screenwriting|Screenwriting]], [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]
 
 # Gaps
 
@@ -48,6 +48,6 @@ Operational interpretation:
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/screenwriting|Screenwriting]]
-- [[wiki/concepts/filmmaking/filmmaking/three-act-structure|Three-Act Structure]]
+- [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]
 - [[index]]

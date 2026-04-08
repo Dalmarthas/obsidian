@@ -12,12 +12,12 @@ tags:
 question: What durable acting framework can be extracted from the Kevin Spacey acting masterclass summary?
 basis:
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
-  - wiki/concepts/filmmaking/filmmaking/acting-craft.md
-  - wiki/concepts/filmmaking/filmmaking/monologue-preparation.md
-  - wiki/concepts/filmmaking/filmmaking/auditioning.md
+  - wiki/concepts/filmmaking/acting-craft.md
+  - wiki/concepts/filmmaking/monologue-preparation.md
+  - wiki/concepts/filmmaking/auditioning.md
 related:
   - wiki/entities/kevin-spacey.md
-  - wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction.md
+  - wiki/concepts/filmmaking/casting-and-performance-direction.md
 ---
 
 # Question
@@ -52,7 +52,7 @@ The current source base supports a seven-part model:
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary|Kevin Spacey Acting Masterclass Master Summary]]
-- Canonical concepts: [[wiki/concepts/filmmaking/filmmaking/acting-craft|Acting Craft]], [[wiki/concepts/filmmaking/filmmaking/monologue-preparation|Monologue Preparation]], [[wiki/concepts/filmmaking/filmmaking/auditioning|Auditioning]]
+- Canonical concepts: [[wiki/concepts/filmmaking/acting-craft|Acting Craft]], [[wiki/concepts/filmmaking/monologue-preparation|Monologue Preparation]], [[wiki/concepts/filmmaking/auditioning|Auditioning]]
 
 # Gaps
 
@@ -63,7 +63,7 @@ The current source base supports a seven-part model:
 # Related Pages
 
 - [[wiki/entities/kevin-spacey|Kevin Spacey]]
-- [[wiki/concepts/filmmaking/filmmaking/acting-craft|Acting Craft]]
-- [[wiki/concepts/filmmaking/filmmaking/monologue-preparation|Monologue Preparation]]
-- [[wiki/concepts/filmmaking/filmmaking/auditioning|Auditioning]]
-- [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
+- [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
+- [[wiki/concepts/filmmaking/monologue-preparation|Monologue Preparation]]
+- [[wiki/concepts/filmmaking/auditioning|Auditioning]]
+- [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]

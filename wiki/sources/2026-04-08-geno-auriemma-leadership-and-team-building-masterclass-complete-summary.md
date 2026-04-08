@@ -63,9 +63,9 @@ This source is a large secondary summary of Geno Auriemma's leadership and team-
 
 - [[wiki/entities/geno-auriemma|Geno Auriemma]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
-- [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/leadership/leadership/diverse-teams|Diverse Teams]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
 - [[wiki/syntheses/leadership/geno-auriemma-team-leadership-framework|Geno Auriemma Team Leadership Framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]
 

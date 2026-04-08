@@ -16,14 +16,14 @@ basis:
   - wiki/sources/2026-04-07-conversation-jane-goodall-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/concepts/communication/authentic-communication.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/business/framework-driven-action.md
-  - wiki/concepts/leadership/leadership/head-and-heart-harmony.md
+  - wiki/concepts/leadership/head-and-heart-harmony.md
   - wiki/concepts/business/business-strategy.md
 related:
   - wiki/syntheses/business/goodby-silverstein-advertising-framework.md
   - wiki/syntheses/leadership/clinton-leadership-framework.md
-  - wiki/syntheses/career/welteroth-career-framework.md
+  - wiki/syntheses/business/welteroth-career-framework.md
   - wiki/syntheses/others/goodall-conservation-framework.md
   - wiki/syntheses/business/iger-strategy-framework.md
 ---
@@ -59,7 +59,7 @@ The shared meta-lesson is that humane action is not the opposite of disciplined 
 # Basis
 
 - Source pages: [[wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary|Goodby Silverstein Masterclass Summary]], [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]], [[wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary|Building a Career Elaine Welteroth Masterclass Complete Summary]], [[wiki/sources/2026-04-07-conversation-jane-goodall-masterclass-complete-summary|Conversation Jane Goodall Masterclass Complete Summary]], [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary|Bob Iger Disney Leadership Masterclass Complete Summary]]
-- Shared concept pages: [[wiki/concepts/communication/authentic-communication|Authentic Communication]], [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]], [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]], [[wiki/concepts/business/business-strategy|Business Strategy]]
+- Shared concept pages: [[wiki/concepts/communication/authentic-communication|Authentic Communication]], [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]], [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]], [[wiki/concepts/business/business-strategy|Business Strategy]]
 
 # Comparisons
 
@@ -79,6 +79,6 @@ The shared meta-lesson is that humane action is not the opposite of disciplined 
 
 - [[wiki/syntheses/business/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
-- [[wiki/syntheses/career/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]
 - [[wiki/syntheses/others/goodall-conservation-framework|Goodall Conservation Framework]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]

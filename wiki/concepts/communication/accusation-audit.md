@@ -15,7 +15,7 @@ related:
   - wiki/concepts/communication/labeling.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/negotiation-and-mediation.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/syntheses/communication/chris-voss-negotiation-framework.md
 ---
 
@@ -48,5 +48,5 @@ An accusation audit is a preemptive cluster of negative labels that names what t
 - [[wiki/concepts/communication/labeling|Labeling]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/syntheses/communication/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]

@@ -12,9 +12,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/acting-craft.md
-  - wiki/concepts/filmmaking/filmmaking/monologue-preparation.md
-  - wiki/concepts/filmmaking/filmmaking/auditioning.md
+  - wiki/concepts/filmmaking/acting-craft.md
+  - wiki/concepts/filmmaking/monologue-preparation.md
+  - wiki/concepts/filmmaking/auditioning.md
   - wiki/syntheses/filmmaking/kevin-spacey-acting-framework.md
 ---
 
@@ -28,14 +28,14 @@ This source starts the vault's acting branch and deepens the existing performanc
 
 # Evidence In This Vault
 
-- Core acting branch: [[wiki/concepts/filmmaking/filmmaking/acting-craft|Acting Craft]]
-- Monologue branch: [[wiki/concepts/filmmaking/filmmaking/monologue-preparation|Monologue Preparation]]
-- Audition branch: [[wiki/concepts/filmmaking/filmmaking/auditioning|Auditioning]]
+- Core acting branch: [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
+- Monologue branch: [[wiki/concepts/filmmaking/monologue-preparation|Monologue Preparation]]
+- Audition branch: [[wiki/concepts/filmmaking/auditioning|Auditioning]]
 - System-level distillation: [[wiki/syntheses/filmmaking/kevin-spacey-acting-framework|Kevin Spacey Acting Framework]]
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/acting-craft|Acting Craft]]
-- [[wiki/concepts/filmmaking/filmmaking/monologue-preparation|Monologue Preparation]]
-- [[wiki/concepts/filmmaking/filmmaking/auditioning|Auditioning]]
+- [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
+- [[wiki/concepts/filmmaking/monologue-preparation|Monologue Preparation]]
+- [[wiki/concepts/filmmaking/auditioning|Auditioning]]
 - [[wiki/syntheses/filmmaking/kevin-spacey-acting-framework|Kevin Spacey Acting Framework]]

@@ -18,9 +18,9 @@ basis:
 related:
   - wiki/entities/jane-goodall.md
   - wiki/concepts/communication/authentic-communication.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/business/framework-driven-action.md
-  - wiki/concepts/leadership/leadership/head-and-heart-harmony.md
+  - wiki/concepts/leadership/head-and-heart-harmony.md
   - wiki/concepts/business/ethical-consumerism.md
 ---
 
@@ -66,7 +66,7 @@ The distinct Goodall layer is hopeful moral realism: face the damage clearly, bu
 - [[wiki/concepts/others/conservation|Conservation]]
 - [[wiki/concepts/others/community-based-conservation|Community-Based Conservation]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
-- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/concepts/business/ethical-consumerism|Ethical Consumerism]]

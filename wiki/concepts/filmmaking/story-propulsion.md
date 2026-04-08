@@ -17,13 +17,13 @@ source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/three-act-structure.md
-  - wiki/concepts/filmmaking/filmmaking/question-and-answer-structure.md
-  - wiki/concepts/filmmaking/filmmaking/character-driven-storytelling.md
-  - wiki/concepts/filmmaking/filmmaking/screenwriting.md
-  - wiki/concepts/filmmaking/filmmaking/fiction-writing.md
-  - wiki/concepts/filmmaking/filmmaking/television-pilot-writing.md
-  - wiki/concepts/filmmaking/filmmaking/thriller-writing.md
+  - wiki/concepts/filmmaking/three-act-structure.md
+  - wiki/concepts/filmmaking/question-and-answer-structure.md
+  - wiki/concepts/filmmaking/character-driven-storytelling.md
+  - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/fiction-writing.md
+  - wiki/concepts/filmmaking/television-pilot-writing.md
+  - wiki/concepts/filmmaking/thriller-writing.md
   - wiki/syntheses/cross-source/writing-craft-overlaps.md
 ---
 
@@ -71,10 +71,10 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/three-act-structure|Three-Act Structure]]
-- [[wiki/concepts/filmmaking/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
-- [[wiki/concepts/filmmaking/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
-- [[wiki/concepts/filmmaking/filmmaking/fiction-writing|Fiction Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/television-pilot-writing|Television Pilot Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]
+- [[wiki/concepts/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
+- [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]

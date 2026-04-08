@@ -14,7 +14,7 @@ related:
   - wiki/concepts/business/advertising.md
   - wiki/concepts/business/brand-strategy.md
   - wiki/concepts/communication/authentic-communication.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/syntheses/business/goodby-silverstein-advertising-framework.md
 ---
@@ -49,6 +49,6 @@ Creative pitching is the craft of helping an idea survive contact with clients, 
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]]
 - [[wiki/concepts/business/mass-intimacy|Mass Intimacy]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/syntheses/business/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]

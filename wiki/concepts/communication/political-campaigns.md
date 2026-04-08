@@ -13,7 +13,7 @@ source_pages:
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
 related:
   - wiki/concepts/communication/persuasion.md
-  - wiki/concepts/leadership/leadership/leadership-communication.md
+  - wiki/concepts/leadership/leadership-communication.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/communication/voter-targeting.md
   - wiki/concepts/communication/ground-game-and-gotv.md
@@ -46,7 +46,7 @@ Political campaigns are organized attempts to define an election, persuade voter
 # Related Pages
 
 - [[wiki/concepts/communication/persuasion|Persuasion]]
-- [[wiki/concepts/leadership/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/communication/voter-targeting|Voter Targeting]]
 - [[wiki/concepts/communication/ground-game-and-gotv|Ground Game and GOTV]]

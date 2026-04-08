@@ -59,8 +59,34 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
 
 - `wiki/sources/`: one page per source, containing structured source summaries and extracted claims.
 - `wiki/concepts/`: stable pages for concepts, methods, frameworks, themes, recurring ideas.
+  - Domain subfolders are used for navigation:
+    - `business/`
+    - `communication/`
+    - `leadership/`
+    - `filmmaking/`
+    - `creativity/`
+    - `others/`
+  - Meta/system concept pages for the vault itself may remain flat at the root of `wiki/concepts/`.
 - `wiki/entities/`: stable pages for people, companies, books, tools, places, projects, or named things.
 - `wiki/syntheses/`: cross-source analyses, comparisons, timelines, thesis pages, question answers worth preserving.
+  - Domain syntheses mirror the same subfolders used in `wiki/concepts/`.
+  - Cross-source comparison pages go in `wiki/syntheses/cross-source/`.
+  - Meta/system synthesis pages for the vault itself may remain flat at the root of `wiki/syntheses/`.
+
+## Domain Folder Rules
+
+- Every new concept or synthesis page must be assigned one primary home folder.
+- Choose the folder by dominant topic, not by every tag the page happens to touch.
+- Use these defaults:
+  - business, brand, niche selection, market testing, company-building, career design, self-positioning, financial transition, multi-hyphenate planning -> `business/`
+  - communication, persuasion, negotiation, campaigns, messaging, targeting -> `communication/`
+  - leadership, culture, teams, performance under pressure, trust, accountability -> `leadership/`
+  - writing, screenwriting, television, film, acting, story craft -> `filmmaking/`
+  - art, design, visual thinking, creativity, idea-generation -> `creativity/`
+  - smaller standalone branches that do not yet justify their own domain -> `others/`
+- There is no separate `career/` domain folder. Career and professional-development material is filed under `business/`.
+- Political pages are usually filed under `communication/` unless the page is primarily about organizational leadership or governance.
+- Do not create a new domain folder without explicit user approval.
 
 ## Naming Conventions
 
@@ -75,7 +101,10 @@ Examples:
 - `raw/inbox/2026-04-07-llm-wiki-idea.md`
 - `wiki/sources/2026-04-07-llm-wiki-idea.md`
 - `wiki/concepts/llm-wiki.md`
+- `wiki/concepts/business/business-strategy.md`
+- `wiki/concepts/communication/effective-communication.md`
 - `wiki/entities/obsidian.md`
+- `wiki/syntheses/cross-source/communication-and-influence-models.md`
 - `wiki/syntheses/this-vault-operating-model.md`
 
 ## Language Handling

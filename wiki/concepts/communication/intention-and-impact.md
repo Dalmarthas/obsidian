@@ -12,9 +12,9 @@ source_pages:
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
 related:
   - wiki/concepts/communication/authentic-communication.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
-  - wiki/concepts/career/creative-entrepreneurship.md
-  - wiki/syntheses/career/welteroth-career-framework.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
+  - wiki/concepts/business/creative-entrepreneurship.md
+  - wiki/syntheses/business/welteroth-career-framework.md
 ---
 
 # What It Is
@@ -42,6 +42,6 @@ Intention and impact is the distinction between what someone meant to do and wha
 # Related Pages
 
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/career/creative-entrepreneurship|Creative Entrepreneurship]]
-- [[wiki/syntheses/career/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/business/creative-entrepreneurship|Creative Entrepreneurship]]
+- [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]

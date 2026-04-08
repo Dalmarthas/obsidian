@@ -13,8 +13,8 @@ source_pages:
   - wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary.md
 related:
   - wiki/concepts/filmmaking/filmmaking.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
-  - wiki/concepts/filmmaking/filmmaking/screenplay-rewriting.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/screenplay-rewriting.md
   - wiki/syntheses/filmmaking/scorsese-filmmaking-framework.md
 ---
 
@@ -43,6 +43,6 @@ Editing as discovery is the idea that a film is not merely assembled after shoot
 # Related Pages
 
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
-- [[wiki/concepts/filmmaking/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
 - [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]

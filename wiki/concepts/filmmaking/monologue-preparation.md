@@ -12,9 +12,9 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/acting-craft.md
-  - wiki/concepts/filmmaking/filmmaking/auditioning.md
-  - wiki/concepts/filmmaking/filmmaking/dialogue-as-music.md
+  - wiki/concepts/filmmaking/acting-craft.md
+  - wiki/concepts/filmmaking/auditioning.md
+  - wiki/concepts/filmmaking/dialogue-as-music.md
   - wiki/syntheses/filmmaking/kevin-spacey-acting-framework.md
 ---
 
@@ -43,8 +43,8 @@ Monologue preparation is the process of selecting, analyzing, testing, and resha
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/acting-craft|Acting Craft]]
-- [[wiki/concepts/filmmaking/filmmaking/auditioning|Auditioning]]
-- [[wiki/concepts/filmmaking/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
+- [[wiki/concepts/filmmaking/auditioning|Auditioning]]
+- [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
 - [[wiki/syntheses/filmmaking/kevin-spacey-acting-framework|Kevin Spacey Acting Framework]]
 

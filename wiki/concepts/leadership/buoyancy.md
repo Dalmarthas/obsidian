@@ -13,9 +13,9 @@ source_pages:
   - wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
 related:
-  - wiki/concepts/leadership/leadership/high-performance-mindset.md
+  - wiki/concepts/leadership/high-performance-mindset.md
   - wiki/concepts/communication/persuasion.md
-  - wiki/concepts/filmmaking/filmmaking/protect-the-process.md
+  - wiki/concepts/filmmaking/protect-the-process.md
   - wiki/syntheses/communication/daniel-pink-persuasion-framework.md
   - wiki/syntheses/leadership/lewis-hamilton-performance-framework.md
 ---
@@ -52,9 +52,9 @@ Buoyancy is the ability to keep acting effectively in an environment where rejec
 
 # Related Pages
 
-- [[wiki/concepts/leadership/leadership/high-performance-mindset|High-Performance Mindset]]
+- [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]
-- [[wiki/concepts/filmmaking/filmmaking/protect-the-process|Protect the Process]]
+- [[wiki/concepts/filmmaking/protect-the-process|Protect the Process]]
 - [[wiki/syntheses/communication/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
 - [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]
 

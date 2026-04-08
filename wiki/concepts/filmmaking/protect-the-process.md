@@ -14,8 +14,8 @@ source_pages:
   - wiki/sources/2026-04-08-david-lynch-writing-summary.md
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
 related:
-  - wiki/concepts/filmmaking/filmmaking/thriller-writing.md
-  - wiki/concepts/filmmaking/filmmaking/writing-process-and-revision.md
+  - wiki/concepts/filmmaking/thriller-writing.md
+  - wiki/concepts/filmmaking/writing-process-and-revision.md
   - wiki/concepts/creativity/idea-development.md
   - wiki/syntheses/filmmaking/dan-brown-thriller-framework.md
   - wiki/syntheses/filmmaking/baldacci-thriller-framework.md
@@ -58,8 +58,8 @@ Protect the process is the operating principle that consistent creative conditio
 
 # Related Pages
 
-- [[wiki/concepts/filmmaking/filmmaking/thriller-writing|Thriller Writing]]
-- [[wiki/concepts/filmmaking/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
 - [[wiki/syntheses/filmmaking/dan-brown-thriller-framework|Dan Brown Thriller Framework]]
 - [[wiki/syntheses/filmmaking/baldacci-thriller-framework|Baldacci Thriller Framework]]

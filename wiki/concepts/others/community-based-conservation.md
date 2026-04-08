@@ -13,7 +13,7 @@ source_pages:
 related:
   - wiki/concepts/others/conservation.md
   - wiki/concepts/others/interconnectedness-principle.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/syntheses/others/goodall-conservation-framework.md
 ---
 
@@ -46,5 +46,5 @@ Community-based conservation is a model that starts with local people as partner
 
 - [[wiki/concepts/others/conservation|Conservation]]
 - [[wiki/concepts/others/interconnectedness-principle|Interconnectedness Principle]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/syntheses/others/goodall-conservation-framework|Goodall Conservation Framework]]

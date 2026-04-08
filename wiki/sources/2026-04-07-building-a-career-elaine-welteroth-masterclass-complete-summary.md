@@ -74,16 +74,16 @@ This source is a secondary summary of Elaine Welteroth's career masterclass. It 
 # Links
 
 - [[wiki/entities/elaine-welteroth|Elaine Welteroth]]
-- [[wiki/concepts/career/creative-entrepreneurship|Creative Entrepreneurship]]
-- [[wiki/concepts/career/zone-of-genius|Zone of Genius]]
-- [[wiki/concepts/career/career-blueprint|Career Blueprint]]
-- [[wiki/concepts/career/financial-confidence|Financial Confidence]]
+- [[wiki/concepts/business/creative-entrepreneurship|Creative Entrepreneurship]]
+- [[wiki/concepts/business/zone-of-genius|Zone of Genius]]
+- [[wiki/concepts/business/career-blueprint|Career Blueprint]]
+- [[wiki/concepts/business/financial-confidence|Financial Confidence]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
-- [[wiki/concepts/leadership/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/concepts/communication/intention-and-impact|Intention and Impact]]
-- [[wiki/syntheses/career/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 
 # Open Questions

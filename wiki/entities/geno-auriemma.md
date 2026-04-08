@@ -13,7 +13,7 @@ source_pages:
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
 related:
   - wiki/concepts/leadership/leadership.md
-  - wiki/concepts/leadership/leadership/high-performance-team-culture.md
+  - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/syntheses/leadership/geno-auriemma-team-leadership-framework.md
 ---
 
@@ -28,11 +28,11 @@ Auriemma currently deepens the vault's leadership branch toward team culture, co
 # Evidence In This Vault
 
 - Leadership branch: [[wiki/concepts/leadership/leadership|Leadership]]
-- Team-culture branch: [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- Team-culture branch: [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - System-level distillation: [[wiki/syntheses/leadership/geno-auriemma-team-leadership-framework|Geno Auriemma Team Leadership Framework]]
 
 # Related Pages
 
 - [[wiki/concepts/leadership/leadership|Leadership]]
-- [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/syntheses/leadership/geno-auriemma-team-leadership-framework|Geno Auriemma Team Leadership Framework]]

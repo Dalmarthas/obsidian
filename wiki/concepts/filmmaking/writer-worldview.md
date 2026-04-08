@@ -14,8 +14,8 @@ source_pages:
 related:
   - wiki/concepts/creativity/creative-integrity.md
   - wiki/concepts/creativity/idea-development.md
-  - wiki/concepts/filmmaking/filmmaking/immersive-research.md
-  - wiki/concepts/filmmaking/filmmaking/fiction-writing.md
+  - wiki/concepts/filmmaking/immersive-research.md
+  - wiki/concepts/filmmaking/fiction-writing.md
   - wiki/syntheses/filmmaking/salman-rushdie-fiction-framework.md
 ---
 
@@ -45,7 +45,7 @@ Writer worldview is the underlying picture of reality, human nature, history, an
 
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
-- [[wiki/concepts/filmmaking/filmmaking/immersive-research|Immersive Research]]
-- [[wiki/concepts/filmmaking/filmmaking/fiction-writing|Fiction Writing]]
+- [[wiki/concepts/filmmaking/immersive-research|Immersive Research]]
+- [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
 - [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
 

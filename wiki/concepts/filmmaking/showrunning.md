@@ -13,9 +13,9 @@ source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
 related:
   - wiki/concepts/leadership/leadership.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
-  - wiki/concepts/leadership/leadership/high-performance-team-culture.md
-  - wiki/concepts/filmmaking/filmmaking/writers-room-craft.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/high-performance-team-culture.md
+  - wiki/concepts/filmmaking/writers-room-craft.md
   - wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework.md
 ---
 
@@ -44,8 +44,8 @@ Showrunning is the combined work of creative authorship, team leadership, produc
 # Related Pages
 
 - [[wiki/concepts/leadership/leadership|Leadership]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/leadership/leadership/high-performance-team-culture|High-Performance Team Culture]]
-- [[wiki/concepts/filmmaking/filmmaking/writers-room-craft|Writers' Room Craft]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/filmmaking/writers-room-craft|Writers' Room Craft]]
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
 

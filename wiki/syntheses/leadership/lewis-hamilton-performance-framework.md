@@ -11,8 +11,8 @@ tags:
 question: What durable performance framework can be extracted from the Lewis Hamilton masterclass summary?
 basis:
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
-  - wiki/concepts/leadership/leadership/high-performance-mindset.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/high-performance-mindset.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
 related:
   - wiki/entities/lewis-hamilton.md
   - wiki/syntheses/cross-source/high-performance-leadership-models.md
@@ -47,7 +47,7 @@ The current source base supports a six-part framework:
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary|Lewis Hamilton Masterclass Master Summary]]
-- Canonical concepts: [[wiki/concepts/leadership/leadership/high-performance-mindset|High-Performance Mindset]], [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- Canonical concepts: [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 
 # Gaps
 
@@ -57,6 +57,6 @@ The current source base supports a six-part framework:
 # Related Pages
 
 - [[wiki/entities/lewis-hamilton|Lewis Hamilton]]
-- [[wiki/concepts/leadership/leadership/high-performance-mindset|High-Performance Mindset]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]

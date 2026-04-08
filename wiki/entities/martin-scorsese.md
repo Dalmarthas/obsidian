@@ -14,8 +14,8 @@ source_pages:
 related:
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/creativity/visual-literacy.md
-  - wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction.md
-  - wiki/concepts/filmmaking/filmmaking/editing-as-discovery.md
+  - wiki/concepts/filmmaking/casting-and-performance-direction.md
+  - wiki/concepts/filmmaking/editing-as-discovery.md
   - wiki/syntheses/filmmaking/scorsese-filmmaking-framework.md
 ---
 
@@ -31,14 +31,14 @@ Scorsese expands the vault's filmmaking branch beyond atmosphere and integrity i
 
 - Holistic filmmaking branch: [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
 - Film-language branch: [[wiki/concepts/creativity/visual-literacy|Visual Literacy]]
-- Performance branch: [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
-- Editorial branch: [[wiki/concepts/filmmaking/filmmaking/editing-as-discovery|Editing as Discovery]]
+- Performance branch: [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
+- Editorial branch: [[wiki/concepts/filmmaking/editing-as-discovery|Editing as Discovery]]
 - System-level distillation: [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
 - [[wiki/concepts/creativity/visual-literacy|Visual Literacy]]
-- [[wiki/concepts/filmmaking/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
-- [[wiki/concepts/filmmaking/filmmaking/editing-as-discovery|Editing as Discovery]]
+- [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
+- [[wiki/concepts/filmmaking/editing-as-discovery|Editing as Discovery]]
 - [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]

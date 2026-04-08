@@ -16,10 +16,10 @@ source_pages:
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
 related:
   - wiki/concepts/leadership/leadership.md
-  - wiki/concepts/leadership/leadership/trust-based-collaboration.md
-  - wiki/concepts/filmmaking/filmmaking/showrunning.md
-  - wiki/concepts/leadership/leadership/organizational-culture.md
-  - wiki/concepts/leadership/leadership/diverse-teams.md
+  - wiki/concepts/leadership/trust-based-collaboration.md
+  - wiki/concepts/filmmaking/showrunning.md
+  - wiki/concepts/leadership/organizational-culture.md
+  - wiki/concepts/leadership/diverse-teams.md
   - wiki/syntheses/leadership/geno-auriemma-team-leadership-framework.md
   - wiki/syntheses/cross-source/high-performance-leadership-models.md
 ---
@@ -59,9 +59,9 @@ High-performance team culture is the set of norms, standards, and relationship p
 # Related Pages
 
 - [[wiki/concepts/leadership/leadership|Leadership]]
-- [[wiki/concepts/leadership/leadership/trust-based-collaboration|Trust-Based Collaboration]]
-- [[wiki/concepts/filmmaking/filmmaking/showrunning|Showrunning]]
-- [[wiki/concepts/leadership/leadership/organizational-culture|Organizational Culture]]
-- [[wiki/concepts/leadership/leadership/diverse-teams|Diverse Teams]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/filmmaking/showrunning|Showrunning]]
+- [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
+- [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
 - [[wiki/syntheses/leadership/geno-auriemma-team-leadership-framework|Geno Auriemma Team Leadership Framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]
