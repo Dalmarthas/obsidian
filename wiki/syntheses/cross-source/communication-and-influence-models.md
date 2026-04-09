@@ -19,9 +19,16 @@ basis:
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
   - wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture.md
+  - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
+  - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/communication/tactical-empathy.md
+  - wiki/concepts/communication/elicitation.md
+  - wiki/concepts/communication/frame-control.md
+  - wiki/concepts/communication/interactional-authority.md
+  - wiki/concepts/communication/behavioral-profiling.md
+  - wiki/concepts/communication/social-needs-profiling.md
   - wiki/concepts/communication/installation-vs-persuasion.md
   - wiki/concepts/communication/attunement.md
   - wiki/concepts/communication/persuasion.md
@@ -41,7 +48,7 @@ What shared model of communication and influence appears across George Stephanop
 
 # Answer
 
-The current source base supports a seven-part model:
+The current source base supports a ten-part model:
 
 1. Shape the context before you push the message.
    Good influence depends on preparation, timing, environmental design, and the early management of authority and attention rather than on verbal force alone.
@@ -49,26 +56,29 @@ The current source base supports a seven-part model:
 2. Reduce ego so you can take perspective.
    Perspective-taking improves when communicators stop acting from power, certainty, or self-orientation.
 
-3. Listen for what is not being said.
+3. Stabilize yourself and read the room before you try to move it.
+   Comfort, composure, baseline awareness, and cue-reading improve the quality of everything that follows.
+
+4. Listen for what is not being said.
    Tone, body language, hesitation, silence, and the story beneath the literal words often matter as much as explicit content.
 
-4. Make the other person feel understood.
+5. Make the other person feel understood.
    Empathy, respect, and acknowledgment lower defensiveness and increase disclosure.
 
-5. Use questions to uncover the real problem.
-   Short direct questions, calibrated questions, no-oriented questions, Five Whys, and careful follow-ups move the conversation toward the actual issue rather than the surface objection.
+6. Read the need beneath the words.
+   Influence gets sharper when the communicator can infer what identity need or fear is organizing the other person's reaction.
 
-6. Make action feel self-authored and easy.
+7. Use questions and statements to uncover the real problem.
+   Direct questions, calibrated questions, no-oriented questions, Five Whys, and low-defensiveness statements all move the conversation toward the actual issue rather than the surface objection.
+
+8. Make action feel self-authored and easy.
    People move further when they have their own reasons, see social proof, and face low friction.
 
-7. Hold accountability and civility together.
+9. Hold accountability and civility together.
    The strongest communicators do not confuse aggression with strength, and the strongest persuaders do not confuse pressure with movement.
 
-8. Make the claim concrete enough to stick.
-   At scale, a message becomes stronger when people can picture it, test it against reality, and repeat it without flattening it into generic abstraction.
-
-9. Define the choice and repeat it relentlessly.
-   At scale, influence depends on framing what the audience believes the decision is about and reinforcing that frame across channels and crises.
+10. Make the claim concrete and the choice legible.
+   At scale, influence depends on vivid, checkable language and on a frame the audience can keep recognizing across channels and crises.
 
 # Basis
 
@@ -85,6 +95,8 @@ The current source base supports a seven-part model:
 - Iger is strongest on repeated strategic clarity inside institutional leadership.
 - Harry Dry is strongest on written influence at first contact: if the line is not vivid, falsifiable, and distinct, much of the later persuasion work never gets a chance to happen.
 - The current Chase Hughes `90-second` source is strongest on pre-evaluative influence: it treats stillness, novelty, narrator-level phrasing, and permissioned depth shifts as ways to shape the conversation before explicit evaluation stabilizes.
+- The current Chase Hughes reading-minds source is strongest on elicitation and frame: it treats statements as disclosure tools, composure as influence infrastructure, and reduced neediness as a way to stabilize the meaning of the interaction.
+- The current Chase Hughes behavioral-framework source is broadest on the self-mastery and observation layer beneath communication: comfort, authority, behavioral profiling, and need-reading are treated as preconditions for stronger influence.
 
 # Gaps
 
@@ -93,6 +105,7 @@ The current source base supports a seven-part model:
 - Pink broadens the branch into self-motivation and timing design, but the vault still needs stronger counter-models for explicitly coercive or zero-sum persuasion environments.
 - Axelrod and Rove extend the branch into mass political persuasion, but the vault still needs a stronger treatment of democratic ethics, misinformation, and the public-cost side of highly optimized campaign influence.
 - The new Chase Hughes branch sharpens a separate ethical gap: the vault still needs a cleaner boundary between humane influence design and deliberate autonomy bypass.
+- The current Chase Hughes reading-minds source sharpens another gap: the vault still needs stronger evidence-based guidance on which behavior cues and interaction heuristics are genuinely reliable under pressure and which are overclaimed.
 
 # Related Pages
 

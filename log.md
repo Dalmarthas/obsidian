@@ -1948,3 +1948,49 @@ Pages touched:
 - [[raw/inbox/2026-04-09-studio-script-reader-strengths-and-weaknesses]]
 - [[.obsidian/workspace.json]]
 - [[log]]
+
+## [2026-04-09 22:48] ingest | Chase Hughes Reading Minds, Influence, and Confidence
+
+Summary: Ingested a new English Chase Hughes communication source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence]], new canonical concept pages at [[wiki/concepts/communication/elicitation]], [[wiki/concepts/communication/frame-control]], and [[wiki/concepts/others/emotional-gravity]], and a new synthesis page at [[wiki/syntheses/communication/chase-hughes-influence-and-confidence-framework]]. Deepened [[wiki/entities/chase-hughes]], [[wiki/concepts/communication/effective-communication]], [[wiki/concepts/communication/tactical-empathy]], [[wiki/concepts/communication/persuasion]], [[wiki/concepts/leadership/high-performance-mindset]], and [[wiki/syntheses/cross-source/communication-and-influence-models]] so the vault now preserves a fifth Chase Hughes branch on empathy as trainable decoding, elicitation instead of interrogation, composure and frame control under pressure, emotional gravity as a repeated-pattern model, and confidence through self-forgiveness. The source page preserves the main caveat that several neuroscience-like claims here are asserted more strongly than they are evidenced in the summary. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-chase-hughes-reading-minds-influence-and-confidence]]
+- [[wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence]]
+- [[wiki/entities/chase-hughes]]
+- [[wiki/concepts/communication/elicitation]]
+- [[wiki/concepts/communication/frame-control]]
+- [[wiki/concepts/others/emotional-gravity]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/concepts/communication/tactical-empathy]]
+- [[wiki/concepts/communication/persuasion]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/syntheses/communication/chase-hughes-influence-and-confidence-framework]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 23:04] ingest | Chase Hughes Behavioral Framework for Influence
+
+Summary: Ingested a new English Chase Hughes source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence]], new canonical concept pages at [[wiki/concepts/communication/interactional-authority]], [[wiki/concepts/communication/behavioral-profiling]], and [[wiki/concepts/communication/social-needs-profiling]], plus a new umbrella synthesis at [[wiki/syntheses/communication/chase-hughes-behavioral-influence-framework]]. Deepened [[wiki/entities/chase-hughes]], [[wiki/concepts/communication/effective-communication]], [[wiki/concepts/communication/tactical-empathy]], [[wiki/concepts/communication/persuasion]], [[wiki/concepts/communication/installation-vs-persuasion]], [[wiki/concepts/productivity/future-self-prioritization]], [[wiki/concepts/productivity/fear-goal-programming]], [[wiki/concepts/leadership/high-performance-mindset]], [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework]], and [[wiki/syntheses/cross-source/communication-and-influence-models]]. The branch now preserves Chase's broader system around self-mastery, authority, behavioral reading, need-diagnosis, identity-and-context persuasion, FEAR carryover, and manipulation-resistant attention, while explicitly marking the cue-reading and neuroscience-like claims as heuristic rather than settled science. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-chase-hughes-behavioral-framework-for-influence]]
+- [[wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence]]
+- [[wiki/entities/chase-hughes]]
+- [[wiki/concepts/communication/interactional-authority]]
+- [[wiki/concepts/communication/behavioral-profiling]]
+- [[wiki/concepts/communication/social-needs-profiling]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/concepts/communication/tactical-empathy]]
+- [[wiki/concepts/communication/persuasion]]
+- [[wiki/concepts/communication/installation-vs-persuasion]]
+- [[wiki/concepts/productivity/future-self-prioritization]]
+- [[wiki/concepts/productivity/fear-goal-programming]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/syntheses/communication/chase-hughes-behavioral-influence-framework]]
+- [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models]]
+- [[index]]
+- [[.obsidian/workspace.json]]

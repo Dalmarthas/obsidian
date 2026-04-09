@@ -18,10 +18,17 @@ source_pages:
   - wiki/sources/2026-04-09-chase-hughes-deal-with-bullies-the-right-way.md
   - wiki/sources/2026-04-09-johnny-harris-explainer-storytelling-formula.md
   - wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture.md
+  - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
+  - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
 related:
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/communication/anchor-bridge-structure.md
   - wiki/concepts/communication/concrete-specificity.md
+  - wiki/concepts/communication/elicitation.md
+  - wiki/concepts/communication/frame-control.md
+  - wiki/concepts/communication/interactional-authority.md
+  - wiki/concepts/communication/behavioral-profiling.md
+  - wiki/concepts/communication/social-needs-profiling.md
   - wiki/concepts/leadership/leadership-communication.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/negotiation-and-mediation.md
@@ -56,6 +63,10 @@ Effective communication is the disciplined practice of making another person und
 - The current Chase Hughes anti-bullying source adds a conflict edge case: effective communication can mean stopping harmful behavior while still preserving enough dignity that the other person does not escalate just to save face.
 - The current Johnny Harris source adds a sequencing layer for knowledge communication: explanation lands better when the audience first meets vivid evidence, then receives short contextual bridges that satisfy the curiosity the evidence created.
 - The current Chase Hughes `90-second` source adds a more aggressive sequencing layer: the first seconds of stillness, novelty, identity framing, and meaning elevation are treated as a pre-verbal architecture that shapes how all later words are received.
+- The current Chase Hughes reading-minds source adds an elicitation layer: statements, summaries, and gentle provocations can sometimes open people up more effectively than direct questions on sensitive topics.
+- The same source also adds a composure layer: slower speech and reduced visible neediness are treated as part of the message itself because they change how safety, authority, and authenticity are felt.
+- The current Chase Hughes behavioral-framework source adds an upstream reading layer: effective communication improves when the speaker stabilizes comfort first, reads baseline changes before guessing motives, and listens for the identity need beneath the surface words.
+- The same source also reframes authority as part of communication itself: the room often reads congruence, pace, and comfort before it evaluates the explicit message.
 - Across these sources, effective communication is not just self-expression. It is shaped around what helps the other person hear, think, and answer.
 
 # Source Comparisons
@@ -68,6 +79,8 @@ Effective communication is the disciplined practice of making another person und
 - The current Chase Hughes source is strongest on social de-escalation: use names, present-moment grounding, better-self framing, and script exposure to interrupt cruelty without turning the interaction into a dominance contest.
 - The current Johnny Harris source is strongest on visual explanatory pacing: lead with experience, bridge with context, then repeat before attention collapses.
 - The current Chase Hughes `90-second` source is strongest on pre-evaluative interaction design: stillness, timing, and narrator-level phrasing are used to shape the conversation before explicit argument starts.
+- The current Chase Hughes reading-minds source is strongest on disclosure through composure and elicitation: do less visible extraction, stabilize the frame, and let people reveal more by correcting or extending your statements.
+- The current Chase Hughes behavioral-framework source is strongest on communication as a three-layer sequence: regulate yourself, read the other person well, then choose language that fits their actual need structure.
 
 # Tensions / Open Questions
 
@@ -75,6 +88,8 @@ Effective communication is the disciplined practice of making another person und
 - Communication optimized for rapport can become evasive if it avoids directness when clarity is required.
 - Communication optimized for polish can still fail if it remains abstract enough to be forgettable or unbelievable.
 - Communication optimized to bypass evaluation can become manipulation even when it feels elegant, insightful, or unusually effective.
+- Communication optimized around behavioral cue-reading can also become overconfident if weakly supported signals are treated as hard data.
+- Communication optimized around need-profiling can become exploitative if identity hunger is targeted without genuine care or consent.
 
 # Related Pages
 

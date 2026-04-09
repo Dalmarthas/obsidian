@@ -11,6 +11,7 @@ tags:
   - systems
 source_pages:
   - wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self.md
+  - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
 related:
   - wiki/concepts/productivity/future-self-prioritization.md
   - wiki/concepts/productivity/behavior-journaling.md
@@ -31,17 +32,20 @@ FEAR Goal Programming is a four-part self-conditioning framework made of Focus, 
 # Evidence In This Vault
 
 - The current Chase Hughes source defines the four-part sequence directly:
+- The first Chase Hughes source defines the four-part sequence directly:
   - Focus around the goal
   - Emotional involvement through vivid sensory or affective engagement
   - Agitation through environmental or routine disruption
   - Repetition through reminders and recurring re-exposure
 - The same source applies the framework across multiple life domains rather than just one target behavior.
 - Vision boards, reminders, and identity-shift signals are all framed as practical FEAR tools.
+- The later Chase Hughes behavioral-framework source reinforces the same loop with dopamine-source mapping, heavier future-self vividness, and the claim that changing rooms, clothes, schedules, and other cues can interrupt old scripts faster than intention alone.
 
 # Source Comparisons
 
 - The current source is stronger on installation than on prioritization: it is less about choosing the right goal and more about making a chosen goal harder to ignore.
 - It overlaps with broader framework-driven thinking in the vault, but Hughes applies the framework at the personal-behavior layer rather than at company or strategy scale.
+- The later Chase Hughes behavioral-framework source broadens FEAR from a productivity trick into a general theory of salience engineering, which makes it more powerful but also ethically riskier.
 
 # Tensions / Open Questions
 

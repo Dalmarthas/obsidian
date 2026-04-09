@@ -11,11 +11,13 @@ tags:
   - influence
 source_pages:
   - wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture.md
+  - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
 related:
   - wiki/concepts/communication/persuasion.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/permission-bridge.md
+  - wiki/concepts/communication/social-needs-profiling.md
   - wiki/syntheses/communication/chase-hughes-brain-capture-framework.md
 ---
 
@@ -34,18 +36,22 @@ Installation vs persuasion is the distinction between trying to win explicit agr
 - The current Chase Hughes source explicitly treats persuasion as argument plus evaluation, which invites resistance.
 - The same source presents installation as language that lands in the inner narrator through dissociated observations, hidden directives, and identity-adjacent framing.
 - The source also argues that installation works better when the listener feels seen without being directly targeted or forced into analytical scrutiny.
+- The current Chase Hughes behavioral-framework source adds a wider change model around `Perception, Context, Permission`, suggesting that identity, situation, and what feels allowable move together rather than separately.
+- The same source also adds prior-commitment logic: small identity commitments can make later behavior feel internally consistent rather than externally imposed.
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/communication/persuasion|Persuasion]] as developed through Daniel Pink, this concept is much less autonomy-centered and much more willing to work beneath reflective agreement.
 - Compared with [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]], it is less about making the other person feel understood so dialogue can continue, and more about arranging language so resistance forms later or less strongly.
 - Compared with the rest of [[wiki/concepts/communication/effective-communication|Effective Communication]], it is a higher-risk special case because the desired outcome is not only clarity but lowered scrutiny.
+- The current Chase Hughes behavioral-framework source broadens the concept beyond language timing alone: installation can also happen through identity reinforcement, contextual reframing, and designed self-consistency.
 
 # Tensions / Open Questions
 
 - This concept has the clearest manipulation risk of any current communication node in the vault.
 - The source gives little hard evidence for the precision of its timing and mechanism claims.
 - The vault still needs better ways to distinguish ethical interaction design from deliberate autonomy erosion.
+- The broader Chase Hughes material sharpens the concern further because installation-like logic is not confined to words; it can be built into environments, rituals, and identity commitments.
 
 # Related Pages
 

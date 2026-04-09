@@ -11,6 +11,7 @@ tags:
   - habits
 source_pages:
   - wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self.md
+  - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
 related:
   - wiki/concepts/productivity/fear-goal-programming.md
   - wiki/concepts/productivity/behavior-journaling.md
@@ -33,17 +34,21 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - The current Chase Hughes source defines discipline as prioritizing the future self's needs over present desires.
 - It frames many failures as `future self neglect`, such as sleep, health, spending, or work choices that feel easier now but damage the later self.
 - It also recommends prompts and reminders that make the future self more psychologically vivid during decisions.
+- The later Chase Hughes behavioral-framework source deepens that vividness layer through age-progressed imagery, environmental cues, and `butler for tomorrow you` rituals that turn future-self care into a visible daily practice.
+- The same source also links the future-self frame to gratitude flowing backward and care flowing forward, making discipline feel less like punishment and more like continuity.
 
 # Source Comparisons
 
 - The current source is strongest on decision framing: it tries to make long-term behavior emotionally legible rather than treating discipline as abstract moral force.
 - It overlaps with the vault's performance material by assuming that better outcomes come from repeated alignment, but Hughes is more explicit about future-self language and everyday choice architecture.
+- The later Chase Hughes behavioral-framework source keeps the same rule but gives it more environmental and emotional infrastructure through dopamine remapping and care-for-future-you rituals.
 
 # Tensions / Open Questions
 
 - The model can become harsh or moralistic if it treats every present need as laziness rather than recognizing real limits, recovery, or changing priorities.
 - A future-self frame is helpful only if the future being served is actually chosen wisely rather than inherited blindly.
 - The branch still needs stronger contrast sources that distinguish healthy long-term thinking from compulsive self-optimization.
+- The newer Chase material adds one more risk: future-self language can become engineered guilt if it is used without compassion or realistic pacing.
 
 # Related Pages
 

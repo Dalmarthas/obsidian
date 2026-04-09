@@ -18,11 +18,18 @@ source_pages:
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
   - wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture.md
+  - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
+  - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
 related:
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/attunement.md
+  - wiki/concepts/communication/elicitation.md
+  - wiki/concepts/communication/frame-control.md
+  - wiki/concepts/communication/interactional-authority.md
+  - wiki/concepts/communication/behavioral-profiling.md
+  - wiki/concepts/communication/social-needs-profiling.md
   - wiki/concepts/communication/installation-vs-persuasion.md
   - wiki/concepts/communication/problem-finding.md
   - wiki/concepts/communication/timing-and-sequencing.md
@@ -53,6 +60,8 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - Axelrod and Rove contribute the electoral version: define the choice, keep the message authentic, know the target audience, and repeat the governing frame across every channel.
 - Harry Dry adds a written persuasion layer at the level of claims and lines: persuasion gets stronger when the sentence is vivid, checkable, and anchored in something uniquely true.
 - The current Chase Hughes `90-second` source adds a high-risk counterpoint: some influence models try to bypass evaluation by shaping authority, attention, identity flexibility, and narrator-level meaning before reflective agreement forms.
+- The current Chase Hughes reading-minds source adds a second counterpoint: persuasion is also framed as a hallway built through focus, authority, tribe, and emotion, with elicitation and frame control often working better than overt attempts to win the argument.
+- The current Chase Hughes behavioral-framework source deepens that counterpoint with a fuller diagnostic layer: profile the person's dominant social need, shape perception and context before permission changes, and use identity commitments to make later action feel self-authored.
 
 # Source Comparisons
 
@@ -63,11 +72,15 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - Axelrod and Rove are strongest on persuasion at campaign scale: message, targeting, channel mix, and turnout all have to reinforce the same choice architecture.
 - Harry Dry is strongest on persuasion through wording itself: before the audience reaches context, timing, or empathy, the line has to be concrete enough to survive first contact.
 - The current Chase Hughes `90-second` source is strongest on persuasion as installation: it is the vault's clearest case of influence being designed around reduced scrutiny rather than around explicit agreement.
+- The current Chase Hughes reading-minds source is strongest on persuasion as state management: hold the frame, reduce visible neediness, guide disclosure through statements, and keep attention from falling back into autopilot.
+- The current Chase Hughes behavioral-framework source is strongest on persuasion as identity and need alignment: read the hunger beneath the language, then speak in a way that makes the outcome feel consistent with who the person already is.
 
 # Tensions / Open Questions
 
 - Humane persuasion can still become manipulation if service language is used only cosmetically.
 - The current Chase Hughes `90-second` source makes the boundary problem sharper because the framework openly treats conscious evaluation as friction to get around.
+- The current Chase Hughes reading-minds source raises a different risk: behavior-reading, frame talk, and indirect disclosure can create pseudo-clinical certainty if the evidence underneath the heuristics is thinner than the confidence of the technique.
+- The current Chase Hughes behavioral-framework source adds another risk: identity-level need diagnosis can feel accurate and still be wrong, flattening people into leverage profiles.
 - Pink's positive-sum framing is strong but not universal; some situations involve real coercion, structural asymmetry, or incompatible interests.
 - The branch is now stronger on written influence than before, but it still needs more direct-response, long-form sales, and mass-media propaganda sources.
 - Axelrod and Rove widen the branch into mass political persuasion, but also surface the risk that highly effective campaign techniques can outrun democratic trust if ethics are under-specified.
@@ -78,6 +91,8 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/concepts/communication/attunement|Attunement]]
+- [[wiki/concepts/communication/elicitation|Elicitation]]
+- [[wiki/concepts/communication/frame-control|Frame Control]]
 - [[wiki/concepts/communication/installation-vs-persuasion|Installation vs Persuasion]]
 - [[wiki/concepts/communication/problem-finding|Problem-Finding]]
 - [[wiki/concepts/communication/timing-and-sequencing|Timing and Sequencing]]

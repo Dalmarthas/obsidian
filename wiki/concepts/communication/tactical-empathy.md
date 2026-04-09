@@ -16,11 +16,16 @@ source_pages:
   - wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-chase-hughes-deal-with-bullies-the-right-way.md
   - wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture.md
+  - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
+  - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
 related:
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/negotiation-and-mediation.md
   - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/communication/attunement.md
+  - wiki/concepts/communication/elicitation.md
+  - wiki/concepts/communication/behavioral-profiling.md
+  - wiki/concepts/communication/social-needs-profiling.md
   - wiki/concepts/communication/labeling.md
   - wiki/concepts/communication/calibrated-questions.md
   - wiki/concepts/communication/face-saving-de-escalation.md
@@ -49,6 +54,9 @@ Tactical empathy is the deliberate use of understanding to lower defensiveness, 
 - Pink sharpens the concept analytically: perspective-taking often matters more than shared feeling under cognitive load, and reducing your own sense of power improves your ability to understand the other side.
 - The current Chase Hughes anti-bullying source extends the concept into hostile social situations: empathy is used to lower threat, preserve face, and interrupt aggression without surrendering the boundary.
 - The current Chase Hughes `90-second` source overlaps at a darker edge of the same family: making someone feel `seen without judgment` is presented as a way to lower reflective resistance before installation language lands.
+- The current Chase Hughes reading-minds source adds a trainability claim: empathy is treated as a learnable skill of decoding fear scripts and protection patterns beneath surface behavior.
+- It also adds an information-gathering extension: empathy works better when disclosure is invited through statements and calm summaries rather than through direct questioning that spikes defense.
+- The current Chase Hughes behavioral-framework source adds an observation scaffold beneath this: empathy improves when you read baseline shifts, context, and social-needs language before deciding what the behavior means.
 
 # Source Comparisons
 
@@ -58,12 +66,16 @@ Tactical empathy is the deliberate use of understanding to lower defensiveness, 
 - Pink is strongest on the conceptual distinction between thoughts and feelings and on the power dynamics that help or weaken perspective-taking.
 - The current Chase Hughes source is strongest on tactical empathy under provocation: acknowledge likely hurt, separate yourself from the original wound, and give the aggressor a non-humiliating path back to dignity.
 - The current Chase Hughes `90-second` source is the least humane-framed version: empathy-like recognition is used less for mutual understanding and more for opening a window where identity and meaning can be shaped.
+- The current Chase Hughes reading-minds source sits between those two poles: it is still tactical, but it frames empathy as the practical ability to read the protective logic beneath behavior before deciding how to speak.
+- The current Chase Hughes behavioral-framework source broadens that middle ground further by treating empathy as part observation method, part need-diagnosis, and only then part wording choice.
 
 # Tensions / Open Questions
 
 - Tactical empathy can drift into manipulation if the understanding is only instrumental and not constrained by ethics.
 - The current Chase Hughes `90-second` source makes that risk explicit because it treats lowered evaluation as part of the method rather than only as a byproduct of trust.
 - Pure rapport is not enough; the strongest versions pair empathy with clarity, boundaries, and a concrete objective.
+- Behavior-reading can also become projection or amateur certainty if the interpreter overreads sparse cues without enough humility.
+- Need-profiling can create a second distortion: the listener can start seeing types and leverage points where a real person with mixed motives actually stands.
 
 # Related Pages
 

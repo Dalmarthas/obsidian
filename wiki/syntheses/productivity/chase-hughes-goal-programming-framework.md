@@ -12,6 +12,7 @@ tags:
 question: What productivity model does the Chase Hughes source add to the vault?
 basis:
   - wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self.md
+  - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
   - wiki/concepts/productivity/future-self-prioritization.md
   - wiki/concepts/productivity/fear-goal-programming.md
   - wiki/concepts/productivity/behavior-journaling.md
@@ -55,6 +56,7 @@ The source adds a five-part model:
 - Compared with [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], Hughes works at the personal-behavior scale rather than the strategic or organizational scale.
 - Compared with [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], Hughes is less about elite performance under pressure and more about installing daily habits through cues, repetition, and visibility.
 - Compared with simple motivational advice, the source is more operational: it gives a repeated loop for salience, environment, and measurement instead of relying on inspiration alone.
+- The later Chase Hughes behavioral-framework source deepens the same branch with dopamine mapping, future-self vividness, and stronger warnings that the same installation tools can be used by outside systems as well as by the self.
 
 # Gaps
 
