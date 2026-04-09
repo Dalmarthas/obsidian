@@ -40,11 +40,11 @@
   "expandedSpaces": [
     "/",
     "//Untitled",
-    "//raw",
     "//wiki/wiki/concepts/wiki/concepts/business",
     "//wiki/wiki/concepts",
     "//wiki/wiki/concepts/wiki/concepts/chess",
-    "//wiki"
+    "//raw/raw/assets",
+    "//raw"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

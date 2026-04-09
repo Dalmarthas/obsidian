@@ -65,6 +65,23 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[raw/inbox/2026-04-09-john-bartholomew-undefended-pieces|John Bartholomew Undefended Pieces]] - Secondary summary of a chess-improvement source on loose pieces, overprotection, danger sense, and using piece safety as a first anti-blunder filter.
 - [[raw/inbox/2026-04-09-polgar-long-term-chess-improvement-plan|Polgar Long-Term Chess Improvement Plan]] - Secondary summary of a Polgar-rooted chess-training source on position-solving, physical-board study, long-horizon repetition, and de-emphasis on early opening theory.
 - [[raw/inbox/2026-04-09-ben-finegold-blunders-in-chess|Ben Finegold Blunders in Chess]] - Secondary summary of a chess-psychology source on blunders, premature resignation, complacency, and practical resistance under pressure.
+- [[raw/inbox/2026-04-09-google-beginner-ai-course|Google Beginner AI Course]] - Secondary summary of a beginner AI overview mapping AI, machine learning, deep learning, generative AI, LLMs, and fine-tuning.
+- [[raw/inbox/2026-04-09-riceco-prompt-framework|RICECO Prompt Framework]] - Secondary summary of a prompt-design source on Role, Instruction, Context, Examples, Constraints, Output Format, and iterative prompt improvement.
+- [[raw/inbox/2026-04-09-jeremy-utley-ai-creativity-and-productivity|Jeremy Utley AI Creativity and Productivity]] - Secondary summary of an AI-collaboration source on context engineering, reverse prompting, role assignment, few-shot examples, and critique-driven iteration.
+- [[raw/inbox/2026-04-09-john-truby-screenwriting-and-story-structure|John Truby Screenwriting and Story Structure]] - Secondary summary of a screenwriting source on genre mastery, premise testing, anti-formula structure, character weakness, and pre-draft story architecture.
+- [[raw/inbox/2026-04-09-john-truby-screenwriting-mastery-and-endurance|John Truby Screenwriting Mastery and Endurance]] - Secondary summary of a screenwriting source on technical complexity, anti-shortcut learning, psychological endurance, and long-horizon craft development.
+- [[raw/inbox/2026-04-09-storytelling-core-elements-and-writing-process|Storytelling Core Elements and Writing Process]] - Secondary summary of a storytelling source on character goals, obstacles, transformation, loglines, key turning points, and scene-level clarity.
+- [[raw/inbox/2026-04-09-william-c-martell-how-is-this-my-story|William C. Martell How Is This My Story]] - Secondary summary of a screenwriting source on personal doorway, assignment authenticity, project fit, and bringing a real emotional angle into commercial work.
+- [[raw/inbox/2026-04-09-jeff-deverett-getting-an-indie-film-onto-netflix|Jeff Deverett Getting an Indie Film onto Netflix]] - Secondary summary of an indie-film distribution source on ultra-brief pitching, platform gatekeepers, delivery requirements, credibility, and persistence.
+- [[raw/inbox/2026-04-09-screenwriting-roundtable-on-avoiding-boring-scripts|Screenwriting Roundtable on Avoiding Boring Scripts]] - Secondary summary of a screenwriting roundtable on boredom, originality, conflict, active character goals, and revision drills.
+- [[raw/inbox/2026-04-09-screenwriting-roundtable-on-dialogue-craft|Screenwriting Roundtable on Dialogue Craft]] - Secondary summary of a screenwriting roundtable on visual-first storytelling, subtext, brevity, character voice, and read-aloud dialogue revision.
+- [[raw/inbox/2026-04-09-chris-gore-hollywood-studio-system-and-indie-film|Chris Gore Hollywood Studio System and Indie Film]] - Secondary summary of a filmmaking-culture source on factory filmmaking, franchise mismanagement, audience respect, and the corrective value of indie film.
+- [[raw/inbox/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence|Eric Edson Screenplay Structure and Hero Goal Sequence]] - Secondary summary of a screenwriting-structure source on psychologically grounded plotting, active heroes, stunning surprises, and the Hero Goal Sequence model.
+- [[raw/inbox/2026-04-09-chris-gore-movie-quality-decline-and-studio-malpractice|Chris Gore Movie Quality Decline and Studio Malpractice]] - Secondary summary of a filmmaking-culture source on studio malpractice, franchise stewardship failure, adaptation risk aversion, and the gap between movie marketing and the actual product.
+- [[raw/inbox/2026-04-09-glenn-gers-six-essential-story-questions|Glenn Gers Six Essential Story Questions]] - Secondary summary of a storytelling source on six essential story questions, theory-of-mind characterization, and flexible question-driven writing process.
+- [[raw/inbox/2026-04-09-michael-hauge-act-one-foundation-and-outer-motivation|Michael Hauge Act One Foundation and Outer Motivation]] - Secondary summary of an Act 1 screenwriting source on visible outer goals, empathy-building setup, ordinary-world context, and not rushing the story launch.
+- [[raw/inbox/2026-04-09-david-lynch-screenwriting-skeletons-and-scene-cards|David Lynch Screenwriting Skeletons and Scene Cards]] - Secondary summary of Lynch's practical screenwriting method on skeletal drafts, 3x5 scene cards, and lightweight structure.
+- [[raw/inbox/2026-04-09-simon-rich-comedy-premise-generation|Simon Rich Comedy Premise Generation]] - Secondary summary of a comedy-writing source on high-volume premise generation, playful frameworks, and filtering ideas after abundance.
 
 ## Sources
 
@@ -124,26 +141,48 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/sources/2026-04-09-john-bartholomew-undefended-pieces|John Bartholomew Undefended Pieces]] - Source page that deepens the chess branch with loose-piece awareness, overprotection, practical danger sense, and piece-safety-first anti-blunder discipline.
 - [[wiki/sources/2026-04-09-polgar-long-term-chess-improvement-plan|Polgar Long-Term Chess Improvement Plan]] - Source page that deepens the chess branch with problem-first training, physical-board solving, delayed opening emphasis, and a long-horizon study architecture.
 - [[wiki/sources/2026-04-09-ben-finegold-blunders-in-chess|Ben Finegold Blunders in Chess]] - Source page that deepens the chess branch with resignation discipline, anti-complacency logic, hidden saving resources, and practical blunder psychology.
+- [[wiki/sources/2026-04-09-google-beginner-ai-course|Google Beginner AI Course]] - Source page that opens the AI branch with a beginner-friendly hierarchy of AI, ML, deep learning, generative AI, LLMs, and fine-tuning.
+- [[wiki/sources/2026-04-09-riceco-prompt-framework|RICECO Prompt Framework]] - Source page that deepens the AI branch with structured prompting, few-shot examples, constraints, output formatting, and iteration.
+- [[wiki/sources/2026-04-09-jeremy-utley-ai-creativity-and-productivity|Jeremy Utley AI Creativity and Productivity]] - Source page that deepens the AI branch with coaching-style model use, context engineering, reverse prompting, role framing, and critique loops.
+- [[wiki/sources/2026-04-09-john-truby-screenwriting-and-story-structure|John Truby Screenwriting and Story Structure]] - Source page that deepens the filmmaking branch with genre logic, premise rigor, anti-formula structure, and pre-draft architectural thinking.
+- [[wiki/sources/2026-04-09-john-truby-screenwriting-mastery-and-endurance|John Truby Screenwriting Mastery and Endurance]] - Source page that deepens the filmmaking branch with long-horizon mastery, undertraining risk, anti-shortcut thinking, and creative endurance.
+- [[wiki/sources/2026-04-09-storytelling-core-elements-and-writing-process|Storytelling Core Elements and Writing Process]] - Source page that deepens the filmmaking branch with transformation, logline clarity, developmental self-questioning, and scene-efficacy rules.
+- [[wiki/sources/2026-04-09-william-c-martell-how-is-this-my-story|William C. Martell How Is This My Story]] - Source page that deepens the filmmaking branch with personal doorway logic, assignment reframing, project-selection integrity, and work-for-hire authenticity.
+- [[wiki/sources/2026-04-09-jeff-deverett-getting-an-indie-film-onto-netflix|Jeff Deverett Getting an Indie Film onto Netflix]] - Source page that adds the commercial distribution layer to the filmmaking branch across Netflix-facing access, distributors, delivery specs, and credibility.
+- [[wiki/sources/2026-04-09-screenwriting-roundtable-on-avoiding-boring-scripts|Screenwriting Roundtable on Avoiding Boring Scripts]] - Source page that deepens the filmmaking branch with anti-boredom diagnosis, arena-versus-story logic, active-character pressure, and revision exercises.
+- [[wiki/sources/2026-04-09-screenwriting-roundtable-on-dialogue-craft|Screenwriting Roundtable on Dialogue Craft]] - Source page that deepens the filmmaking branch with visual-first dialogue logic, subtext, voice differentiation, and line-level revision discipline.
+- [[wiki/sources/2026-04-09-chris-gore-hollywood-studio-system-and-indie-film|Chris Gore Hollywood Studio System and Indie Film]] - Source page that adds a studio-system and indie-film critique layer around factory logic, audience trust, originality, and franchise handling.
+- [[wiki/sources/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence|Eric Edson Screenplay Structure and Hero Goal Sequence]] - Source page that deepens the filmmaking branch with psychologically grounded structure, active-goal storytelling, stunning surprises, and Hero Goal Sequence diagnostics.
+- [[wiki/sources/2026-04-09-chris-gore-movie-quality-decline-and-studio-malpractice|Chris Gore Movie Quality Decline and Studio Malpractice]] - Source page that deepens the Chris Gore branch with studio-malpractice diagnosis, franchise stewardship failure, adaptation risk aversion, and marketing-product mismatch.
+- [[wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions|Glenn Gers Six Essential Story Questions]] - Source page that deepens the filmmaking branch with a question-driven story framework, theory-of-mind characterization, and adaptive process logic.
+- [[wiki/sources/2026-04-09-michael-hauge-act-one-foundation-and-outer-motivation|Michael Hauge Act One Foundation and Outer Motivation]] - Source page that deepens the filmmaking branch with Act 1 setup diagnostics, visible outer motivation, empathy-first orientation, and measured story launch.
+- [[wiki/sources/2026-04-09-david-lynch-screenwriting-skeletons-and-scene-cards|David Lynch Screenwriting Skeletons and Scene Cards]] - Source page for Lynch's practical screenwriting layer on skeleton drafts, scene cards, and structure that supports intuition.
+- [[wiki/sources/2026-04-09-simon-rich-comedy-premise-generation|Simon Rich Comedy Premise Generation]] - Source page for a comedy-writing branch focused on premise abundance, structured prompts, playful observation, and later filtering.
 
 ## Entities
 
 - [[wiki/entities/aaron-sorkin|Aaron Sorkin]] - Screenwriter and teacher whose craft model now anchors several pages in the vault.
 - [[wiki/entities/bill-clinton|Bill Clinton]] - Leadership teacher whose framework now anchors the vault's leadership branch.
 - [[wiki/entities/bob-iger|Bob Iger]] - Leadership and strategy teacher whose source expands the vault's business and brand branch.
+- [[wiki/entities/chris-gore|Chris Gore]] - Critic and indie-film advocate whose branch adds a filmmaking-ecosystem critique around factory logic, audience trust, and creator risk.
 - [[wiki/entities/chris-voss|Chris Voss]] - Negotiation teacher whose source deepens the vault's communication and dealmaking branch.
 - [[wiki/entities/daniel-pink|Daniel Pink]] - Persuasion teacher whose source anchors the vault's persuasion branch across attunement, buoyancy, and timing.
 - [[wiki/entities/david-axelrod|David Axelrod]] - Political strategist whose source deepens the vault's campaign, message, and authenticity branch.
 - [[wiki/entities/dan-brown|Dan Brown]] - Novelist whose masterclass now anchors the vault's thriller-writing branch.
 - [[wiki/entities/david-baldacci|David Baldacci]] - Novelist whose source deepens the vault's commercial-thriller branch.
 - [[wiki/entities/david-carson|David Carson]] - Designer whose source anchors the vault's graphic-design branch.
-- [[wiki/entities/david-lynch|David Lynch]] - Filmmaker whose source anchors the vault's creativity and atmosphere branch.
+- [[wiki/entities/david-lynch|David Lynch]] - Filmmaker whose branch now anchors both intuition-led creativity and a light-structure screenwriting layer.
 - [[wiki/entities/duffer-brothers|Duffer Brothers]] - Television creators whose source deepens the vault's pilot-development branch.
+- [[wiki/entities/eric-edson|Eric Edson]] - Screenwriting teacher whose branch adds Hero Goal Sequence logic, psychologically grounded structure, and a stronger active-hero model to the vault.
+- [[wiki/entities/glenn-gers|Glenn Gers]] - Screenwriting teacher whose branch adds a six-question story diagnostic, theory-of-mind characterization, and flexible process logic.
+- [[wiki/entities/michael-hauge|Michael Hauge]] - Screenwriting teacher whose branch sharpens Act 1 foundation, outer motivation, empathy-first setup, and the danger of launching the story too fast.
 - [[wiki/entities/elaine-welteroth|Elaine Welteroth]] - Career strategist whose source now anchors the vault's creative-entrepreneurship branch.
 - [[wiki/entities/geno-auriemma|Geno Auriemma]] - Coach whose source expands the vault's leadership branch into team culture and high-performance standards.
 - [[wiki/entities/george-stephanopoulos|George Stephanopoulos]] - Journalist and interviewer whose source anchors the vault's communication branch.
 - [[wiki/entities/goodby-silverstein-partners|Goodby Silverstein & Partners]] - Advertising agency whose philosophy now anchors the vault's advertising branch.
 - [[wiki/entities/jane-goodall|Jane Goodall]] - Primatologist and conservationist whose source now anchors the vault's conservation branch.
 - [[wiki/entities/jeff-koons|Jeff Koons]] - Artist whose source anchors the vault's art-making and viewer-centered art branch.
+- [[wiki/entities/jeff-deverett|Jeff Deverett]] - Producer-distributor whose source adds platform-access, delivery, and commercial-reality logic to the vault's filmmaking branch.
 - [[wiki/entities/kevin-spacey|Kevin Spacey]] - Acting teacher whose source starts the vault's acting branch across performance, monologues, and auditions.
 - [[wiki/entities/howard-schultz|Howard Schultz]] - Business leader whose source deepens the vault's values-driven company, culture, and strategy branch.
 - [[wiki/entities/harry-dry|Harry Dry]] - Copywriting teacher whose source starts the vault's first explicit branch for written persuasion, specificity, and brand-distinctive claims.
@@ -151,11 +190,16 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/entities/lewis-hamilton|Lewis Hamilton]] - Driver and competitor whose source expands the vault's performance and high-pressure leadership branch.
 - [[wiki/entities/martin-scorsese|Martin Scorsese]] - Filmmaker whose source deepens the vault's filmmaking branch across visual literacy, casting, and editing.
 - [[wiki/entities/salman-rushdie|Salman Rushdie]] - Fiction teacher whose source deepens the vault's novel-writing, voice, setting, and worldview branch.
+- [[wiki/entities/simon-rich|Simon Rich]] - Comedy writer whose branch deepens the vault's premise-generation and ideation-abundance layer.
 - [[wiki/entities/shonda-rhimes|Shonda Rhimes]] - Television writer-showrunner whose source deepens the vault's TV writing, room, and showrunning branch.
 - [[wiki/entities/rhonda-patrick|Rhonda Patrick]] - Health educator whose first branch anchors the vault's sleep and circadian-recovery layer.
 - [[wiki/entities/michael-greger|Michael Greger]] - Physician-educator whose branch anchors the vault's nutrition, plant-based prevention, and healthspan layer.
 - [[wiki/entities/david-sinclair|David Sinclair]] - Longevity researcher whose branch anchors the vault's aging-biology, healthspan, and prevention-first medicine layer.
 - [[wiki/entities/pavel-tsatsouline|Pavel Tsatsouline]] - Strength teacher whose branch anchors the vault's exercise-design, recoverable training, and functional-capacity layer.
+- [[wiki/entities/google|Google]] - Company whose first AI-education source anchors the vault's foundational AI terminology and stack-map branch.
+- [[wiki/entities/jeremy-utley|Jeremy Utley]] - Stanford-linked creativity and AI-collaboration teacher whose branch sharpens the vault's prompting, context, and iteration layer.
+- [[wiki/entities/john-truby|John Truby]] - Screenwriting teacher whose branch sharpens the vault's genre logic, premise testing, deeper story architecture, and long-horizon craft-mastery layer.
+- [[wiki/entities/william-c-martell|William C. Martell]] - Screenwriter and teacher whose branch sharpens the vault's assignment-authenticity and personal-doorway layer.
 - [[wiki/entities/gothamchess|GothamChess]] - Chess educator whose sources anchor the vault's practical-improvement branch across openings, imbalances, checklists, simplification, bot-based training logic, trade discipline, tactics, and time use.
 - [[wiki/entities/john-bartholomew|John Bartholomew]] - Chess educator whose sources deepen the vault's strategic and beginner-improvement layers around exchanges, pawn structures, coordination, development tempo, loose-piece awareness, and forcing-reply vigilance.
 - [[wiki/entities/laszlo-polgar|Laszlo Polgar]] - Training philosopher whose branch anchors the vault's long-horizon chess-study layer around positions, sparse instruction, and delayed opening emphasis.
@@ -166,6 +210,18 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 ## Concepts
 
 - [[wiki/concepts/llm-wiki|LLM Wiki]] - A persistent, LLM-maintained wiki that compiles and updates knowledge instead of re-deriving it on every query.
+- [[wiki/concepts/ai/artificial-intelligence|Artificial Intelligence]] - The umbrella field that contains the narrower model families and training paradigms in the AI branch.
+- [[wiki/concepts/ai/machine-learning|Machine Learning]] - The data-driven AI layer where models learn patterns from examples rather than only following hand-written rules.
+- [[wiki/concepts/ai/deep-learning|Deep Learning]] - The neural-network-heavy subfield inside machine learning that underpins modern generative systems and LLMs.
+- [[wiki/concepts/ai/generative-ai|Generative AI]] - The output-producing model layer focused on creating new text, images, audio, video, and other artifacts.
+- [[wiki/concepts/ai/large-language-models|Large Language Models]] - Large-scale language systems trained for broad text understanding and generation, then often adapted for narrower tasks.
+- [[wiki/concepts/ai/supervised-and-unsupervised-learning|Supervised and Unsupervised Learning]] - The core beginner distinction between labeled-feedback learning and pattern-finding in unlabeled data.
+- [[wiki/concepts/ai/fine-tuning|Fine-Tuning]] - The adaptation step that turns broadly trained models into more domain-specific systems.
+- [[wiki/concepts/ai/prompt-engineering|Prompt Engineering]] - The practice of structuring instructions, context, examples, constraints, and desired outputs so AI systems produce more useful results.
+- [[wiki/concepts/ai/context-engineering|Context Engineering]] - The higher-level practice of briefing the model with enough goals, background, examples, constraints, and evaluation context that better output becomes easier.
+- [[wiki/concepts/ai/riceco-prompt-framework|RICECO Prompt Framework]] - A six-part prompt-design framework built around Role, Instruction, Context, Examples, Constraints, and Output Format.
+- [[wiki/concepts/ai/few-shot-prompting|Few-Shot Prompting]] - Using one or more examples in a prompt to anchor tone, structure, style, or reasoning more precisely.
+- [[wiki/concepts/ai/reverse-prompting|Reverse Prompting]] - Having the model ask clarifying questions before answering so missing context is surfaced before bad output is produced.
 - [[wiki/concepts/business/advertising|Advertising]] - Humane, culturally aware brand communication that people may actually want to engage with.
 - [[wiki/concepts/filmmaking/acting-craft|Acting Craft]] - Performance truth built from reaction, stakes, textual precision, variation, and arc awareness rather than affectation.
 - [[wiki/concepts/communication/accusation-audit|Accusation Audit]] - A preemptive cluster of negative labels used to surface and defuse the bad story before a difficult ask or hard conversation.
@@ -173,7 +229,9 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/creativity/art-making|Art Making]] - Building art through self-acceptance, material openness, scale, and a generous relationship to the viewer.
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]] - Speaking truthfully and humanly enough that audiences feel respected rather than managed.
 - [[wiki/concepts/communication/attunement|Attunement]] - Perspective-taking as a practical influence skill for understanding interests, constraints, and likely reactions.
+- [[wiki/concepts/filmmaking/arena-vs-story|Arena vs Story]] - The distinction between an interesting backdrop and an actual dramatic engine with goals, conflict, stakes, and change.
 - [[wiki/concepts/filmmaking/auditioning|Auditioning]] - Preparing, adapting, and presenting work under compressed professional conditions without collapsing into panic or ego display.
+- [[wiki/concepts/filmmaking/visual-storytelling-first|Visual Storytelling First]] - The rule that screenplays should push story burden into action, image, and staging before relying on explanatory dialogue.
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]] - Protecting and evolving a brand's long-term identity without hollowing it out.
 - [[wiki/concepts/business/mass-intimacy|Mass Intimacy]] - Creating communication at mass scale that still feels personal and respectful.
 - [[wiki/concepts/business/megatrendy|Мегатренды]] - Большие политические, экономические и социокультурные сдвиги, которые создают и разрушают рынки.
@@ -197,6 +255,8 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/leadership/buoyancy|Buoyancy]] - Resilience in the face of rejection, friction, and repeated non-catastrophic failure.
 - [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]] - Open-ended `what` and `how` questions designed to reveal constraints, shift thinking, and move negotiations toward implementation reality.
 - [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]] - Choosing the right actors and creating the conditions where truthful performance can emerge on camera.
+- [[wiki/concepts/filmmaking/craft-mastery|Craft Mastery]] - Treating creative work as a long-term technical and psychological discipline rather than as a shortcut, access, or formula problem.
+- [[wiki/concepts/filmmaking/personal-doorway|Personal Doorway]] - The emotional, thematic, or experiential entry point that lets a writer honestly inhabit an assigned or commercial story.
 - [[wiki/concepts/business/career-blueprint|Career Blueprint]] - A long-range architecture connecting purpose, projects, lanes, and timing.
 - [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]] - Communication that uses vivid, particular, checkable language so the claim can be pictured, remembered, and challenged.
 - [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]] - Story movement generated by needs, wants, contradictions, and choices rather than detached plot machinery.
@@ -231,8 +291,14 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/filmmaking/editing-as-discovery|Editing as Discovery]] - Finding the real film through assembly, rhythm, cutting, screening, and post-production judgment.
 - [[wiki/concepts/communication/effective-communication|Effective Communication]] - Communication as a repeatable skill built from clarity, listening, question design, and respect.
 - [[wiki/concepts/business/ethical-consumerism|Ethical Consumerism]] - Using buying choices and brand pressure as one practical lever for aligning markets with values.
+- [[wiki/concepts/filmmaking/factory-filmmaking|Factory Filmmaking]] - The studio-system condition where committee logic, franchise safety, and market smoothing begin hollowing out originality, character depth, and audience trust.
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]] - Building a film holistically across writing, performance, image, sound, and set culture.
 - [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]] - Fiction as the convergence of story engine, voice, place, character, form, and worldview.
+- [[wiki/concepts/filmmaking/franchise-stewardship|Franchise Stewardship]] - The responsibility to manage legacy characters and story worlds as living dramatic systems rather than as mere recognizable property.
+- [[wiki/concepts/filmmaking/genre-mastery|Genre Mastery]] - Treating genre as deep story logic and market language rather than as a checklist of expected beats.
+- [[wiki/concepts/filmmaking/hero-goal-sequence|Hero Goal Sequence]] - A repeatable screenwriting unit where an active protagonist pursues a visible short-term goal until fresh news forces a new direction.
+- [[wiki/concepts/filmmaking/outer-motivation|Outer Motivation]] - The protagonist's visible external finish line that gives the audience a concrete sense of what success looks like.
+- [[wiki/concepts/filmmaking/six-essential-story-questions|Six Essential Story Questions]] - A portable story-development framework built from six recurring questions about protagonist, desire, obstacle, action, failed action, and ending.
 - [[wiki/concepts/business/financial-confidence|Financial Confidence]] - A concrete plan that makes career risk and transition more navigable.
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]] - Using an explicit strategy, blueprint, or worldview to keep action coherent, compressed, and testable across decisions.
 - [[wiki/concepts/business/flazhki-rosta|Флажки роста]] - Промежуточные подтверждения новой траектории, которые создают аномалию и удерживают фокус до большого результата.
@@ -265,6 +331,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/health/whole-food-plant-based-diet|Whole-Food Plant-Based Diet]] - A minimally processed, plant-centered dietary pattern treated here as the core preventive nutrition strategy.
 - [[wiki/concepts/creativity/idea-development|Idea Development]] - Catching, testing, and refining raw creative signals until they can support real work.
 - [[wiki/concepts/filmmaking/immersive-research|Immersive Research]] - Firsthand, reality-based research that deepens plausibility while leaving most of itself off the page.
+- [[wiki/concepts/filmmaking/film-distribution|Film Distribution]] - The practical bridge between finishing a film and getting it commercially delivered to platforms or audiences.
 - [[wiki/concepts/others/interconnectedness-principle|Interconnectedness Principle]] - The systems idea that ecological and human problems are tightly linked.
 - [[wiki/concepts/communication/intention-and-impact|Intention and Impact]] - The accountability distinction between what someone meant and what their actions actually did.
 - [[wiki/concepts/communication/labeling|Labeling]] - Naming the emotion, motive, or dynamic you think is present so the other person feels seen and reveals more.
@@ -275,11 +342,15 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/communication/political-campaigns|Political Campaigns]] - Electoral strategy as an operating system of purpose, framing, targeting, media, field, and execution.
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]] - Turning teams, clients, communities, and counterparts into partners rather than obstacles.
 - [[wiki/concepts/filmmaking/screenwriting|Screenwriting]] - Writing a screenplay as a production blueprint for a visual medium.
+- [[wiki/concepts/filmmaking/scene-card-method|Scene Card Method]] - A lightweight planning method that maps a story through movable scene cards before full drafting.
+- [[wiki/concepts/filmmaking/premise-generation|Premise Generation]] - Producing many possible story engines through observation, structured prompts, and playful ideation before filtering.
+- [[wiki/concepts/filmmaking/premise-testing|Premise Testing]] - Stress-testing whether a story has enough desire, opposition, conflict, and character pressure to justify drafting it.
 - [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]] - The structural and scene-by-scene techniques that keep a narrative moving forward.
 - [[wiki/concepts/filmmaking/setting-as-character|Setting as Character]] - Place and time treated as active narrative forces rather than neutral backdrops.
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]] - Deliberate understanding used to lower resistance, gather information, and influence outcomes.
 - [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]] - Designing a pilot that proves a series engine rather than only telling a contained story.
 - [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]] - The distinction between what characters say and what they actually mean, want, or conceal.
+- [[wiki/concepts/filmmaking/transformation-in-storytelling|Transformation in Storytelling]] - Treating story as a vehicle for meaningful change in the character, relationships, or audience understanding rather than only event sequence.
 - [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]] - The classical setup-conflict-resolution model used here as a practical screenwriting scaffold.
 - [[wiki/concepts/communication/voter-targeting|Voter Targeting]] - Segmenting the electorate into movable groups so persuasion and turnout resources hit the voters who matter most.
 - [[wiki/concepts/filmmaking/intention-and-obstacle|Intention and Obstacle]] - The foundational dramatic rule that somebody wants something and something stands in the way.
@@ -337,6 +408,9 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 ## Syntheses
 
+- [[wiki/syntheses/ai/ai-stack-overview|AI Stack Overview]] - A foundational map of how the current vault relates AI, machine learning, deep learning, generative AI, LLMs, supervision, and fine-tuning.
+- [[wiki/syntheses/ai/prompt-design-workflow|Prompt Design Workflow]] - A practical workflow for writing stronger prompts through instruction clarity, context, constraints, examples, and iterative refinement.
+- [[wiki/syntheses/ai/jeremy-utley-ai-collaboration-framework|Jeremy Utley AI Collaboration Framework]] - A practical AI-collaboration model built around context-rich briefing, role framing, clarifying questions, examples, critique, and iteration.
 - [[wiki/syntheses/filmmaking/baldacci-thriller-framework|Baldacci Thriller Framework]] - A reusable thriller-fiction model built around openings, plausibility, research, and chapter momentum.
 - [[wiki/syntheses/creativity/carson-design-framework|Carson Design Framework]] - A reusable design model centered on intuition, typography, risk, and visible humanity.
 - [[wiki/syntheses/communication/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]] - A reusable negotiation model built around tactical empathy, labels, calibrated questions, and black swans.
@@ -371,13 +445,24 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/creativity/jeff-koons-art-framework|Jeff Koons Art Framework]] - A reusable art-making model built around self-acceptance, viewer completion, and material freedom.
 - [[wiki/syntheses/filmmaking/kevin-spacey-acting-framework|Kevin Spacey Acting Framework]] - A reusable acting model built around reaction, textual service, stakes, audience restraint, and professional preparation.
 - [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]] - A reusable high-performance model built around preparation, failure processing, balance, and teamwork.
-- [[wiki/syntheses/creativity/lynch-creative-framework|Lynch Creative Framework]] - A reusable creative model built around idea capture, atmosphere, integrity, and humane filmmaking.
+- [[wiki/syntheses/creativity/lynch-creative-framework|Lynch Creative Framework]] - A reusable creative model built around idea capture, light structural scaffolding, atmosphere, integrity, and humane filmmaking.
 - [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]] - A reusable fiction-writing model built around necessity, openings, voice, setting, imagination, and rewriting.
 - [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]] - A reusable company-building model built around values, culture, focus, crisis truth-telling, and self-disruption.
 - [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]] - A reusable filmmaking model built around vocation, cinema language, casting, material world-building, and discovery in the edit.
+- [[wiki/syntheses/filmmaking/chris-gore-hollywood-and-indie-framework|Chris Gore Hollywood and Indie Framework]] - A film-culture model built around factory logic versus creator logic, audience respect, franchise stewardship, indie correction, and broader taste.
+- [[wiki/syntheses/filmmaking/eric-edson-hero-goal-sequence-framework|Eric Edson Hero Goal Sequence Framework]] - A structure model built around audience psychology, active heroes, three worlds, stunning surprises, and repeated goal-and-fresh-news sequence changes.
+- [[wiki/syntheses/filmmaking/glenn-gers-story-questions-framework|Glenn Gers Story Questions Framework]] - A story-development model built around six essential questions, theory-of-mind characterization, and an adaptive iterative writing process.
+- [[wiki/syntheses/filmmaking/michael-hauge-act-one-foundation-framework|Michael Hauge Act One Foundation Framework]] - An Act 1 model built around empathy-first setup, visible outer goals, ordinary-world context, and resisting premature acceleration.
+- [[wiki/syntheses/filmmaking/screenwriting-anti-boredom-framework|Screenwriting Anti-Boredom Framework]] - A craft model built around emotional truth, arena-versus-story diagnosis, active character goals, conflict density, ideation drills, and exposed revision.
+- [[wiki/syntheses/filmmaking/screenwriting-dialogue-craft-framework|Screenwriting Dialogue Craft Framework]] - A dialogue model built around visual-first scene design, objective-driven lines, subtext, voice differentiation, and read-aloud trimming.
+- [[wiki/syntheses/filmmaking/jeff-deverett-netflix-distribution-framework|Jeff Deverett Netflix Distribution Framework]] - A practical indie-film distribution model built around compressed pitching, intermediaries, delivery readiness, credibility, and persistence.
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]] - A reusable television-writing model built around premise, character engine, pilot promise, subtext, room discipline, and showrunning.
+- [[wiki/syntheses/filmmaking/simon-rich-comedy-premise-framework|Simon Rich Comedy Premise Framework]] - A reusable ideation model built around abundance, playful prompts, observation, filtering, and premise-generation stamina.
 - [[wiki/syntheses/filmmaking/screenplay-starting-checklist|Screenplay Starting Checklist]] - A durable pre-draft checklist extracted from the current screenwriting source base.
 - [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]] - A reusable craft model distilled from the Aaron Sorkin masterclass summary.
+- [[wiki/syntheses/filmmaking/john-truby-story-architecture-framework|John Truby Story Architecture Framework]] - A screenwriting architecture model built around genre logic, premise strength, deeper structure, character weakness, and front-loaded design.
+- [[wiki/syntheses/filmmaking/john-truby-screenwriting-mastery-model|John Truby Screenwriting Mastery Model]] - A professional-development model for screenwriters built around technical depth, continuing education, anti-shortcut thinking, and endurance through rejection.
+- [[wiki/syntheses/filmmaking/william-c-martell-personal-doorway-framework|William C. Martell Personal Doorway Framework]] - An assignment-writing model built around finding a personal doorway, reframing the material through your angle, and refusing work that stays emotionally dead.
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]] - A cross-source comparison of overlapping craft principles across practical screenwriting and thriller writing.
 - [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]] - A reusable framework for multi-hyphenate career design, planning, and confident transition.
 

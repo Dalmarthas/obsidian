@@ -2,7 +2,7 @@
 type: concept
 title: Dialogue as Music
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-09
 status: active
 tags:
   - concept
@@ -13,14 +13,17 @@ source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
+  - wiki/sources/2026-04-09-screenwriting-roundtable-on-dialogue-craft.md
 related:
   - wiki/concepts/filmmaking/screenwriting.md
   - wiki/concepts/filmmaking/text-and-subtext.md
+  - wiki/concepts/filmmaking/visual-storytelling-first.md
   - wiki/concepts/filmmaking/narrative-voice-and-perspective.md
   - wiki/concepts/filmmaking/audience-as-collaborator.md
   - wiki/syntheses/filmmaking/sorkin-screenwriting-framework.md
   - wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework.md
   - wiki/syntheses/filmmaking/salman-rushdie-fiction-framework.md
+  - wiki/syntheses/filmmaking/screenwriting-dialogue-craft-framework.md
 ---
 
 # What It Is
@@ -44,6 +47,8 @@ Dialogue as music is the view that dramatic speech should be judged not only by 
 - Rhimes adds a complementary realism test: dialogue should sound like people under stress rather than like `TV talk`, and lines should preserve subtext instead of turning characters into self-explaining therapists.
 - The acting source adds performer-side rigor: actors have to carve out specific words, understand why the line is being said, and trust the language enough to stop overdemonstrating around it.
 - Rushdie adds the fiction side of the same principle: dialogue differentiates character through rhythm, vocabulary, length, and speech habits, and prose more broadly carries meaning through sound and musicality.
+- The dialogue roundtable adds a sharper revision discipline: cut at least 20 percent, trim scene entrances and exits, and test whether every line still earns its space once the visual layer is doing more work.
+- It also adds a more explicit voice-design rule: how a character says `yes`, `no`, swears, deflects, or misunderstands should help individualize them beyond plot function.
 
 # Source Comparisons
 
@@ -51,18 +56,22 @@ Dialogue as music is the view that dramatic speech should be judged not only by 
 - Rhimes is strongest on subtextual naturalism: eavesdrop on real speech, say lines aloud, avoid cliches, and let implication do part of the work.
 - The acting source is strongest on speaking the text from the inside: carve the important words, do not race, and let meaning land through precision instead of decorative effort.
 - Rushdie is strongest on dialogue and prose rhythm as markers of character, narrator, and overall literary voice.
+- The dialogue roundtable is strongest on practical workshop craft: cut ruthlessly, keep exposition off the nose, and use read-aloud passes to judge playability rather than merely literary neatness.
 
 # Tensions / Open Questions
 
 - Highly stylized dialogue can become mannered if not supported by character and conflict.
 - The line between expressive voice and self-imitation is an ongoing craft problem.
+- Dialogue can also become too lean if cutting removes the very texture, asymmetry, or lived rhythm that made the scene feel human in the first place.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
 - [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
+- [[wiki/concepts/filmmaking/visual-storytelling-first|Visual Storytelling First]]
 - [[wiki/concepts/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
 - [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
 - [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
 - [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
+- [[wiki/syntheses/filmmaking/screenwriting-dialogue-craft-framework|Screenwriting Dialogue Craft Framework]]

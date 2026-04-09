@@ -2,7 +2,7 @@
 type: concept
 title: Story Propulsion
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-09
 status: active
 tags:
   - concept
@@ -16,10 +16,16 @@ source_pages:
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
+  - wiki/sources/2026-04-09-storytelling-core-elements-and-writing-process.md
+  - wiki/sources/2026-04-09-screenwriting-roundtable-on-avoiding-boring-scripts.md
+  - wiki/sources/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence.md
 related:
+  - wiki/concepts/filmmaking/arena-vs-story.md
+  - wiki/concepts/filmmaking/hero-goal-sequence.md
   - wiki/concepts/filmmaking/three-act-structure.md
   - wiki/concepts/filmmaking/question-and-answer-structure.md
   - wiki/concepts/filmmaking/character-driven-storytelling.md
+  - wiki/concepts/filmmaking/transformation-in-storytelling.md
   - wiki/concepts/filmmaking/screenwriting.md
   - wiki/concepts/filmmaking/fiction-writing.md
   - wiki/concepts/filmmaking/television-pilot-writing.md
@@ -49,6 +55,12 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - Rushdie adds the literary-fiction version: conflict remains central, the opening line creates a contract with the reader, and even complex or multi-strand narratives must keep each movement feeling like a real mini-story rather than random switching.
 - Rhimes adds television-specific propulsion tools: each act should turn the story, A/B/C stories should keep moving, planted elements should pay off, and the pilot's promise should keep renewing itself in later episodes.
 - Brown designs chapters to begin with urgency and end with unresolved energy, twists, or deferred revelations.
+- The current generic storytelling source adds a blunt scene test: if a scene does not move the visible goal, deepen conflict, or clarify stakes, it should be cut or rebuilt.
+- The same source also sharpens propulsion at the concept layer: the dramatic question, stakes, and key turning points should remain clear enough that the story's movement never becomes arbitrary.
+- The roundtable source adds an anti-boredom layer: each scene should contain conflict, change, revelation, or pressure, and scripts often stall because the writer confuses an interesting arena with actual narrative movement.
+- It also adds a practical originality layer: if the writer settles for the first obvious version of a beat, propulsion weakens because the scene no longer surprises, sharpens, or emotionally charges the audience.
+- Edson adds a more explicit sequence-chain model: propulsion is sustained when the hero keeps pursuing short-term visible goals, receives fresh news, and is forced into new immediate action.
+- He also sharpens the warning against repetition: if successive pursuits do not produce real surprise or state change, the script may look busy while feeling static.
 - Across the sources, the reader or audience should feel guided rather than inert or confused.
 
 # Source Comparisons
@@ -60,7 +72,10 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - Baldacci works at the chapter-and-opening scale, focusing on a major opening disturbance and compact chapters that each earn their place.
 - Rhimes works at the episode-machine scale, focusing on pilot promise, act turns, recurring series identity, and multi-strand story servicing across network drama structure.
 - Rushdie works at the reader-contract and section-arc scale, focusing on openings, conflict, and the satisfaction of each narrative movement inside larger complexity.
-- All six agree that momentum is not accidental, but they locate the main control point in different places: outline, scene construction, suspense rhythm, series engine, chapter design, or the form of the telling itself.
+- The current generic source works at the diagnostic scene-and-outline scale, focusing on visible goals, stakes, scene efficacy, and a compact five-point story spine.
+- The roundtable source works at the boredom-diagnosis scale, focusing on active desire, conflict density, emotional truth, and whether scenes have escaped cliche.
+- Edson works at the sequence-chain scale, focusing on momentum as a repeated cycle of goal pursuit, surprise, and reorientation.
+- All nine agree that momentum is not accidental, but they locate the main control point in different places: outline, scene construction, suspense rhythm, series engine, chapter design, transformation logic, anti-boredom diagnosis, or the form of the telling itself.
 
 # Tensions / Open Questions
 
@@ -68,12 +83,17 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - Too little propulsion makes even good ideas feel static or under-shaped.
 - The right balance likely varies by medium, genre, and reader expectation.
 - The vault now also shows that propulsion can fail for opposite reasons: weak engines at the macro level or weak scene and chapter execution at the micro level.
+- Edson sharpens a third failure mode: a script may have a visible act outline yet still drag because the middle lacks enough concrete goal changes and fresh-news reversals.
+- Propulsion can also fail upstream if the writer falls in love with a world, concept, or atmosphere that never becomes a real dramatic engine.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]
+- [[wiki/concepts/filmmaking/arena-vs-story|Arena vs Story]]
+- [[wiki/concepts/filmmaking/hero-goal-sequence|Hero Goal Sequence]]
 - [[wiki/concepts/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
 - [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/transformation-in-storytelling|Transformation in Storytelling]]
 - [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
 - [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
 - [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]

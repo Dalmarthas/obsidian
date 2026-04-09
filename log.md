@@ -90,6 +90,15 @@ Pages touched:
 - [[index]]
 - [[.obsidian/workspace.json]]
 
+## [2026-04-09 09:13] admin | Add AI Domain Folder
+
+Summary: Added a dedicated `ai/` domain to the vault structure. Created [[wiki/concepts/ai]] and [[wiki/syntheses/ai]], then updated [[AGENTS]] so AI-related sources now route into the new domain by default instead of falling into `others/`. The schema now explicitly covers AI, machine learning, LLMs, agents, prompting, model behavior, evals, embeddings, fine-tuning, and AI tooling.
+
+Pages touched:
+
+- [[AGENTS]]
+- [[log]]
+
 ## [2026-04-09 02:09] ingest | Ben Finegold Blunders in Chess
 
 Summary: Ingested a new English Ben Finegold chess source and moved the canonical raw file into `raw/inbox/`. Created a new source page, a new entity page at [[wiki/entities/ben-finegold]], a canonical concept page at [[wiki/concepts/chess/resignation-psychology]], and a reusable synthesis page at [[wiki/syntheses/chess/ben-finegold-blunder-management-framework]]. Then deepened [[wiki/concepts/chess/chess]], [[wiki/concepts/chess/tactical-awareness]], [[wiki/concepts/chess/endgame-conversion]], and [[wiki/syntheses/cross-source/chess-improvement-models]]. The main gain is a practical-resilience layer around premature resignation, anti-complacency discipline, hidden saving resources, and the claim that many results are still decided by the final blunder rather than the earlier quality of play. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
@@ -1171,5 +1180,318 @@ Pages touched:
 - [[wiki/concepts/chess/time-management-in-chess]]
 - [[wiki/concepts/chess/endgame-conversion]]
 - [[wiki/syntheses/chess/gothamchess-practical-improvement-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 09:55] ingest | RICECO Prompt Framework
+
+Summary: Ingested a new English AI prompting source and moved the canonical raw file into `raw/inbox/`. Created a new source page, canonical concept pages at [[wiki/concepts/ai/prompt-engineering]], [[wiki/concepts/ai/riceco-prompt-framework]], and [[wiki/concepts/ai/few-shot-prompting]], plus a synthesis page at [[wiki/syntheses/ai/prompt-design-workflow]]. Then deepened [[wiki/concepts/ai/large-language-models]], [[wiki/concepts/ai/fine-tuning]], and [[wiki/syntheses/ai/ai-stack-overview]]. The main gain is the first practical AI-use layer in the vault: structured prompting, examples, constraints, output formatting, and iteration as reusable workflow elements. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-riceco-prompt-framework]]
+- [[wiki/sources/2026-04-09-riceco-prompt-framework]]
+- [[wiki/concepts/ai/prompt-engineering]]
+- [[wiki/concepts/ai/riceco-prompt-framework]]
+- [[wiki/concepts/ai/few-shot-prompting]]
+- [[wiki/concepts/ai/large-language-models]]
+- [[wiki/concepts/ai/fine-tuning]]
+- [[wiki/syntheses/ai/prompt-design-workflow]]
+- [[wiki/syntheses/ai/ai-stack-overview]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 09:22] ingest | Google Beginner AI Course
+
+Summary: Ingested a new English AI foundations source and moved the canonical raw file into `raw/inbox/`. Created a new source page, a new entity page at [[wiki/entities/google]], six core AI concept pages at [[wiki/concepts/ai/artificial-intelligence]], [[wiki/concepts/ai/machine-learning]], [[wiki/concepts/ai/deep-learning]], [[wiki/concepts/ai/generative-ai]], [[wiki/concepts/ai/large-language-models]], [[wiki/concepts/ai/supervised-and-unsupervised-learning]], plus [[wiki/concepts/ai/fine-tuning]], and added a synthesis page at [[wiki/syntheses/ai/ai-stack-overview]]. The main gain is the first structured AI branch in the vault: a durable hierarchy linking AI, ML, deep learning, generative AI, LLMs, supervision, and fine-tuning. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-google-beginner-ai-course]]
+- [[wiki/sources/2026-04-09-google-beginner-ai-course]]
+- [[wiki/entities/google]]
+- [[wiki/concepts/ai/artificial-intelligence]]
+- [[wiki/concepts/ai/machine-learning]]
+- [[wiki/concepts/ai/deep-learning]]
+- [[wiki/concepts/ai/generative-ai]]
+- [[wiki/concepts/ai/large-language-models]]
+- [[wiki/concepts/ai/supervised-and-unsupervised-learning]]
+- [[wiki/concepts/ai/fine-tuning]]
+- [[wiki/syntheses/ai/ai-stack-overview]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 10:02] ingest | Jeremy Utley AI Creativity and Productivity
+
+Summary: Ingested a new English AI-collaboration source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-jeremy-utley-ai-creativity-and-productivity]], a new entity page at [[wiki/entities/jeremy-utley]], two new concept pages at [[wiki/concepts/ai/context-engineering]] and [[wiki/concepts/ai/reverse-prompting]], and a new synthesis page at [[wiki/syntheses/ai/jeremy-utley-ai-collaboration-framework]]. Deepened [[wiki/concepts/ai/prompt-engineering]], [[wiki/concepts/ai/few-shot-prompting]], and [[wiki/syntheses/ai/prompt-design-workflow]] so the AI branch now captures coaching-style model use, context-rich briefing, clarifying-question loops, examples, critique, and iteration as a compiled collaboration model. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-jeremy-utley-ai-creativity-and-productivity]]
+- [[wiki/sources/2026-04-09-jeremy-utley-ai-creativity-and-productivity]]
+- [[wiki/entities/jeremy-utley]]
+- [[wiki/concepts/ai/context-engineering]]
+- [[wiki/concepts/ai/reverse-prompting]]
+- [[wiki/concepts/ai/prompt-engineering]]
+- [[wiki/concepts/ai/few-shot-prompting]]
+- [[wiki/syntheses/ai/jeremy-utley-ai-collaboration-framework]]
+- [[wiki/syntheses/ai/prompt-design-workflow]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 10:14] ingest | John Truby Screenwriting and Story Structure
+
+Summary: Ingested a new English screenwriting source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-john-truby-screenwriting-and-story-structure]], a new entity page at [[wiki/entities/john-truby]], two new concept pages at [[wiki/concepts/filmmaking/genre-mastery]] and [[wiki/concepts/filmmaking/premise-testing]], and a new synthesis page at [[wiki/syntheses/filmmaking/john-truby-story-architecture-framework]]. Deepened [[wiki/concepts/filmmaking/screenwriting]], [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/three-act-structure]], [[wiki/concepts/filmmaking/writing-process-and-revision]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the filmmaking branch now captures genre-first design, premise stress-testing, anti-formula structure, and the link between character weakness and plot architecture. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-john-truby-screenwriting-and-story-structure]]
+- [[wiki/sources/2026-04-09-john-truby-screenwriting-and-story-structure]]
+- [[wiki/entities/john-truby]]
+- [[wiki/concepts/filmmaking/genre-mastery]]
+- [[wiki/concepts/filmmaking/premise-testing]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/three-act-structure]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/syntheses/filmmaking/john-truby-story-architecture-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 10:33] ingest | John Truby Screenwriting Mastery and Endurance
+
+Summary: Ingested a second English Truby source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-john-truby-screenwriting-mastery-and-endurance]], a new concept page at [[wiki/concepts/filmmaking/craft-mastery]], and a new synthesis page at [[wiki/syntheses/filmmaking/john-truby-screenwriting-mastery-model]]. Deepened [[wiki/entities/john-truby]], [[wiki/concepts/filmmaking/screenwriting]], [[wiki/concepts/filmmaking/writing-process-and-revision]], [[wiki/concepts/filmmaking/three-act-structure]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the filmmaking branch now captures undertraining risk, anti-shortcut learning, long-horizon creative endurance, and the distinction between access problems and craft problems. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-john-truby-screenwriting-mastery-and-endurance]]
+- [[wiki/sources/2026-04-09-john-truby-screenwriting-mastery-and-endurance]]
+- [[wiki/entities/john-truby]]
+- [[wiki/concepts/filmmaking/craft-mastery]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/concepts/filmmaking/three-act-structure]]
+- [[wiki/syntheses/filmmaking/john-truby-screenwriting-mastery-model]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 10:41] ingest | Storytelling Core Elements and Writing Process
+
+Summary: Ingested a new English storytelling source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-storytelling-core-elements-and-writing-process]] and a new concept page at [[wiki/concepts/filmmaking/transformation-in-storytelling]]. Deepened [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/story-propulsion]], [[wiki/concepts/filmmaking/premise-testing]], [[wiki/concepts/filmmaking/screenwriting]], [[wiki/syntheses/filmmaking/screenplay-starting-checklist]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the filmmaking branch now captures transformation as story purpose, logline-as-north-star development, diagnostic self-questioning, and the rule that scenes must advance goal, conflict, or stakes. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-storytelling-core-elements-and-writing-process]]
+- [[wiki/sources/2026-04-09-storytelling-core-elements-and-writing-process]]
+- [[wiki/concepts/filmmaking/transformation-in-storytelling]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/story-propulsion]]
+- [[wiki/concepts/filmmaking/premise-testing]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/syntheses/filmmaking/screenplay-starting-checklist]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 10:49] ingest | William C. Martell How Is This My Story
+
+Summary: Ingested a new English screenwriting source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-william-c-martell-how-is-this-my-story]], a new entity page at [[wiki/entities/william-c-martell]], a new concept page at [[wiki/concepts/filmmaking/personal-doorway]], and a new synthesis page at [[wiki/syntheses/filmmaking/william-c-martell-personal-doorway-framework]]. Deepened [[wiki/concepts/creativity/creative-integrity]], [[wiki/concepts/filmmaking/writer-worldview]], [[wiki/concepts/filmmaking/screenwriting]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the filmmaking branch now captures assignment authenticity, project fit, doorway-based reframing, and the rule that commercial work still needs a real emotional angle. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-william-c-martell-how-is-this-my-story]]
+- [[wiki/sources/2026-04-09-william-c-martell-how-is-this-my-story]]
+- [[wiki/entities/william-c-martell]]
+- [[wiki/concepts/filmmaking/personal-doorway]]
+- [[wiki/concepts/creativity/creative-integrity]]
+- [[wiki/concepts/filmmaking/writer-worldview]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/syntheses/filmmaking/william-c-martell-personal-doorway-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 10:58] ingest | Jeff Deverett Getting an Indie Film onto Netflix
+
+Summary: Ingested a new English filmmaking-distribution source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-jeff-deverett-getting-an-indie-film-onto-netflix]], a new entity page at [[wiki/entities/jeff-deverett]], a new concept page at [[wiki/concepts/filmmaking/film-distribution]], and a new synthesis page at [[wiki/syntheses/filmmaking/jeff-deverett-netflix-distribution-framework]]. Deepened [[wiki/concepts/business/creative-pitching]] and [[wiki/concepts/filmmaking/filmmaking]] so the filmmaking branch now includes the commercial delivery layer: compressed platform pitching, distributor bottlenecks, technical delivery requirements, credibility as an asset, and persistence through gatekeeping. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-jeff-deverett-getting-an-indie-film-onto-netflix]]
+- [[wiki/sources/2026-04-09-jeff-deverett-getting-an-indie-film-onto-netflix]]
+- [[wiki/entities/jeff-deverett]]
+- [[wiki/concepts/filmmaking/film-distribution]]
+- [[wiki/concepts/business/creative-pitching]]
+- [[wiki/concepts/filmmaking/filmmaking]]
+- [[wiki/syntheses/filmmaking/jeff-deverett-netflix-distribution-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 11:17] ingest | Screenwriting Roundtable on Avoiding Boring Scripts
+
+Summary: Ingested a new English screenwriting source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-screenwriting-roundtable-on-avoiding-boring-scripts]], a new concept page at [[wiki/concepts/filmmaking/arena-vs-story]], and a new synthesis page at [[wiki/syntheses/filmmaking/screenwriting-anti-boredom-framework]]. Deepened [[wiki/concepts/filmmaking/screenwriting]], [[wiki/concepts/filmmaking/story-propulsion]], [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/premise-testing]], [[wiki/concepts/filmmaking/writing-process-and-revision]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the writing branch now captures arena-versus-story diagnosis, anti-cliche ideation drills, public-versus-private character pressure, and a stronger model of how scripts become boring before or during drafting. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-screenwriting-roundtable-on-avoiding-boring-scripts]]
+- [[wiki/sources/2026-04-09-screenwriting-roundtable-on-avoiding-boring-scripts]]
+- [[wiki/concepts/filmmaking/arena-vs-story]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/concepts/filmmaking/story-propulsion]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/premise-testing]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/syntheses/filmmaking/screenwriting-anti-boredom-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 11:37] ingest | Screenwriting Roundtable on Dialogue Craft
+
+Summary: Ingested a new English screenwriting source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-screenwriting-roundtable-on-dialogue-craft]], a new concept page at [[wiki/concepts/filmmaking/visual-storytelling-first]], and a new synthesis page at [[wiki/syntheses/filmmaking/screenwriting-dialogue-craft-framework]]. Deepened [[wiki/concepts/filmmaking/dialogue-as-music]], [[wiki/concepts/filmmaking/text-and-subtext]], [[wiki/concepts/filmmaking/screenwriting]], [[wiki/concepts/filmmaking/writing-process-and-revision]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the writing branch now captures visual-first scene design, objective-driven lines, subtext through misunderstanding, ruthless trimming, and dialogue revision through the ear. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-screenwriting-roundtable-on-dialogue-craft]]
+- [[wiki/sources/2026-04-09-screenwriting-roundtable-on-dialogue-craft]]
+- [[wiki/concepts/filmmaking/visual-storytelling-first]]
+- [[wiki/concepts/filmmaking/dialogue-as-music]]
+- [[wiki/concepts/filmmaking/text-and-subtext]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/syntheses/filmmaking/screenwriting-dialogue-craft-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 12:17] ingest | Chris Gore Hollywood Studio System and Indie Film
+
+Summary: Ingested a new English filmmaking-culture source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-chris-gore-hollywood-studio-system-and-indie-film]], a new entity page at [[wiki/entities/chris-gore]], a new concept page at [[wiki/concepts/filmmaking/factory-filmmaking]], and a new synthesis page at [[wiki/syntheses/filmmaking/chris-gore-hollywood-and-indie-framework]]. Deepened [[wiki/concepts/filmmaking/audience-as-collaborator]], [[wiki/concepts/creativity/creative-integrity]], [[wiki/concepts/filmmaking/character-driven-storytelling]], and [[wiki/concepts/filmmaking/filmmaking]] so the vault now captures studio-system risk aversion, audience sophistication, indie film as a corrective, and the distinction between creator-led work and franchise-factory maintenance. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-chris-gore-hollywood-studio-system-and-indie-film]]
+- [[wiki/sources/2026-04-09-chris-gore-hollywood-studio-system-and-indie-film]]
+- [[wiki/entities/chris-gore]]
+- [[wiki/concepts/filmmaking/factory-filmmaking]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator]]
+- [[wiki/concepts/creativity/creative-integrity]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/filmmaking]]
+- [[wiki/syntheses/filmmaking/chris-gore-hollywood-and-indie-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 12:39] ingest | Glenn Gers Six Essential Story Questions
+
+Summary: Ingested a new English storytelling and screenwriting source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions]], a new entity page at [[wiki/entities/glenn-gers]], a new concept page at [[wiki/concepts/filmmaking/six-essential-story-questions]], and a new synthesis page at [[wiki/syntheses/filmmaking/glenn-gers-story-questions-framework]]. Deepened [[wiki/concepts/filmmaking/premise-testing]], [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/writing-process-and-revision]], [[wiki/concepts/filmmaking/screenwriting]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the writing branch now captures Gers's six-question diagnostic, theory-of-mind characterization, and a more adaptive iterative-process model. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-glenn-gers-six-essential-story-questions]]
+- [[wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions]]
+- [[wiki/entities/glenn-gers]]
+- [[wiki/concepts/filmmaking/six-essential-story-questions]]
+- [[wiki/concepts/filmmaking/premise-testing]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/syntheses/filmmaking/glenn-gers-story-questions-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 12:46] ingest | Michael Hauge Act One Foundation and Outer Motivation
+
+Summary: Ingested a new English screenwriting source focused on Act 1 and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-michael-hauge-act-one-foundation-and-outer-motivation]], a new entity page at [[wiki/entities/michael-hauge]], a new concept page at [[wiki/concepts/filmmaking/outer-motivation]], and a new synthesis page at [[wiki/syntheses/filmmaking/michael-hauge-act-one-foundation-framework]]. Deepened [[wiki/concepts/filmmaking/three-act-structure]], [[wiki/concepts/filmmaking/screenwriting]], [[wiki/concepts/filmmaking/intention-and-obstacle]], [[wiki/concepts/filmmaking/character-driven-storytelling]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the writing branch now captures Hauge's first-act diagnostic around empathy-first setup, visible finish lines, and the risk of rushing the story launch. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-michael-hauge-act-one-foundation-and-outer-motivation]]
+- [[wiki/sources/2026-04-09-michael-hauge-act-one-foundation-and-outer-motivation]]
+- [[wiki/entities/michael-hauge]]
+- [[wiki/concepts/filmmaking/outer-motivation]]
+- [[wiki/concepts/filmmaking/three-act-structure]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/concepts/filmmaking/intention-and-obstacle]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/syntheses/filmmaking/michael-hauge-act-one-foundation-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 12:56] ingest | David Lynch Screenwriting Skeletons and Scene Cards
+
+Summary: Ingested a new English David Lynch screenwriting source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-david-lynch-screenwriting-skeletons-and-scene-cards]] and a new concept page at [[wiki/concepts/filmmaking/scene-card-method]]. Deepened [[wiki/entities/david-lynch]], [[wiki/concepts/creativity/idea-development]], [[wiki/concepts/filmmaking/writing-process-and-revision]], [[wiki/concepts/filmmaking/screenwriting]], [[wiki/syntheses/creativity/lynch-creative-framework]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the Lynch branch now captures skeletal drafting, 3x5 scene cards, lightweight structural scaffolding, and a clearer bridge between intuition and practical screenwriting. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-david-lynch-screenwriting-skeletons-and-scene-cards]]
+- [[wiki/sources/2026-04-09-david-lynch-screenwriting-skeletons-and-scene-cards]]
+- [[wiki/concepts/filmmaking/scene-card-method]]
+- [[wiki/entities/david-lynch]]
+- [[wiki/concepts/creativity/idea-development]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/syntheses/creativity/lynch-creative-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 13:12] ingest | Simon Rich Comedy Premise Generation
+
+Summary: Ingested a new English Simon Rich writing source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-simon-rich-comedy-premise-generation]], a new entity page at [[wiki/entities/simon-rich]], a new concept page at [[wiki/concepts/filmmaking/premise-generation]], and a new synthesis page at [[wiki/syntheses/filmmaking/simon-rich-comedy-premise-framework]]. Deepened [[wiki/concepts/creativity/idea-development]], [[wiki/concepts/filmmaking/premise-testing]], [[wiki/concepts/filmmaking/writing-process-and-revision]], [[wiki/concepts/filmmaking/screenwriting]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the writing branch now captures high-volume premise generation, playful ideation frameworks, abundance-before-filtering, and the upstream difference between generating ideas and testing them. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-simon-rich-comedy-premise-generation]]
+- [[wiki/sources/2026-04-09-simon-rich-comedy-premise-generation]]
+- [[wiki/entities/simon-rich]]
+- [[wiki/concepts/filmmaking/premise-generation]]
+- [[wiki/concepts/creativity/idea-development]]
+- [[wiki/concepts/filmmaking/premise-testing]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/syntheses/filmmaking/simon-rich-comedy-premise-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 12:26] ingest | Eric Edson Screenplay Structure and Hero Goal Sequence
+
+Summary: Ingested a new English screenwriting-structure source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence]], a new entity page at [[wiki/entities/eric-edson]], a new concept page at [[wiki/concepts/filmmaking/hero-goal-sequence]], and a new synthesis page at [[wiki/syntheses/filmmaking/eric-edson-hero-goal-sequence-framework]]. Deepened [[wiki/concepts/filmmaking/screenwriting]], [[wiki/concepts/filmmaking/three-act-structure]], [[wiki/concepts/filmmaking/story-propulsion]], [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/writing-process-and-revision]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the writing branch now captures Hero Goal Sequence logic, `three worlds`, stunning-surprise act turns, active-hero pressure, and a more explicit sequence-level audit for stalled drafts. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence]]
+- [[wiki/sources/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence]]
+- [[wiki/entities/eric-edson]]
+- [[wiki/concepts/filmmaking/hero-goal-sequence]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/concepts/filmmaking/three-act-structure]]
+- [[wiki/concepts/filmmaking/story-propulsion]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/syntheses/filmmaking/eric-edson-hero-goal-sequence-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 12:33] ingest | Chris Gore Movie Quality Decline and Studio Malpractice
+
+Summary: Ingested a second English Chris Gore filmmaking-culture source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-chris-gore-movie-quality-decline-and-studio-malpractice]] and a new concept page at [[wiki/concepts/filmmaking/franchise-stewardship]]. Deepened [[wiki/entities/chris-gore]], [[wiki/concepts/filmmaking/factory-filmmaking]], [[wiki/concepts/filmmaking/audience-as-collaborator]], [[wiki/concepts/filmmaking/filmmaking]], and [[wiki/syntheses/filmmaking/chris-gore-hollywood-and-indie-framework]] so the Gore branch now captures studio malpractice, franchise stewardship failure, adaptation risk aversion, and the gap between marketing promise and actual film quality. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-chris-gore-movie-quality-decline-and-studio-malpractice]]
+- [[wiki/sources/2026-04-09-chris-gore-movie-quality-decline-and-studio-malpractice]]
+- [[wiki/entities/chris-gore]]
+- [[wiki/concepts/filmmaking/franchise-stewardship]]
+- [[wiki/concepts/filmmaking/factory-filmmaking]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator]]
+- [[wiki/concepts/filmmaking/filmmaking]]
+- [[wiki/syntheses/filmmaking/chris-gore-hollywood-and-indie-framework]]
 - [[index]]
 - [[.obsidian/workspace.json]]

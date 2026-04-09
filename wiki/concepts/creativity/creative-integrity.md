@@ -2,7 +2,7 @@
 type: concept
 title: Creative Integrity
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 status: active
 tags:
   - concept
@@ -18,10 +18,14 @@ source_pages:
   - wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
+  - wiki/sources/2026-04-09-william-c-martell-how-is-this-my-story.md
+  - wiki/sources/2026-04-09-chris-gore-hollywood-studio-system-and-indie-film.md
 related:
   - wiki/concepts/filmmaking/acting-craft.md
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/creativity/idea-development.md
+  - wiki/concepts/filmmaking/factory-filmmaking.md
+  - wiki/concepts/filmmaking/personal-doorway.md
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/business/brand-stewardship.md
   - wiki/concepts/creativity/graphic-design.md
@@ -52,6 +56,8 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - Scorsese adds vocation and fidelity to the original spark: research, technology, and production pressure should deepen the work, not pull it away from why it needed to be made.
 - The acting source adds performance humility: serve the writing, not your vanity, and stop treating the text as something to drag down to your comfort level.
 - Rushdie adds artistic necessity: write the books you cannot avoid writing, keep the work tied to your deepest real motives, and resist genericity by becoming more idiosyncratically yourself.
+- Martell adds the assignment-writing version of integrity: even commercial or work-for-hire material needs an honest doorway, otherwise the pages become mechanical and the writer starts hollowing themselves out.
+- Chris Gore adds the studio-system version: originality also dies when institutions optimize too heavily for franchise safety, committee approval, and global smoothing.
 
 # Source Comparisons
 
@@ -64,17 +70,23 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - Scorsese frames it as artistic calling: the work begins in an inner compulsion, and every technical or collaborative choice should stay answerable to that necessity.
 - The acting source frames it as self-forgetting professionalism: the actor is a temporary custodian of the text and should not flatten it into familiar tricks meant to display talent.
 - Rushdie frames it as artistic irreducibility: the work should come from a worldview and necessity that other people cannot counterfeit for you.
+- Martell frames it as project fit and reframing: the writer may not originate the assignment, but still needs to find the part that is genuinely theirs.
+- Gore frames it systemically: creative integrity is not only an artist's private discipline, but also something whole production cultures can either protect or erode.
 
 # Tensions / Open Questions
 
 - Integrity can become an excuse for refusing all feedback if it is detached from craft, audience legibility, or revision.
 - Commercial and collaborative contexts often require negotiation, so the hard question is which compromises clarify the work and which ones hollow it out.
+- Martell sharpens a further tension: if a writer refuses every project without immediate personal alignment, they may confuse integrity with avoidance.
+- Gore sharpens a parallel institutional tension: safety can preserve capital in the short term while hollowing out the originality and audience trust the system eventually depends on.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
+- [[wiki/concepts/filmmaking/factory-filmmaking|Factory Filmmaking]]
+- [[wiki/concepts/filmmaking/personal-doorway|Personal Doorway]]
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
 - [[wiki/concepts/creativity/graphic-design|Graphic Design]]
