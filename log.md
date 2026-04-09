@@ -1993,4 +1993,56 @@ Pages touched:
 - [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models]]
 - [[index]]
+
+## [2026-04-09 23:17] ingest | Chase Hughes Influence, Identity, and Human Connection
+
+Summary: Ingested a new English Chase Hughes source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection]], new canonical concept pages at [[wiki/concepts/communication/pcp-model]], [[wiki/concepts/communication/negative-dissociation]], and [[wiki/concepts/others/childhood-development-triangle]], plus a new synthesis at [[wiki/syntheses/communication/chase-hughes-identity-and-permission-framework]]. Deepened [[wiki/entities/chase-hughes]], [[wiki/concepts/communication/installation-vs-persuasion]], [[wiki/concepts/communication/authentic-communication]], [[wiki/concepts/others/mask-behavior]], [[wiki/syntheses/others/chase-hughes-mask-and-compassion-framework]], [[wiki/syntheses/communication/chase-hughes-behavioral-influence-framework]], and [[wiki/syntheses/cross-source/communication-and-influence-models]]. The branch now preserves Chase's PCP sequence, indirect identity priming, developmental script logic, and the explicit tension between real human connection and highly engineered pseudo-connection. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-chase-hughes-influence-identity-and-human-connection]]
+- [[wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection]]
+- [[wiki/entities/chase-hughes]]
+- [[wiki/concepts/communication/pcp-model]]
+- [[wiki/concepts/communication/negative-dissociation]]
+- [[wiki/concepts/others/childhood-development-triangle]]
+- [[wiki/concepts/communication/installation-vs-persuasion]]
+- [[wiki/concepts/communication/authentic-communication]]
+- [[wiki/concepts/others/mask-behavior]]
+- [[wiki/syntheses/communication/chase-hughes-identity-and-permission-framework]]
+- [[wiki/syntheses/communication/chase-hughes-behavioral-influence-framework]]
+- [[wiki/syntheses/others/chase-hughes-mask-and-compassion-framework]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models]]
+- [[index]]
 - [[.obsidian/workspace.json]]
+
+## [2026-04-09 23:24] ingest | Why Many Entrepreneurs Struggle Despite Implementing Systems
+
+Summary: Ingested a new English business-systems source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-why-many-entrepreneurs-struggle-despite-implementing-systems]], a new canonical concept page at [[wiki/concepts/business/business-systems]], and a new synthesis at [[wiki/syntheses/business/scalable-business-systems-framework]]. Deepened [[wiki/concepts/business/framework-driven-action]] so the broader business branch now preserves the distinction between documentation and real systems, the input-process-output-feedback model, and the bottleneck-first logic for scaling. The branch now links the new English systems model to existing product, management, and owner-growth material without mixing languages inside the canonical pages.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-why-many-entrepreneurs-struggle-despite-implementing-systems]]
+- [[wiki/sources/2026-04-09-why-many-entrepreneurs-struggle-despite-implementing-systems]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/business/framework-driven-action]]
+- [[wiki/syntheses/business/scalable-business-systems-framework]]
+- [[index]]
+
+## [2026-04-09 23:32] ingest | Jurgen Klopp Coaching Legacy
+
+Summary: Ingested a new English leadership source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-jurgen-klopp-coaching-legacy]], a new entity page at [[wiki/entities/jurgen-klopp]], a new canonical concept page at [[wiki/concepts/leadership/individualized-leadership]], and a new synthesis at [[wiki/syntheses/leadership/jurgen-klopp-leadership-framework]]. Deepened [[wiki/concepts/leadership/leadership]], [[wiki/concepts/leadership/high-performance-team-culture]], [[wiki/concepts/leadership/organizational-culture]], [[wiki/concepts/leadership/trust-based-collaboration]], and [[wiki/syntheses/cross-source/high-performance-leadership-models]] so the leadership branch now preserves Klopp's emphasis on authentic coaching, person-specific motivation inside common standards, emotionally bonded intensity, and legacy as continuity rather than self-display.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-jurgen-klopp-coaching-legacy]]
+- [[wiki/sources/2026-04-09-jurgen-klopp-coaching-legacy]]
+- [[wiki/entities/jurgen-klopp]]
+- [[wiki/concepts/leadership/individualized-leadership]]
+- [[wiki/concepts/leadership/leadership]]
+- [[wiki/concepts/leadership/high-performance-team-culture]]
+- [[wiki/concepts/leadership/organizational-culture]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/syntheses/leadership/jurgen-klopp-leadership-framework]]
+- [[wiki/syntheses/cross-source/high-performance-leadership-models]]
+- [[index]]

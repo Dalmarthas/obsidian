@@ -2,13 +2,14 @@
 type: concept
 title: Trust-Based Collaboration
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-09
 status: active
 tags:
   - concept
   - collaboration
   - trust
 source_pages:
+  - wiki/sources/2026-04-09-jurgen-klopp-coaching-legacy.md
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
@@ -53,6 +54,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - Schultz adds the scaled-company version: trust deepens when leaders share the full truth, invest materially in people, and make employees feel the company is being built with them rather than on top of them.
 - Geno Auriemma adds the team-performance version: trust is inseparable from standards, role acceptance, direct correction, and the belief that hard coaching serves the collective goal.
 - Lewis Hamilton adds the elite-team version: appreciation, calm communication, and visible respect for every role help keep high-pressure groups functional.
+- Klopp adds a club-culture version: loyalty deepens when leaders treat stars, staff, and community as part of one human environment rather than as separate status tiers.
 - Chris Voss adds the adversarial version: even in negotiation, progress improves when the counterpart feels heard rather than cornered.
 
 # Source Comparisons
@@ -66,6 +68,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - Schultz focuses on trust inside large organizations: transparency, benefits, empathy, and no-retribution forums create the reservoir of trust needed before a crisis arrives.
 - Auriemma focuses on trust inside demanding teams: accountability and emotional honesty are part of trust, not violations of it.
 - Hamilton focuses on trust inside elite execution: culture deteriorates quickly when pressure removes gratitude, role respect, or emotional steadiness.
+- Klopp focuses on trust inside emotionally charged team identities: people commit harder when they feel seen personally and connected to a wider shared cause.
 - Voss focuses on trust inside bargaining: acknowledgment and calibrated curiosity make counterparts more cooperative without requiring softness.
 
 # Tensions / Open Questions

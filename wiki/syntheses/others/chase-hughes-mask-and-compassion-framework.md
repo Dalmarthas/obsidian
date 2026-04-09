@@ -12,10 +12,12 @@ tags:
 question: What model of masks, projection, and compassion does the current Chase Hughes source add to the vault?
 basis:
   - wiki/sources/2026-04-09-chase-hughes-orion-principle-and-mask-behavior.md
+  - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
   - wiki/concepts/others/mask-behavior.md
   - wiki/concepts/others/inversion-patterns.md
   - wiki/concepts/others/projection-as-self-signal.md
   - wiki/concepts/others/orion-principle.md
+  - wiki/concepts/others/childhood-development-triangle.md
 related:
   - wiki/entities/chase-hughes.md
   - wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self.md
@@ -45,6 +47,9 @@ The source adds a five-part behavioral-reading model:
 5. End in compassion rather than exposure.
    The mature use of the framework is not to dominate, shame, or `win`; it is to translate irritating behavior into fear hypotheses and relate to people, including oneself, with more mercy.
 
+6. Trace the script further back.
+   The newer Chase Hughes source adds a developmental origin layer: many adult masks and overreactions are framed as repeated solutions to childhood safety, belonging, and reward problems rather than as random personality noise.
+
 # Basis
 
 - Main source: [[wiki/sources/2026-04-09-chase-hughes-orion-principle-and-mask-behavior|Chase Hughes Orion Principle and Mask Behavior]]
@@ -55,6 +60,7 @@ The source adds a five-part behavioral-reading model:
 - Compared with [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework|Chase Hughes Goal Programming Framework]], this branch is less about installing desired action and more about interpreting defensive behavior. Both branches share a preference for compact heuristics and high-leverage self-observation, but they operate at different levels.
 - Compared with the vault's broader self-honesty language in [[wiki/concepts/creativity/creative-integrity|Creative Integrity]], this branch is more psychologically diagnostic and more interpersonal. It asks what persona is hiding, not only whether a person is being true to their work.
 - Compared with stronger research-grounded frameworks the vault may ingest later, this branch should currently be treated as a sharp heuristic rather than settled psychology.
+- The newer Chase Hughes source makes the branch less static by adding childhood-contract logic: the mask is not only a current shield, but also an old survival bargain still running in adult form.
 
 # Gaps
 

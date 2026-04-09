@@ -21,6 +21,7 @@ basis:
   - wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture.md
   - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
+  - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/communication/tactical-empathy.md
@@ -29,6 +30,8 @@ basis:
   - wiki/concepts/communication/interactional-authority.md
   - wiki/concepts/communication/behavioral-profiling.md
   - wiki/concepts/communication/social-needs-profiling.md
+  - wiki/concepts/communication/pcp-model.md
+  - wiki/concepts/communication/negative-dissociation.md
   - wiki/concepts/communication/installation-vs-persuasion.md
   - wiki/concepts/communication/attunement.md
   - wiki/concepts/communication/persuasion.md
@@ -97,6 +100,7 @@ The current source base supports a ten-part model:
 - The current Chase Hughes `90-second` source is strongest on pre-evaluative influence: it treats stillness, novelty, narrator-level phrasing, and permissioned depth shifts as ways to shape the conversation before explicit evaluation stabilizes.
 - The current Chase Hughes reading-minds source is strongest on elicitation and frame: it treats statements as disclosure tools, composure as influence infrastructure, and reduced neediness as a way to stabilize the meaning of the interaction.
 - The current Chase Hughes behavioral-framework source is broadest on the self-mastery and observation layer beneath communication: comfort, authority, behavioral profiling, and need-reading are treated as preconditions for stronger influence.
+- The current Chase Hughes identity-and-connection source is strongest on identity-and-permission mechanics: PCP, precommitment, indirect identity priming, and the claim that genuine human recognition becomes more valuable as synthetic interaction scales.
 
 # Gaps
 
@@ -106,6 +110,7 @@ The current source base supports a ten-part model:
 - Axelrod and Rove extend the branch into mass political persuasion, but the vault still needs a stronger treatment of democratic ethics, misinformation, and the public-cost side of highly optimized campaign influence.
 - The new Chase Hughes branch sharpens a separate ethical gap: the vault still needs a cleaner boundary between humane influence design and deliberate autonomy bypass.
 - The current Chase Hughes reading-minds source sharpens another gap: the vault still needs stronger evidence-based guidance on which behavior cues and interaction heuristics are genuinely reliable under pressure and which are overclaimed.
+- The newest Chase Hughes source sharpens a third gap: the vault still needs better ways to distinguish authentic connection from highly convincing pseudo-connection engineered through identity tactics.
 
 # Related Pages
 

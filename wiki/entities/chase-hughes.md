@@ -19,6 +19,7 @@ source_pages:
   - wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture.md
   - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
+  - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
 related:
   - wiki/concepts/productivity/future-self-prioritization.md
   - wiki/concepts/productivity/fear-goal-programming.md
@@ -36,6 +37,9 @@ related:
   - wiki/concepts/communication/interactional-authority.md
   - wiki/concepts/communication/behavioral-profiling.md
   - wiki/concepts/communication/social-needs-profiling.md
+  - wiki/concepts/communication/pcp-model.md
+  - wiki/concepts/communication/negative-dissociation.md
+  - wiki/concepts/others/childhood-development-triangle.md
   - wiki/concepts/others/emotional-gravity.md
   - wiki/syntheses/productivity/chase-hughes-goal-programming-framework.md
   - wiki/syntheses/others/chase-hughes-mask-and-compassion-framework.md
@@ -43,15 +47,16 @@ related:
   - wiki/syntheses/communication/chase-hughes-brain-capture-framework.md
   - wiki/syntheses/communication/chase-hughes-influence-and-confidence-framework.md
   - wiki/syntheses/communication/chase-hughes-behavioral-influence-framework.md
+  - wiki/syntheses/communication/chase-hughes-identity-and-permission-framework.md
 ---
 
 # Overview
 
-Chase Hughes is presented in this vault as a heuristic teacher of self-conditioning, behavioral interpretation, conflict response, high-risk influence design, and interactional confidence. His current presence in the wiki now has six layers: a productivity branch about future-self discipline and behavior installation, an `others` branch about masks, inversion patterns, projection, and compassion-first reading of defensive behavior, a communication branch about responding to bullies through de-escalation without humiliation, a second communication branch about first-90-second influence and narrator-level installation, a third communication branch about elicitation, frame control, emotional gravity, and confidence through self-forgiveness, and now a broader communication umbrella about self-mastery, observation, authority, social-need profiling, and influence as a behavioral system.
+Chase Hughes is presented in this vault as a heuristic teacher of self-conditioning, behavioral interpretation, conflict response, high-risk influence design, and interactional confidence. His current presence in the wiki now has seven layers: a productivity branch about future-self discipline and behavior installation, an `others` branch about masks, inversion patterns, projection, and compassion-first reading of defensive behavior, a communication branch about responding to bullies through de-escalation without humiliation, a second communication branch about first-90-second influence and narrator-level installation, a third communication branch about elicitation, frame control, emotional gravity, and confidence through self-forgiveness, a broader communication umbrella about self-mastery, observation, authority, social-need profiling, and influence as a behavioral system, and now a more explicit identity-and-permission branch about PCP, negative dissociation, childhood scripts, and human connection under AI saturation.
 
 # Role In This Vault
 
-Hughes opens the vault's first explicit productivity branch and now also anchors psychology-pattern, anti-bullying, influence-sequencing, confidence-through-interaction, and broader behavior-reading branches. Across all six, his contribution is less about formal science than about compact heuristics for noticing and shaping invisible drivers of behavior. The productivity side is about installing better action; the mask branch is about interpreting outward persona, shame pressure, and projection; the anti-bullying branch is about interrupting hostile behavior without becoming hostile in return; the first influence branch is about how authority, attention, identity, and depth can be shaped before explicit evaluation catches up; the next branch is about elicitation, composure, frame, and self-forgiveness as interaction tools; and the newest branch widens the whole picture into self-mastery, observation, behavioral profiling, social-needs diagnosis, and the attention risks of manipulative systems. The communication layers remain the most ethically unstable part of his vault presence because they repeatedly approach influence through lowered resistance, identity shaping, and gut-level state change.
+Hughes opens the vault's first explicit productivity branch and now also anchors psychology-pattern, anti-bullying, influence-sequencing, confidence-through-interaction, broader behavior-reading, and identity-permission branches. Across all seven, his contribution is less about formal science than about compact heuristics for noticing and shaping invisible drivers of behavior. The productivity side is about installing better action; the mask branch is about interpreting outward persona, shame pressure, and projection; the anti-bullying branch is about interrupting hostile behavior without becoming hostile in return; the first influence branch is about how authority, attention, identity, and depth can be shaped before explicit evaluation catches up; the next branch is about elicitation, composure, frame, and self-forgiveness as interaction tools; the broader communication branch widens the picture into self-mastery, observation, behavioral profiling, social-needs diagnosis, and the attention risks of manipulative systems; and the newest branch sharpens PCP, indirect identity priming, childhood contract carryover, and the claim that genuine human connection grows more valuable in an AI-heavy environment. The communication layers remain the most ethically unstable part of his vault presence because they repeatedly approach influence through lowered resistance, identity shaping, and gut-level state change.
 
 # Evidence In This Vault
 
@@ -71,6 +76,9 @@ Hughes opens the vault's first explicit productivity branch and now also anchors
 - State-and-presence layer: [[wiki/concepts/communication/interactional-authority|Interactional Authority]]
 - Observation layer: [[wiki/concepts/communication/behavioral-profiling|Behavioral Profiling]]
 - Identity-need layer: [[wiki/concepts/communication/social-needs-profiling|Social Needs Profiling]]
+- Perception-context-permission layer: [[wiki/concepts/communication/pcp-model|PCP Model]]
+- Indirect identity tactic: [[wiki/concepts/communication/negative-dissociation|Negative Dissociation]]
+- Developmental script layer: [[wiki/concepts/others/childhood-development-triangle|Childhood Development Triangle]]
 - Repetition-of-pain model: [[wiki/concepts/others/emotional-gravity|Emotional Gravity]]
 - Cross-domain overlap: [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - Performance overlap: [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
@@ -80,6 +88,7 @@ Hughes opens the vault's first explicit productivity branch and now also anchors
 - Distillation: [[wiki/syntheses/communication/chase-hughes-brain-capture-framework|Chase Hughes Brain Capture Framework]]
 - Distillation: [[wiki/syntheses/communication/chase-hughes-influence-and-confidence-framework|Chase Hughes Influence and Confidence Framework]]
 - Distillation: [[wiki/syntheses/communication/chase-hughes-behavioral-influence-framework|Chase Hughes Behavioral Influence Framework]]
+- Distillation: [[wiki/syntheses/communication/chase-hughes-identity-and-permission-framework|Chase Hughes Identity and Permission Framework]]
 
 # Related Pages
 
@@ -99,6 +108,9 @@ Hughes opens the vault's first explicit productivity branch and now also anchors
 - [[wiki/concepts/communication/interactional-authority|Interactional Authority]]
 - [[wiki/concepts/communication/behavioral-profiling|Behavioral Profiling]]
 - [[wiki/concepts/communication/social-needs-profiling|Social Needs Profiling]]
+- [[wiki/concepts/communication/pcp-model|PCP Model]]
+- [[wiki/concepts/communication/negative-dissociation|Negative Dissociation]]
+- [[wiki/concepts/others/childhood-development-triangle|Childhood Development Triangle]]
 - [[wiki/concepts/others/emotional-gravity|Emotional Gravity]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
@@ -108,3 +120,4 @@ Hughes opens the vault's first explicit productivity branch and now also anchors
 - [[wiki/syntheses/communication/chase-hughes-brain-capture-framework|Chase Hughes Brain Capture Framework]]
 - [[wiki/syntheses/communication/chase-hughes-influence-and-confidence-framework|Chase Hughes Influence and Confidence Framework]]
 - [[wiki/syntheses/communication/chase-hughes-behavioral-influence-framework|Chase Hughes Behavioral Influence Framework]]
+- [[wiki/syntheses/communication/chase-hughes-identity-and-permission-framework|Chase Hughes Identity and Permission Framework]]
