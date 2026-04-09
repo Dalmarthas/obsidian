@@ -9,8 +9,11 @@ tags:
   - writing
   - film
 source_pages:
+  - wiki/sources/2026-04-09-max-landis-on-good-screenplays.md
+  - wiki/sources/2026-04-09-29-common-screenwriting-mistakes.md
   - wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
+  - wiki/sources/2026-04-09-aaron-sorkin-on-the-social-network.md
   - wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-david-lynch-writing-summary.md
   - wiki/sources/2026-04-09-david-lynch-screenwriting-skeletons-and-scene-cards.md
@@ -25,11 +28,18 @@ source_pages:
   - wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions.md
   - wiki/sources/2026-04-09-michael-hauge-act-one-foundation-and-outer-motivation.md
   - wiki/sources/2026-04-09-simon-rich-comedy-premise-generation.md
+  - wiki/sources/2026-04-09-succession-writers-room-methodology.md
+  - wiki/sources/2026-04-09-believable-character-writing-methodologies.md
+  - wiki/sources/2026-04-09-screenwriters-on-overcoming-writers-block.md
+  - wiki/sources/2026-04-09-paul-thomas-anderson-on-screenwriting-and-storytelling.md
+  - wiki/sources/2026-04-09-screenwriters-on-outlining-approaches.md
 related:
   - wiki/concepts/filmmaking/arena-vs-story.md
+  - wiki/concepts/filmmaking/conflicting-perspectives.md
   - wiki/concepts/filmmaking/craft-mastery.md
   - wiki/concepts/filmmaking/genre-mastery.md
   - wiki/concepts/filmmaking/hero-goal-sequence.md
+  - wiki/concepts/filmmaking/outline-flexibility.md
   - wiki/concepts/filmmaking/outer-motivation.md
   - wiki/concepts/filmmaking/personal-doorway.md
   - wiki/concepts/filmmaking/premise-generation.md
@@ -40,19 +50,29 @@ related:
   - wiki/concepts/filmmaking/intention-and-obstacle.md
   - wiki/concepts/filmmaking/dialogue-as-music.md
   - wiki/concepts/filmmaking/character-driven-storytelling.md
+  - wiki/concepts/filmmaking/character-interviews.md
+  - wiki/concepts/filmmaking/screenplay-readability.md
   - wiki/concepts/filmmaking/text-and-subtext.md
   - wiki/concepts/filmmaking/visual-storytelling-first.md
   - wiki/concepts/filmmaking/screenplay-rewriting.md
+  - wiki/concepts/filmmaking/screenplay-economy.md
   - wiki/concepts/filmmaking/scene-card-method.md
+  - wiki/concepts/filmmaking/screenplay-diagnostics.md
   - wiki/concepts/filmmaking/story-propulsion.md
   - wiki/concepts/filmmaking/television-pilot-writing.md
+  - wiki/concepts/filmmaking/writers-room-craft.md
+  - wiki/concepts/filmmaking/showrunning.md
   - wiki/concepts/filmmaking/filmmaking.md
+  - wiki/concepts/creativity/creative-incubation.md
   - wiki/concepts/creativity/idea-development.md
   - wiki/concepts/creativity/creative-integrity.md
   - wiki/concepts/filmmaking/writing-process-and-revision.md
+  - wiki/syntheses/filmmaking/writers-block-recovery-framework.md
+  - wiki/syntheses/filmmaking/paul-thomas-anderson-screenwriting-framework.md
   - wiki/syntheses/filmmaking/screenplay-starting-checklist.md
   - wiki/syntheses/filmmaking/sorkin-screenwriting-framework.md
   - wiki/syntheses/filmmaking/duffer-pilot-development-framework.md
+  - wiki/syntheses/cross-source/screenwriting-outlining-models.md
   - wiki/syntheses/creativity/lynch-creative-framework.md
 ---
 
@@ -66,6 +86,7 @@ Screenwriting is the practice of building a dramatic blueprint for a visual medi
 - Up-front preparation affects whether setups, payoffs, and character turns can land cleanly.
 - Format matters because a screenplay is used operationally, not just interpretively.
 - Conflict, audience trust, and revision discipline determine whether the script actually plays as drama rather than staying a collection of ideas.
+- Landis adds another practical gate: the script must also survive as a reading experience for buyers, reps, and producers before anyone sees the finished film.
 - The branch now also shows that screenwriting sits between two pressures: structural clarity and atmospheric fidelity to the idea.
 - The branch now also contains a stronger TV-specific tension: feature advice is not enough when the script has to prove a recurring series machine.
 - Truby adds a third upstream pressure: before arguing about scenes or acts, the writer may need to ask whether the premise and genre design are strong enough to justify the draft at all.
@@ -79,11 +100,20 @@ Screenwriting is the practice of building a dramatic blueprint for a visual medi
 - Hauge adds an eleventh pressure: the first act can quietly sabotage the entire script if the hero's visible outer goal is blurry, the audience has not yet connected with ordinary life, or the story launches too hard before investment is formed.
 - A second Lynch source adds a twelfth pressure: the writer often needs a light memory scaffold that keeps the film visible without overcommitting to full scenes too early.
 - Simon Rich adds a thirteenth pressure: writers can cripple the process before structure even begins if they rely on rare inspiration instead of maintaining a repeatable system for generating many possible premises.
+- The `Succession` source adds a fourteenth pressure: even strong story ideas can die if room process, dialogue truth, and realism standards are not strong enough to sustain ensemble television writing.
+- The current character-methodologies source adds a fifteenth pressure: even structurally sound scripts can feel fake if the writer has not built enough empathy, contradiction, and behavioral plausibility into the characters.
+- The current writer's-block comparison source adds a sixteenth pressure: screenwriters also need a repeatable way to survive stalls without mistaking brute force for real progress.
+- The current Paul Thomas Anderson source adds a seventeenth pressure: even strong scripts can lose life if they become too literary, too overcontrolled, or too closed to actor and on-set discovery.
+- The current `Social Network` source adds an eighteenth pressure: real-world or topical material often needs to be reframed through timeless human conflict, and disputed truth can sometimes be used structurally instead of being artificially simplified.
+- The current outlining-comparison source adds a nineteenth pressure: even structure-heavy writers need an outline method flexible enough to expose pacing, sequence shape, and macro-rhythm without turning rules into a false substitute for story judgment.
+- The current `29 mistakes` source adds a twentieth pressure: many scripts fail not from one exotic flaw, but from recurring diagnostic patterns around soft concepts, weak external goals, rushed setup, thin vulnerability, flat stakes, and premature circulation of under-revised work.
+- The current Max Landis source adds a twenty-first pressure: even structurally sound scripts can die early if they are overwritten, dramatically static, unpleasant to read aloud, or careless about the difference between screenplay quality and industry outcome.
 
 # Evidence In This Vault
 
 - Foundational advice: [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]]
 - Expanded craft system: [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]]
+- Contested-truth case study: [[wiki/sources/2026-04-09-aaron-sorkin-on-the-social-network|Aaron Sorkin on The Social Network]]
 - Pilot-development system: [[wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary|Duffer Brothers Masterclass Complete Summary]]
 - Intuition-led filmmaking system: [[wiki/sources/2026-04-08-david-lynch-writing-summary|David Lynch Writing Summary]]
 - Skeleton-and-card screenwriting system: [[wiki/sources/2026-04-09-david-lynch-screenwriting-skeletons-and-scene-cards|David Lynch Screenwriting Skeletons and Scene Cards]]
@@ -98,9 +128,17 @@ Screenwriting is the practice of building a dramatic blueprint for a visual medi
 - Question-driven development system: [[wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions|Glenn Gers Six Essential Story Questions]]
 - Act One foundation system: [[wiki/sources/2026-04-09-michael-hauge-act-one-foundation-and-outer-motivation|Michael Hauge Act One Foundation and Outer Motivation]]
 - Comedy premise-generation system: [[wiki/sources/2026-04-09-simon-rich-comedy-premise-generation|Simon Rich Comedy Premise Generation]]
+- Ensemble truth-and-room system: [[wiki/sources/2026-04-09-succession-writers-room-methodology|Succession Writers' Room Methodology]]
+- Character-believability system: [[wiki/sources/2026-04-09-believable-character-writing-methodologies|Believable Character Writing Methodologies]]
+- Writer's-block recovery system: [[wiki/sources/2026-04-09-screenwriters-on-overcoming-writers-block|Screenwriters on Overcoming Writer's Block]]
+- Screenplay-economy and actor-space system: [[wiki/sources/2026-04-09-paul-thomas-anderson-on-screenwriting-and-storytelling|Paul Thomas Anderson on Screenwriting and Storytelling]]
+- Readability-first system: [[wiki/sources/2026-04-09-max-landis-on-good-screenplays|Max Landis on Good Screenplays]]
+- Outlining-comparison system: [[wiki/sources/2026-04-09-screenwriters-on-outlining-approaches|Screenwriters on Outlining Approaches]]
 - Arena diagnostic: [[wiki/concepts/filmmaking/arena-vs-story|Arena vs Story]]
 - Visual-first dialogue rule: [[wiki/concepts/filmmaking/visual-storytelling-first|Visual Storytelling First]]
 - Sequence engine: [[wiki/concepts/filmmaking/hero-goal-sequence|Hero Goal Sequence]]
+- Multi-account structure: [[wiki/concepts/filmmaking/conflicting-perspectives|Conflicting Perspectives]]
+- Flexible scaffold: [[wiki/concepts/filmmaking/outline-flexibility|Outline Flexibility]]
 - Visible finish line: [[wiki/concepts/filmmaking/outer-motivation|Outer Motivation]]
 - Question-stack diagnostic: [[wiki/concepts/filmmaking/six-essential-story-questions|Six Essential Story Questions]]
 - Professionalization layer: [[wiki/concepts/filmmaking/craft-mastery|Craft Mastery]]
@@ -108,22 +146,31 @@ Screenwriting is the practice of building a dramatic blueprint for a visual medi
 - Assignment-authenticity layer: [[wiki/concepts/filmmaking/personal-doorway|Personal Doorway]]
 - Premise-abundance layer: [[wiki/concepts/filmmaking/premise-generation|Premise Generation]]
 - Premise filter: [[wiki/concepts/filmmaking/premise-testing|Premise Testing]]
+- Diagnostic filter: [[wiki/concepts/filmmaking/screenplay-diagnostics|Screenplay Diagnostics]]
 - Transformation layer: [[wiki/concepts/filmmaking/transformation-in-storytelling|Transformation in Storytelling]]
 - Structure heuristic: [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]
 - Dramatic foundation: [[wiki/concepts/filmmaking/intention-and-obstacle|Intention and Obstacle]]
 - Audience model: [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
 - Dialogue model: [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
 - Character model: [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- Character excavation tool: [[wiki/concepts/filmmaking/character-interviews|Character Interviews]]
 - Implication model: [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
 - Revision model: [[wiki/concepts/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
+- Economy model: [[wiki/concepts/filmmaking/screenplay-economy|Screenplay Economy]]
+- Readability model: [[wiki/concepts/filmmaking/screenplay-readability|Screenplay Readability]]
 - Light-structure model: [[wiki/concepts/filmmaking/scene-card-method|Scene Card Method]]
 - Propulsion model: [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
 - Process model: [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - Pilot model: [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- Room model: [[wiki/concepts/filmmaking/writers-room-craft|Writers' Room Craft]]
+- Showrunning model: [[wiki/concepts/filmmaking/showrunning|Showrunning]]
 - Holistic production model: [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
+- Incubation model: [[wiki/concepts/creativity/creative-incubation|Creative Incubation]]
 - Ideation model: [[wiki/concepts/creativity/idea-development|Idea Development]]
 - Integrity model: [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - Actionable distillation: [[wiki/syntheses/filmmaking/screenplay-starting-checklist|Screenplay Starting Checklist]]
+- Blockage-recovery distillation: [[wiki/syntheses/filmmaking/writers-block-recovery-framework|Writers Block Recovery Framework]]
+- Economy-and-collaboration distillation: [[wiki/syntheses/filmmaking/paul-thomas-anderson-screenwriting-framework|Paul Thomas Anderson Screenwriting Framework]]
 - System-level distillation: [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
 - Television-specific distillation: [[wiki/syntheses/filmmaking/duffer-pilot-development-framework|Duffer Pilot Development Framework]]
 - Intuition-led distillation: [[wiki/syntheses/creativity/lynch-creative-framework|Lynch Creative Framework]]
@@ -146,13 +193,23 @@ Screenwriting is the practice of building a dramatic blueprint for a visual medi
 - Hauge sharpens an eleventh live tension: slow enough setup is needed for empathy and clarity, but too much pre-launch material can also become inertia if the script never coheres around the hero's visible aim.
 - The second Lynch source sharpens a twelfth live tension: skeletal planning can preserve freshness and flexibility, but it can also hide undeveloped scene experience if the writer mistakes a card map for a finished dramatic design.
 - Simon Rich sharpens a thirteenth live tension: abundant premise generation protects the writer from scarcity thinking, but it can also keep the work permanently upstream if no one idea is ever chosen and tested.
+- The `Succession` source sharpens a fourteenth live tension: realism and psychological truth protect a script from melodrama, but they can also become sterile if they are used to reject all heightened dramatic risk.
+- The current character-methodologies source sharpens a fifteenth live tension: depth helps believability, but too much fascination with interiority can still weaken the script if wants, scene pressure, and dramatic movement stay vague.
+- The current writer's-block comparison source sharpens a sixteenth live tension: professional output matters, but some stalls are better solved through incubation, project rotation, or non-linear re-entry than through stubborn forward force.
+- The current Paul Thomas Anderson source sharpens a seventeenth live tension: the screenplay must be strong enough to guide the film, but open enough not to suffocate actors, images, and discoveries that only appear in collaboration.
+- The current `Social Network` source sharpens an eighteenth live tension: ambiguity can respect the audience and preserve reality's messiness, but only if the script stays dramatically legible despite conflicting accounts.
+- The current outlining-comparison source sharpens a nineteenth live tension: rules and beat heuristics help diagnose structure, but once treated as law they can flatten the very discovery the outline was supposed to support.
+- The current `29 mistakes` source sharpens a twentieth live tension: diagnostic checklists can save a weak draft, but they can also become formula theater if the writer obeys every fix mechanically instead of understanding which underlying failure the note is pointing to.
+- The current Max Landis source sharpens a twenty-first live tension: scripts need readability and momentum on the page, but if that principle is applied crudely it can be mistaken for anti-style minimalism or page-count fetishism.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/craft-mastery|Craft Mastery]]
 - [[wiki/concepts/filmmaking/arena-vs-story|Arena vs Story]]
+- [[wiki/concepts/filmmaking/conflicting-perspectives|Conflicting Perspectives]]
 - [[wiki/concepts/filmmaking/genre-mastery|Genre Mastery]]
 - [[wiki/concepts/filmmaking/hero-goal-sequence|Hero Goal Sequence]]
+- [[wiki/concepts/filmmaking/outline-flexibility|Outline Flexibility]]
 - [[wiki/concepts/filmmaking/outer-motivation|Outer Motivation]]
 - [[wiki/concepts/filmmaking/personal-doorway|Personal Doorway]]
 - [[wiki/concepts/filmmaking/premise-generation|Premise Generation]]
@@ -163,18 +220,28 @@ Screenwriting is the practice of building a dramatic blueprint for a visual medi
 - [[wiki/concepts/filmmaking/intention-and-obstacle|Intention and Obstacle]]
 - [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
 - [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/character-interviews|Character Interviews]]
 - [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
 - [[wiki/concepts/filmmaking/visual-storytelling-first|Visual Storytelling First]]
 - [[wiki/concepts/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
+- [[wiki/concepts/filmmaking/screenplay-economy|Screenplay Economy]]
+- [[wiki/concepts/filmmaking/screenplay-readability|Screenplay Readability]]
 - [[wiki/concepts/filmmaking/scene-card-method|Scene Card Method]]
+- [[wiki/concepts/filmmaking/screenplay-diagnostics|Screenplay Diagnostics]]
 - [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
 - [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/writers-room-craft|Writers' Room Craft]]
+- [[wiki/concepts/filmmaking/showrunning|Showrunning]]
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
+- [[wiki/concepts/creativity/creative-incubation|Creative Incubation]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/syntheses/filmmaking/writers-block-recovery-framework|Writers Block Recovery Framework]]
+- [[wiki/syntheses/filmmaking/paul-thomas-anderson-screenwriting-framework|Paul Thomas Anderson Screenwriting Framework]]
 - [[wiki/syntheses/filmmaking/screenplay-starting-checklist|Screenplay Starting Checklist]]
 - [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework|Sorkin Screenwriting Framework]]
 - [[wiki/syntheses/filmmaking/duffer-pilot-development-framework|Duffer Pilot Development Framework]]
+- [[wiki/syntheses/cross-source/screenwriting-outlining-models|Screenwriting Outlining Models]]
 - [[wiki/syntheses/creativity/lynch-creative-framework|Lynch Creative Framework]]
 - [[index]]

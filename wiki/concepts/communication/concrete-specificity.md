@@ -11,9 +11,12 @@ tags:
   - persuasion
 source_pages:
   - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
+  - wiki/sources/2026-04-09-johnny-harris-explainer-storytelling-formula.md
 related:
   - wiki/entities/harry-dry.md
+  - wiki/entities/johnny-harris.md
   - wiki/concepts/business/copywriting.md
+  - wiki/concepts/communication/anchor-bridge-structure.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/persuasion.md
   - wiki/concepts/business/brand-strategy.md
@@ -36,10 +39,14 @@ Concrete specificity is the communication principle that messages land better wh
 - Harry Dry's branch argues that the reader should be able to visualize the line, check it against reality, and hear why it belongs uniquely to this product or brand.
 - The source also says facts are often the strongest raw material for persuasive language because they provide both structure and credibility.
 - Short paragraphs, contrast, and parallel structure help make specificity easier to perceive rather than burying it in noise.
+- The current Johnny Harris source adds a visual version of the same rule: the anchor has to be concrete enough that the audience can grasp it immediately rather than decode it abstractly.
+- It also sharpens the distinction between representative specificity and generic support visuals; the anchor works because it feels like the thing itself, not like illustrative filler.
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/communication/effective-communication|Effective Communication]], this page is more language-level and writing-specific.
+- The current Johnny Harris source widens the concept from sentence-level specificity to image-level specificity:
+  the explainer's first proof point should be intuitively legible and memorable on sight.
 - Compared with [[wiki/concepts/communication/persuasion|Persuasion]], this page focuses less on context and timing and more on the quality of the claim itself.
 - Compared with [[wiki/concepts/business/brand-strategy|Brand Strategy]], this page is downstream: strategy identifies the point, while concrete specificity determines whether the point survives contact with an actual reader.
 
@@ -53,7 +60,9 @@ Concrete specificity is the communication principle that messages land better wh
 
 - [[wiki/sources/2026-04-09-harry-dry-copywriting-tips|Harry Dry Copywriting Tips]]
 - [[wiki/entities/harry-dry|Harry Dry]]
+- [[wiki/entities/johnny-harris|Johnny Harris]]
 - [[wiki/concepts/business/copywriting|Copywriting]]
+- [[wiki/concepts/communication/anchor-bridge-structure|Anchor-Bridge Structure]]
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]]

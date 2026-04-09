@@ -2,17 +2,21 @@
 type: concept
 title: High-Performance Mindset
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 status: active
 tags:
   - concept
   - performance
   - mindset
 source_pages:
+  - wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self.md
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-rhonda-patrick-sleep-tips.md
 related:
+  - wiki/concepts/productivity/future-self-prioritization.md
+  - wiki/concepts/productivity/fear-goal-programming.md
+  - wiki/concepts/productivity/behavior-journaling.md
   - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/leadership/head-and-heart-harmony.md
@@ -38,12 +42,14 @@ High-performance mindset is the psychological operating system that allows a per
 - Hamilton pairs discipline with balance, arguing that recovery and diverse interests protect long-term performance.
 - Geno Auriemma adds the external-performance side of the same idea: train above game conditions, expect pressure, and build standards that survive fatigue.
 - The first health branch adds a physiological layer beneath the same theme: recovery is not just an attitude but also a sleep system shaped by circadian timing, environment, and the removal of avoidable nighttime disruption.
+- The current Chase Hughes source adds a self-conditioning layer: discipline is framed as future-self prioritization, early effort should harden into habit, and reminders, environmental changes, and journaling can be used to keep performance-oriented behavior from depending only on willpower.
 
 # Source Comparisons
 
 - Hamilton is strongest on the interior mindset: confidence, identity, failure recovery, and rituals that protect focus.
 - Auriemma is strongest on the behavioral enforcement side: hard standards, pressure practice, and commitment beyond baseline effort.
 - Rhonda Patrick adds a more concrete recovery layer: elite performance also depends on whether the body is getting enough high-quality sleep to restore cognition, mood, and adaptation.
+- The current Chase Hughes source is strongest on salience engineering: make the future self vivid, make the goal emotionally loaded, change the environment, and track behavior daily so consistency becomes easier to repeat.
 - Together these sources suggest that elite performance needs inward regulation, outwardly demanding systems, and a physical recovery base that is strong enough to support both.
 
 # Tensions / Open Questions
@@ -53,6 +59,9 @@ High-performance mindset is the psychological operating system that allows a per
 
 # Related Pages
 
+- [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
+- [[wiki/concepts/productivity/fear-goal-programming|FEAR Goal Programming]]
+- [[wiki/concepts/productivity/behavior-journaling|Behavior Journaling]]
 - [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]

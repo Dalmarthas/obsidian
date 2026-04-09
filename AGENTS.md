@@ -54,6 +54,9 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
 - `raw/`: landing zone for newly added source documents before ingest. New ingest discovery happens here.
 - `raw/inbox/`: canonical normalized raw sources after ingest.
 - `raw/assets/`: downloaded images, attachments, PDFs, and other source-adjacent files.
+- If a source depends on local images, screenshots, PDFs, or other attachments, store those files under `raw/assets/` rather than leaving them in the vault root.
+- Prefer one source-adjacent asset folder per source, usually `raw/assets/<source-slug>/`.
+- When assets are moved into `raw/assets/`, update the canonical raw note so its links point to the asset paths there.
 
 ### Wiki layer
 
@@ -337,17 +340,18 @@ If the user message is ambiguous, infer the most likely mode and proceed.
 3. If the raw source is primarily Russian, set the working language for human-facing wiki output to Russian while keeping schema-critical structure stable.
 4. If the raw source is a `.txt` file, convert it to `.md` before continuing.
 5. Read the source from `raw/`.
-6. Inventory the source's reusable content: frameworks, methods, distinctions, examples, caveats, and open questions.
-7. Scan the existing wiki for overlapping concepts or nearby branches before creating new pages.
-8. Clarify emphasis with the user only if the direction is materially ambiguous.
-9. Create or update the corresponding page in `wiki/sources/`.
-10. Update or create relevant concept, entity, and synthesis pages.
-11. Merge and sharpen overlapping concepts where two or more sources discuss the same idea.
-12. Create a comparison synthesis when the overlap is materially valuable.
-13. Run the completeness check.
-14. Move the canonical normalized raw source into `raw/inbox/` and ensure source references point to the final canonical path.
-15. Update `index.md`.
-16. Append an entry to `log.md`.
+6. If the source is image-derived or depends on local attachments, move those supporting files into `raw/assets/<source-slug>/` and update the raw note to point at the canonical asset paths.
+7. Inventory the source's reusable content: frameworks, methods, distinctions, examples, caveats, and open questions.
+8. Scan the existing wiki for overlapping concepts or nearby branches before creating new pages.
+9. Clarify emphasis with the user only if the direction is materially ambiguous.
+10. Create or update the corresponding page in `wiki/sources/`.
+11. Update or create relevant concept, entity, and synthesis pages.
+12. Merge and sharpen overlapping concepts where two or more sources discuss the same idea.
+13. Create a comparison synthesis when the overlap is materially valuable.
+14. Run the completeness check.
+15. Move the canonical normalized raw source into `raw/inbox/` and ensure source references point to the final canonical path.
+16. Update `index.md`.
+17. Append an entry to `log.md`.
 
 Expected behavior:
 

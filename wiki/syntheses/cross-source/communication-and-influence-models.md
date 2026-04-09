@@ -2,7 +2,7 @@
 type: synthesis
 title: Communication and Influence Models
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 status: active
 tags:
   - synthesis
@@ -18,9 +18,11 @@ basis:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
+  - wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/communication/tactical-empathy.md
+  - wiki/concepts/communication/installation-vs-persuasion.md
   - wiki/concepts/communication/attunement.md
   - wiki/concepts/communication/persuasion.md
   - wiki/concepts/leadership/leadership-communication.md
@@ -42,7 +44,7 @@ What shared model of communication and influence appears across George Stephanop
 The current source base supports a seven-part model:
 
 1. Shape the context before you push the message.
-   Good influence depends on preparation, timing, and environmental design rather than on verbal force alone.
+   Good influence depends on preparation, timing, environmental design, and the early management of authority and attention rather than on verbal force alone.
 
 2. Reduce ego so you can take perspective.
    Perspective-taking improves when communicators stop acting from power, certainty, or self-orientation.
@@ -70,8 +72,8 @@ The current source base supports a seven-part model:
 
 # Basis
 
-- Source pages: [[wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary|George Stephanopoulos Effective Communication Masterclass Complete Summary]], [[wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary|Chris Voss Negotiation Masterclass Master Summary]], [[wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary|Daniel Pink Persuasion Masterclass Complete Summary]], [[wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary|Axelrod Rove Political Campaign Masterclass Complete Summary]], [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]], [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary|Bob Iger Disney Leadership Masterclass Complete Summary]]
-- Canonical concepts: [[wiki/concepts/communication/effective-communication|Effective Communication]], [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]], [[wiki/concepts/communication/attunement|Attunement]], [[wiki/concepts/communication/persuasion|Persuasion]], [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
+- Source pages: [[wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary|George Stephanopoulos Effective Communication Masterclass Complete Summary]], [[wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary|Chris Voss Negotiation Masterclass Master Summary]], [[wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary|Daniel Pink Persuasion Masterclass Complete Summary]], [[wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary|Axelrod Rove Political Campaign Masterclass Complete Summary]], [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]], [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary|Bob Iger Disney Leadership Masterclass Complete Summary]], [[wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture|Chase Hughes 90-Second Brain Capture]]
+- Canonical concepts: [[wiki/concepts/communication/effective-communication|Effective Communication]], [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]], [[wiki/concepts/communication/installation-vs-persuasion|Installation vs Persuasion]], [[wiki/concepts/communication/attunement|Attunement]], [[wiki/concepts/communication/persuasion|Persuasion]], [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 
 # Comparisons
 
@@ -82,6 +84,7 @@ The current source base supports a seven-part model:
 - Clinton is strongest on human-scale persuasion through story, tone, and audience respect.
 - Iger is strongest on repeated strategic clarity inside institutional leadership.
 - Harry Dry is strongest on written influence at first contact: if the line is not vivid, falsifiable, and distinct, much of the later persuasion work never gets a chance to happen.
+- The current Chase Hughes `90-second` source is strongest on pre-evaluative influence: it treats stillness, novelty, narrator-level phrasing, and permissioned depth shifts as ways to shape the conversation before explicit evaluation stabilizes.
 
 # Gaps
 
@@ -89,6 +92,7 @@ The current source base supports a seven-part model:
 - The vault still needs sources from more adversarial debate traditions and from therapeutic or counseling communication traditions.
 - Pink broadens the branch into self-motivation and timing design, but the vault still needs stronger counter-models for explicitly coercive or zero-sum persuasion environments.
 - Axelrod and Rove extend the branch into mass political persuasion, but the vault still needs a stronger treatment of democratic ethics, misinformation, and the public-cost side of highly optimized campaign influence.
+- The new Chase Hughes branch sharpens a separate ethical gap: the vault still needs a cleaner boundary between humane influence design and deliberate autonomy bypass.
 
 # Related Pages
 

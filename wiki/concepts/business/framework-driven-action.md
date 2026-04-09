@@ -2,13 +2,14 @@
 type: concept
 title: Framework-Driven Action
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-09
 status: active
 tags:
   - concept
   - strategy
   - frameworks
 source_pages:
+  - wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self.md
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
@@ -20,6 +21,8 @@ source_pages:
   - wiki/sources/2026-04-08-mikhail-grebenyuk-produkt-polnaya-svodka.md
   - wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-million.md
 related:
+  - wiki/concepts/productivity/fear-goal-programming.md
+  - wiki/concepts/productivity/future-self-prioritization.md
   - wiki/concepts/business/brand-strategy.md
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/values-driven-companies.md
@@ -61,6 +64,7 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - Iger turns the framework into three repeated priorities that can govern meetings, capital allocation, and acquisitions.
 - Axelrod and Rove add the campaign version: a written plan, target universe, message filter, budget spread, and monitoring system prevent reactive chaos.
 - Schultz adds a values-driven execution model: priorities, stakeholder visibility, economic literacy, and crisis sequencing.
+- The current Chase Hughes source adds a self-directed execution model: define goals across brain, body, business, and behavior, then run each one through Focus, Emotional involvement, Agitation, and Repetition so the framework changes daily behavior instead of staying rhetorical.
 - The niche-selection branch adds a selection engine: generate options, score them, narrow them, and force contact with the market.
 - Grebenyuk's product branch adds an improvement engine: define key customer values, map the full client experience, surface weak emotional points, and prioritize changes by speed and force.
 - The Realnyi Million branch adds a compression engine: clear false ceilings, cut ballast, concentrate the machine through `5 единичек`, create visible `флажки`, and use control rhythms plus founder-profit discipline to keep the framework from staying rhetorical.
@@ -74,6 +78,7 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - Iger uses frameworks to make a large company legible to itself.
 - Axelrod and Rove use frameworks to make a campaign executable under pressure.
 - Schultz uses frameworks to align values, economics, and organizational behavior.
+- The current Chase Hughes source uses a framework as self-programming: the model is less about organizational legibility and more about making personal goals visible, emotional, repeated, and measurable enough to become habitual.
 - The niche branch uses a framework as a selection machine.
 - Grebenyuk's product branch uses a framework as a continuous improvement machine: not only to choose a direction, but to repeatedly redesign the offer and client journey after the direction is chosen.
 - The Realnyi Million branch uses a framework as disciplined reduction: fewer directions, fewer leaks, clearer proof points, and a tighter loop between owner behavior and business results.
@@ -88,6 +93,8 @@ Framework-driven action is the discipline of acting from an explicit model that 
 
 # Related Pages
 
+- [[wiki/concepts/productivity/fear-goal-programming|FEAR Goal Programming]]
+- [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]

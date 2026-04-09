@@ -9,17 +9,22 @@ tags:
   - ideas
   - creativity
 source_pages:
+  - wiki/sources/2026-04-09-fight-club-creative-process-and-adaptation.md
   - wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-david-lynch-writing-summary.md
   - wiki/sources/2026-04-09-david-lynch-screenwriting-skeletons-and-scene-cards.md
   - wiki/sources/2026-04-09-simon-rich-comedy-premise-generation.md
+  - wiki/sources/2026-04-09-screenwriters-on-overcoming-writers-block.md
+  - wiki/sources/2026-04-09-screenwriters-on-outlining-approaches.md
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
   - wiki/sources/2026-04-08-david-carson-design-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
 related:
+  - wiki/concepts/creativity/creative-incubation.md
   - wiki/concepts/filmmaking/filmmaking.md
+  - wiki/concepts/filmmaking/outline-flexibility.md
   - wiki/concepts/filmmaking/writing-process-and-revision.md
   - wiki/concepts/filmmaking/television-pilot-writing.md
   - wiki/concepts/creativity/creative-integrity.md
@@ -29,7 +34,7 @@ related:
 
 # What It Is
 
-Idea development is the process of noticing, catching, testing, externalizing, and gradually refining raw creative signals until they can support a real piece of work. In the current source base, ideas are not treated as one-shot lightning bolts. They are built through receptivity, capture, incubation, intuitive trust, lightweight written preservation, and progressively sharper refinement.
+Idea development is the process of noticing, catching, testing, externalizing, and gradually refining raw creative signals until they can support a real piece of work. In the current source base, ideas are not treated as one-shot lightning bolts. They are built through receptivity, capture, incubation, intuitive trust, lightweight written preservation, project rotation when needed, and progressively sharper refinement.
 
 # Why It Matters
 
@@ -39,6 +44,8 @@ Idea development is the process of noticing, catching, testing, externalizing, a
 - It preserves an overlap that now appears across film, television, fiction, and design.
 - It now makes clearer that development does not always begin with full paragraphs or outlines; sometimes a durable scene heading is enough to keep a living idea from disappearing.
 - It now also captures abundance as a skill: better ideas often come not from rarer inspiration, but from generating more candidates before filtering.
+- It now also captures a blockage distinction: sometimes the right development move is not harder effort, but incubation until the idea regains heat and clarity.
+- It now also captures a structural-development distinction: some ideas need lightweight external scaffolds early, but those scaffolds should stay loose enough not to flatten the living signal.
 
 # Evidence In This Vault
 
@@ -50,6 +57,10 @@ Idea development is the process of noticing, catching, testing, externalizing, a
 - Rhimes adds an idea-to-premise discipline: collect ideas constantly, wait for the ones that stick, then pressure-test them through specificity, 5 W's, and whether they can generate ongoing story.
 - Rushdie adds false starts, opening-sentence discovery, and writer's-block reframing: the next book often emerges by following the fragment that refuses to leave your mind.
 - Simon Rich adds volume and play: generate many premises, use `what if?` frameworks, mine ordinary absurdities, and let personal amusement act as an early signal for what deserves further attention.
+- The current screenwriter-comparison source adds a downstream development truth: when an idea or scene stops moving, project rotation, walking, music, and non-linear revisiting can keep the material maturing off-page until a better re-entry point appears.
+- The current outlining-comparison source adds a bridge between ideation and structure: many writers give the idea just enough beats, cards, sequence chunks, or notebook shape to make it testable without pretending it is fully known yet.
+- The current *Fight Club* source adds an emotional-voltage rule:
+  start with the scenes that already have blood in them, let provocative fragments lead, and test story material in casual conversation to see whether it sparks contagious response.
 
 # Source Comparisons
 
@@ -61,18 +72,27 @@ Idea development is the process of noticing, catching, testing, externalizing, a
 - Rhimes is strongest on premise pressure-testing: an idea becomes real when it survives specificity, verbal explanation, and the `can this be many episodes?` test.
 - Rushdie is strongest on necessity and entry point: keep testing doors until one opens, and treat stubborn recurring material as a sign that the real book may be there.
 - Simon Rich is strongest on premise abundance: if the writer can produce enough candidates through playful systems and observation, quality has more chances to emerge.
+- The current screenwriter-comparison source is strongest on blockage management during development: the idea may need incubation, not more immediate pressure.
+- The current outlining-comparison source is strongest on method pluralism during development: outline density can vary wildly as long as the writer externalizes enough structure to see whether the idea can carry narrative weight.
+- The current *Fight Club* source is strongest on social and visceral testing:
+  a live idea often announces itself by provoking strong teller energy and by making other people answer with stories of their own.
 
 # Tensions / Open Questions
 
 - Too much reverence for the initial spark can prevent necessary testing and revision.
 - Too much early evaluation can kill a promising idea before it has enough form to prove itself.
 - Too much emphasis on volume can also become empty productivity theater if the writer never commits to choosing and developing the few ideas that survive.
+- Respecting incubation can help ideas fuse, but it can also become a self-flattering story if the writer never returns to choose, test, and build.
+- Too much early structuring can cool the idea into dead competence, but too little structure can leave the idea exciting only in the abstract because it has never been pressure-tested for shape.
 
 # Related Pages
 
+- [[wiki/concepts/creativity/creative-incubation|Creative Incubation]]
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
+- [[wiki/concepts/filmmaking/outline-flexibility|Outline Flexibility]]
 - [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/entities/fight-club|Fight Club]]
 - [[wiki/concepts/filmmaking/premise-generation|Premise Generation]]
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/concepts/creativity/graphic-design|Graphic Design]]

@@ -10,11 +10,13 @@ tags:
   - worldview
   - creativity
 source_pages:
+  - wiki/sources/2026-04-09-george-r-r-martin-on-a-song-of-ice-and-fire-and-adaptation.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-william-c-martell-how-is-this-my-story.md
 related:
   - wiki/concepts/creativity/creative-integrity.md
   - wiki/concepts/creativity/idea-development.md
+  - wiki/concepts/filmmaking/adaptation-divergence.md
   - wiki/concepts/filmmaking/personal-doorway.md
   - wiki/concepts/filmmaking/immersive-research.md
   - wiki/concepts/filmmaking/fiction-writing.md
@@ -38,17 +40,20 @@ Writer worldview is the underlying picture of reality, human nature, history, an
 - He also broadens worldview through discovery: travel, reading globally, observing ordinary life, and increasing what you know beyond your default world.
 - Rushdie warns that generic writing often feels like anybody could have written it, which is a worldview problem as much as a sentence-level problem.
 - Martell adds a more assignment-facing version of the same issue: worldview and emotional truth are not only for self-originated work, but also for finding a viable doorway into externally given material.
+- Martin adds integrity-under-pressure: worldview is not only what you put into the work, but what you refuse to let fandom, adaptation drift, or external expectation rewrite once the long-horizon story logic is in place.
 
 # Tensions / Open Questions
 
 - Personal worldview deepens originality, but it can also harden into self-enclosure if the writer stops discovering beyond themselves.
 - Distinctiveness matters, but the line between influence and imitation is never completely stable.
 - A writer may also know their worldview in the abstract but still fail to locate a usable doorway into a specific project.
+- Listening too closely to fandom or adaptation feedback can erode long-horizon narrative integrity even when the external signal looks useful in the moment.
 
 # Related Pages
 
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
+- [[wiki/concepts/filmmaking/adaptation-divergence|Adaptation Divergence]]
 - [[wiki/concepts/filmmaking/personal-doorway|Personal Doorway]]
 - [[wiki/concepts/filmmaking/immersive-research|Immersive Research]]
 - [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]

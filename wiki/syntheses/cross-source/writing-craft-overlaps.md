@@ -10,6 +10,7 @@ tags:
   - comparison
 question: What key craft principles overlap across the main writing sources in this vault?
 basis:
+  - wiki/sources/2026-04-09-max-landis-on-good-screenplays.md
   - wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
@@ -28,14 +29,26 @@ basis:
   - wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions.md
   - wiki/sources/2026-04-09-michael-hauge-act-one-foundation-and-outer-motivation.md
   - wiki/sources/2026-04-09-simon-rich-comedy-premise-generation.md
+  - wiki/sources/2026-04-09-succession-writers-room-methodology.md
+  - wiki/sources/2026-04-09-believable-character-writing-methodologies.md
+  - wiki/sources/2026-04-09-screenwriters-on-overcoming-writers-block.md
+  - wiki/sources/2026-04-09-paul-thomas-anderson-on-screenwriting-and-storytelling.md
+  - wiki/sources/2026-04-09-screenwriters-on-outlining-approaches.md
   - wiki/concepts/filmmaking/story-propulsion.md
   - wiki/concepts/filmmaking/writing-process-and-revision.md
   - wiki/concepts/creativity/idea-development.md
+  - wiki/concepts/creativity/creative-incubation.md
+  - wiki/concepts/filmmaking/screenplay-readability.md
+  - wiki/concepts/filmmaking/screenplay-economy.md
 related:
+  - wiki/concepts/filmmaking/outline-flexibility.md
+  - wiki/concepts/filmmaking/screenplay-readability.md
   - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/screenplay-economy.md
   - wiki/concepts/filmmaking/scene-card-method.md
   - wiki/concepts/filmmaking/thriller-writing.md
   - wiki/concepts/creativity/creative-integrity.md
+  - wiki/concepts/creativity/creative-incubation.md
 ---
 
 # Question
@@ -44,7 +57,7 @@ What key craft principles overlap across the main writing sources in this vault?
 
 # Answer
 
-The current source base now supports eighteen recurring craft principles:
+The current source base now supports twenty-five recurring craft principles:
 
 1. Idea quality matters before execution volume.
    The Duffer Brothers, Lynch, and Baldacci all insist in different ways that weak or half-caught ideas create downstream problems that craft cannot fully rescue.
@@ -103,9 +116,27 @@ The current source base now supports eighteen recurring craft principles:
 19. Premise abundance is itself a craft advantage.
    Simon Rich sharpens an upstream truth that the roundtable and Duffer sources partly implied: writers improve their odds by generating many candidate premises through frameworks and observation before trusting the first acceptable idea.
 
+20. Truthful collaboration can be a craft force, not just a production convenience.
+   The `Succession` source sharpens a television-specific truth already latent in Rhimes and Sorkin: a room becomes valuable when it can widen possibility, challenge falseness, and then narrow toward the psychologically truest version of the scene, joke, or episode.
+
+21. Believable depth is built through empathy, contradiction, and point of view rather than through trait lists.
+   The current character-methodologies source sharpens a broad truth already present in Hauge, Gers, Rhimes, and Sorkin: characters feel more real when the writer understands each person's private logic, hypocrisy, and story-of-self, then translates that into want, behavior, and voice.
+
+22. Creative blockage is often better handled through incubation, mode-switching, and re-entry than through brute force.
+   The current screenwriter-comparison source sharpens an important process truth already latent in Lynch, Baldacci, Rushdie, Gers, and Simon Rich: when the work stalls, the best move may be to change projects, step away, ask lighter questions, or return through earlier pages until the living signal returns.
+
+23. A screenplay should stay economical enough to invite performance and collaboration.
+   The current Paul Thomas Anderson source sharpens an important medium truth already latent in the dialogue roundtable, the acting branch, and Scorsese: the script is strongest when it gives the film enough shape to live, but not so much literary control that actors, images, and on-set reality have no room left to complete it.
+
+24. Outlining works best as a flexible scaffold rather than as a law book.
+   The current outlining-comparison source sharpens a process truth already latent in the Duffer, Lynch, Truby, Edson, Hauge, and 2010 material: strong writers differ wildly in outline density, but they still externalize structure through cards, beats, notebooks, sequence pages, or midpoint targets so pacing and macro-shape can be judged early.
+
+25. A screenplay has to succeed as a reading experience before it can succeed as a production plan.
+   The current Max Landis source sharpens a practical truth latent in Paul Thomas Anderson, the dialogue roundtable, and the diagnostic branch: sparseness, clarity, readable dialogue, and obvious forward movement are not cosmetic polish, but part of whether the script survives first contact with real readers.
+
 # Basis
 
-- Source summaries: [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]], [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]], [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary|Dan Brown Masterclass Complete Summary]], [[wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary|Duffer Brothers Masterclass Complete Summary]], [[wiki/sources/2026-04-08-david-lynch-writing-summary|David Lynch Writing Summary]], [[wiki/sources/2026-04-09-david-lynch-screenwriting-skeletons-and-scene-cards|David Lynch Screenwriting Skeletons and Scene Cards]], [[wiki/sources/2026-04-08-david-baldacci-masterclass-summary|David Baldacci Masterclass Summary]], [[wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary|Salman Rushdie Writing Masterclass Complete Summary]], [[wiki/sources/2026-04-09-john-truby-screenwriting-and-story-structure|John Truby Screenwriting and Story Structure]], [[wiki/sources/2026-04-09-john-truby-screenwriting-mastery-and-endurance|John Truby Screenwriting Mastery and Endurance]], [[wiki/sources/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence|Eric Edson Screenplay Structure and Hero Goal Sequence]], [[wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions|Glenn Gers Six Essential Story Questions]], [[wiki/sources/2026-04-09-michael-hauge-act-one-foundation-and-outer-motivation|Michael Hauge Act One Foundation and Outer Motivation]]
+- Source summaries: [[wiki/sources/2026-04-09-max-landis-on-good-screenplays|Max Landis on Good Screenplays]], [[wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay|5 Simple Rules For Turning Your Cool Idea Into A Screenplay]], [[wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary|Aaron Sorkin Masterclass Complete Summary]], [[wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary|Dan Brown Masterclass Complete Summary]], [[wiki/sources/2026-04-08-duffer-brothers-masterclass-complete-summary|Duffer Brothers Masterclass Complete Summary]], [[wiki/sources/2026-04-08-david-lynch-writing-summary|David Lynch Writing Summary]], [[wiki/sources/2026-04-09-david-lynch-screenwriting-skeletons-and-scene-cards|David Lynch Screenwriting Skeletons and Scene Cards]], [[wiki/sources/2026-04-08-david-baldacci-masterclass-summary|David Baldacci Masterclass Summary]], [[wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary|Salman Rushdie Writing Masterclass Complete Summary]], [[wiki/sources/2026-04-09-john-truby-screenwriting-and-story-structure|John Truby Screenwriting and Story Structure]], [[wiki/sources/2026-04-09-john-truby-screenwriting-mastery-and-endurance|John Truby Screenwriting Mastery and Endurance]], [[wiki/sources/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence|Eric Edson Screenplay Structure and Hero Goal Sequence]], [[wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions|Glenn Gers Six Essential Story Questions]], [[wiki/sources/2026-04-09-michael-hauge-act-one-foundation-and-outer-motivation|Michael Hauge Act One Foundation and Outer Motivation]]
 - Shared concepts: [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]], [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]], [[wiki/concepts/creativity/idea-development|Idea Development]], [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 
 # Comparisons
@@ -136,6 +167,26 @@ The current source base now supports eighteen recurring craft principles:
   Rushdie adds long-form literary patience: false starts, discovering the right door, nightly rereading, and recognizing the moment when more revision may become blind surgery.
   The second Truby source adds a harder professional warning: many writers wash out because they expect shortcuts or validation before they have built enough craft.
   Gers adds a more adaptive and portable layer: rough placeholders, repeated questioning, and self-awareness about actual working conditions can be a valid process system rather than a sign of amateurism.
+  The `Succession` source adds a collaborative truth-seeking loop: open exploration, egoless pitching, narrowing toward what feels real, and using deadlines or readings to force imperfect work forward.
+
+- On blockage and incubation:
+  The current screenwriter-comparison source is strongest on normalizing writer's block and recommending project rotation, off-page thinking, and non-linear re-entry.
+  Lynch overlaps through protected daydreaming and idea receptivity.
+  Baldacci overlaps through percolation and side movement.
+  Rushdie overlaps through false starts and recurring fragments.
+  Simon Rich overlaps upstream through abundance, which reduces scarcity-driven paralysis before block fully hardens.
+
+- On screenplay economy and collaboration:
+  The current Paul Thomas Anderson source is strongest on treating the screenplay as a lean blueprint rather than prose.
+  The dialogue roundtable overlaps through aggressive cutting and visual-first scene design.
+  The acting source overlaps through performability and precision from the actor's side.
+  Scorsese overlaps through the idea that the script is a starting architecture that keeps evolving through rehearsal, shooting, and editing.
+
+- On page readability:
+  The current Max Landis source is strongest on the industry-reader test: a script has to be sparse, clear, forward-moving, and enjoyable enough on the page that someone wants to keep reading it.
+  Paul Thomas Anderson overlaps through blueprint discipline and anti-literary bloat.
+  The dialogue roundtable overlaps through oral testing and scene trimming.
+  The `29 mistakes` source overlaps negatively by naming the recurring weaknesses that make scripts feel dead, foggy, or exhausting before production ever enters the picture.
 
 - On light scaffolding:
   Lynch is strongest on cards and skeletons as memory architecture.
@@ -143,6 +194,11 @@ The current source base now supports eighteen recurring craft principles:
   Truby overlaps through scene-sequence planning before dialogue polish.
   Edson overlaps through modular goal units that make change visible at the sequence level.
   Together they imply that pre-draft structure can stay modular and flexible rather than arriving as one dense monolith.
+
+- On outlining methods:
+  The 2010 article is strongest on classical pre-draft certainty.
+  The current outlining-comparison source is strongest on method pluralism: some writers outline extensively, some only to the midpoint, some delay formal outlining, but almost all still treat structure as the story's backbone.
+  Hauge and Edson overlap by showing why this matters: the outline earns its keep when it clarifies empathy, visible goals, reversals, and rhythm rather than when it merely imitates formula.
 
 - On premise abundance:
   Simon Rich is strongest on high-volume generation, playful prompts, and observation-driven comedy engines.
@@ -162,6 +218,13 @@ The current source base now supports eighteen recurring craft principles:
   Sorkin overlaps through objective and obstacle.
   Together they imply that emotional truth usually becomes legible through clearer dramatic questions rather than through vaguer `depth`.
 
+- On believable character depth:
+  The current character-methodologies source is strongest on empathy, hypocrisy, multiple POVs, and character interviews as tools for making people feel psychologically real.
+  Gers overlaps through treating each character as if they were the protagonist of their own story.
+  Hauge overlaps through earning audience empathy before leaning on flaw or wound.
+  Sorkin overlaps through revealing character in the tactics used against obstacles.
+  Together they imply that `depth` is best treated as an effect created through want, contradiction, and scene behavior rather than as a dossier of traits.
+
 - On authenticity inside assignment work:
   Martell is strongest on the professional version of authenticity: the writer still needs a personal doorway even when the material is assigned, commercial, or generic on its face.
   Lynch overlaps through fidelity to the inner spark.
@@ -178,7 +241,8 @@ The current source base now supports eighteen recurring craft principles:
   Sorkin is strongest on musicality and dramatic velocity.
   Rhimes is strongest on subtextual naturalism and anti-therapy-speak dialogue.
   The current dialogue roundtable is strongest on visual-first scene design, ruthless trimming, and grounding lines in objective rather than exposition.
-  Together they imply that better dialogue is often the result of better scene pressure and stronger cuts rather than of simply writing cleverer lines.
+  The `Succession` source is strongest on anti-transferability and self-deception: lines get better when they could only belong to this character in this status game and when the scene tracks what the speaker is hiding from themselves as well as others.
+  Together they imply that better dialogue is often the result of better scene pressure, sharper character specificity, and stronger cuts rather than of simply writing cleverer lines.
 
 - On integrity:
   Lynch is the hardest-line defender of fidelity to the idea.
@@ -217,6 +281,8 @@ The current source base now supports eighteen recurring craft principles:
 
 - [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
 - [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/creativity/creative-incubation|Creative Incubation]]
+- [[wiki/concepts/filmmaking/screenplay-economy|Screenplay Economy]]
 - [[wiki/concepts/filmmaking/scene-card-method|Scene Card Method]]
 - [[wiki/concepts/filmmaking/premise-generation|Premise Generation]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]

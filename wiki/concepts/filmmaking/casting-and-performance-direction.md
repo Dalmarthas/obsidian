@@ -2,7 +2,7 @@
 type: concept
 title: Casting and Performance Direction
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 status: active
 tags:
   - concept
@@ -13,9 +13,11 @@ source_pages:
   - wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-david-lynch-writing-summary.md
   - wiki/sources/2026-04-08-kevin-spacey-acting-masterclass-master-summary.md
+  - wiki/sources/2026-04-09-paul-thomas-anderson-on-screenwriting-and-storytelling.md
 related:
   - wiki/concepts/filmmaking/acting-craft.md
   - wiki/concepts/filmmaking/filmmaking.md
+  - wiki/concepts/filmmaking/screenplay-economy.md
   - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/creativity/creative-integrity.md
   - wiki/syntheses/filmmaking/scorsese-filmmaking-framework.md
@@ -38,6 +40,7 @@ Casting and performance direction is the work of choosing the right human beings
 - Scorsese also argues that directors must orient actors because films are shot out of sequence, and that rehearsal is partly a writing process where scenes can open up.
 - Lynch adds the humane-set principle: actors do better work when they feel safe enough to explore rather than policed into self-protection.
 - The acting source adds the actor-side discipline: reacting truthfully, serving the writing, mapping character arc and knowledge, and staying open to discoveries from text, tasks, masks, and direction.
+- The current Paul Thomas Anderson source adds a writer-director flexibility layer: scripts should leave space for actors, and line changes or on-set adaptations can be gains in realism rather than losses of authorial control.
 
 # Source Comparisons
 
@@ -45,16 +48,19 @@ Casting and performance direction is the work of choosing the right human beings
 - Scorsese is also strongest on long-term trust: recurring collaborators can take bigger risks because the shared language is already built.
 - Lynch is strongest on psychological climate: fear contracts performance, while kindness and room to fail unlock better work.
 - The acting source is strongest on the performer's internal labor: textual precision, stake-raising, arc mapping, and the difference between indicating emotion and actually living the scene.
+- The current Paul Thomas Anderson source is strongest on the script-side precondition: give the actor a lean, playable blueprint and do not confuse over-explanation with support.
 
 # Tensions / Open Questions
 
 - Demanding authenticity can become narrow if it is interpreted as only casting obvious matches rather than finding actors capable of transformation.
 - Too much exploration can waste time or blur the film's shape; too much control can flatten the very surprise that makes performance live.
+- The current Paul Thomas Anderson source sharpens a related tension: actor freedom can deepen the scene, but only if the writer-director still knows what is essential and what can safely change.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
 - [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
+- [[wiki/concepts/filmmaking/screenplay-economy|Screenplay Economy]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]

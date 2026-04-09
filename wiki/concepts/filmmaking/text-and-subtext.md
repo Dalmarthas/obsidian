@@ -13,6 +13,7 @@ source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-screenwriting-roundtable-on-dialogue-craft.md
+  - wiki/sources/2026-04-09-succession-writers-room-methodology.md
 related:
   - wiki/concepts/filmmaking/dialogue-as-music.md
   - wiki/concepts/filmmaking/visual-storytelling-first.md
@@ -39,18 +40,21 @@ Text and subtext is the distinction between what characters literally say and wh
 - Sorkin supports the same principle indirectly by hiding exposition inside conflict, trusting the audience, and avoiding repetition of what viewers already understand.
 - The dialogue roundtable adds two useful refinements: misunderstanding itself can be a technique, and subtext gets stronger when visual action and scene objective are doing more of the storytelling load.
 - Across both sources, better dialogue lets implication, performance, silence, and scene context carry part of the meaning load.
+- The `Succession` source sharpens the self-deception layer: characters often speak from a false story about themselves, so the scene's force comes from the tension between the spoken line, the hidden motive, and the status game underneath.
 
 # Source Comparisons
 
 - Rhimes is strongest on naturalistic implication: people talk around the thing, cover the thing, or reveal themselves unintentionally.
 - Sorkin is strongest on dramatic concealment through velocity and pressure: the information is there, but it is not served as inert explanation.
 - The dialogue roundtable is strongest on practical scene design: if characters are saying exactly what they mean, the writer should often look first at missing objective, missing conflict, or missing visual storytelling.
+- `Succession` is strongest on `truth under the truth`: dialogue becomes richer when the writer tracks what the character cannot admit to themselves as well as what they are hiding from everyone else.
 
 # Tensions / Open Questions
 
 - Too much surface clarity kills dramatic life, but too much concealment can create confusion if the audience loses the scene's actual stakes.
 - Naturalism is not the only goal; highly stylized dialogue can still preserve subtext if the underlying pressure remains legible.
 - Persistent misunderstanding can add realism and conflict, but if overused it can start to feel like writerly stalling instead of organic human friction.
+- Self-deception also has limits: if every character is always opaque, the audience can lose track of emotional orientation instead of feeling invited into complexity.
 
 # Related Pages
 

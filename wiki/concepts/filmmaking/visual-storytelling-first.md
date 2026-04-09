@@ -11,9 +11,11 @@ tags:
   - visuals
   - dialogue
 source_pages:
+  - wiki/sources/2026-04-09-fight-club-creative-process-and-adaptation.md
   - wiki/sources/2026-04-09-screenwriting-roundtable-on-dialogue-craft.md
 related:
   - wiki/concepts/creativity/visual-literacy.md
+  - wiki/concepts/filmmaking/externalizing-interiority.md
   - wiki/concepts/filmmaking/dialogue-as-music.md
   - wiki/concepts/filmmaking/text-and-subtext.md
   - wiki/concepts/filmmaking/screenwriting.md
@@ -36,10 +38,14 @@ Visual storytelling first is the rule that a screenplay should convey story pres
 - The same source also warns against `talking heads` scenes where the visual layer has stopped carrying meaning.
 - Dialogue improves when the writer cuts redundancy and lets action, staging, silence, or conflict do more of the work.
 - This principle overlaps with subtext because once the surface line stops carrying all the information, implication and performance become more important.
+- The current *Fight Club* source adds an adaptation-specific version:
+  inner monologue had to be converted into behavior, material culture, scene friction, and visible contradiction rather than being carried over literally.
 
 # Source Comparisons
 
 - The current dialogue roundtable is strongest on the writing-side version of the rule: if dialogue is doing too much, the scene design is probably weak.
+- The current *Fight Club* source is strongest on the adaptation side of the same rule:
+  visual storytelling is not only aesthetic preference, but the medium's way of carrying psychological material that prose can keep inside the head.
 - [[wiki/concepts/creativity/visual-literacy|Visual Literacy]] overlaps at the filmmaking-language level by arguing that images already carry meaning before words explain them.
 - [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]] overlaps at the dramatic-speech level: when visual and situational context are stronger, spoken lines no longer need to say everything literally.
 
@@ -52,6 +58,7 @@ Visual storytelling first is the rule that a screenplay should convey story pres
 # Related Pages
 
 - [[wiki/concepts/creativity/visual-literacy|Visual Literacy]]
+- [[wiki/concepts/filmmaking/externalizing-interiority|Externalizing Interiority]]
 - [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
 - [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
 - [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]

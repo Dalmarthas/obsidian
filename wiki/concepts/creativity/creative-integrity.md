@@ -20,11 +20,14 @@ source_pages:
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-william-c-martell-how-is-this-my-story.md
   - wiki/sources/2026-04-09-chris-gore-hollywood-studio-system-and-indie-film.md
+  - wiki/sources/2026-04-09-paul-thomas-anderson-on-screenwriting-and-storytelling.md
+  - wiki/sources/2026-04-09-todd-phillips-on-joker.md
 related:
   - wiki/concepts/filmmaking/acting-craft.md
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/creativity/idea-development.md
   - wiki/concepts/filmmaking/factory-filmmaking.md
+  - wiki/concepts/filmmaking/trojan-horse-storytelling.md
   - wiki/concepts/filmmaking/personal-doorway.md
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/business/brand-stewardship.md
@@ -58,6 +61,8 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - Rushdie adds artistic necessity: write the books you cannot avoid writing, keep the work tied to your deepest real motives, and resist genericity by becoming more idiosyncratically yourself.
 - Martell adds the assignment-writing version of integrity: even commercial or work-for-hire material needs an honest doorway, otherwise the pages become mechanical and the writer starts hollowing themselves out.
 - Chris Gore adds the studio-system version: originality also dies when institutions optimize too heavily for franchise safety, committee approval, and global smoothing.
+- The current Paul Thomas Anderson source adds a less declarative and more craft-practical version: trust what feels true for the character, do not over-polish the life out of the page, and stay open to collaborative improvements instead of guarding every sentence from change.
+- The current Todd Phillips source adds a strategic-market version: integrity can include using a mainstream comic-book shell to protect a riskier character study, as long as the deeper film is not diluted into franchise autopilot.
 
 # Source Comparisons
 
@@ -72,6 +77,8 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - Rushdie frames it as artistic irreducibility: the work should come from a worldview and necessity that other people cannot counterfeit for you.
 - Martell frames it as project fit and reframing: the writer may not originate the assignment, but still needs to find the part that is genuinely theirs.
 - Gore frames it systemically: creative integrity is not only an artist's private discipline, but also something whole production cultures can either protect or erode.
+- The current Paul Thomas Anderson source frames it as lived authenticity under collaboration: the work stays honest not by freezing the text, but by keeping character truth and instinct alive even while actors and production reality reshape the execution.
+- The current Todd Phillips source frames it as market-aware integrity: the artist may use commercial packaging tactically without allowing the packaging to decide the film's moral, tonal, or psychological center.
 
 # Tensions / Open Questions
 
@@ -79,6 +86,8 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - Commercial and collaborative contexts often require negotiation, so the hard question is which compromises clarify the work and which ones hollow it out.
 - Martell sharpens a further tension: if a writer refuses every project without immediate personal alignment, they may confuse integrity with avoidance.
 - Gore sharpens a parallel institutional tension: safety can preserve capital in the short term while hollowing out the originality and audience trust the system eventually depends on.
+- The current Paul Thomas Anderson source sharpens another tension: too much attachment to phrasing can masquerade as integrity even when it is really fear of the work evolving into something more alive.
+- The current Todd Phillips source sharpens a further tension: using an existing property as access can protect daring work, but it can also blur whether the film is truly subversive or simply better-packaged brand exploitation.
 
 # Related Pages
 
@@ -86,6 +95,7 @@ Creative integrity is the discipline of staying faithful to the living core of a
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
 - [[wiki/concepts/filmmaking/factory-filmmaking|Factory Filmmaking]]
+- [[wiki/concepts/filmmaking/trojan-horse-storytelling|Trojan Horse Storytelling]]
 - [[wiki/concepts/filmmaking/personal-doorway|Personal Doorway]]
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]

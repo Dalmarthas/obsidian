@@ -1495,3 +1495,456 @@ Pages touched:
 - [[wiki/syntheses/filmmaking/chris-gore-hollywood-and-indie-framework]]
 - [[index]]
 - [[.obsidian/workspace.json]]
+
+## [2026-04-09 13:19] ingest | Succession Writers' Room Methodology
+
+Summary: Ingested a new English television-writing source about `Succession` and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-succession-writers-room-methodology]], a new entity page at [[wiki/entities/succession]], and a new synthesis page at [[wiki/syntheses/filmmaking/succession-writing-framework]]. Deepened [[wiki/concepts/filmmaking/writers-room-craft]], [[wiki/concepts/filmmaking/showrunning]], [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/dialogue-as-music]], [[wiki/concepts/filmmaking/text-and-subtext]], [[wiki/concepts/filmmaking/immersive-research]], [[wiki/concepts/filmmaking/writing-process-and-revision]], [[wiki/concepts/filmmaking/screenwriting]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the TV-writing branch now captures open-then-narrow room process, psychologically specific ensemble writing, anti-transferable humor, realism-through-research, and a stronger truthfulness standard. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-succession-writers-room-methodology]]
+- [[wiki/sources/2026-04-09-succession-writers-room-methodology]]
+- [[wiki/entities/succession]]
+- [[wiki/concepts/filmmaking/writers-room-craft]]
+- [[wiki/concepts/filmmaking/showrunning]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/dialogue-as-music]]
+- [[wiki/concepts/filmmaking/text-and-subtext]]
+- [[wiki/concepts/filmmaking/immersive-research]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/syntheses/filmmaking/succession-writing-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 13:27] ingest | Believable Character Writing Methodologies
+
+Summary: Ingested a new English character-writing source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-believable-character-writing-methodologies]], a new concept page at [[wiki/concepts/filmmaking/character-interviews]], and a new synthesis page at [[wiki/syntheses/filmmaking/believable-character-writing-framework]]. Deepened [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/intention-and-obstacle]], [[wiki/concepts/filmmaking/immersive-research]], [[wiki/concepts/filmmaking/writing-process-and-revision]], [[wiki/concepts/filmmaking/screenwriting]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the writing branch now captures empathy-for-every-character, hypocrisy as realism, multiple-POV depth, character interviews, and the difference between character dossiers and believable scene behavior. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-believable-character-writing-methodologies]]
+- [[wiki/sources/2026-04-09-believable-character-writing-methodologies]]
+- [[wiki/concepts/filmmaking/character-interviews]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/intention-and-obstacle]]
+- [[wiki/concepts/filmmaking/immersive-research]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/syntheses/filmmaking/believable-character-writing-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 13:43] ingest | Screenwriters on Overcoming Writer's Block
+
+Summary: Ingested a new English composite screenwriting source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-screenwriters-on-overcoming-writers-block]], a new concept page at [[wiki/concepts/creativity/creative-incubation]], and a new synthesis page at [[wiki/syntheses/filmmaking/writers-block-recovery-framework]]. Deepened [[wiki/concepts/filmmaking/protect-the-process]], [[wiki/concepts/creativity/idea-development]], [[wiki/concepts/filmmaking/writing-process-and-revision]], [[wiki/concepts/filmmaking/screenwriting]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the writing branch now captures writer's block normalization, project rotation, off-page incubation, and non-linear re-entry as canonical process knowledge rather than source-local advice. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-screenwriters-on-overcoming-writers-block]]
+- [[wiki/sources/2026-04-09-screenwriters-on-overcoming-writers-block]]
+- [[wiki/concepts/creativity/creative-incubation]]
+- [[wiki/concepts/filmmaking/protect-the-process]]
+- [[wiki/concepts/creativity/idea-development]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/syntheses/filmmaking/writers-block-recovery-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 13:51] ingest | Bong Joon-Ho on Parasite and Story Construction
+
+Summary: Ingested a new English filmmaking source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-bong-joon-ho-on-parasite-and-story-construction]], a new entity page at [[wiki/entities/bong-joon-ho]], a new concept page at [[wiki/concepts/filmmaking/spatial-storytelling]], and a new synthesis page at [[wiki/syntheses/filmmaking/bong-joon-ho-parasite-framework]]. Deepened [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/setting-as-character]], [[wiki/concepts/creativity/visual-literacy]], and [[wiki/concepts/filmmaking/filmmaking]] so the filmmaking branch now captures interaction-first characterization, moral ambiguity, family pressure, architectural suspense, and universality-through-specificity as compiled vault knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-bong-joon-ho-on-parasite-and-story-construction]]
+- [[wiki/sources/2026-04-09-bong-joon-ho-on-parasite-and-story-construction]]
+- [[wiki/entities/bong-joon-ho]]
+- [[wiki/concepts/filmmaking/spatial-storytelling]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/setting-as-character]]
+- [[wiki/concepts/creativity/visual-literacy]]
+- [[wiki/concepts/filmmaking/filmmaking]]
+- [[wiki/syntheses/filmmaking/bong-joon-ho-parasite-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 13:58] ingest | Paul Thomas Anderson on Screenwriting and Storytelling
+
+Summary: Ingested a new English screenwriting source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-paul-thomas-anderson-on-screenwriting-and-storytelling]], a new entity page at [[wiki/entities/paul-thomas-anderson]], a new concept page at [[wiki/concepts/filmmaking/screenplay-economy]], and a new synthesis page at [[wiki/syntheses/filmmaking/paul-thomas-anderson-screenwriting-framework]]. Deepened [[wiki/concepts/creativity/creative-integrity]], [[wiki/concepts/filmmaking/screenwriting]], [[wiki/concepts/filmmaking/writing-process-and-revision]], [[wiki/concepts/filmmaking/acting-craft]], [[wiki/concepts/filmmaking/casting-and-performance-direction]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the writing branch now captures personal rhythm, screenplay economy, productive imperfection, character pushback, and collaborative mutability as compiled vault knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-paul-thomas-anderson-on-screenwriting-and-storytelling]]
+- [[wiki/sources/2026-04-09-paul-thomas-anderson-on-screenwriting-and-storytelling]]
+- [[wiki/entities/paul-thomas-anderson]]
+- [[wiki/concepts/filmmaking/screenplay-economy]]
+- [[wiki/concepts/creativity/creative-integrity]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/concepts/filmmaking/acting-craft]]
+- [[wiki/concepts/filmmaking/casting-and-performance-direction]]
+- [[wiki/syntheses/filmmaking/paul-thomas-anderson-screenwriting-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 14:03] ingest | Aaron Sorkin on The Social Network
+
+Summary: Ingested a new English Aaron Sorkin source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-aaron-sorkin-on-the-social-network]] and a new concept page at [[wiki/concepts/filmmaking/conflicting-perspectives]]. Deepened [[wiki/entities/aaron-sorkin]], [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework]], [[wiki/concepts/filmmaking/audience-as-collaborator]], [[wiki/concepts/filmmaking/immersive-research]], [[wiki/concepts/filmmaking/intention-and-obstacle]], [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/dialogue-as-music]], and [[wiki/concepts/filmmaking/screenwriting]] so the Sorkin branch now captures conflicting narrators, evidence-backed ambiguity, audience autonomy, antihero empathy, and rehearsal-heavy dialogue precision as compiled vault knowledge rather than source-local notes. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-aaron-sorkin-on-the-social-network]]
+- [[wiki/sources/2026-04-09-aaron-sorkin-on-the-social-network]]
+- [[wiki/concepts/filmmaking/conflicting-perspectives]]
+- [[wiki/entities/aaron-sorkin]]
+- [[wiki/syntheses/filmmaking/sorkin-screenwriting-framework]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator]]
+- [[wiki/concepts/filmmaking/immersive-research]]
+- [[wiki/concepts/filmmaking/intention-and-obstacle]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/dialogue-as-music]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 14:10] ingest | Todd Phillips on Joker
+
+Summary: Ingested a new English Todd Phillips filmmaking source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-todd-phillips-on-joker]], a new entity page at [[wiki/entities/todd-phillips]], a new concept page at [[wiki/concepts/filmmaking/trojan-horse-storytelling]], and a new synthesis page at [[wiki/syntheses/filmmaking/todd-phillips-joker-framework]]. Deepened [[wiki/concepts/filmmaking/filmmaking]], [[wiki/concepts/filmmaking/factory-filmmaking]], [[wiki/concepts/creativity/creative-integrity]], [[wiki/concepts/filmmaking/character-driven-storytelling]], and [[wiki/concepts/filmmaking/genre-mastery]] so the filmmaking branch now captures comic-book property as strategic access, grounded villain-myth design, antihero empathy without absolution, and the contrast between Trojan-horse risk and factory-safe IP handling. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-todd-phillips-on-joker]]
+- [[wiki/sources/2026-04-09-todd-phillips-on-joker]]
+- [[wiki/entities/todd-phillips]]
+- [[wiki/concepts/filmmaking/trojan-horse-storytelling]]
+- [[wiki/concepts/filmmaking/filmmaking]]
+- [[wiki/concepts/filmmaking/factory-filmmaking]]
+- [[wiki/concepts/creativity/creative-integrity]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/genre-mastery]]
+- [[wiki/syntheses/filmmaking/todd-phillips-joker-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 14:25] ingest | Creating The Sopranos
+
+Summary: Ingested a new English television-writing source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-creating-the-sopranos]], a new entity page at [[wiki/entities/the-sopranos]], a new concept page at [[wiki/concepts/filmmaking/thematic-storyline-unity]], and a new synthesis page at [[wiki/syntheses/filmmaking/the-sopranos-writing-framework]]. Deepened [[wiki/concepts/filmmaking/showrunning]], [[wiki/concepts/filmmaking/writers-room-craft]], [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/audience-as-collaborator]], and [[wiki/concepts/filmmaking/screenplay-economy]] so the TV branch now captures anti-formula prestige storytelling, thematic A/B/C/D episode structure, anecdote-driven room discovery, morally ambiguous protagonists, and the refusal of least-offensive programming as compiled vault knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-creating-the-sopranos]]
+- [[wiki/sources/2026-04-09-creating-the-sopranos]]
+- [[wiki/entities/the-sopranos]]
+- [[wiki/concepts/filmmaking/thematic-storyline-unity]]
+- [[wiki/concepts/filmmaking/showrunning]]
+- [[wiki/concepts/filmmaking/writers-room-craft]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator]]
+- [[wiki/concepts/filmmaking/screenplay-economy]]
+- [[wiki/syntheses/filmmaking/the-sopranos-writing-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 14:31] ingest | Screenwriters on Outlining Approaches
+
+Summary: Ingested a new English composite screenwriting source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-screenwriters-on-outlining-approaches]], a new canonical concept page at [[wiki/concepts/filmmaking/outline-flexibility]], and a new cross-source synthesis at [[wiki/syntheses/cross-source/screenwriting-outlining-models]]. Deepened [[wiki/concepts/filmmaking/writing-process-and-revision]], [[wiki/concepts/filmmaking/scene-card-method]], [[wiki/concepts/creativity/idea-development]], [[wiki/concepts/filmmaking/screenwriting]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the filmmaking branch now captures structure-first consensus, outline-density pluralism, cards-versus-beats-versus-sequences, pacing visibility, and the difference between useful structural heuristics and rigid orthodoxy as compiled vault knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-screenwriters-on-outlining-approaches]]
+- [[wiki/sources/2026-04-09-screenwriters-on-outlining-approaches]]
+- [[wiki/concepts/filmmaking/outline-flexibility]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/concepts/filmmaking/scene-card-method]]
+- [[wiki/concepts/creativity/idea-development]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/syntheses/cross-source/screenwriting-outlining-models]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 14:53] ingest | Vince Gilligan on Writing Breaking Bad
+
+Summary: Ingested a new English Vince Gilligan television-writing source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-vince-gilligan-on-writing-breaking-bad]], a new entity page at [[wiki/entities/vince-gilligan]], a new concept page at [[wiki/concepts/filmmaking/psychology-driven-plot]], and a new synthesis page at [[wiki/syntheses/filmmaking/vince-gilligan-breaking-bad-framework]]. Deepened [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/story-propulsion]], [[wiki/concepts/filmmaking/television-pilot-writing]], [[wiki/concepts/filmmaking/writers-room-craft]], and [[wiki/concepts/filmmaking/transformation-in-storytelling]] so the TV branch now captures anti-stasis character change, plot-from-psychology, pilot flash-forward hooking, intelligent antagonists, and room-level authenticity checks as compiled vault knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-vince-gilligan-on-writing-breaking-bad]]
+- [[wiki/sources/2026-04-09-vince-gilligan-on-writing-breaking-bad]]
+- [[wiki/entities/vince-gilligan]]
+- [[wiki/concepts/filmmaking/psychology-driven-plot]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/story-propulsion]]
+- [[wiki/concepts/filmmaking/television-pilot-writing]]
+- [[wiki/concepts/filmmaking/writers-room-craft]]
+- [[wiki/concepts/filmmaking/transformation-in-storytelling]]
+- [[wiki/syntheses/filmmaking/vince-gilligan-breaking-bad-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 15:01] ingest | Christopher Nolan on The Dark Knight
+
+Summary: Ingested a new English Christopher Nolan filmmaking source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-christopher-nolan-on-the-dark-knight]], a new entity page at [[wiki/entities/christopher-nolan]], a new concept page at [[wiki/concepts/filmmaking/worldview-antagonist]], and a new synthesis page at [[wiki/syntheses/filmmaking/christopher-nolan-dark-knight-framework]]. Deepened [[wiki/concepts/filmmaking/character-driven-storytelling]], [[wiki/concepts/filmmaking/genre-mastery]], [[wiki/concepts/creativity/visual-literacy]], and [[wiki/concepts/filmmaking/filmmaking]] so the filmmaking branch now captures philosophy-driven antagonists, moral-paradox hero design, blockbuster noir hybridization, and daylight menace as deliberate visual expectation reversal. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-christopher-nolan-on-the-dark-knight]]
+- [[wiki/sources/2026-04-09-christopher-nolan-on-the-dark-knight]]
+- [[wiki/entities/christopher-nolan]]
+- [[wiki/concepts/filmmaking/worldview-antagonist]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/genre-mastery]]
+- [[wiki/concepts/creativity/visual-literacy]]
+- [[wiki/concepts/filmmaking/filmmaking]]
+- [[wiki/syntheses/filmmaking/christopher-nolan-dark-knight-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 15:13] ingest | George R.R. Martin on A Song of Ice and Fire and Adaptation
+
+Summary: Ingested a new English George R.R. Martin fiction-and-adaptation source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-george-r-r-martin-on-a-song-of-ice-and-fire-and-adaptation]], a new entity page at [[wiki/entities/george-r-r-martin]], a new canonical concept page at [[wiki/concepts/filmmaking/adaptation-divergence]], and a new synthesis page at [[wiki/syntheses/filmmaking/george-r-r-martin-fiction-and-adaptation-framework]]. Deepened [[wiki/concepts/filmmaking/fiction-writing]], [[wiki/concepts/filmmaking/narrative-voice-and-perspective]], [[wiki/concepts/filmmaking/writer-worldview]], and [[wiki/concepts/filmmaking/immersive-research]] so the filmmaking branch now captures medium separation, adaptation butterfly effects, agency-based POV selection, historically grounded worldbuilding, and long-horizon narrative integrity under fan and production pressure. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-george-r-r-martin-on-a-song-of-ice-and-fire-and-adaptation]]
+- [[wiki/sources/2026-04-09-george-r-r-martin-on-a-song-of-ice-and-fire-and-adaptation]]
+- [[wiki/entities/george-r-r-martin]]
+- [[wiki/concepts/filmmaking/adaptation-divergence]]
+- [[wiki/concepts/filmmaking/fiction-writing]]
+- [[wiki/concepts/filmmaking/narrative-voice-and-perspective]]
+- [[wiki/concepts/filmmaking/writer-worldview]]
+- [[wiki/concepts/filmmaking/immersive-research]]
+- [[wiki/syntheses/filmmaking/george-r-r-martin-fiction-and-adaptation-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 15:32] ingest | Fight Club Creative Process and Adaptation
+
+Summary: Ingested a new English *Fight Club* cross-medium source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-fight-club-creative-process-and-adaptation]], a new work-centered entity page at [[wiki/entities/fight-club]], a new canonical concept page at [[wiki/concepts/filmmaking/externalizing-interiority]], and a new synthesis page at [[wiki/syntheses/filmmaking/fight-club-story-and-adaptation-framework]]. Deepened [[wiki/concepts/filmmaking/adaptation-divergence]], [[wiki/concepts/filmmaking/visual-storytelling-first]], [[wiki/concepts/filmmaking/character-interviews]], and [[wiki/concepts/creativity/idea-development]] so the vault now captures adaptation through external behavior, rule-built social systems, charged-scene-first drafting, and social beta-testing of ideas as compiled knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-fight-club-creative-process-and-adaptation]]
+- [[wiki/sources/2026-04-09-fight-club-creative-process-and-adaptation]]
+- [[wiki/entities/fight-club]]
+- [[wiki/concepts/filmmaking/externalizing-interiority]]
+- [[wiki/concepts/filmmaking/adaptation-divergence]]
+- [[wiki/concepts/filmmaking/visual-storytelling-first]]
+- [[wiki/concepts/filmmaking/character-interviews]]
+- [[wiki/concepts/creativity/idea-development]]
+- [[wiki/syntheses/filmmaking/fight-club-story-and-adaptation-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 15:38] ingest | 29 Common Screenwriting Mistakes
+
+Summary: Ingested a new English generic screenwriting-diagnostics source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-29-common-screenwriting-mistakes]], a new canonical concept page at [[wiki/concepts/filmmaking/screenplay-diagnostics]], and a new synthesis page at [[wiki/syntheses/filmmaking/screenwriting-mistakes-diagnostic-framework]]. Deepened [[wiki/concepts/filmmaking/screenwriting]], [[wiki/concepts/filmmaking/story-propulsion]], [[wiki/concepts/filmmaking/premise-testing]], [[wiki/concepts/filmmaking/character-driven-storytelling]], and [[wiki/concepts/filmmaking/writing-process-and-revision]] so the filmmaking branch now captures recurring failure modes around soft concepts, weak goals, rushed setup, flat stakes, thin vulnerability, and premature submission as compiled vault knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-29-common-screenwriting-mistakes]]
+- [[wiki/sources/2026-04-09-29-common-screenwriting-mistakes]]
+- [[wiki/concepts/filmmaking/screenplay-diagnostics]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/concepts/filmmaking/story-propulsion]]
+- [[wiki/concepts/filmmaking/premise-testing]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/syntheses/filmmaking/screenwriting-mistakes-diagnostic-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 15:44] ingest | Modern Hollywood Blockbuster Quality Decline
+
+Summary: Ingested a new English generic blockbuster-critique source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-modern-hollywood-blockbuster-quality-decline]], a new canonical concept page at [[wiki/concepts/filmmaking/stimulation-over-tension]], and a new synthesis page at [[wiki/syntheses/filmmaking/modern-blockbuster-decline-model]]. Deepened [[wiki/concepts/filmmaking/factory-filmmaking]], [[wiki/concepts/filmmaking/franchise-stewardship]], [[wiki/concepts/filmmaking/audience-as-collaborator]], and [[wiki/concepts/filmmaking/filmmaking]] so the vault now captures demographic smoothing, generic emotional triggering, boredom-panic pacing, and the difference between sensory stimulation and earned dramatic tension as compiled knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-modern-hollywood-blockbuster-quality-decline]]
+- [[wiki/sources/2026-04-09-modern-hollywood-blockbuster-quality-decline]]
+- [[wiki/concepts/filmmaking/stimulation-over-tension]]
+- [[wiki/concepts/filmmaking/factory-filmmaking]]
+- [[wiki/concepts/filmmaking/franchise-stewardship]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator]]
+- [[wiki/concepts/filmmaking/filmmaking]]
+- [[wiki/syntheses/filmmaking/modern-blockbuster-decline-model]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 15:55] ingest | Max Landis on Good Screenplays
+
+Summary: Ingested a new English Max Landis screenwriting source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-max-landis-on-good-screenplays]], a new entity page at [[wiki/entities/max-landis]], a new canonical concept page at [[wiki/concepts/filmmaking/screenplay-readability]], and a new synthesis page at [[wiki/syntheses/filmmaking/max-landis-screenplay-readability-framework]]. Deepened [[wiki/concepts/filmmaking/screenplay-economy]], [[wiki/concepts/filmmaking/screenwriting]], [[wiki/concepts/filmmaking/story-propulsion]], [[wiki/concepts/filmmaking/writing-process-and-revision]], and [[wiki/syntheses/cross-source/writing-craft-overlaps]] so the filmmaking branch now captures page-level readability, fun-to-read screenplays, anti-overdirection, read-aloud dialogue testing, and the difference between writing well, selling, and being produced as compiled vault knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-max-landis-on-good-screenplays]]
+- [[wiki/sources/2026-04-09-max-landis-on-good-screenplays]]
+- [[wiki/entities/max-landis]]
+- [[wiki/concepts/filmmaking/screenplay-readability]]
+- [[wiki/concepts/filmmaking/screenplay-economy]]
+- [[wiki/concepts/filmmaking/screenwriting]]
+- [[wiki/concepts/filmmaking/story-propulsion]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/syntheses/filmmaking/max-landis-screenplay-readability-framework]]
+- [[wiki/syntheses/cross-source/writing-craft-overlaps]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 16:00] ingest | Hollywood Romance Myths and Healthy Relationships
+
+Summary: Ingested a new English relationship-media critique source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-hollywood-romance-myths-and-healthy-relationships]], new canonical concept pages at [[wiki/concepts/others/hollywood-romance-myths]], [[wiki/concepts/others/drama-vs-secure-connection]], and [[wiki/concepts/others/romantic-completion-myth]], and a new synthesis page at [[wiki/syntheses/others/healthy-relationship-countermodel]]. I did not create an entity page because the raw summary does not clearly identify a named speaker. The new `others` branch now captures media-shaped romance myths, the confusion of drama with quality, and the idea that self-acceptance, boundaries, friendship, and family matter more than romantic rescue fantasies. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-hollywood-romance-myths-and-healthy-relationships]]
+- [[wiki/sources/2026-04-09-hollywood-romance-myths-and-healthy-relationships]]
+- [[wiki/concepts/others/hollywood-romance-myths]]
+- [[wiki/concepts/others/drama-vs-secure-connection]]
+- [[wiki/concepts/others/romantic-completion-myth]]
+- [[wiki/syntheses/others/healthy-relationship-countermodel]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 16:20] ingest | Chase Hughes Goal Programming and Future Self
+
+Summary: Ingested a new English Chase Hughes productivity source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self]], a new entity page at [[wiki/entities/chase-hughes]], new canonical concept pages at [[wiki/concepts/productivity/future-self-prioritization]], [[wiki/concepts/productivity/fear-goal-programming]], and [[wiki/concepts/productivity/behavior-journaling]], and a new synthesis page at [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework]]. Deepened [[wiki/concepts/business/framework-driven-action]] and [[wiki/concepts/leadership/high-performance-mindset]] so the first productivity branch now compiles future-self decision rules, FEAR-based goal installation, daily behavior tracking, and the link between personal frameworks and repeatable performance. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-chase-hughes-goal-programming-and-future-self]]
+- [[wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self]]
+- [[wiki/entities/chase-hughes]]
+- [[wiki/concepts/productivity/future-self-prioritization]]
+- [[wiki/concepts/productivity/fear-goal-programming]]
+- [[wiki/concepts/productivity/behavior-journaling]]
+- [[wiki/concepts/business/framework-driven-action]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 16:29] ingest | Chase Hughes Orion Principle and Mask Behavior
+
+Summary: Ingested a new English Chase Hughes behavioral-pattern source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-chase-hughes-orion-principle-and-mask-behavior]], new canonical concept pages at [[wiki/concepts/others/mask-behavior]], [[wiki/concepts/others/inversion-patterns]], [[wiki/concepts/others/projection-as-self-signal]], and [[wiki/concepts/others/orion-principle]], and a new synthesis page at [[wiki/syntheses/others/chase-hughes-mask-and-compassion-framework]]. Deepened [[wiki/entities/chase-hughes]] so the vault now preserves a second Chase Hughes branch on masks, shame-driven overcompensation, projection, and compassion-first interpretation, while explicitly treating the Orion model as heuristic rather than settled psychology. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-chase-hughes-orion-principle-and-mask-behavior]]
+- [[wiki/sources/2026-04-09-chase-hughes-orion-principle-and-mask-behavior]]
+- [[wiki/entities/chase-hughes]]
+- [[wiki/concepts/others/mask-behavior]]
+- [[wiki/concepts/others/inversion-patterns]]
+- [[wiki/concepts/others/projection-as-self-signal]]
+- [[wiki/concepts/others/orion-principle]]
+- [[wiki/syntheses/others/chase-hughes-mask-and-compassion-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 16:38] ingest | Chase Hughes Deal with Bullies the Right Way
+
+Summary: Ingested a new English Chase Hughes anti-bullying source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-chase-hughes-deal-with-bullies-the-right-way]], a new psychology concept at [[wiki/concepts/others/bullying-as-defense]], a new communication concept at [[wiki/concepts/communication/face-saving-de-escalation]], and a new synthesis page at [[wiki/syntheses/communication/chase-hughes-anti-bullying-framework]]. Deepened [[wiki/entities/chase-hughes]], [[wiki/concepts/communication/tactical-empathy]], [[wiki/concepts/communication/effective-communication]], and [[wiki/concepts/others/projection-as-self-signal]] so the vault now preserves a third Chase Hughes branch on fear-based aggression, shame-driven bullying, face-saving de-escalation, and empathy-based interruption without becoming hostile in return. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-chase-hughes-deal-with-bullies-the-right-way]]
+- [[wiki/sources/2026-04-09-chase-hughes-deal-with-bullies-the-right-way]]
+- [[wiki/entities/chase-hughes]]
+- [[wiki/concepts/others/bullying-as-defense]]
+- [[wiki/concepts/communication/face-saving-de-escalation]]
+- [[wiki/concepts/communication/tactical-empathy]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/concepts/others/projection-as-self-signal]]
+- [[wiki/syntheses/communication/chase-hughes-anti-bullying-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 16:52] ingest | Sam Esmail on Mr. Robot Creative Process
+
+Summary: Ingested a new English Sam Esmail filmmaking source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-sam-esmail-on-mr-robot-creative-process]], a new entity page at [[wiki/entities/sam-esmail]], a new canonical concept page at [[wiki/concepts/filmmaking/voiceover-as-interiority]], and a new synthesis page at [[wiki/syntheses/filmmaking/sam-esmail-mr-robot-framework]]. Deepened [[wiki/concepts/filmmaking/showrunning]], [[wiki/concepts/filmmaking/writers-room-craft]], [[wiki/concepts/filmmaking/writing-process-and-revision]], [[wiki/concepts/filmmaking/immersive-research]], [[wiki/concepts/filmmaking/externalizing-interiority]], and [[wiki/concepts/filmmaking/psychology-driven-plot]] so the TV branch now preserves purposeful voiceover, authenticity of subculture and mental-state portrayal, goalpost-first season design, and reverse-engineered emotional logic as compiled knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-sam-esmail-on-mr-robot-creative-process]]
+- [[wiki/sources/2026-04-09-sam-esmail-on-mr-robot-creative-process]]
+- [[wiki/entities/sam-esmail]]
+- [[wiki/concepts/filmmaking/voiceover-as-interiority]]
+- [[wiki/concepts/filmmaking/showrunning]]
+- [[wiki/concepts/filmmaking/writers-room-craft]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision]]
+- [[wiki/concepts/filmmaking/immersive-research]]
+- [[wiki/concepts/filmmaking/externalizing-interiority]]
+- [[wiki/concepts/filmmaking/psychology-driven-plot]]
+- [[wiki/syntheses/filmmaking/sam-esmail-mr-robot-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 17:00] ingest | Johnny Harris Explainer Storytelling Formula
+
+Summary: Ingested a new English explainer-storytelling source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-johnny-harris-explainer-storytelling-formula]], a new entity page at [[wiki/entities/johnny-harris]], a new canonical concept page at [[wiki/concepts/communication/anchor-bridge-structure]], and a new synthesis page at [[wiki/syntheses/communication/johnny-harris-explainer-framework]]. Deepened [[wiki/concepts/communication/effective-communication]], [[wiki/concepts/communication/concrete-specificity]], [[wiki/concepts/filmmaking/audience-as-collaborator]], and [[wiki/concepts/creativity/visual-literacy]] so the vault now preserves experience-before-explanation, visual anchors, concise contextual bridges, and research-backed explainer rhythm as compiled knowledge. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-johnny-harris-explainer-storytelling-formula]]
+- [[wiki/sources/2026-04-09-johnny-harris-explainer-storytelling-formula]]
+- [[wiki/entities/johnny-harris]]
+- [[wiki/concepts/communication/anchor-bridge-structure]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/concepts/communication/concrete-specificity]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator]]
+- [[wiki/concepts/creativity/visual-literacy]]
+- [[wiki/syntheses/communication/johnny-harris-explainer-framework]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 22:21] ingest | Chase Hughes 90-Second Brain Capture
+
+Summary: Ingested a new English Chase Hughes influence source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture]], new canonical communication concepts at [[wiki/concepts/communication/installation-vs-persuasion]] and [[wiki/concepts/communication/permission-bridge]], and a new synthesis page at [[wiki/syntheses/communication/chase-hughes-brain-capture-framework]]. Deepened [[wiki/entities/chase-hughes]], [[wiki/concepts/communication/tactical-empathy]], [[wiki/concepts/communication/effective-communication]], [[wiki/concepts/communication/persuasion]], and [[wiki/syntheses/cross-source/communication-and-influence-models]] so the vault now preserves a fourth Chase Hughes branch on first-90-second interaction design, narrator-level installation, depth sequencing, and the ethical risk of influence-by-bypassing reflective evaluation. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-chase-hughes-90-second-brain-capture]]
+- [[wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture]]
+- [[wiki/entities/chase-hughes]]
+- [[wiki/concepts/communication/installation-vs-persuasion]]
+- [[wiki/concepts/communication/permission-bridge]]
+- [[wiki/concepts/communication/tactical-empathy]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/concepts/communication/persuasion]]
+- [[wiki/syntheses/communication/chase-hughes-brain-capture-framework]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 22:36] ingest | Studio Script Reader Strengths and Weaknesses
+
+Summary: Ingested a new English image-derived screenwriting source built from three screenshots and moved the canonical raw note into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-09-studio-script-reader-strengths-and-weaknesses]] and a new synthesis page at [[wiki/syntheses/filmmaking/studio-script-reader-scorecard]], then deepened [[wiki/concepts/filmmaking/screenplay-diagnostics]], [[wiki/concepts/filmmaking/screenplay-readability]], [[wiki/concepts/filmmaking/premise-testing]], [[wiki/concepts/filmmaking/story-propulsion]], and [[wiki/concepts/filmmaking/character-driven-storytelling]] so the vault now preserves a reader-side scorecard for premise, hook, protagonist, antagonist, world, action, dialogue, escalation, and ending control, along with the mirrored failure patterns that make scripts feel generic, passive, confusing, repetitive, or anti-climactic. OCR quality was strong enough for a normal ingest, but the source page preserves that this branch came from images rather than a conventional text source. Stale raw-root references were removed from [[.obsidian/workspace.json]] during cleanup.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-studio-script-reader-strengths-and-weaknesses]]
+- [[wiki/sources/2026-04-09-studio-script-reader-strengths-and-weaknesses]]
+- [[wiki/concepts/filmmaking/screenplay-diagnostics]]
+- [[wiki/concepts/filmmaking/screenplay-readability]]
+- [[wiki/concepts/filmmaking/premise-testing]]
+- [[wiki/concepts/filmmaking/story-propulsion]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling]]
+- [[wiki/syntheses/filmmaking/studio-script-reader-scorecard]]
+- [[index]]
+- [[.obsidian/workspace.json]]
+
+## [2026-04-09 22:41] admin | Canonicalize Image-Derived Source Assets
+
+Summary: Updated the schema so image-derived or attachment-backed sources store their supporting files under `raw/assets/<source-slug>/` instead of leaving them in the vault root. Then normalized the current studio-reader image source by moving its three PNG screenshots into [[raw/assets/2026-04-09-studio-script-reader-strengths-and-weaknesses]], updating the canonical raw note to point at those asset paths, and cleaning recent-file references in [[.obsidian/workspace.json]].
+
+Pages touched:
+
+- [[AGENTS]]
+- [[raw/inbox/2026-04-09-studio-script-reader-strengths-and-weaknesses]]
+- [[.obsidian/workspace.json]]
+- [[log]]

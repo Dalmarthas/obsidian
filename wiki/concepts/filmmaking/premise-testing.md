@@ -10,11 +10,13 @@ tags:
   - screenwriting
   - structure
 source_pages:
+  - wiki/sources/2026-04-09-29-common-screenwriting-mistakes.md
   - wiki/sources/2026-04-09-simon-rich-comedy-premise-generation.md
   - wiki/sources/2026-04-09-john-truby-screenwriting-and-story-structure.md
   - wiki/sources/2026-04-09-storytelling-core-elements-and-writing-process.md
   - wiki/sources/2026-04-09-screenwriting-roundtable-on-avoiding-boring-scripts.md
   - wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions.md
+  - wiki/sources/2026-04-09-studio-script-reader-strengths-and-weaknesses.md
 related:
   - wiki/concepts/filmmaking/arena-vs-story.md
   - wiki/entities/simon-rich.md
@@ -25,6 +27,7 @@ related:
   - wiki/concepts/filmmaking/character-driven-storytelling.md
   - wiki/concepts/filmmaking/transformation-in-storytelling.md
   - wiki/concepts/filmmaking/story-propulsion.md
+  - wiki/concepts/filmmaking/screenplay-diagnostics.md
   - wiki/concepts/filmmaking/writing-process-and-revision.md
   - wiki/syntheses/filmmaking/john-truby-story-architecture-framework.md
 ---
@@ -52,6 +55,11 @@ Premise testing is the pre-draft discipline of interrogating whether a story ide
 - Simon Rich adds the strongest current abundance-before-filtering layer: premise testing works better when it has a large pool of candidates to reject rather than one precious idea being protected from scrutiny.
 - Glenn Gers adds the cleanest explicit interrogation method in the branch: who is it about, what do they want, why can't they get it, what do they do, why doesn't that work, and how does it end.
 - Gers also strengthens the idea that these questions can be reused across scales, so premise testing is not only a front-end filter but a continuing check on whether the story still has a living engine.
+- The current `29 mistakes` source adds a red-flag version of the same concept: soft concepts, weak personal connection, wrong-genre instincts, and rushed setup are common signs that the premise is not yet strong enough to carry the draft.
+- The current image-derived studio-reader source adds a blunt reader-side compression:
+  a script needs a premise, not just a circumstance or a scenario to riff on, and the reader can often test that quickly through GOAL, MOTIVATION, STAKES, and what stands in the way.
+- The same source also sharpens a failure pattern already visible elsewhere:
+  some scripts offer a detailed tour of a world without enough actual story engine to justify the trip.
 
 # Source Comparisons
 
@@ -63,6 +71,9 @@ Premise testing is the pre-draft discipline of interrogating whether a story ide
 - Simon Rich is strongest on premise supply: testing improves when generation is abundant, playful, and low-stakes before the stronger filtering questions arrive.
 - Gers is strongest on portable question-driven clarity: he gives the branch a small repeatable framework that can expose premise weakness without requiring a larger architecture system.
 - The roundtable source is strongest on the boredom-risk side: even ideas that sound attractive can still fail if they are mostly arena and too little story.
+- The current `29 mistakes` source is strongest on premise failure in practice: many weak scripts are not failing at page 80 first, but at the initial decision to build on a generic, emotionally unowned, or genre-misaligned idea.
+- The current studio-reader source is strongest on fast evaluative clarity:
+  it condenses premise viability into the reader's first questions about hook, protagonist, antagonist, and whether the story has enough dramatic ground to cover.
 
 # Tensions / Open Questions
 
@@ -73,6 +84,7 @@ Premise testing is the pre-draft discipline of interrogating whether a story ide
 - Strong ideation exercises can push a writer past cliche, but they can also become productivity theater if they replace actual choice and commitment.
 - Simon Rich sharpens a final upstream tension: abundance improves odds, but writers can still hide inside endless premise generation to avoid selecting a real direction.
 - Gers sharpens a final tension: minimalist question frameworks are clarifying, but they can become superficial if the writer answers them in generic terms instead of discovering emotionally specific answers.
+- The current `29 mistakes` source sharpens a final tension: a writer can be personally sincere about a concept and still be in the wrong genre container for it, so emotional ownership alone does not eliminate the need for formal fit-testing.
 
 # Related Pages
 
@@ -85,6 +97,7 @@ Premise testing is the pre-draft discipline of interrogating whether a story ide
 - [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
 - [[wiki/concepts/filmmaking/transformation-in-storytelling|Transformation in Storytelling]]
 - [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/screenplay-diagnostics|Screenplay Diagnostics]]
 - [[wiki/concepts/filmmaking/six-essential-story-questions|Six Essential Story Questions]]
 - [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/filmmaking/john-truby-story-architecture-framework|John Truby Story Architecture Framework]]

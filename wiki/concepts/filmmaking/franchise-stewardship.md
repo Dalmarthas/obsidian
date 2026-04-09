@@ -10,11 +10,13 @@ tags:
   - franchise
   - stewardship
 source_pages:
+  - wiki/sources/2026-04-09-modern-hollywood-blockbuster-quality-decline.md
   - wiki/sources/2026-04-09-chris-gore-hollywood-studio-system-and-indie-film.md
   - wiki/sources/2026-04-09-chris-gore-movie-quality-decline-and-studio-malpractice.md
 related:
   - wiki/entities/chris-gore.md
   - wiki/concepts/filmmaking/factory-filmmaking.md
+  - wiki/concepts/filmmaking/stimulation-over-tension.md
   - wiki/concepts/filmmaking/character-driven-storytelling.md
   - wiki/concepts/filmmaking/audience-as-collaborator.md
   - wiki/concepts/filmmaking/filmmaking.md
@@ -39,10 +41,12 @@ Franchise stewardship is the responsibility to manage legacy characters, worlds,
 - The current branch implies that iconic characters require coherent struggle, consequence, and emotional logic rather than only visual recognition.
 - Audience disappointment grows when studios market a continuation as meaningful stewardship but deliver a flattened, committee-managed product.
 - The concept also overlaps with risk aversion: stewardship is weakened when executives treat the property as a box-checking machine instead of a living dramatic system.
+- The current blockbuster-decline source adds a sensory-corrosion layer: stewardship also fails when spectacle and emotional triggers are used to simulate importance instead of earning character, tension, and consequence.
 
 # Source Comparisons
 
 - Chris Gore is strongest on naming the industrial failure: stewardship collapses when executives and committees lose contact with what made the property meaningful.
+- The current blockbuster-decline source is strongest on what the damaged product feels like from the audience side: lots of stimulation, less context, less specificity, and weaker dramatic memory.
 - [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]] overlaps at the narrative level: a franchise remains alive only if the characters still have real wants, conflicts, and arcs.
 - [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]] overlaps at the reception level: viewers notice when a property is being managed as a logo instead of as a story.
 - [[wiki/concepts/filmmaking/factory-filmmaking|Factory Filmmaking]] overlaps at the system level: stewardship failures are one of the clearest symptoms of the factory logic Gore criticizes.
@@ -57,6 +61,7 @@ Franchise stewardship is the responsibility to manage legacy characters, worlds,
 
 - [[wiki/entities/chris-gore|Chris Gore]]
 - [[wiki/concepts/filmmaking/factory-filmmaking|Factory Filmmaking]]
+- [[wiki/concepts/filmmaking/stimulation-over-tension|Stimulation Over Tension]]
 - [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
 - [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]

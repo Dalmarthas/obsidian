@@ -9,6 +9,8 @@ tags:
   - narrative
   - writing
 source_pages:
+  - wiki/sources/2026-04-09-max-landis-on-good-screenplays.md
+  - wiki/sources/2026-04-09-29-common-screenwriting-mistakes.md
   - wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
@@ -19,14 +21,18 @@ source_pages:
   - wiki/sources/2026-04-09-storytelling-core-elements-and-writing-process.md
   - wiki/sources/2026-04-09-screenwriting-roundtable-on-avoiding-boring-scripts.md
   - wiki/sources/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence.md
+  - wiki/sources/2026-04-09-vince-gilligan-on-writing-breaking-bad.md
+  - wiki/sources/2026-04-09-studio-script-reader-strengths-and-weaknesses.md
 related:
   - wiki/concepts/filmmaking/arena-vs-story.md
   - wiki/concepts/filmmaking/hero-goal-sequence.md
+  - wiki/concepts/filmmaking/psychology-driven-plot.md
   - wiki/concepts/filmmaking/three-act-structure.md
   - wiki/concepts/filmmaking/question-and-answer-structure.md
   - wiki/concepts/filmmaking/character-driven-storytelling.md
   - wiki/concepts/filmmaking/transformation-in-storytelling.md
   - wiki/concepts/filmmaking/screenwriting.md
+  - wiki/concepts/filmmaking/screenplay-diagnostics.md
   - wiki/concepts/filmmaking/fiction-writing.md
   - wiki/concepts/filmmaking/television-pilot-writing.md
   - wiki/concepts/filmmaking/thriller-writing.md
@@ -61,6 +67,15 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - It also adds a practical originality layer: if the writer settles for the first obvious version of a beat, propulsion weakens because the scene no longer surprises, sharpens, or emotionally charges the audience.
 - Edson adds a more explicit sequence-chain model: propulsion is sustained when the hero keeps pursuing short-term visible goals, receives fresh news, and is forced into new immediate action.
 - He also sharpens the warning against repetition: if successive pursuits do not produce real surprise or state change, the script may look busy while feeling static.
+- The current Vince Gilligan source adds a TV-drama propulsion rule: forward motion is strongest when each new turn feels like the believable consequence of the protagonist's changing psychology rather than like externally imposed escalation.
+- It also adds a pilot-level hook lesson: a flash-forward or destabilizing opening can buy intrigue immediately while the show earns deeper motivation underneath.
+- The current `29 mistakes` source adds a blunt anti-drift rule: scripts often lose propulsion because the protagonist's external goal is muddy, stakes do not keep rising, setup is rushed, and scenes lack enough surprise or good-news/bad-news movement.
+- The current Max Landis source adds a page-reading version of propulsion: if scenes and even individual lines are not pushing forward, the screenplay starts feeling inert before the movie even exists.
+- It also adds a destination rule: propulsion is easier to maintain when the writer has at least a rough sense of where the characters and story are headed.
+- The current image-derived studio-reader source adds a triage version of the same idea:
+  readers reward scripts whose openings hook, whose twists feel earned, and whose third acts converge cleanly into gripping payoff.
+- The same source also sharpens several anti-propulsion warnings in one list:
+  late starts, passive heroes, weak escalation, repetition, coincidence, stitched-together plotting, and anti-climactic endings all make the script feel like it is not truly progressing.
 - Across the sources, the reader or audience should feel guided rather than inert or confused.
 
 # Source Comparisons
@@ -75,7 +90,11 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - The current generic source works at the diagnostic scene-and-outline scale, focusing on visible goals, stakes, scene efficacy, and a compact five-point story spine.
 - The roundtable source works at the boredom-diagnosis scale, focusing on active desire, conflict density, emotional truth, and whether scenes have escaped cliche.
 - Edson works at the sequence-chain scale, focusing on momentum as a repeated cycle of goal pursuit, surprise, and reorientation.
-- All nine agree that momentum is not accidental, but they locate the main control point in different places: outline, scene construction, suspense rhythm, series engine, chapter design, transformation logic, anti-boredom diagnosis, or the form of the telling itself.
+- The current Vince Gilligan source works at the psychology-escalation scale, focusing on motivation shifts, self-delusion, intelligent opposition, and turns that feel emotionally inevitable rather than mechanically inserted.
+- The current `29 mistakes` source works at the failure-pattern scale, focusing on how scripts flatten when goal clarity, stakes, and escalation are not being actively checked draft by draft.
+- The current Max Landis source works at the read-experience scale, focusing on whether the page feels alive, sparse, and consistently headed somewhere rather than merely formatted like a script.
+- The current studio-reader source works at the professional-first-read scale, focusing on whether the script signals movement, control, and payoff strongly enough that a reader keeps trusting the journey.
+- All of them agree that momentum is not accidental, but they locate the main control point in different places: outline, scene construction, suspense rhythm, series engine, chapter design, transformation logic, anti-boredom diagnosis, psychology-driven consequence, diagnostic revision, or the form of the telling itself.
 
 # Tensions / Open Questions
 
@@ -85,14 +104,18 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - The vault now also shows that propulsion can fail for opposite reasons: weak engines at the macro level or weak scene and chapter execution at the micro level.
 - Edson sharpens a third failure mode: a script may have a visible act outline yet still drag because the middle lacks enough concrete goal changes and fresh-news reversals.
 - Propulsion can also fail upstream if the writer falls in love with a world, concept, or atmosphere that never becomes a real dramatic engine.
+- The current Vince Gilligan source sharpens another failure mode: propulsion can look active on the surface while feeling fake if the characters are only being pushed through writer-designed obstacles instead of generating consequences from their own flaws and motives.
+- The current `29 mistakes` source sharpens another failure mode: a script may be busy enough to seem alive while still feeling inert because the writer has not verified that setup, external goal, stakes, and surprise are compounding together.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/three-act-structure|Three-Act Structure]]
 - [[wiki/concepts/filmmaking/arena-vs-story|Arena vs Story]]
 - [[wiki/concepts/filmmaking/hero-goal-sequence|Hero Goal Sequence]]
+- [[wiki/concepts/filmmaking/psychology-driven-plot|Psychology-Driven Plot]]
 - [[wiki/concepts/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
 - [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/screenplay-diagnostics|Screenplay Diagnostics]]
 - [[wiki/concepts/filmmaking/transformation-in-storytelling|Transformation in Storytelling]]
 - [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
 - [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]

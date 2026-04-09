@@ -9,6 +9,8 @@ tags:
   - writing
   - revision
 source_pages:
+  - wiki/sources/2026-04-09-max-landis-on-good-screenplays.md
+  - wiki/sources/2026-04-09-29-common-screenwriting-mistakes.md
   - wiki/sources/2010-01-08-5-simple-rules-for-turning-your-cool-idea-into-a-screenplay.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
@@ -26,28 +28,42 @@ source_pages:
   - wiki/sources/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence.md
   - wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions.md
   - wiki/sources/2026-04-09-simon-rich-comedy-premise-generation.md
+  - wiki/sources/2026-04-09-succession-writers-room-methodology.md
+  - wiki/sources/2026-04-09-believable-character-writing-methodologies.md
+  - wiki/sources/2026-04-09-screenwriters-on-overcoming-writers-block.md
+  - wiki/sources/2026-04-09-paul-thomas-anderson-on-screenwriting-and-storytelling.md
+  - wiki/sources/2026-04-09-screenwriters-on-outlining-approaches.md
+  - wiki/sources/2026-04-09-sam-esmail-on-mr-robot-creative-process.md
 related:
+  - wiki/concepts/creativity/creative-incubation.md
   - wiki/concepts/filmmaking/craft-mastery.md
   - wiki/concepts/filmmaking/editing-as-discovery.md
   - wiki/concepts/filmmaking/hero-goal-sequence.md
+  - wiki/concepts/filmmaking/outline-flexibility.md
+  - wiki/concepts/filmmaking/character-interviews.md
   - wiki/concepts/filmmaking/premise-testing.md
   - wiki/concepts/filmmaking/premise-generation.md
   - wiki/concepts/filmmaking/six-essential-story-questions.md
   - wiki/concepts/filmmaking/screenplay-rewriting.md
+  - wiki/concepts/filmmaking/screenplay-economy.md
+  - wiki/concepts/filmmaking/screenplay-readability.md
+  - wiki/concepts/filmmaking/screenplay-diagnostics.md
   - wiki/concepts/filmmaking/scene-card-method.md
   - wiki/concepts/filmmaking/protect-the-process.md
   - wiki/concepts/filmmaking/writers-room-craft.md
+  - wiki/concepts/filmmaking/voiceover-as-interiority.md
   - wiki/concepts/filmmaking/screenwriting.md
   - wiki/concepts/filmmaking/thriller-writing.md
   - wiki/concepts/creativity/idea-development.md
   - wiki/concepts/filmmaking/fiction-writing.md
   - wiki/concepts/filmmaking/television-pilot-writing.md
+  - wiki/syntheses/cross-source/screenwriting-outlining-models.md
   - wiki/syntheses/cross-source/writing-craft-overlaps.md
 ---
 
 # What It Is
 
-Writing process and revision is the larger workflow that governs how a writer or director prepares, drafts, evaluates, and reshapes a work over time. In the current source base, the strongest pattern is not mystical inspiration but a managed cycle of idea capture, structural development, skeleton planning, drafting, diagnosis, cutting, and recommitment to the core engine of the work.
+Writing process and revision is the larger workflow that governs how a writer or director prepares, drafts, evaluates, and reshapes a work over time. In the current source base, the strongest pattern is not mystical inspiration but a managed cycle of idea capture, incubation, structural development, skeleton planning, drafting, diagnosis, cutting, and recommitment to the core engine of the work.
 
 # Why It Matters
 
@@ -56,6 +72,7 @@ Writing process and revision is the larger workflow that governs how a writer or
 - It gives the vault a cross-source concept for process discipline rather than leaving that knowledge split across source-local pages.
 - It helps separate source-specific habits from transferable process principles.
 - It now captures the full arc from fragile idea to finished narrative instead of only the drafting and rewriting stages.
+- It now also explains how progress can continue even when fresh forward pages temporarily stop.
 
 # Evidence In This Vault
 
@@ -76,6 +93,15 @@ Writing process and revision is the larger workflow that governs how a writer or
 - Edson adds a more engineering-heavy process move: know the ending before scene drafting and audit the script through `Hero Goal Sequences` so momentum failures become visible before revision turns vague.
 - Glenn Gers adds a more adaptive process layer: learn your own rhythms, use rough placeholders without shame, and keep asking story questions rather than waiting for a perfect drafting state.
 - Simon Rich adds an upstream ideation discipline: schedule premise-generation sessions, remove pressure for brilliance, generate in high volume, and separate raw idea abundance from later filtering.
+- The `Succession` source adds a collaborative development rhythm: keep the room open long enough for discovery, then close down toward truth, and use deadlines, readings, or collaborators to force unfinished work into revisable form.
+- The current character-methodologies source adds a character-discovery rhythm: interview the character, test emotional empathy, consult real-world analogues, and treat false-feeling scenes as evidence that the writer still does not understand the character deeply enough.
+- The current screenwriter-comparison source adds a blockage-management rhythm: normalize chronic stalls, switch projects when needed, use walking or music as incubation, and return through earlier pages or edits instead of assuming progress must stay linear.
+- The current Paul Thomas Anderson source adds a rhythm-and-openness layer: find the routine that actually fits your life, let roughness and mistakes expose material, and stay flexible enough for the script to keep evolving through collaboration.
+- The current outlining-comparison source adds a process-pluralism layer: writers use different degrees of preplanning, but all still need some externalized structure, whether through beats, cards, notebooks, sequence pages, or midpoint targets.
+- The current `29 mistakes` source adds a professional-readiness layer: rewrite diagnostically, seek notes without desperation, separate craft from market panic, and do not circulate work before it is clean enough to justify another reader's time.
+- The current Max Landis source adds a page-testing layer: read dialogue out loud, trim over-direction, keep scene movement visible, and hold at least a rough map of character destinations so momentum failures are heard and felt early.
+- The current Sam Esmail source adds a pressure-release plus goalpost layer: start with a `vomit draft` to beat blank-page paralysis, then let major seasonal destinations anchor later refinement while emotional logic is reverse engineered toward them.
+- It also sharpens a motive layer behind process itself: rejection and frustration are not only obstacles to survive, but material that can deepen the work if metabolized honestly.
 - Both Sorkin and Brown treat deletion and cutting as central rather than incidental to good writing.
 - Across the sources, preparation is important, but so is avoiding paralysis or perfectionism before there is enough material to shape.
 
@@ -97,6 +123,14 @@ Writing process and revision is the larger workflow that governs how a writer or
 - Edson is strongest on mid-level structural auditing: use sequence chains, turning-point reversals, and active-goal logic to diagnose where a screenplay has stopped changing enough.
 - Gers is strongest on lightweight iterative motion: small rough notes, repeated questioning, and process self-awareness can move a writer forward when heavier systems would trigger blockage.
 - Simon Rich is strongest on anti-block abundance: use quotas, prompts, playful observation, and deliberate low stakes to keep the idea pipeline alive instead of waiting passively for inspiration.
+- `Succession` is strongest on truth-seeking collaboration: the process is not only solo discipline or structural engineering, but also a room's ability to widen possibility and then narrow toward what feels psychologically real.
+- The current character-methodologies source is strongest on upstream character diagnosis: when scenes feel `writerly`, the fix may be less about prose and more about returning to wants, contradictions, empathy, and real-world behavior.
+- The current screenwriter-comparison source is strongest on writer's block normalization: sometimes the right process move is not harder forward drafting, but project rotation, incubation, or accordion-style re-entry.
+- The current Paul Thomas Anderson source is strongest on productive imperfection and mutability: the process stays alive when the writer stops treating every rough turn or later collaboration as contamination.
+- The current outlining-comparison source is strongest on process-range comparison: some writers outline deeply, some lightly, some only to the midpoint, but all treat visible macro-shape as more important than rigid obedience to a single method.
+- The current `29 mistakes` source is strongest on blunt self-audit and pre-circulation discipline: many process failures are not mystical, but traceable to under-revised drafts, weak diagnostic habits, and fear-driven submission behavior.
+- The current Max Landis source is strongest on quick readability diagnostics: if the dialogue sounds wrong aloud, the page is too dense, or the script is not moving, the problem is already visible before deeper theoretical analysis starts.
+- The current Sam Esmail source is strongest on linking ugly-first-draft freedom to long-range TV architecture: write messily at the page level if needed, but stay clear about the season's destination and about what the show exists to say.
 - Together they suggest a layered workflow: catch a live idea, test whether it can carry real weight, develop structure before expensive pages, draft far enough to have something real, and then revise without sentimentality.
 
 # Tensions / Open Questions
@@ -115,21 +149,37 @@ Writing process and revision is the larger workflow that governs how a writer or
 - Gers sharpens a workflow tension: personalization is healthy, but it can become self-excuse if `my process` is used to avoid finishing, testing, and revising the work.
 - Lynch's second source sharpens a parallel tension: very light skeletons can preserve freshness, but if they remain too thin for too long they may postpone rather than solve dramatic diagnosis.
 - Simon Rich sharpens an earlier-stage tension: prolific ideation can free the writer from perfectionism, but it can also delay commitment if abundance becomes a substitute for development.
+- The `Succession` source sharpens a room-level tension: open exploration helps originality, but too much openness can become endless talk if no one is willing to close down and choose.
+- The current character-methodologies source sharpens a person-level tension: too much backstory excavation can feel productive while still avoiding the harder test of whether the character behaves credibly in scene.
+- The current screenwriter-comparison source sharpens a pressure-management tension: sometimes pushing is courage, and sometimes it is just refusal to admit the work needs incubation or a different point of entry.
+- The current Paul Thomas Anderson source sharpens an authorship tension: the writer needs enough confidence to trust instinct and enough humility to let actors, set reality, or later drafts improve what first arrived on the page.
+- The current outlining-comparison source sharpens a planning tension: rigid outlines can suffocate discovery, but anti-outline romanticism can hide weak pacing and underbuilt macro-structure.
+- The current `29 mistakes` source sharpens a final professionalism tension: getting feedback early can help, but premature sharing can also become a way of asking other people to solve problems the writer has not yet honestly diagnosed alone.
+- The current Sam Esmail source sharpens a related TV tension: predetermined goalposts can protect coherence, but if the path is reverse engineered lazily they can produce emotionally false transitions that feel clever but not earned.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/craft-mastery|Craft Mastery]]
+- [[wiki/concepts/creativity/creative-incubation|Creative Incubation]]
+- [[wiki/concepts/filmmaking/character-interviews|Character Interviews]]
 - [[wiki/concepts/filmmaking/editing-as-discovery|Editing as Discovery]]
 - [[wiki/concepts/filmmaking/hero-goal-sequence|Hero Goal Sequence]]
+- [[wiki/concepts/filmmaking/outline-flexibility|Outline Flexibility]]
 - [[wiki/concepts/filmmaking/premise-testing|Premise Testing]]
 - [[wiki/concepts/filmmaking/premise-generation|Premise Generation]]
 - [[wiki/concepts/filmmaking/six-essential-story-questions|Six Essential Story Questions]]
 - [[wiki/concepts/filmmaking/screenplay-rewriting|Screenplay Rewriting]]
+- [[wiki/concepts/filmmaking/screenplay-economy|Screenplay Economy]]
+- [[wiki/concepts/filmmaking/screenplay-readability|Screenplay Readability]]
+- [[wiki/concepts/filmmaking/screenplay-diagnostics|Screenplay Diagnostics]]
 - [[wiki/concepts/filmmaking/scene-card-method|Scene Card Method]]
 - [[wiki/concepts/filmmaking/protect-the-process|Protect the Process]]
 - [[wiki/concepts/filmmaking/writers-room-craft|Writers' Room Craft]]
+- [[wiki/concepts/filmmaking/voiceover-as-interiority|Voiceover as Interiority]]
 - [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
 - [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
 - [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
+- [[wiki/concepts/filmmaking/showrunning|Showrunning]]
+- [[wiki/syntheses/cross-source/screenwriting-outlining-models|Screenwriting Outlining Models]]
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]
