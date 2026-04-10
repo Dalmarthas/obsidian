@@ -2,7 +2,7 @@
 type: synthesis
 title: Communication and Influence Models
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-10
 status: active
 tags:
   - synthesis
@@ -22,7 +22,9 @@ basis:
   - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
   - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
+  - wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication.md
   - wiki/concepts/communication/effective-communication.md
+  - wiki/concepts/communication/boundary-language.md
   - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/elicitation.md
@@ -101,11 +103,13 @@ The current source base supports a ten-part model:
 - The current Chase Hughes reading-minds source is strongest on elicitation and frame: it treats statements as disclosure tools, composure as influence infrastructure, and reduced neediness as a way to stabilize the meaning of the interaction.
 - The current Chase Hughes behavioral-framework source is broadest on the self-mastery and observation layer beneath communication: comfort, authority, behavioral profiling, and need-reading are treated as preconditions for stronger influence.
 - The current Chase Hughes identity-and-connection source is strongest on identity-and-permission mechanics: PCP, precommitment, indirect identity priming, and the claim that genuine human recognition becomes more valuable as synthetic interaction scales.
+- The current Jefferson Fisher source is strongest on manipulation-resistant accountability: short boundary language, fake-apology diagnosis, and refusal to let conflict get reframed around whether your reaction is allowed.
 
 # Gaps
 
 - The current overlap map is now stronger on written communication at scale, but it still needs more sources from direct response, propaganda, and editorial or journalistic writing traditions.
 - The vault still needs sources from more adversarial debate traditions and from therapeutic or counseling communication traditions.
+- The newest Jefferson Fisher source reduces one older gap around hard everyday conversations, but the branch still needs stronger evidence on apology quality, coercive dynamics, and when disengagement should replace dialogue entirely.
 - Pink broadens the branch into self-motivation and timing design, but the vault still needs stronger counter-models for explicitly coercive or zero-sum persuasion environments.
 - Axelrod and Rove extend the branch into mass political persuasion, but the vault still needs a stronger treatment of democratic ethics, misinformation, and the public-cost side of highly optimized campaign influence.
 - The new Chase Hughes branch sharpens a separate ethical gap: the vault still needs a cleaner boundary between humane influence design and deliberate autonomy bypass.

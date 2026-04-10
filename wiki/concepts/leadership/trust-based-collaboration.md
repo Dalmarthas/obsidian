@@ -2,7 +2,7 @@
 type: concept
 title: Trust-Based Collaboration
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -20,10 +20,12 @@ source_pages:
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
+  - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
 related:
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/filmmaking/casting-and-performance-direction.md
   - wiki/concepts/leadership/diverse-teams.md
+  - wiki/concepts/leadership/trust-performance-matrix.md
   - wiki/concepts/communication/negotiation-and-mediation.md
   - wiki/concepts/others/community-based-conservation.md
   - wiki/concepts/business/creative-pitching.md
@@ -56,6 +58,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - Lewis Hamilton adds the elite-team version: appreciation, calm communication, and visible respect for every role help keep high-pressure groups functional.
 - Klopp adds a club-culture version: loyalty deepens when leaders treat stars, staff, and community as part of one human environment rather than as separate status tiers.
 - Chris Voss adds the adversarial version: even in negotiation, progress improves when the counterpart feels heard rather than cornered.
+- Simon Sinek adds a personnel-selection version: trust should not only be desired interpersonally, but treated as a concrete criterion for choosing, promoting, and rewarding people.
 
 # Source Comparisons
 
@@ -70,17 +73,20 @@ Trust-based collaboration is the practice of designing work so that other people
 - Hamilton focuses on trust inside elite execution: culture deteriorates quickly when pressure removes gratitude, role respect, or emotional steadiness.
 - Klopp focuses on trust inside emotionally charged team identities: people commit harder when they feel seen personally and connected to a wider shared cause.
 - Voss focuses on trust inside bargaining: acknowledgment and calibrated curiosity make counterparts more cooperative without requiring softness.
+- Sinek focuses on trust inside selection logic: the question is not only how to collaborate once people are in the room, but which kinds of people should be given influence in the first place.
 
 # Tensions / Open Questions
 
 - Trust-building is slow, and some systems reward short-term extraction more than long-term cooperation.
 - Collaboration without clear boundaries can collapse into vagueness or avoid the hard decisions that only one person can make.
+- The Sinek layer adds a measurement problem: organizations may agree trust matters and still fail to assess it fairly enough for promotion and retention decisions.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/filmmaking|Filmmaking]]
 - [[wiki/concepts/filmmaking/casting-and-performance-direction|Casting and Performance Direction]]
 - [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
+- [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/others/community-based-conservation|Community-Based Conservation]]
 - [[wiki/concepts/business/creative-pitching|Creative Pitching]]

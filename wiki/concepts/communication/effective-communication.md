@@ -21,9 +21,11 @@ source_pages:
   - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
   - wiki/sources/2026-04-10-conversation-commandments-for-better-connection.md
+  - wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication.md
 related:
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/communication/anchor-bridge-structure.md
+  - wiki/concepts/communication/boundary-language.md
   - wiki/concepts/communication/conversational-curiosity.md
   - wiki/concepts/communication/charismatic-presence.md
   - wiki/concepts/communication/concrete-specificity.md
@@ -72,6 +74,8 @@ Effective communication is the disciplined practice of making another person und
 - The same source also reframes authority as part of communication itself: the room often reads congruence, pace, and comfort before it evaluates the explicit message.
 - The current conversation-commandments source adds an everyday connection layer: lead with genuine curiosity, use emotionally resonant questions, and prove listening through specific acknowledgment rather than generic nodding alone.
 - The same source also adds a cleaner charisma model for ordinary conversation: presence, warmth, and calm power can be practiced as communicative behaviors rather than treated as fixed talent.
+- The current Jefferson Fisher source adds a conflict-accountability layer: effective communication can mean refusing fake apologies, redirecting manipulative phrasing back to action-level responsibility, and using shorter boundary language instead of defensive over-explanation.
+- The same source also makes self-regulation more concrete in conflict: pauses, breathing, and fewer words are treated as part of message quality rather than as separate emotional advice.
 - Across these sources, effective communication is not just self-expression. It is shaped around what helps the other person hear, think, and answer.
 
 # Source Comparisons
@@ -87,11 +91,13 @@ Effective communication is the disciplined practice of making another person und
 - The current Chase Hughes reading-minds source is strongest on disclosure through composure and elicitation: do less visible extraction, stabilize the frame, and let people reveal more by correcting or extending your statements.
 - The current Chase Hughes behavioral-framework source is strongest on communication as a three-layer sequence: regulate yourself, read the other person well, then choose language that fits their actual need structure.
 - The current conversation-commandments source is strongest on socially connective conversation: curiosity, warmth, playful specificity, emotionally richer prompts, and listening that sounds unmistakably alive.
+- The current Jefferson Fisher source is strongest on manipulative conflict response: diagnose the structure of deflection, keep the wording short, and make accountability more specific instead of arguing about whether your reaction is valid.
 
 # Tensions / Open Questions
 
 - Communication optimized for accountability can become interrogation if it loses empathy or proportion.
 - Communication optimized for rapport can become evasive if it avoids directness when clarity is required.
+- Communication optimized around sharp boundary lines can become slogan-like or unnecessarily combative if used without context, proportion, or judgment.
 - Communication optimized for polish can still fail if it remains abstract enough to be forgettable or unbelievable.
 - Communication optimized to bypass evaluation can become manipulation even when it feels elegant, insightful, or unusually effective.
 - Communication optimized around behavioral cue-reading can also become overconfident if weakly supported signals are treated as hard data.
@@ -102,6 +108,7 @@ Effective communication is the disciplined practice of making another person und
 
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/communication/anchor-bridge-structure|Anchor-Bridge Structure]]
+- [[wiki/concepts/communication/boundary-language|Boundary Language]]
 - [[wiki/concepts/communication/conversational-curiosity|Conversational Curiosity]]
 - [[wiki/concepts/communication/charismatic-presence|Charismatic Presence]]
 - [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]]

@@ -2091,3 +2091,105 @@ Pages touched:
 - [[wiki/concepts/communication/effective-communication]]
 - [[wiki/syntheses/communication/conversation-connection-framework]]
 - [[index]]
+
+## [2026-04-10 11:33] ingest | Simon Sinek Trust and Team Selection
+
+Summary: Ingested a new English Simon Sinek source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection]], a new entity page at [[wiki/entities/simon-sinek]], a new canonical concept page at [[wiki/concepts/leadership/trust-performance-matrix]], and a new synthesis at [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework]]. Deepened [[wiki/concepts/leadership/trust-based-collaboration]] and [[wiki/concepts/leadership/high-performance-team-culture]] so the leadership branch now explicitly preserves Sinek's trust-versus-output selection logic, the risk of rewarding toxic high performers, and the need to make `glue` contributions visible in hiring, promotion, and recognition decisions.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-simon-sinek-trust-and-team-selection]]
+- [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/concepts/leadership/trust-performance-matrix]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/concepts/leadership/high-performance-team-culture]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework]]
+- [[index]]
+
+## [2026-04-10 11:46] ingest | Jefferson Fisher Fake Apologies and Manipulative Communication
+
+Summary: Ingested a new English Jefferson Fisher source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication]], a new entity page at [[wiki/entities/jefferson-fisher]], a new canonical concept page at [[wiki/concepts/communication/boundary-language]], and a new synthesis at [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework]]. Deepened [[wiki/concepts/communication/effective-communication]], [[wiki/concepts/communication/intention-and-impact]], and [[wiki/syntheses/cross-source/communication-and-influence-models]] so the communication branch now explicitly preserves Fisher's map of fake-apology structures, compact manipulation-resistant accountability language, and the role of pauses and fewer words in hard conversations.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication]]
+- [[wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication]]
+- [[wiki/entities/jefferson-fisher]]
+- [[wiki/concepts/communication/boundary-language]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/concepts/communication/intention-and-impact]]
+- [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models]]
+- [[index]]
+
+## [2026-04-10 11:58] ingest | Kelly McGonigal Stress Mindset and Social Resilience
+
+Summary: Ingested a new English Kelly McGonigal source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-kelly-mcgonigal-stress-mindset-and-social-resilience]], a new entity page at [[wiki/entities/kelly-mcgonigal]], a new canonical concept page at [[wiki/concepts/health/stress-mindset]], and a new synthesis at [[wiki/syntheses/health/kelly-mcgonigal-stress-resilience-framework]]. Deepened [[wiki/concepts/health/healthspan]], [[wiki/concepts/leadership/high-performance-mindset]], and [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]] so the health branch now explicitly preserves McGonigal's stress-mindset model, the social-connection side of stress biology, and the tension between useful challenge and genuinely harmful overload.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-kelly-mcgonigal-stress-mindset-and-social-resilience]]
+- [[wiki/sources/2026-04-10-kelly-mcgonigal-stress-mindset-and-social-resilience]]
+- [[wiki/entities/kelly-mcgonigal]]
+- [[wiki/concepts/health/stress-mindset]]
+- [[wiki/concepts/health/healthspan]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/syntheses/health/kelly-mcgonigal-stress-resilience-framework]]
+- [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]]
+- [[index]]
+## [2026-04-10 12:10] ingest | Daniel Levitin Stress Premortems and Decision Hygiene
+Summary: Ingested a new English Daniel Levitin source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-daniel-levitin-stress-premortems-and-decision-hygiene]], a new entity page at [[wiki/entities/daniel-levitin]], a new canonical concept page at [[wiki/concepts/health/premortem]], and a new synthesis at [[wiki/syntheses/health/daniel-levitin-decision-hygiene-framework]]. Deepened [[wiki/concepts/communication/timing-and-sequencing]], [[wiki/concepts/health/healthspan]], and [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]] so the health branch now explicitly preserves Levitin's premortem method, his stress-impaired-judgment model, and the role of advance planning in protecting decision quality. Created a new source page at [[wiki/sources/2026-04-10-daniel-levitin-stress-premortems-and-decision-hygiene]], a new entity page at [[wiki/entities/daniel-levitin]], a new canonical concept page at [[wiki/concepts/health/premortem]], and a new synthesis at [[wiki/syntheses/health/daniel-levitin-decision-hygiene-framework]]. Deepened [[wiki/concepts/communication/timing-and-sequencing]], [[wiki/concepts/health/healthspan]], and [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]] so the health branch now explicitly preserves Levitin's premortem method, his stress-impaired-judgment model, and the role of advance planning in protecting decision quality.
+Pages touched:
+- [[raw/inbox/2026-04-10-daniel-levitin-stress-premortems-and-decision-hygiene]]
+- [[wiki/sources/2026-04-10-daniel-levitin-stress-premortems-and-decision-hygiene]]
+- [[wiki/entities/daniel-levitin]]
+- [[wiki/concepts/health/premortem]]
+- [[wiki/concepts/communication/timing-and-sequencing]]
+- [[wiki/concepts/health/healthspan]]
+- [[wiki/syntheses/health/daniel-levitin-decision-hygiene-framework]]
+- [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]]
+- [[index]]
+
+## [2026-04-10 12:35] ingest | Eric Ries The Lean Startup
+
+Summary: Ingested a new English Eric Ries source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-eric-ries-the-lean-startup]], a new entity page at [[wiki/entities/eric-ries]], a new canonical concept page at [[wiki/concepts/business/validated-learning]], and a new synthesis at [[wiki/syntheses/business/lean-startup-validation-framework]]. Deepened [[wiki/concepts/business/framework-driven-action]] so the business branch now explicitly preserves Lean Startup logic as a general uncertainty-handling framework, while keeping the overlap with the existing Russian MVP niche-testing branch legible rather than duplicated.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-eric-ries-the-lean-startup]]
+- [[wiki/sources/2026-04-10-eric-ries-the-lean-startup]]
+- [[wiki/entities/eric-ries]]
+- [[wiki/concepts/business/validated-learning]]
+- [[wiki/concepts/business/framework-driven-action]]
+- [[wiki/syntheses/business/lean-startup-validation-framework]]
+- [[index]]
+
+## [2026-04-10 12:46] ingest | Simon Sinek Finite vs Infinite Games
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games]], a new canonical concept page at [[wiki/concepts/leadership/infinite-game-mindset]], and a new synthesis at [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework]]. Deepened [[wiki/entities/simon-sinek]] and [[wiki/concepts/leadership/leadership]] so the existing Simon branch now spans both trust-centered team selection and the longer-horizon finite-versus-infinite-games frame instead of splitting those ideas into disconnected pages.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-simon-sinek-finite-vs-infinite-games]]
+- [[wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/concepts/leadership/infinite-game-mindset]]
+- [[wiki/concepts/leadership/leadership]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework]]
+- [[index]]
+
+## [2026-04-10 12:56] ingest | Clayton Christensen Sustainable Growth and Jobs to Be Done
+
+Summary: Ingested a new English Clayton Christensen source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-clayton-christensen-sustainable-growth-and-jobs-to-be-done]], a new entity page at [[wiki/entities/clayton-christensen]], a new canonical concept page at [[wiki/concepts/business/jobs-to-be-done]], and a new synthesis at [[wiki/syntheses/business/clayton-christensen-growth-framework]]. Deepened [[wiki/concepts/business/business-strategy]] so the business branch now explicitly preserves Christensen's innovation-portfolio logic, jobs framing, and metrics-trap warning instead of leaving those ideas isolated in a source-only page.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-clayton-christensen-sustainable-growth-and-jobs-to-be-done]]
+- [[wiki/sources/2026-04-10-clayton-christensen-sustainable-growth-and-jobs-to-be-done]]
+- [[wiki/entities/clayton-christensen]]
+- [[wiki/concepts/business/jobs-to-be-done]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/syntheses/business/clayton-christensen-growth-framework]]
+- [[index]]
+

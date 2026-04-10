@@ -1,0 +1,55 @@
+---
+type: concept
+title: Trust-Performance Matrix
+created: 2026-04-10
+updated: 2026-04-10
+status: active
+tags:
+  - concept
+  - leadership
+  - trust
+  - teams
+source_pages:
+  - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
+related:
+  - wiki/concepts/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/high-performance-team-culture.md
+  - wiki/concepts/leadership/organizational-culture.md
+  - wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework.md
+---
+
+# What It Is
+
+The trust-performance matrix is a selection and promotion model that evaluates people on two axes at once: how well they perform and how trustworthy they are inside a team. In the current vault, its practical lesson is that high output alone is not enough if the person weakens safety, reliability, or cohesion around them.
+
+# Why It Matters
+
+- It makes an invisible leadership judgment discussable.
+- It explains why some star performers still make teams worse.
+- It gives the vault a cleaner model for deciding when culture damage outweighs raw output.
+
+# Evidence In This Vault
+
+- The current Simon Sinek source explicitly contrasts performance and trust as separate evaluative dimensions.
+- That source argues that elite teams may prefer medium-performance/high-trust people over high-performance/low-trust people.
+- It also treats the high-performance/low-trust quadrant as the culturally dangerous one because those people are often rewarded while silently degrading the environment around them.
+
+# Source Comparisons
+
+- This concept strengthens [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]] by making trust-vs-output tradeoffs more operational.
+- It also sharpens [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]] because it turns trust from a general virtue into a personnel decision criterion.
+- Compared with generic culture talk, the matrix is useful because it asks who should actually be selected, coached, promoted, or removed.
+
+# Tensions / Open Questions
+
+- Trust can be hard to assess fairly and can be confused with likability, conformity, or political skill.
+- Some organizations overcorrect and protect pleasant underperformance; the matrix only works when competence still matters.
+- The branch still needs stronger evidence on how to evaluate trust in ways that are behavioral and reliable rather than vague.
+
+# Related Pages
+
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework|Simon Sinek Trust-Centered Leadership Framework]]
+- [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection|Simon Sinek Trust and Team Selection]]

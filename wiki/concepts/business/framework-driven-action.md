@@ -10,6 +10,7 @@ tags:
   - frameworks
 source_pages:
   - wiki/sources/2026-04-09-why-many-entrepreneurs-struggle-despite-implementing-systems.md
+  - wiki/sources/2026-04-10-eric-ries-the-lean-startup.md
   - wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self.md
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
@@ -31,6 +32,7 @@ related:
   - wiki/concepts/others/interconnectedness-principle.md
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/business/business-systems.md
+  - wiki/concepts/business/validated-learning.md
   - wiki/concepts/communication/political-campaigns.md
   - wiki/concepts/business/vybor-nishi.md
   - wiki/concepts/business/mvp-testirovanie-nishi.md
@@ -42,6 +44,7 @@ related:
   - wiki/syntheses/cross-source/human-centered-change-models.md
   - wiki/syntheses/business/iger-strategy-framework.md
   - wiki/syntheses/business/scalable-business-systems-framework.md
+  - wiki/syntheses/business/lean-startup-validation-framework.md
   - wiki/syntheses/communication/axelrod-rove-campaign-framework.md
   - wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa.md
   - wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka.md
@@ -71,6 +74,7 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - The niche-selection branch adds a selection engine: generate options, score them, narrow them, and force contact with the market.
 - Grebenyuk's product branch adds an improvement engine: define key customer values, map the full client experience, surface weak emotional points, and prioritize changes by speed and force.
 - The current business-systems source adds a machine-design layer: define inputs, processes, outputs, and feedback loops, then use scorecards and bottleneck diagnosis so improvement follows evidence instead of document accumulation.
+- The Eric Ries source adds a validation loop for uncertainty-heavy product work: keep the vision visible, isolate the riskiest assumption, test it through an MVP, then use behavior to decide whether to pivot or persevere.
 - The Realnyi Million branch adds a compression engine: clear false ceilings, cut ballast, concentrate the machine through `5 единичек`, create visible `флажки`, and use control rhythms plus founder-profit discipline to keep the framework from staying rhetorical.
 
 # Source Comparisons
@@ -86,6 +90,7 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - The niche branch uses a framework as a selection machine.
 - Grebenyuk's product branch uses a framework as a continuous improvement machine: not only to choose a direction, but to repeatedly redesign the offer and client journey after the direction is chosen.
 - The current business-systems source uses a framework as throughput architecture: the model is valuable only if each function becomes observable, sequenced, and bottleneck-aware.
+- The Eric Ries source uses a framework as an uncertainty filter: before the machine is mature, the framework must help the team discover whether the machine deserves to exist in its current form at all.
 - The Realnyi Million branch uses a framework as disciplined reduction: fewer directions, fewer leaks, clearer proof points, and a tighter loop between owner behavior and business results.
 
 # Tensions / Open Questions
@@ -93,6 +98,7 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - A framework becomes dangerous when it survives mainly because it sounds coherent.
 - The more abstract the framework, the easier it is to avoid concrete tradeoffs.
 - The current business-systems source adds a related warning: once teams confuse SOPs with systems, framework language can hide the absence of real outputs, measurements, or feedback.
+- The Eric Ries source adds a similar early-stage warning: if the framework cannot name the critical assumption and the behavioral signal that would test it, it is still too rhetorical.
 - The niche branch adds one hard test: if the framework cannot produce a real market experiment quickly, it is incomplete.
 - Grebenyuk adds another hard test: if the framework does not change the product, customer experience, prioritization order, or owner economics, it is still too rhetorical.
 - The main open question is how much structure is enough before a framework starts becoming bureaucratic drag rather than useful compression.
@@ -108,6 +114,7 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - [[wiki/concepts/others/interconnectedness-principle|Interconnectedness Principle]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/business/business-systems|Business Systems]]
+- [[wiki/concepts/business/validated-learning|Validated Learning]]
 - [[wiki/concepts/communication/political-campaigns|Political Campaigns]]
 - [[wiki/concepts/business/vybor-nishi|Выбор ниши]]
 - [[wiki/concepts/business/mvp-testirovanie-nishi|MVP-тестирование ниши]]
@@ -119,6 +126,7 @@ Framework-driven action is the discipline of acting from an explicit model that 
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/business/scalable-business-systems-framework|Scalable Business Systems Framework]]
+- [[wiki/syntheses/business/lean-startup-validation-framework|Lean Startup Validation Framework]]
 - [[wiki/syntheses/communication/axelrod-rove-campaign-framework|Axelrod Rove Campaign Framework]]
 - [[wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]]
 - [[wiki/syntheses/business/freymvork-produktovogo-myshleniya-grebenyuka|Фреймворк продуктового мышления Гребенюка]]

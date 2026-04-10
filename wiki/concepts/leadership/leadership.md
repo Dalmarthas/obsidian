@@ -9,6 +9,7 @@ tags:
   - leadership
   - decision-making
 source_pages:
+  - wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games.md
   - wiki/sources/2026-04-09-jurgen-klopp-coaching-legacy.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
@@ -18,6 +19,7 @@ source_pages:
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
 related:
+  - wiki/concepts/leadership/infinite-game-mindset.md
   - wiki/concepts/leadership/diverse-teams.md
   - wiki/concepts/communication/negotiation-and-mediation.md
   - wiki/concepts/leadership/leadership-communication.md
@@ -34,6 +36,7 @@ related:
   - wiki/concepts/leadership/individualized-leadership.md
   - wiki/syntheses/leadership/clinton-leadership-framework.md
   - wiki/syntheses/leadership/jurgen-klopp-leadership-framework.md
+  - wiki/syntheses/leadership/simon-sinek-infinite-game-framework.md
   - wiki/syntheses/business/iger-strategy-framework.md
   - wiki/syntheses/cross-source/high-performance-leadership-models.md
 ---
@@ -64,6 +67,7 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Axelrod and Rove add the campaign version: the way a candidate runs a campaign is itself an early signal of how they might govern under scrutiny, conflict, and time pressure.
 - Rhimes adds the showrunner version: leadership means protecting a creative vision while managing rooms, actors, production realities, budgets, and network pressures without losing the show's identity.
 - Schultz adds the values-driven company version: leadership has to reconcile financial performance, humane treatment, cultural imprinting, and strategic courage instead of treating those as separate domains.
+- Simon Sinek adds a time-horizon version: leadership is weaker when it treats business like a finite contest and stronger when it uses purpose, values, trust, and self-competition to sustain the institution beyond temporary scoreboards.
 
 # Source Comparisons
 
@@ -75,6 +79,7 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Axelrod and Rove are strongest on leadership under public testing: campaigns expose authenticity, crisis behavior, planning discipline, and whether a person can hold a coherent line under pressure.
 - Rhimes is strongest on leadership inside creative production systems: vision has to survive contact with rooms, deadlines, production, and institutional notes.
 - Schultz is strongest on founder-led institutional leadership: values, culture, transparency, and operational rigor have to remain aligned even during crisis and scale.
+- Sinek is strongest on leadership as long-horizon stewardship: the real task is not to beat everyone once, but to keep the organization worth belonging to and worth continuing.
 - Both reject leadership as theater. Each favors clarity, candor, and responsibility over performative certainty.
 
 # Tensions / Open Questions
@@ -84,9 +89,11 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - The current branch now also has a scale tension: some advice is transferable, but Iger's model assumes organizational leverage and capital that many leaders will not have.
 - Schultz sharpens a second scale tension: humane values are easier to preach than to preserve when margins tighten and hard cuts become unavoidable.
 - Klopp adds a succession tension: leaders naturally want to protect their legacy, but durable leadership may require letting the next person inherit something stable enough to reinterpret.
+- Sinek adds an incentive tension: many organizations speak in purpose-and-values language while still compensating, promoting, and reporting as if only finite-game wins matter.
 
 # Related Pages
 
+- [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
 - [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
@@ -103,5 +110,6 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - [[wiki/concepts/leadership/individualized-leadership|Individualized Leadership]]
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
 - [[wiki/syntheses/leadership/jurgen-klopp-leadership-framework|Jurgen Klopp Leadership Framework]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]

@@ -2,7 +2,7 @@
 type: concept
 title: Healthspan
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -15,6 +15,8 @@ source_pages:
   - wiki/sources/2026-04-08-longevity-health-tips-composite-summary.md
   - wiki/sources/2026-04-08-pavel-tsatsouline-strength-and-conditioning.md
   - wiki/sources/2026-04-08-keep-your-brain-sharp-at-90-summary.md
+  - wiki/sources/2026-04-10-kelly-mcgonigal-stress-mindset-and-social-resilience.md
+  - wiki/sources/2026-04-10-daniel-levitin-stress-premortems-and-decision-hygiene.md
 related:
   - wiki/entities/david-sinclair.md
   - wiki/entities/michael-greger.md
@@ -24,6 +26,8 @@ related:
   - wiki/concepts/health/whole-food-plant-based-diet.md
   - wiki/concepts/health/diet-and-chronic-disease.md
   - wiki/concepts/health/longevity-fundamentals.md
+  - wiki/concepts/health/stress-mindset.md
+  - wiki/concepts/health/premortem.md
   - wiki/concepts/health/strength-training.md
   - wiki/concepts/health/daily-dozen.md
   - wiki/concepts/health/sleep-quality.md
@@ -52,6 +56,8 @@ Healthspan is the portion of life lived with strong function, low disease burden
 - The longevity composite source reinforces healthspan as the real target of medicine and links it to aging biology, preventive intervention, and decades-earlier habits rather than to lifespan statistics alone.
 - The Pavel Tsatsouline source adds a functional-capacity layer: strength, grip, joint-friendly training, and recoverable exercise practice all help determine whether later years remain physically usable.
 - The brain-health source adds a cognitive-preservation layer: staying mentally sharp, protecting hippocampal structure, and reducing dementia risk are part of what makes later years genuinely high-quality.
+- The current Kelly McGonigal source adds a psychophysiological layer that the branch lacked: how stress is interpreted, socially metabolized, and connected to meaning may shape whether pressure contributes more to wear or to resilient function.
+- The current Daniel Levitin source adds a decision-hygiene layer: quality of life is also protected by reducing avoidable mistakes through premortems, advance discussion, and environmental systems before stress peaks.
 
 # Source Comparisons
 
@@ -60,6 +66,9 @@ Healthspan is the portion of life lived with strong function, low disease burden
 - [[wiki/concepts/health/sleep-quality|Sleep Quality]] is more immediate and recovery-oriented, but it complements this concept by clarifying one daily lever that helps make healthspan real.
 - [[wiki/concepts/health/strength-training|Strength Training]] adds another missing concrete lever: preserving usable force, structural resilience, and functional independence rather than only lowering risk markers.
 - [[wiki/concepts/health/brain-health-and-cognitive-aging|Brain Health and Cognitive Aging]] adds the cognitive side of the same target: preserved memory, processing speed, and lower neurodegenerative risk.
+- [[wiki/concepts/health/stress-mindset|Stress Mindset]]
+- [[wiki/concepts/health/premortem|Premortem]] adds a missing interpretation layer: the body is not only affected by external load, but also by whether the person meets that load as damage, challenge, or meaningful demand.
+- [[wiki/concepts/health/premortem|Premortem]] adds a preventive decision layer: durable function also depends on not waiting until crisis to make every important choice from scratch.
 - Compared with [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], healthspan is broader and less performance-centric: it is about durable function for life, not only excellence under pressure.
 
 # Tensions / Open Questions
@@ -68,6 +77,7 @@ Healthspan is the portion of life lived with strong function, low disease burden
 - The current vault still needs more health sources to test which interventions preserve healthspan most reliably across different populations and constraints.
 - There is also an open tension between public-health guidance and individualized medicine that this branch has not yet resolved.
 - There is now a visible source-level tension between stricter plant-based prevention and a more mixed longevity model that still endorses fish oil or fatty fish in some contexts.
+- The new McGonigal branch adds another tension: stress may be partly reframable, but the vault still needs stronger boundaries between helpful challenge, chronic overload, and environments that should not be adapted to psychologically.
 
 # Related Pages
 
@@ -84,9 +94,12 @@ Healthspan is the portion of life lived with strong function, low disease burden
 - [[wiki/concepts/health/strength-training|Strength Training]]
 - [[wiki/concepts/health/daily-dozen|Daily Dozen]]
 - [[wiki/concepts/health/longevity-fundamentals|Longevity Fundamentals]]
+- [[wiki/concepts/health/stress-mindset|Stress Mindset]]
+- [[wiki/concepts/health/premortem|Premortem]]
 - [[wiki/concepts/health/sleep-quality|Sleep Quality]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/syntheses/health/michael-greger-nutrition-framework|Michael Greger Nutrition Framework]]
 - [[wiki/syntheses/health/pavel-tsatsouline-strength-framework|Pavel Tsatsouline Strength Framework]]
 - [[wiki/syntheses/health/longevity-health-fundamentals-framework|Longevity Health Fundamentals Framework]]
 - [[wiki/syntheses/cross-source/preventive-health-and-longevity-models|Preventive Health and Longevity Models]]
+

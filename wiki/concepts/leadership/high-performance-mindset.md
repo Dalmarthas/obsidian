@@ -2,7 +2,7 @@
 type: concept
 title: High-Performance Mindset
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -13,6 +13,7 @@ source_pages:
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-rhonda-patrick-sleep-tips.md
+  - wiki/sources/2026-04-10-kelly-mcgonigal-stress-mindset-and-social-resilience.md
   - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
 related:
@@ -23,6 +24,7 @@ related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/leadership/head-and-heart-harmony.md
   - wiki/concepts/health/sleep-quality.md
+  - wiki/concepts/health/stress-mindset.md
   - wiki/concepts/communication/interactional-authority.md
   - wiki/concepts/communication/frame-control.md
   - wiki/concepts/others/emotional-gravity.md
@@ -51,6 +53,7 @@ High-performance mindset is the psychological operating system that allows a per
 - The current Chase Hughes reading-minds source adds a confidence-and-state layer: real confidence is framed as uncovered through self-forgiveness, and high-stakes performance improves when the body and speech slow down enough to reduce visible neediness and preserve composure.
 - The same source also adds a sabotage layer: repeated emotional loops can keep dragging performance back toward familiar chaos unless they are made conscious.
 - The current Chase Hughes behavioral-framework source adds an authority-and-comfort layer: high performance is easier to sustain when composure, private-life congruence, and room-reading are treated as trainable infrastructure rather than as superficial polish.
+- The current Kelly McGonigal source adds a health-side interpretation layer: some performance pressure may become less damaging when stress is read as preparation, social activation, and meaningful challenge rather than as automatic evidence of collapse.
 
 # Source Comparisons
 
@@ -60,6 +63,7 @@ High-performance mindset is the psychological operating system that allows a per
 - The current Chase Hughes source is strongest on salience engineering: make the future self vivid, make the goal emotionally loaded, change the environment, and track behavior daily so consistency becomes easier to repeat.
 - The current Chase Hughes reading-minds source is strongest on confidence as removal rather than acquisition: forgive the self, reduce performance mode, and let groundedness replace compensatory urgency.
 - The current Chase Hughes behavioral-framework source is strongest on the interactional side of performance: the person who stays comfortable, observant, and less frantic in the room often performs better before any extra technique is added.
+- The current Kelly McGonigal source is strongest on the psychophysiological meaning of pressure: not all stress is equal, and appraisal may shape whether strain becomes more adaptive or more corrosive.
 - Together these sources suggest that elite performance needs inward regulation, outwardly demanding systems, and a physical recovery base that is strong enough to support both.
 
 # Tensions / Open Questions
@@ -68,6 +72,7 @@ High-performance mindset is the psychological operating system that allows a per
 - Pressure can sharpen or distort performance depending on whether the surrounding system is developmental or merely punishing.
 - Confidence work can also become vague if self-forgiveness is treated as a total solution for problems that still require skill, structure, or therapy.
 - Authority language can become performance theater if visible calm is pursued without real substance, ethics, or recovery underneath it.
+- Stress-reframing language can become dangerous if it is used to glorify overload or keep people inside environments that are plainly unhealthy.
 
 # Related Pages
 
@@ -78,6 +83,7 @@ High-performance mindset is the psychological operating system that allows a per
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/concepts/health/sleep-quality|Sleep Quality]]
+- [[wiki/concepts/health/stress-mindset|Stress Mindset]]
 - [[wiki/concepts/communication/frame-control|Frame Control]]
 - [[wiki/concepts/others/emotional-gravity|Emotional Gravity]]
 - [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]

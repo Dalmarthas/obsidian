@@ -2,7 +2,7 @@
 type: concept
 title: Intention and Impact
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -10,8 +10,10 @@ tags:
   - accountability
 source_pages:
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
+  - wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication.md
 related:
   - wiki/concepts/communication/authentic-communication.md
+  - wiki/concepts/communication/boundary-language.md
   - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/business/creative-entrepreneurship.md
   - wiki/syntheses/business/welteroth-career-framework.md
@@ -33,15 +35,25 @@ Intention and impact is the distinction between what someone meant to do and wha
 - The first responsibility is to acknowledge the impact and show understanding of why it was harmful.
 - Only after people feel heard does explanation of intention become productive.
 - The broader lesson is that authentic voice does not remove the need for filters, humility, and responsibility.
+- The current Jefferson Fisher source adds a live-dialogue version of the same principle: fake apologies often fail by talking about the listener's feelings instead of the speaker's action.
+- That source also adds a direct corrective move: push the conversation back from emotional deflection to behavioral ownership.
+
+# Source Comparisons
+
+- Welteroth frames the concept as a moral and professional accountability rule: impact has to be acknowledged before self-exoneration enters.
+- Jefferson Fisher frames it as conversational defense against manipulation: if someone apologizes for your feelings or hides behind `if`, the accountability structure itself has broken.
+- Together they make the concept more usable across contexts: Welteroth explains the principle, Fisher shows what it sounds like when the principle is being dodged in real time.
 
 # Tensions / Open Questions
 
 - An impact-first norm can become shallow if it turns into ritual apology without actual learning or structural change.
 - Some situations involve contested or ambiguous harms, so accountability still requires judgment rather than formula.
+- The branch still needs stronger distinction between poor apology skills, active deflection, and genuinely coercive psychological manipulation.
 
 # Related Pages
 
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
+- [[wiki/concepts/communication/boundary-language|Boundary Language]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/business/creative-entrepreneurship|Creative Entrepreneurship]]
 - [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]

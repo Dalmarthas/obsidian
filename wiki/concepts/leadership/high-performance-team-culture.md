@@ -2,7 +2,7 @@
 type: concept
 title: High-Performance Team Culture
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -15,9 +15,11 @@ source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
+  - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/trust-performance-matrix.md
   - wiki/concepts/filmmaking/showrunning.md
   - wiki/concepts/leadership/organizational-culture.md
   - wiki/concepts/leadership/individualized-leadership.md
@@ -47,6 +49,7 @@ High-performance team culture is the set of norms, standards, and relationship p
 - Clinton adds the leadership-side requirement that people need trust, context, and responsibility if they are going to function well together across disagreement.
 - Rhimes adds the television version: rooms and production teams perform better when contribution norms are clear, deadlines are real, ego performance is minimized, and everyone understands the show they are helping make.
 - Schultz adds the scaled-company version: performance culture works best when excellence is expected, humanity remains explicit, and the organization moves quickly against mediocrity or entitlement before they harden into the norm.
+- Simon Sinek adds a sharper selection rule: culture stays healthier when organizations explicitly prefer trust-generating teammates over toxic stars, and when recognition reaches the people who quietly keep the team safe and cohesive.
 
 # Source Comparisons
 
@@ -56,17 +59,20 @@ High-performance team culture is the set of norms, standards, and relationship p
 - Clinton is strongest on process and dignity: safe disagreement, role clarity, and trust make collective work more resilient.
 - Rhimes is strongest on creative throughput under deadline: culture is not abstract morale, but the difference between a room that generates usable pages and a room that burns time performing itself.
 - Schultz is strongest on company-scale cultural reinforcement: town halls, audits, storytelling, benefits, and direct standards keep performance and humanity from drifting apart as the organization grows.
+- Sinek is strongest on toxic tradeoff recognition: he makes the case that performance and trust are separate variables, and that the wrong combination can quietly rot the team even when output still looks good.
 
 # Tensions / Open Questions
 
 - High standards can produce excellence, but they can also become fear systems if the culture loses trust.
 - Public accountability clarifies expectations, but in the wrong hands it can slip into humiliation.
 - Klopp's branch adds a related risk: intensity can become cultish or exhausting if it is copied as mood and symbolism without the underlying care, judgment, and continuity.
+- The Sinek layer adds a management risk in the other direction: if leaders say trust matters but still promote toxic stars, the culture learns that stated values are cosmetic.
 
 # Related Pages
 
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]]
 - [[wiki/concepts/filmmaking/showrunning|Showrunning]]
 - [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
 - [[wiki/concepts/leadership/individualized-leadership|Individualized Leadership]]

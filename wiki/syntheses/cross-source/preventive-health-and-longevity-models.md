@@ -2,7 +2,7 @@
 type: synthesis
 title: Preventive Health and Longevity Models
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-10
 status: active
 tags:
   - synthesis
@@ -16,11 +16,15 @@ basis:
   - wiki/sources/2026-04-08-longevity-health-tips-composite-summary.md
   - wiki/sources/2026-04-08-pavel-tsatsouline-strength-and-conditioning.md
   - wiki/sources/2026-04-08-keep-your-brain-sharp-at-90-summary.md
+  - wiki/sources/2026-04-10-kelly-mcgonigal-stress-mindset-and-social-resilience.md
+  - wiki/sources/2026-04-10-daniel-levitin-stress-premortems-and-decision-hygiene.md
   - wiki/concepts/health/sleep-quality.md
   - wiki/concepts/health/brain-health-and-cognitive-aging.md
   - wiki/concepts/health/diet-and-chronic-disease.md
   - wiki/concepts/health/healthspan.md
   - wiki/concepts/health/longevity-fundamentals.md
+  - wiki/concepts/health/stress-mindset.md
+  - wiki/concepts/health/premortem.md
   - wiki/concepts/health/strength-training.md
   - wiki/concepts/health/whole-food-plant-based-diet.md
 related:
@@ -29,6 +33,8 @@ related:
   - wiki/syntheses/health/longevity-health-fundamentals-framework.md
   - wiki/syntheses/health/pavel-tsatsouline-strength-framework.md
   - wiki/syntheses/health/brain-sharpness-at-90-protocol.md
+  - wiki/syntheses/health/kelly-mcgonigal-stress-resilience-framework.md
+  - wiki/syntheses/health/daniel-levitin-decision-hygiene-framework.md
 ---
 
 # Question
@@ -55,7 +61,7 @@ The current health branch supports a six-part shared model:
    The new strength branch makes a missing point explicit: prevention is not only about lowering risk markers but also about preserving force, resilience, and usable movement capacity.
 
 6. The body is one connected process.
-   Recovery, metabolism, disease burden, and aging are not treated as isolated problems in separate silos.
+   Recovery, metabolism, disease burden, aging, and stress appraisal are not treated as isolated problems in separate silos.
 
 The shared direction is clear: durable health is not an emergency-room phenomenon. It is accumulated daily through repeated inputs and avoided damage.
 
@@ -71,10 +77,14 @@ The shared direction is clear: durable health is not an emergency-room phenomeno
 - The longevity composite branch is strongest on the aging-and-prevention frame: treat aging as modifiable, focus on fundamentals, and stay skeptical about hype even while watching emerging science.
 - Pavel Tsatsouline is strongest on the movement-capacity layer: build strength as a foundational quality through submaximal practice, high-transfer movements, and recovery-aware progression.
 - The brain-health source is strongest on a concrete cognitive endpoint: it makes aerobic exercise, deep sleep, and risk reduction feel directly tied to preserving memory and reducing dementia risk.
+- The current Kelly McGonigal source is strongest on the appraisal-and-connection layer: beliefs about stress, social support, and prosocial behavior are treated as meaningful health variables rather than soft side notes.
+- The current Daniel Levitin source is strongest on decision hygiene under stress: pre-plan failure points, externalize memory, and move high-stakes choices out of crisis conditions wherever possible.
 - Greger and the longevity composite branch agree on prevention and healthspan but differ on nutrition emphasis: Greger pushes a stronger whole-food plant-based default, while the composite source is more open to fatty fish and fish oil.
 - Rhonda Patrick and the composite source overlap heavily on sleep and supplement advice, but the composite source adds little independent sleep structure beyond what the Rhonda branch already captured.
 - Pavel complements the other branches by adding a concrete answer to what "exercise" should often cash out to in practice: not maximal punishment, but recoverable strength-building with technical quality.
 - The brain-health source strengthens the shared model by making cognition a clearer reason these upstream habits matter, but it also introduces a more tentative multivitamin claim that should stay lower-confidence than the exercise and sleep layers.
+- The new McGonigal branch broadens the prevention model beyond behaviors alone by arguing that interpretation, meaning, and social response partly mediate what stress does to health.
+- The new Levitin branch adds a procedural prevention layer: one way to protect health is to protect decision quality before pressure strips away executive control.
 
 # Gaps
 
@@ -83,6 +93,8 @@ The shared direction is clear: durable health is not an emergency-room phenomeno
 - The nutrition branch especially needs more sources because current diet differences are visible but not yet deeply adjudicated.
 - The exercise branch also needs broader coverage, especially around endurance, mobility, rehab, and hypertrophy-specific frameworks.
 - The brain-health branch also needs better source depth on dementia prevention, `APOE4`, and whether the multivitamin effect survives closer scrutiny.
+- The new stress branch also needs stronger depth on burnout, trauma, workplace stress, and the boundary between useful reframing and adaptation to genuinely harmful conditions.
+- The new decision-hygiene branch also needs stronger depth on checklists, emergency planning, medical evidence interpretation, and the line between prudent preparation and compulsive overplanning.
 
 # Related Pages
 
@@ -91,3 +103,4 @@ The shared direction is clear: durable health is not an emergency-room phenomeno
 - [[wiki/syntheses/health/longevity-health-fundamentals-framework|Longevity Health Fundamentals Framework]]
 - [[wiki/syntheses/health/pavel-tsatsouline-strength-framework|Pavel Tsatsouline Strength Framework]]
 - [[wiki/syntheses/health/brain-sharpness-at-90-protocol|Brain Sharpness at 90 Protocol]]
+
