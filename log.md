@@ -2046,3 +2046,48 @@ Pages touched:
 - [[wiki/syntheses/leadership/jurgen-klopp-leadership-framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models]]
 - [[index]]
+
+## [2026-04-10 00:53] ingest | Выдержки из книги «Атомные привычки» Джеймса Клира
+
+Summary: Ингестировал новый русскоязычный raw-источник и переместил канонический файл в `raw/inbox/` под нормализованным именем. Создал исходную страницу [[wiki/sources/2026-04-09-vyderzhki-iz-knigi-atomnye-privychki-dzheimsa-klira]], сущность [[wiki/entities/dzheims-klir]], канонические концепт-страницы [[wiki/concepts/productivity/sistemy-vmesto-celei]], [[wiki/concepts/productivity/uchet-vremeni]] и [[wiki/concepts/productivity/samoupravlenie]], а также синтез-страницу [[wiki/syntheses/productivity/freymvork-samoupravleniya-cherez-sistemy-i-privychki]]. Ветка теперь явно фиксирует, что заметка смешивает клировскую линию про накопительный эффект привычек и системы вместо целей с друкеровским слоем про учет времени, сильные стороны, приоритеты и самоуправление, не выдавая этот короткий источник за полную карту книги «Атомные привычки». Обновлен [[index]] с новыми записями по raw-файлу, исходной странице, сущности, концептам и синтезу.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-09-vyderzhki-iz-knigi-atomnye-privychki-dzheimsa-klira]]
+- [[wiki/sources/2026-04-09-vyderzhki-iz-knigi-atomnye-privychki-dzheimsa-klira]]
+- [[wiki/entities/dzheims-klir]]
+- [[wiki/concepts/productivity/sistemy-vmesto-celei]]
+- [[wiki/concepts/productivity/uchet-vremeni]]
+- [[wiki/concepts/productivity/samoupravlenie]]
+- [[wiki/syntheses/productivity/freymvork-samoupravleniya-cherez-sistemy-i-privychki]]
+- [[index]]
+
+## [2026-04-10 11:15] ingest | Rory Sutherland Marketing Psychology and Perceived Value
+
+Summary: Ingested a new English Rory Sutherland source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-rory-sutherland-marketing-psychology-and-perceived-value]], a new entity page at [[wiki/entities/rory-sutherland]], new canonical concept pages at [[wiki/concepts/business/reverse-benchmarking]] and [[wiki/concepts/business/perception-driven-value]], plus a new synthesis at [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. Deepened [[wiki/concepts/business/advertising]] and [[wiki/concepts/business/brand-strategy]] so the advertising branch now explicitly preserves Sutherland's psychological-value layer around framing, fat-tailed breakthroughs, category-neglected differentiation, and the risk that logic-heavy optimization can suppress uncommon value creation.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-rory-sutherland-marketing-psychology-and-perceived-value]]
+- [[wiki/sources/2026-04-10-rory-sutherland-marketing-psychology-and-perceived-value]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/concepts/business/reverse-benchmarking]]
+- [[wiki/concepts/business/perception-driven-value]]
+- [[wiki/concepts/business/advertising]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-10 11:23] ingest | Conversation Commandments for Better Connection
+
+Summary: Ingested a new English composite conversation source and moved the canonical raw file into `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-conversation-commandments-for-better-connection]], new canonical concept pages at [[wiki/concepts/communication/conversational-curiosity]] and [[wiki/concepts/communication/charismatic-presence]], plus a new synthesis at [[wiki/syntheses/communication/conversation-connection-framework]]. Deepened [[wiki/concepts/communication/effective-communication]] so the communication branch now explicitly preserves the source's everyday connection layer around curiosity-first conversation, presence-warmth-power as a trainable charisma model, emotionally richer question design, and listening that proves the other person actually landed.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-conversation-commandments-for-better-connection]]
+- [[wiki/sources/2026-04-10-conversation-commandments-for-better-connection]]
+- [[wiki/concepts/communication/conversational-curiosity]]
+- [[wiki/concepts/communication/charismatic-presence]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/syntheses/communication/conversation-connection-framework]]
+- [[index]]
