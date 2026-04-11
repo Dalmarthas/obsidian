@@ -2,7 +2,7 @@
 type: synthesis
 title: Simon Sinek Infinite Game Framework
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-12
 status: active
 tags:
   - synthesis
@@ -11,6 +11,7 @@ tags:
   - purpose
 question: What reusable leadership framework does the Simon Sinek finite-versus-infinite-games source add to the vault?
 basis:
+  - wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset.md
   - wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games.md
   - wiki/concepts/leadership/infinite-game-mindset.md
   - wiki/concepts/leadership/leadership.md
@@ -27,7 +28,7 @@ What reusable leadership framework does the Simon Sinek finite-versus-infinite-g
 
 # Answer
 
-The current source base supports a six-part model:
+The current source base supports an eight-part model:
 
 1. Treat the institution as part of an ongoing game, not a final contest.
    The goal is not to "win business" once and for all, but to keep the organization healthy, adaptive, and meaningful enough to continue playing well over time.
@@ -47,6 +48,12 @@ The current source base supports a six-part model:
 6. Keep the vision slightly beyond reach.
    An infinite-minded organization should still feel challenged. Once the horizon collapses into comfort or vanity metrics, innovation weakens.
 
+7. Put people first structurally.
+   Infinite-game leadership treats employees and teammates as the leader's first responsibility, because cared-for people create the conditions for better service, resilience, and institutional longevity.
+
+8. Reward courage and contribution, not only outcomes.
+   If leaders claim to think long-term but punish failed initiative and celebrate only visible wins, they quietly teach finite behavior anyway.
+
 # Basis
 
 - Main source: [[wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games|Simon Sinek Finite vs Infinite Games]]
@@ -55,6 +62,7 @@ The current source base supports a six-part model:
 # Comparisons
 
 - Compared with [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework|Simon Sinek Trust-Centered Leadership Framework]], this framework is broader and more strategic. The earlier Sinek page is about who should be trusted with membership, influence, and promotion; this one is about the long-term game the institution thinks it is playing.
+- The newest Simon conversation narrows the distance between the two pages: infinite-minded leadership now looks less like abstract horizon talk and more like concrete care, coaching, feedback, and reward design.
 - Compared with [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]], Sinek is less concrete about portfolio choices and repeated corporate priorities, but stronger on the philosophical time horizon that makes those priorities coherent.
 - The two Simon Sinek sources now complement each other:
   - one defines the social conditions of healthy teams
@@ -64,6 +72,7 @@ The current source base supports a six-part model:
 
 - This framework currently rests on one secondary summary rather than a deeper Sinek branch with primary material.
 - The source is strong on orientation and language, but lighter on measurement systems that would show whether a firm is actually living the model.
+- The branch is now stronger on people-first and recognition behavior, but it still needs more detail on how leaders should navigate cases where human care, short-term economics, and service obligations genuinely collide.
 - The vault still needs stronger counter-models from leaders who argue that finite pressure and hard deadlines are the main reason excellence happens.
 
 # Related Pages

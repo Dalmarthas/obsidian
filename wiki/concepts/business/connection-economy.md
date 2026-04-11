@@ -10,6 +10,7 @@ tags:
   - marketing
   - networks
 source_pages:
+  - wiki/sources/2026-04-12-how-to-build-an-audience-that-buys.md
   - wiki/sources/2026-04-12-seth-godin-how-to-get-your-ideas-to-spread.md
 related:
   - wiki/concepts/business/smallest-viable-audience.md
@@ -42,17 +43,24 @@ Connection economy is the market logic in which value is created less by mass pr
 - It also argues that treating different people differently is now realistic and necessary because digital tools make one-size-fits-all messaging strategically obsolete.
 - Tribe logic is central to the concept: people spread ideas when they feel `people like us do things like this`, not merely when they see another generic pitch.
 - This overlaps with [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]], but the emphasis here is on the network conditions that help ideas travel after the right audience has been chosen.
+- The newest Seth audience-building source makes the spread mechanics more tangible:
+  - the network effect often depends on visible use, conversational triggers, rituals, and social scenes that make sharing feel natural
+  - status and affiliation are not side effects but part of why ideas travel
+  - `spread` is therefore partly a design problem, not only a messaging problem
+- That same source also adds a platform warning: networked tools can help ideas travel, but they can also trap creators into serving the platform's metrics rather than building a customer base that actually buys and tells others.
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]], this concept is more structural. Smallest viable audience defines where to begin; connection economy explains why the chosen group's relationships and sharing patterns matter so much.
 - Compared with [[wiki/concepts/business/brand-strategy|Brand Strategy]], this page is more about the market environment and spread mechanics than about promise, positioning, or meaning architecture.
 - Compared with [[wiki/concepts/business/permissionless-creation|Permissionless Creation]], this page is less about the creator's courage to start and more about the connected social system that determines whether the work can coordinate a tribe once it exists.
+- Compared with the newest Seth audience-building source, the earlier spread source is more abstract and network-structural, while the new one is more product-and-scene-oriented about how word of mouth actually gets triggered in lived social situations.
 
 # Tensions / Open Questions
 
 - Connection density can be a real advantage, but not every category lends itself to visible tribes, rituals, or shareable identity.
 - The same tools that enable relevance and permission can also enable manipulative over-personalization if marketers stop respecting consent and dignity.
+- The newest Seth layer adds another risk: creators may mistake platform-native visibility for connection-economy strength even when the audience is not buying, not returning, and not telling friends outside the feed.
 - The main open question is how to tell when a business should be designed around connection-economy dynamics and when it mainly wins through utility, trustworthiness, and quiet reliability.
 
 # Related Pages

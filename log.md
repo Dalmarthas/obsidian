@@ -3013,3 +3013,104 @@ Pages touched:
 - [[wiki/entities/seth-godin]]
 - [[wiki/syntheses/leadership/seth-godin-leadership-framework]]
 - [[index]]
+
+## [2026-04-12 13:18] ingest | How To Build An Audience That Buys
+
+Summary: Ingested a new English Seth Godin source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-how-to-build-an-audience-that-buys]] and deepened [[wiki/concepts/business/smallest-viable-audience]], [[wiki/concepts/business/connection-economy]], [[wiki/entities/seth-godin]], and [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]] so the Seth branch now captures a five-step audience-building sequence, worldview-aligned story design, word-of-mouth triggers built into social context, and the warning that platform reach can fail to produce buyers.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-how-to-build-an-audience-that-buys]]
+- [[wiki/sources/2026-04-12-how-to-build-an-audience-that-buys]]
+- [[wiki/concepts/business/smallest-viable-audience]]
+- [[wiki/concepts/business/connection-economy]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[index]]
+
+## [2026-04-12 13:32] ingest | Unlocking Leadership with Simon Sinek The Infinite Mindset
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset]] and deepened [[wiki/concepts/leadership/infinite-game-mindset]], [[wiki/concepts/leadership/trust-based-collaboration]], [[wiki/concepts/leadership/trust-performance-matrix]], [[wiki/entities/simon-sinek]], [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework]], and [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework]] so the Simon branch now captures leadership as a learnable service skill, people-first structure, vulnerable leadership, tailored feedback, micro-behavior culture design, and rewarding initiative beyond outcome-only logic.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset]]
+- [[wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset]]
+- [[wiki/concepts/leadership/infinite-game-mindset]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/concepts/leadership/trust-performance-matrix]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework]]
+- [[index]]
+
+## [2026-04-12 13:43] ingest | Why good leaders make you feel safe
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe]] and deepened [[wiki/concepts/leadership/trust-based-collaboration]], [[wiki/concepts/leadership/leadership]], [[wiki/entities/simon-sinek]], and [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework]] so the Simon branch now captures the circle of safety, sacrificial leadership, shared-sacrifice crisis design, and leadership as protective behavior rather than formal rank.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-why-good-leaders-make-you-feel-safe]]
+- [[wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/concepts/leadership/leadership]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework]]
+- [[index]]
+
+## [2026-04-12 13:54] ingest | Leaders Eat Last Why Some Teams Pull Together and Others Don't
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont]] and deepened [[wiki/concepts/leadership/trust-based-collaboration]], [[wiki/concepts/leadership/leadership]], [[wiki/entities/simon-sinek]], and [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework]] so the Simon branch now captures the `leaders eat last` sacrifice standard, internal-versus-external threat design, dopamine/cortisol versus trust-oriented incentive framing, and the cultural damage caused by fear-heavy scoreboards.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont]]
+- [[wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/concepts/leadership/leadership]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework]]
+- [[index]]
+
+## [2026-04-12 14:07] ingest | How Great Leaders Inspire Action
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-how-great-leaders-inspire-action]] and deepened [[wiki/concepts/business/golden-circle]], [[wiki/concepts/leadership/leadership-communication]], [[wiki/entities/simon-sinek]], and [[wiki/syntheses/business/simon-sinek-golden-circle-framework]] so the Simon Golden Circle branch now captures stronger TED examples, clearer innovators-and-early-adopters diffusion logic, and a sharper distinction between formal leaders and `those who lead`.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-how-great-leaders-inspire-action]]
+- [[wiki/sources/2026-04-12-how-great-leaders-inspire-action]]
+- [[wiki/concepts/business/golden-circle]]
+- [[wiki/concepts/leadership/leadership-communication]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/syntheses/business/simon-sinek-golden-circle-framework]]
+- [[index]]
+
+## [2026-04-12 14:10] ingest | Engage and Inspire Simon Sinek's Guide to Starting with Why
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why]] and deepened [[wiki/concepts/business/golden-circle]], [[wiki/concepts/business/brand-strategy]], [[wiki/entities/simon-sinek]], and [[wiki/syntheses/business/simon-sinek-golden-circle-framework]] so the Simon Golden Circle branch now captures belief-led introductions, worldview-based client qualification, early-adopter prioritization, and strategic refusal of low-alignment buyers.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why]]
+- [[wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why]]
+- [[wiki/concepts/business/golden-circle]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/syntheses/business/simon-sinek-golden-circle-framework]]
+- [[index]]
+
+## [2026-04-12 14:13] ingest | Authenticity Starts With Knowing Your WHY
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-authenticity-starts-with-knowing-your-why]] and deepened [[wiki/concepts/business/golden-circle]], [[wiki/concepts/communication/authentic-communication]], [[wiki/concepts/leadership/values-driven-action]], [[wiki/entities/simon-sinek]], and [[wiki/syntheses/business/simon-sinek-golden-circle-framework]] so the Simon `why` branch now captures personal-purpose discovery, authenticity as alignment, the `friends exercise`, and emotional resonance as a clue for naming a core contribution.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-authenticity-starts-with-knowing-your-why]]
+- [[wiki/sources/2026-04-12-authenticity-starts-with-knowing-your-why]]
+- [[wiki/concepts/business/golden-circle]]
+- [[wiki/concepts/communication/authentic-communication]]
+- [[wiki/concepts/leadership/values-driven-action]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/syntheses/business/simon-sinek-golden-circle-framework]]
+- [[index]]

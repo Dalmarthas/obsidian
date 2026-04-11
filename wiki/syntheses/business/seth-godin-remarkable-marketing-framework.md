@@ -11,6 +11,7 @@ tags:
   - seth-godin
 question: What reusable business framework does the Seth Godin source add to the vault?
 basis:
+  - wiki/sources/2026-04-12-how-to-build-an-audience-that-buys.md
   - wiki/sources/2026-04-12-seth-godin-reveals-5-secrets-for-great-brand-marketing.md
   - wiki/sources/2026-04-12-purple-cow-how-to-be-remarkable-and-the-secrets-of-marketing.md
   - wiki/sources/2026-04-12-seth-godin-marketing-strategies-that-work.md
@@ -43,7 +44,7 @@ What reusable business framework does the Seth Godin branch add to the vault?
 
 # Answer
 
-The current Seth Godin branch now supports a twenty-three-part model:
+The current Seth Godin branch now supports a twenty-seven-part model:
 
 1. Reject average positioning.
    In digital markets, sameness drives comparison and price pressure rather than loyalty.
@@ -117,7 +118,16 @@ The current Seth Godin branch now supports a twenty-three-part model:
 24. Make the story spreadable by design.
    Remarkability is only real when customers voluntarily carry it to others; if no one tells the story, the product is not yet purple enough.
 
-The distinctive Godin layer is that niche strategy, generosity, cultural change, creator self-management, systems-and-time-horizon thinking, trust-and-referral brand logic, metric-discipline, psychographic empathy, marketer responsibility, and tribe-based connection dynamics are treated as one system rather than as separate marketing, ethics, leadership, and mindset topics.
+25. Match the story to the audience's worldview.
+   Strong marketing often works by confirming the identity, assumptions, and aspirations people already carry rather than by trying to rewire them from scratch.
+
+26. Design social scenes for word of mouth.
+   Spread gets stronger when the product, ritual, cause, or visible cue creates natural moments in which customers can explain it to one another.
+
+27. Refuse platform-defined success.
+   Views and algorithmic reach can enrich the platform while leaving the maker with weak economics, so the real test is whether the right people buy, return, and tell others.
+
+The distinctive Godin layer is that niche strategy, generosity, cultural change, creator self-management, systems-and-time-horizon thinking, trust-and-referral brand logic, metric-discipline, psychographic empathy, worldview alignment, marketer responsibility, and tribe-based connection dynamics are treated as one system rather than as separate marketing, ethics, leadership, and mindset topics.
 
 # Basis
 
@@ -140,6 +150,7 @@ The distinctive Godin layer is that niche strategy, generosity, cultural change,
 - The branch is now stronger on positioning and pricing logic, but it still needs harder evidence on when premium signaling genuinely reflects value instead of simply exploiting aspiration.
 - The branch is now stronger on `onlyness` and word-of-mouth tests, but it still needs better boundaries for when talk-worthiness becomes gimmickry or when narrow focus becomes overfitted identity theater.
 - The branch is now stronger on separating brand work from direct-response dashboards, but it still needs more concrete operating examples of how small teams should measure brand progress without falling into either vanity metrics or hand-wavy vagueness.
+- The branch is now stronger on designing spread conditions and on distrusting platform-native metrics, but it still needs sharper evidence on which categories genuinely require visible social triggers and which can build a buying audience through quieter trust loops.
 - The branch still needs stronger counterweight from sources that defend standardization, scale clarity, or mass-market breadth under specific conditions.
 
 # Related Pages

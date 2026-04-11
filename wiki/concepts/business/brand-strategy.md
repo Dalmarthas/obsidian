@@ -9,6 +9,7 @@ tags:
   - brand
   - strategy
 source_pages:
+  - wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why.md
   - wiki/sources/2026-04-12-seth-godin-reveals-5-secrets-for-great-brand-marketing.md
   - wiki/sources/2026-04-12-seth-godin-marketing-strategies-that-work.md
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
@@ -68,6 +69,10 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - That source also sharpens the loyalty question: the strongest brands do not only persuade people that the offer is useful; they help the right audience feel that the offer expresses a shared point of view.
 - The Equinix Connect source makes that loyalty question more concrete in sales behavior: if the opening pitch sounds like a bundle of features any rival could also claim, the brand feels commodity-like even when its stated strategy is more ambitious.
 - That same source adds a storytelling bridge: in practice, brand belief is often conveyed most credibly through specific origin stories, customer-impact stories, or founder-level explanations rather than abstract mission slogans alone.
+- The newer Simon `Engage and Inspire` source adds a client-selection rule for brand strategy:
+  - strong brand strategy is not only what you say yes to, but what kinds of customers and conversations you decline
+  - belief-fit among early adopters can create denser referrals than broader but weaker-fit customer acquisition
+  - a brand can therefore strengthen by refusing to chase majority-style reassurance too early
 - The Seth Godin source adds an audience-selection rule: strategy strengthens when the brand chooses a smallest viable audience rather than chasing broad average acceptability.
 - That source also adds a permission test: strong brand strategy is not just remembered, but missed when absent.
 - The newer Seth brand source adds a trust-density test: attention is only strategically useful when the audience trusts the story enough to believe it, repeat it, and attach some of its meaning to themselves.
@@ -91,6 +96,7 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - Harry Dry is strongest on translating strategy into lines the market can actually remember and trust: a differentiated claim is not strategically complete until it becomes specific written language.
 - Rory Sutherland is strongest on strategic asymmetry and perceived value: why framing, neglected dimensions, and psychologically meaningful distinctions can outperform obvious optimization.
 - Simon Sinek is strongest on purpose sequencing: why-first communication explains how belief becomes emotionally legible before copy specificity or perception design does their work.
+- The newer Simon `Engage and Inspire` source is strongest on strategic exclusion: it shows how purpose-first positioning can be used to qualify buyers and protect early-stage coherence rather than merely improve message elegance.
 - Seth Godin is strongest on audience courage: he reframes strategy as a decision to become remarkable to a specific tribe rather than acceptable to everyone.
 - The newer Seth source is strongest on trust-aware spread: it clarifies how a brand becomes magnetic when the story is true enough, specific enough, and consistently delivered enough that customers voluntarily carry it to others.
 - The newest Seth source is strongest on strategic separation of marketing modes: protect long-term brand meaning from being reduced to the metrics logic of direct-response optimization.
@@ -113,6 +119,7 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - The newest Seth layer adds a related risk: psychographic language can sound insightful while remaining unvalidated projection, especially when teams substitute narrative confidence for actual empathy.
 - The newest Seth marketing layer adds a neighboring risk: `positioning as a service` can become self-flattering rhetoric if the offer does not actually help buyers choose better or if price signaling outruns delivered value.
 - The newest Seth brand-marketing layer adds another risk: teams may romanticize `brand` to avoid accountability, while other teams may overcorrect and let direct-response dashboards strip the brand of long-run meaning.
+- The newer Simon `Engage and Inspire` source adds a neighboring risk: teams may call a prospect `misaligned` when the real problem is that the offer still lacks enough proof, clarity, or delivery reliability.
 
 # Related Pages
 

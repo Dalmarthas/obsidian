@@ -2,7 +2,7 @@
 type: entity
 title: Simon Sinek
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-12
 status: active
 tags:
   - entity
@@ -11,6 +11,12 @@ tags:
   - trust
   - culture
 source_pages:
+  - wiki/sources/2026-04-12-authenticity-starts-with-knowing-your-why.md
+  - wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why.md
+  - wiki/sources/2026-04-12-how-great-leaders-inspire-action.md
+  - wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont.md
+  - wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe.md
+  - wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset.md
   - wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025.md
   - wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games.md
   - wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments.md
@@ -43,8 +49,14 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
 - He now also deepens the environment-design layer: leaders are responsible for whether people feel safe enough to admit mistakes, ask for help, and contribute without defensive concealment.
 - He also adds a strategic-time-horizon layer through the infinite-game frame, making purpose and values more operational than rhetorical.
 - The Golden Circle source adds the outward-facing communication layer: belief should be stated clearly enough that customers, followers, and teammates can recognize themselves inside it.
+- The new `How Great Leaders Inspire Action` source deepens that same branch with stronger public examples, a clearer early-adopter diffusion model, and a more explicit distinction between formal leaders and `those who lead`.
+- The new `Engage and Inspire` source deepens the branch again by translating `why` into client qualification, early-adopter prioritization, and deliberate refusal of misaligned buyers as a growth strategy.
+- The new `Authenticity Starts With Knowing Your WHY` source deepens the branch inward by treating `why` as a personal contribution pattern that must be discovered, verbalized, and lived in alignment rather than merely used as outward-facing messaging.
 - The Equinix Connect source adds an interpersonal sales layer: the same `why` logic that clarifies brands also changes how one-to-one trust forms in pitches, introductions, and relationship-building conversations.
 - The new success-metrics source adds the incentive-design layer: if the scoreboard only counts visible output, it will eventually reward the very behaviors the broader philosophy claims to reject.
+- The newest infinite-mindset conversation integrates the earlier branches into a more practical leadership operating system: leadership is learnable, people come first structurally, vulnerability and feedback are trainable disciplines, and culture is taught through micro-behaviors plus what leaders actually reward.
+- He now also deepens the moral-protective layer through the `circle of safety`: leadership exists to make people feel protected enough to trust, cooperate, and sacrifice for one another under pressure.
+- The new `Leaders Eat Last` source deepens the branch again by tying trust and sacrifice to incentive design: target-chasing, status hunger, and fear can be trained by the system just as surely as loyalty and mutual protection can.
 
 # Evidence In This Vault
 
@@ -57,14 +69,26 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
 - It also sharpens the claim that growth and metrics should serve a cause rather than become the cause.
 - The Golden Circle source adds that purpose should not remain a private executive belief. It should be communicated from `why` to `how` to `what` so that the audience connects with the cause before the product or process.
 - That same source also adds an adoption claim: loyal early support often comes from shared belief and identity alignment before mainstream proof arrives.
+- The new TED summary reinforces that adoption claim with a sharper audience-selection lesson: purpose-first messaging is often strongest first with innovators and early adopters rather than with the whole market at once.
+- The new `Engage and Inspire` source makes that lesson more operational: the right early believers are not only an audience to attract, but a filter for deciding whose money, attention, and word of mouth should shape the business first.
+- The new authenticity source makes the same philosophy more personal: the central problem is not only persuading others with `why`, but discovering one's own recurring impact clearly enough that choices feel authentic instead of performative.
 - The Equinix Connect source pressure-tests the same claim in a smaller setting: when people lead with prestige, features, or success markers, they sound interchangeable, but when they lead with meaning and story, the same credentials become more believable as downstream evidence.
 - That source also sharpens the anti-commodity argument inside the vault: relationship durability weakens when the pitch is mostly transactional and strengthens when the other person can feel what the work stands for.
 - The newer success-metrics source makes the measurement consequence explicit: traditional metrics are not discarded, but they are treated as incomplete unless trust, momentum, and the quality of the `how` are also visible.
 - It also strengthens the overlap between the earlier infinite-game and trust branches by arguing that both should show up in incentives, not only in speeches or personnel intuition.
+- The newest conversation adds a more behavioral leadership layer: trust is reinforced through consistent care, curiosity, customized feedback, help-seeking from leaders themselves, and rewarding initiative independently of short-run outcome.
+- The newest TED source adds the clearest protective test in the branch: when leaders absorb pain first, choose shared sacrifice over expendability, and treat safety as their duty, people respond with reciprocal loyalty rather than defensive compliance.
+- The newest `Leaders Eat Last` source adds a stronger chemistry-and-scoreboard claim: cultures become more selfish when fear and short-term reward dominate, and more cooperative when contribution, service, and belonging are made visible and materially credible.
 
 # Related Pages
 
 - [[wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025|Simon Sinek at Equinix Connect 2025]]
+- [[wiki/sources/2026-04-12-how-great-leaders-inspire-action|How Great Leaders Inspire Action]]
+- [[wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why|Engage and Inspire Simon Sinek's Guide to Starting with Why]]
+- [[wiki/sources/2026-04-12-authenticity-starts-with-knowing-your-why|Authenticity Starts With Knowing Your WHY]]
+- [[wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset|Unlocking Leadership with Simon Sinek The Infinite Mindset]]
+- [[wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont|Leaders Eat Last Why Some Teams Pull Together and Others Don't]]
+- [[wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe|Why good leaders make you feel safe]]
 - [[wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games|Simon Sinek Finite vs Infinite Games]]
 - [[wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments|Simon Sinek Trusting Teams and Leadership Environments]]
 - [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection|Simon Sinek Trust and Team Selection]]

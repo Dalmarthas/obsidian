@@ -2,7 +2,7 @@
 type: concept
 title: Trust-Performance Matrix
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-12
 status: active
 tags:
   - concept
@@ -12,6 +12,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
   - wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics.md
+  - wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset.md
 related:
   - wiki/concepts/business/success-metrics.md
   - wiki/concepts/leadership/trust-based-collaboration.md
@@ -37,6 +38,7 @@ The trust-performance matrix is a selection and promotion model that evaluates p
 - That source argues that elite teams may prefer medium-performance/high-trust people over high-performance/low-trust people.
 - It also treats the high-performance/low-trust quadrant as the culturally dangerous one because those people are often rewarded while silently degrading the environment around them.
 - The newer Simon Sinek source adds the incentive-system layer: the matrix is not only for personal judgment, but for redesigning scoreboards so high-trust contributors and healthy momentum do not remain invisible.
+- The newest Simon Sinek conversation adds a behavior-reward layer: leaders should explicitly reward initiative, ownership, and teamwork even when a particular mission or pitch fails, because outcome-only recognition quietly trains people to avoid the risks healthy teams need.
 
 # Source Comparisons
 
@@ -51,6 +53,7 @@ The trust-performance matrix is a selection and promotion model that evaluates p
 - Some organizations overcorrect and protect pleasant underperformance; the matrix only works when competence still matters.
 - The branch still needs stronger evidence on how to evaluate trust in ways that are behavioral and reliable rather than vague.
 - The newer source adds a second danger: even when leaders intellectually understand the matrix, their bonuses and recognition systems may still reward only the output axis.
+- The newest source adds a third danger: if leaders talk about valuing trust and initiative but still celebrate only visible wins, employees will believe the scoreboard instead of the speech.
 
 # Related Pages
 

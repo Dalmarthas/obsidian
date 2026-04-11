@@ -10,6 +10,7 @@ tags:
   - marketing
   - audience
 source_pages:
+  - wiki/sources/2026-04-12-how-to-build-an-audience-that-buys.md
   - wiki/sources/2026-04-12-seth-godin-marketing-strategies-that-work.md
   - wiki/sources/2026-04-11-seth-godin-challenges-creators-and-entrepreneurs-to-reject-the-average-for-the-masses.md
   - wiki/sources/2026-04-11-seth-godin-the-practice-and-process-over-outcomes.md
@@ -58,6 +59,10 @@ Smallest viable audience is the strategy of aiming first at the smallest group o
   - if the first ten right people would not miss the work or tell others, the likely problem is the offer, the audience, or both
   - early referral among the right few is more informative than vague interest from the wrong many
   - the concept is therefore not only about size, but about resonance strong enough to spread inside a tiny initial circle
+- The newest Seth audience-building source makes the concept more sequenced and behaviorally concrete:
+  - pick a group small enough to understand in worldview terms rather than only in market-segment abstractions
+  - match the story to what that group already believes, fears, and desires
+  - design the product and surrounding cues so the right customers naturally talk about it to one another
 
 # Tensions / Open Questions
 
@@ -67,6 +72,7 @@ Smallest viable audience is the strategy of aiming first at the smallest group o
 - The strategy source adds a related tension: a sharply chosen audience can improve the future, but choosing an audience with bad incentives, low trust, or constant urgency can lock the business into permanently bad days.
 - The branch still needs stronger evidence on how and when a smallest viable audience can expand without dissolving the original distinctiveness.
 - The newest Seth source adds a related tension: even a well-chosen small audience may not be economically useful if the people who care cannot or will not fund the work enough to sustain quality.
+- The newest Seth audience-building layer adds another tension: a narrowly chosen audience can still fail if the work fits the group's identity but lacks enough practical value or social visibility to trigger real buying and sharing behavior.
 
 # Related Pages
 

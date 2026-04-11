@@ -2,13 +2,15 @@
 type: concept
 title: Trust-Based Collaboration
 created: 2026-04-07
-updated: 2026-04-10
+updated: 2026-04-12
 status: active
 tags:
   - concept
   - collaboration
   - trust
 source_pages:
+  - wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont.md
+  - wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe.md
   - wiki/sources/2026-04-09-jurgen-klopp-coaching-legacy.md
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
@@ -22,6 +24,7 @@ source_pages:
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
   - wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments.md
   - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
+  - wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset.md
 related:
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/filmmaking/casting-and-performance-direction.md
@@ -61,6 +64,18 @@ Trust-based collaboration is the practice of designing work so that other people
 - Chris Voss adds the adversarial version: even in negotiation, progress improves when the counterpart feels heard rather than cornered.
 - Simon Sinek adds a personnel-selection version: trust should not only be desired interpersonally, but treated as a concrete criterion for choosing, promoting, and rewarding people.
 - The newer Simon Sinek source adds an environment-design version: trust-based collaboration improves when leaders make it normal to admit mistakes, ask for help, and tell the truth early rather than defend image.
+- The newest Simon Sinek conversation adds a micro-behavior and feedback version:
+  - trust deepens when leaders actually listen, follow up, and show care through ordinary daily attention
+  - feedback works better when it is adapted to how the person can best hear it
+  - difficult conversations improve when judgment is replaced by curiosity and fallibility is acknowledged openly
+- The newest Simon TED source adds a more foundational safety version:
+  - trust-based collaboration begins when leaders create a `circle of safety` inside the group
+  - sacrifice by leaders teaches people that they will not be traded away for convenience
+  - fear toward leadership spreads outward into customer and colleague behavior, while felt safety spreads generosity and reciprocity
+- The newest `Leaders Eat Last` source adds a chemistry-and-incentives version:
+  - trust weakens when dopamine-only scoreboards and cortisol-heavy fear dominate daily life
+  - trust strengthens when leaders reward contribution, protection, and service instead of only visible wins
+  - collaboration improves when internal threat is lowered so effort can be aimed outward at real external problems
 
 # Source Comparisons
 
@@ -77,6 +92,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - Voss focuses on trust inside bargaining: acknowledgment and calibrated curiosity make counterparts more cooperative without requiring softness.
 - Sinek focuses on trust inside selection logic: the question is not only how to collaborate once people are in the room, but which kinds of people should be given influence in the first place.
 - The newer Sinek source focuses on trust inside everyday climate: once people are in the room, the leader still determines whether vulnerability is punished or supported.
+- The newest `Leaders Eat Last` source focuses on trust inside incentive chemistry: leaders shape collaboration not only through speeches or feedback, but through what kinds of status, stress, and sacrifice the system repeatedly trains.
 
 # Tensions / Open Questions
 
@@ -84,6 +100,9 @@ Trust-based collaboration is the practice of designing work so that other people
 - Collaboration without clear boundaries can collapse into vagueness or avoid the hard decisions that only one person can make.
 - The Sinek layer adds a measurement problem: organizations may agree trust matters and still fail to assess it fairly enough for promotion and retention decisions.
 - The newer Sinek layer adds a maintenance problem: teams may endorse trust rhetorically while running on daily habits that still teach people to hide mistakes and protect status.
+- The newest Sinek layer adds a ritual problem: leaders may believe culture is built by big speeches or training events while ignoring the repeated small behaviors that employees treat as the real operating truth.
+- The newest Simon TED layer adds a crisis problem: leaders may claim to value people until external pressure rises, then reveal that the real circle of safety stops at the executive layer.
+- The newest `Leaders Eat Last` layer adds an incentive-design problem: even leaders who endorse trust can still run scoreboards, layoffs, and status systems that train fear and internal competition.
 
 # Related Pages
 

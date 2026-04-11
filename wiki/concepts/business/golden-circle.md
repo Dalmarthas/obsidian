@@ -2,7 +2,7 @@
 type: concept
 title: Golden Circle
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-12
 status: active
 tags:
   - concept
@@ -11,6 +11,9 @@ tags:
   - communication
   - purpose
 source_pages:
+  - wiki/sources/2026-04-12-authenticity-starts-with-knowing-your-why.md
+  - wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why.md
+  - wiki/sources/2026-04-12-how-great-leaders-inspire-action.md
   - wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025.md
   - wiki/sources/2026-04-10-simon-sinek-golden-circle-framework.md
   - wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games.md
@@ -43,15 +46,34 @@ The Golden Circle is Simon Sinek's inside-out framework for explaining leadershi
 - Apple is used as the strongest business example of belief-first communication: the products matter, but they are framed as expressions of a larger point of view.
 - Martin Luther King Jr. is used as the leadership example: he mobilized around a dream and a belief rather than a procedural blueprint.
 - The diffusion-of-innovation layer matters here because it explains why belief-led messaging can spread through early adopters before becoming broadly accepted.
+- The newer TED summary makes that diffusion layer more explicit and reusable:
+  - innovators and early adopters are the first audience that decides from identity and intuition
+  - trying to persuade the whole market too early can dilute the message
+  - strong early belief alignment helps ideas cross into broader adoption later
 - The Equinix Connect source extends the concept from brand communication into direct relationship-building: in dates, pitches, and introductions, people often sabotage connection by leading with credentials, while belief and story make later facts feel more credible.
 - That source also adds a practical discovery rule: when someone cannot state a crisp `why`, a story can function as the clearest available expression of purpose.
 - It sharpens the commodity warning too: if the conversation stays at the level of features, prestige, or capacity, the speaker becomes easier to compare and easier to replace.
 - The Simon Sinek infinite-game source overlaps with this concept by arguing that purpose and values should guide decisions rather than sit as decorative rhetoric. The Golden Circle adds the communication and adoption logic that makes that purpose legible to others.
+- The newer TED summary also sharpens the movement-building layer:
+  - `those who lead` are not defined only by authority
+  - people choose to follow when the message expresses a cause they want to identify with
+  - the model therefore applies to movements and teams, not only to companies and marketing
+- The newer `Engage and Inspire` source adds a qualification layer:
+  - the Golden Circle can be used to filter for belief-aligned clients, not only to sound more compelling
+  - innovators and early adopters often reveal themselves through resonance language rather than through risk-minimizing demands
+  - saying `no` to poor-fit buyers can strengthen word-of-mouth density among aligned believers
+- The newer `Authenticity Starts With Knowing Your WHY` source adds a self-discovery layer:
+  - the hardest part of `why` is often articulation, not absence
+  - trusted friends can help reveal recurring impact patterns more clearly than solitary self-description
+  - the model therefore applies not only to messaging outward, but to discovering the contribution one is trying to communicate in the first place
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/business/brand-strategy|Brand Strategy]], the Golden Circle is narrower and more message-sequencing-focused. Brand strategy asks what a brand stands for overall; the Golden Circle asks in what order that meaning should be communicated.
 - Compared with [[wiki/concepts/leadership/leadership-communication|Leadership Communication]], the Golden Circle is less about delivery mechanics and more about conceptual framing: belief before method, method before output.
+- Compared with the newer TED summary specifically, the original Golden Circle page was narrower. The newer source adds more explicit adoption logic, stronger counterexamples, and a clearer bridge from belief-led messaging to voluntary followership.
+- Compared with the newer `Engage and Inspire` summary, the earlier sources were more rhetorical and explanatory. This one is more selective and commercial: it shows how `why` can guide prospecting, qualification, and refusal.
+- Compared with the newer `Authenticity Starts With Knowing Your WHY` summary, the earlier sources were more audience-facing. This one turns the Golden Circle inward and treats `why` as something to discover, verbalize, and then live from authentically.
 - Compared with enterprise sales orthodoxy, the concept is deliberately corrective: credibility information may still matter, but it should support relationship rather than substitute for it.
 - Compared with [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]], the Golden Circle is more external and rhetorical. Values-driven companies asks whether the organization really lives its beliefs; the Golden Circle asks whether those beliefs are explicit enough to organize loyalty.
 - Compared with [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]], this page is more communicative and audience-facing. Infinite-game mindset is about strategic time horizon; the Golden Circle is about making purpose emotionally legible.
@@ -62,6 +84,9 @@ The Golden Circle is Simon Sinek's inside-out framework for explaining leadershi
 - Story-first communication can reveal a real `why`, but it can also become sentimental camouflage if the story is stronger than the reality behind it.
 - The framework explains inspiration better than it explains commoditized buying decisions where convenience, price, or habit dominate.
 - The biological story attached to the framework is more debatable than the practical messaging rule.
+- The newer TED summary reinforces a second caution: vivid examples like Apple, MLK, and the Wright brothers make the model memorable, but they do not by themselves prove a universal causal rule.
+- The newer `Engage and Inspire` summary adds a business-practice tension: refusing misaligned clients may improve long-term fit and referrals, but it can also be misapplied by founders who still lack product proof, cash buffer, or judgment about what counts as real fit.
+- The newer `Authenticity Starts With Knowing Your WHY` summary adds an identity tension: a stable-core model can clarify authenticity, but it can also overstate how fixed adult purpose really is.
 - The main open question is how to audit whether a stated `why` survives contact with product design, hiring, incentives, and crisis behavior.
 
 # Related Pages

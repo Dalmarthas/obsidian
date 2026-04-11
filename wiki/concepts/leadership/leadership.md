@@ -9,6 +9,8 @@ tags:
   - leadership
   - decision-making
 source_pages:
+  - wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont.md
+  - wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe.md
   - wiki/sources/2026-04-12-seth-godin-leadership-vs-management-what-it-means-to-make-a-difference.md
   - wiki/sources/2026-04-10-daniel-goleman-social-intelligence-at-google.md
   - wiki/sources/2026-04-10-carol-dweck-fixed-and-growth-mindsets.md
@@ -78,6 +80,8 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Daniel Goleman adds an emotional-intelligence version: self-awareness, emotional self-regulation, rapport, and positive social contagion are treated as real leadership infrastructure rather than as optional soft extras.
 - Carol Dweck adds a developmental-belief version: leadership quality partly depends on whether people and institutions treat ability as fixed status or as something that can be built through challenge, feedback, and learning.
 - Seth Godin adds a mode-switching version: management is useful for known processes, but leadership starts when someone takes responsibility for change without waiting for authority and uses enrollment, experimentation, and judgment rather than obedience alone.
+- The newest Simon TED source adds a protective-duty version: leadership is not mainly the privilege of rank, but the obligation to create safety, absorb risk first, and prevent people from being sacrificed to protect status or short-run numbers.
+- The newest `Leaders Eat Last` source adds a biological and incentive-design version: leadership quality is partly visible in whether the system over-rewards dopamine-style chasing of targets and status or supports trust, belonging, and outward-focused cooperation by lowering fear inside the institution.
 
 # Source Comparisons
 
@@ -90,6 +94,8 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Rhimes is strongest on leadership inside creative production systems: vision has to survive contact with rooms, deadlines, production, and institutional notes.
 - Schultz is strongest on founder-led institutional leadership: values, culture, transparency, and operational rigor have to remain aligned even during crisis and scale.
 - Sinek is strongest on leadership as long-horizon stewardship: the real task is not to beat everyone once, but to keep the organization worth belonging to and worth continuing.
+- The newer Simon TED source is strongest on leadership as protective sacrifice: the most basic test is whether people feel safer because the leader exists.
+- The newest `Leaders Eat Last` source is strongest on leadership as environment chemistry: the leader's system of rewards, stress, and sacrifice determines whether people bond, hide, compete internally, or pull together.
 - Goleman is strongest on leadership as emotional architecture: IQ may open the door, but self-mastery and social intelligence often decide whether people can lead effectively once complexity and pressure rise.
 - Dweck is strongest on leadership as developmental framing: leaders shape whether challenge becomes an invitation to grow or a threat to identity for the people around them.
 - Seth Godin is strongest on leadership as responsibility under uncertainty: the central question is not who has the title, but who is willing to own direction, invite volunteers, and proceed without a complete map.
@@ -106,6 +112,8 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Goleman adds a measurement tension: organizations may praise emotional intelligence while still selecting mainly for credentials, charisma, or culturally familiar executive style.
 - Dweck adds a culture tension: leaders may speak in growth language while continuing to praise innate stars, punish visible mistakes, or reward defensive status behavior.
 - Godin adds a role-confusion tension: many institutions say they want leadership while rewarding only compliance, spec-meeting, and deference to existing authority.
+- The newest Simon TED source adds a legitimacy tension: formal authority can be granted instantly, but felt leadership depends on whether people experience real protection and reciprocity over time.
+- The newest `Leaders Eat Last` source adds an evidence tension: the biological framing is clarifying and memorable, but the vault should be careful not to treat metaphorical chemistry language as more empirically settled than the summary justifies.
 
 # Related Pages
 

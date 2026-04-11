@@ -2,7 +2,7 @@
 type: concept
 title: Values-Driven Action
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-04-12
 status: active
 tags:
   - concept
@@ -11,6 +11,7 @@ tags:
   - values
   - agency
 source_pages:
+  - wiki/sources/2026-04-12-authenticity-starts-with-knowing-your-why.md
   - wiki/sources/2026-04-11-values-motivation-and-sustainable-self-improvement.md
   - wiki/sources/2026-04-11-matthew-mcconaughey-on-fame-commitment-and-meaning.md
 related:
@@ -41,6 +42,10 @@ Values-driven action is the principle of organizing difficult effort around stab
 - The source adds a practical filter: in hard moments, values help ask whether progress or comfort matters more, and whether tomorrow's self is more likely to feel pride or regret.
 - It also adds an anti-avoidance rule: imperfect early application is usually more growth-producing than waiting until the self-image feels ready.
 - The Matthew McConaughey source deepens the stakes of the concept by showing values in collision with fame, money, and typecast identity. In that branch, values-driven action may require visible sacrifice and tolerated uncertainty, not just inner clarity.
+- The newer Simon Sinek source adds a discovery-and-alignment layer:
+  - values-driven action may begin with naming the one recurring contribution or `why` that runs through multiple life domains
+  - authenticity then means choosing contexts that allow that contribution to be expressed more often and more fully
+  - trusted others can sometimes identify that contribution more clearly than self-description can
 - [[wiki/concepts/leadership/locus-of-control|Locus of Control]] overlaps because both concepts strengthen action, but values-driven action is more about why the effort is worth suffering for, not only whether effort changes outcomes.
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]] overlaps because both favor longer horizons over present comfort, but this page is more meaning-centered and less decision-architectural.
 
@@ -48,6 +53,7 @@ Values-driven action is the principle of organizing difficult effort around stab
 
 - Compared with [[wiki/concepts/leadership/locus-of-control|Locus of Control]], this concept is more motivationally vertical than causal. Locus of control asks whether action matters; values-driven action asks which kind of action deserves commitment.
 - Compared with [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]], this page is less duty-centered and more internally chosen. Responsibility emphasizes burden accepted; values-driven action emphasizes alignment between effort and what the person actually stands for.
+- Compared with the newer Simon Sinek source, this page is broader and less identity-specific. The Simon layer is narrower: it argues for one stable `why` and offers a method for surfacing it through relational feedback and emotional resonance.
 - Compared with [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], this page is narrower and more foundational. High-performance mindset includes pressure, recovery, and standards; values-driven action focuses on the motivational substrate underneath them.
 - Compared with [[wiki/concepts/leadership/growth-mindset|Growth Mindset]], this concept is less about whether ability can improve and more about what source of motivation remains stable enough to keep improvement going.
 - Compared with [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]], this page is less about protecting a future self in general and more about choosing effort that is meaningful enough to survive discomfort in the present.
@@ -59,6 +65,7 @@ Values-driven action is the principle of organizing difficult effort around stab
 - Some desires and emotions are not noise; they can also contain real information about fit, fatigue, or misalignment.
 - The McConaughey layer adds another risk: values can become confused with romantic attachment to struggle unless the person can still tell alignment apart from egoic martyrdom.
 - The branch still needs stronger guidance for distinguishing authentic values from inherited expectations, ego defenses, or prestige addiction in disguise.
+- The newer Simon Sinek source sharpens that gap: if people use emotional reaction and friend feedback to infer a fixed `why`, the vault still needs better tests for when that pattern is illuminating versus when it hardens into a flattering story.
 
 # Related Pages
 

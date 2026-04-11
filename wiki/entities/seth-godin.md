@@ -10,6 +10,7 @@ tags:
   - business
   - marketing
 source_pages:
+  - wiki/sources/2026-04-12-how-to-build-an-audience-that-buys.md
   - wiki/sources/2026-04-12-seth-godin-some-of-the-best-advice-ive-received.md
   - wiki/sources/2026-04-12-seth-godin-reveals-5-secrets-for-great-brand-marketing.md
   - wiki/sources/2026-04-12-purple-cow-how-to-be-remarkable-and-the-secrets-of-marketing.md
@@ -61,6 +62,7 @@ Seth Godin currently enters the vault as a business, marketing, and leadership t
 - He now also sharpens the marketing-operating layer by treating positioning as a service, price as story, `first ten` spread as an early truth signal, and professionalism as promise-keeping rather than mood-expression.
 - He now also sharpens the cross-branch adaptation layer through `onlyness`, surfing-style leadership under change, and AI adoption framed as redesign rather than model defense.
 - He now also sharpens the agency layer by attacking gatekeeper dependence, rescue fantasies, and victim identity as traps that keep capable people from self-authored movement.
+- He now also sharpens the spread-design layer by treating word of mouth as something built through worldview fit, visible social cues, and customer-benefiting talk triggers rather than as a lucky byproduct of attention.
 
 # Evidence In This Vault
 
@@ -82,6 +84,7 @@ Seth Godin currently enters the vault as a business, marketing, and leadership t
 - The newest brand-marketing source adds a cleaner warning about scoreboard confusion: Godin treats brand and direct marketing as different games, argues that likes-and-clicks thinking degrades creator and brand behavior, and uses Nike to show that symbolic moves work only when they match real brand DNA and psychographic audience fit.
 - The newer `Purple Cow` conversation deepens the branch by reasserting remarkability as customer-visible word of mouth, linking leadership to `surfing not golf`, and treating AI as electricity-level leverage that must be learned hands-on.
 - The newest advice source adds a more personal agency frame: stop waiting to be picked, stop expecting rescue from institutions or famous people, and treat self-directed action as the only dependable answer to rejection-heavy environments.
+- The newest audience-building source compresses much of the branch into a five-step marketing sequence and adds two practical refinements: design visible social situations that make customer-to-customer spread natural, and do not confuse platform attention with an audience that actually buys.
 
 # Related Pages
 

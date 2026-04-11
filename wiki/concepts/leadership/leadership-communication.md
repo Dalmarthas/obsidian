@@ -2,13 +2,14 @@
 type: concept
 title: Leadership Communication
 created: 2026-04-07
-updated: 2026-04-10
+updated: 2026-04-12
 status: active
 tags:
   - concept
   - communication
   - leadership
 source_pages:
+  - wiki/sources/2026-04-12-how-great-leaders-inspire-action.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
@@ -49,6 +50,10 @@ Leadership communication is the art of helping people understand a situation, tr
 - Axelrod and Rove add campaign discipline: the stump speech, launch, debate answers, and crisis responses must all serve the same core message or the candidate starts dissolving into noise.
 - Simon Sinek adds a purpose-order layer through the [[wiki/concepts/business/golden-circle|Golden Circle]]: leaders often become more persuasive when they begin with belief and cause, then explain method, and only afterward describe the visible action or offer.
 - That source also strengthens the vault's view that loyalty is not created only by rhetorical polish; it depends on whether people feel the message expresses a conviction they want to belong to.
+- The newer Simon TED summary deepens that point with stronger movement examples:
+  - Martin Luther King Jr. is framed as mobilizing around belief rather than plan-detail density
+  - the Wright brothers are framed as purpose sustaining effort when resources and prestige were weaker
+  - `those who lead` attract voluntary followership because people hear their own values echoed in the message
 - The Equinix Connect source sharpens the interpersonal version of that rule: introductions, pitches, and one-to-one conversations often fail when speakers frontload credentials, while stories and purpose create the emotional permission for later facts to matter.
 
 # Source Comparisons
@@ -58,6 +63,7 @@ Leadership communication is the art of helping people understand a situation, tr
 - Iger is strongest on institutional clarity: leadership communication must repeat the few priorities that actually govern decisions.
 - Axelrod and Rove are strongest on message consistency over long campaigns: leaders need a durable public frame that survives attacks, gaffes, media churn, and changing electoral phases.
 - Simon Sinek is strongest on belief sequencing: before style, pressure handling, or repetition, a leader needs a cause clear enough to state from the inside out.
+- The newer Simon TED summary is strongest on leadership communication as identity invitation: the message works when it gives people a cause they can recognize themselves inside, not just a leader they can admire from distance.
 - The Equinix branch adds that belief sequencing is not only for public speeches; it also changes whether smaller relationship-forming conversations feel human or transactional.
 
 # Tensions / Open Questions
