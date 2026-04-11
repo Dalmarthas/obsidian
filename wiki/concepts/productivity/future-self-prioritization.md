@@ -2,7 +2,7 @@
 type: concept
 title: Future-Self Prioritization
 created: 2026-04-09
-updated: 2026-04-11
+updated: 2026-04-12
 status: active
 tags:
   - concept
@@ -13,7 +13,9 @@ source_pages:
   - wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self.md
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
   - wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control.md
+  - wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson.md
 related:
+  - wiki/concepts/productivity/conscientiousness.md
   - wiki/concepts/productivity/fear-goal-programming.md
   - wiki/concepts/productivity/behavior-journaling.md
   - wiki/concepts/productivity/willpower.md
@@ -21,6 +23,7 @@ related:
   - wiki/concepts/leadership/high-performance-mindset.md
   - wiki/syntheses/productivity/chase-hughes-goal-programming-framework.md
   - wiki/syntheses/productivity/kelly-mcgonigal-willpower-framework.md
+  - wiki/syntheses/productivity/jordan-peterson-self-management-framework.md
 ---
 
 # What It Is
@@ -42,6 +45,7 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - The same source also links the future-self frame to gratitude flowing backward and care flowing forward, making discipline feel less like punishment and more like continuity.
 - [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control]] adds a more explicitly behavioral version of the same idea: future-self vividness changes procrastination, ethics, and long-term restraint, and can be strengthened through visualization and letter-writing exercises rather than through slogans alone.
 - The newer values-focused source adds a motive filter that sits adjacent to the same logic: future-self care becomes easier to sustain when the effort is anchored to values that matter, not only to abstract ideals of discipline or superiority.
+- [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson]] adds a broader life-architecture version of the same principle: define a 3 to 5 year future across core domains, then connect daily actions to that future through micro-processes and a negotiated schedule.
 
 # Source Comparisons
 
@@ -49,6 +53,7 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - It overlaps with the vault's performance material by assuming that better outcomes come from repeated alignment, but Hughes is more explicit about future-self language and everyday choice architecture.
 - The later Chase Hughes behavioral-framework source keeps the same rule but gives it more environmental and emotional infrastructure through dopamine remapping and care-for-future-you rituals.
 - The Kelly McGonigal source is less identity-engineering-oriented than Hughes and more interested in how future-self connection changes concrete self-control outcomes such as procrastination, saving, and temptation resistance.
+- The Peterson source is less cue-design-heavy than Hughes and less lapse-recovery-focused than McGonigal. Its distinct layer is using a vivid multi-domain future to build conscientiousness and make scheduled effort feel worth cooperating with.
 - Compared with [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]], future-self prioritization is more temporal and tactical. Values-driven action explains why the future is worth serving; this page explains how to choose that future in everyday conflicts with present comfort.
 
 # Tensions / Open Questions
@@ -63,11 +68,14 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 # Related Pages
 
 - [[wiki/concepts/productivity/fear-goal-programming|FEAR Goal Programming]]
+- [[wiki/concepts/productivity/conscientiousness|Conscientiousness]]
 - [[wiki/concepts/productivity/behavior-journaling|Behavior Journaling]]
 - [[wiki/concepts/productivity/willpower|Willpower]]
 - [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework|Chase Hughes Goal Programming Framework]]
 - [[wiki/syntheses/productivity/kelly-mcgonigal-willpower-framework|Kelly McGonigal Willpower Framework]]
+- [[wiki/syntheses/productivity/jordan-peterson-self-management-framework|Jordan Peterson Self-Management Framework]]
 - [[wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self|Chase Hughes Goal Programming and Future Self]]
 - [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control|Kelly McGonigal Willpower and Self-Control]]
+- [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson|What To Do To Be Successful Jordan B Peterson]]

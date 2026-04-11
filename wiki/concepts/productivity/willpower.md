@@ -2,7 +2,7 @@
 type: concept
 title: Willpower
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-04-12
 status: active
 tags:
   - concept
@@ -12,7 +12,9 @@ tags:
   - behavior-change
 source_pages:
   - wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control.md
+  - wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson.md
 related:
+  - wiki/concepts/productivity/conscientiousness.md
   - wiki/concepts/productivity/future-self-prioritization.md
   - wiki/concepts/productivity/dopamine-regulation.md
   - wiki/concepts/health/mindfulness.md
@@ -37,10 +39,12 @@ Willpower in the current vault is the capacity to protect longer-term intentions
 - The same source claims that self-compassion after failure improves re-entry while shame makes relapse more likely.
 - It also adds a future-self mechanism: better choices become easier when the future self feels vivid and psychologically real.
 - Its practical toolkit includes failure planning and `urge surfing`, both of which reduce the odds that one bad moment becomes a longer derailment.
+- [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson]] adds a motivational-architecture layer: willpower works better when goals are meaningful enough, micro-steps are visible enough, and the schedule feels negotiated rather than tyrannical.
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]], willpower is broader and less identity-slogan driven. Future-self prioritization is one decision rule inside willpower rather than the whole phenomenon.
+- Compared with [[wiki/concepts/productivity/conscientiousness|Conscientiousness]], willpower is more situational and conflict-bound. Conscientiousness is the broader tendency toward organized follow-through; willpower is the moment where that pattern is either protected or broken.
 - Compared with [[wiki/concepts/productivity/dopamine-regulation|Dopamine Regulation]], willpower is less about reward architecture and more about the organism's current ability to stay aligned when temptation appears.
 - Compared with [[wiki/concepts/health/mindfulness|Mindfulness]], willpower is more directional and goal-protective. Mindfulness changes the quality of awareness; willpower is about what that awareness makes possible in action.
 - Compared with [[wiki/concepts/health/mindful-curiosity|Mindful Curiosity]], willpower is the broader self-regulation problem while curiosity is one method for handling urges without brute-force suppression.
@@ -55,9 +59,12 @@ Willpower in the current vault is the capacity to protect longer-term intentions
 # Related Pages
 
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
+- [[wiki/concepts/productivity/conscientiousness|Conscientiousness]]
 - [[wiki/concepts/productivity/dopamine-regulation|Dopamine Regulation]]
 - [[wiki/concepts/health/mindfulness|Mindfulness]]
 - [[wiki/concepts/health/mindful-curiosity|Mindful Curiosity]]
 - [[wiki/concepts/health/stress-mindset|Stress Mindset]]
 - [[wiki/syntheses/productivity/kelly-mcgonigal-willpower-framework|Kelly McGonigal Willpower Framework]]
+- [[wiki/syntheses/productivity/jordan-peterson-self-management-framework|Jordan Peterson Self-Management Framework]]
 - [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control|Kelly McGonigal Willpower and Self-Control]]
+- [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson|What To Do To Be Successful Jordan B Peterson]]

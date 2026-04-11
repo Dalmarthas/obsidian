@@ -3114,3 +3114,18 @@ Pages touched:
 - [[wiki/entities/simon-sinek]]
 - [[wiki/syntheses/business/simon-sinek-golden-circle-framework]]
 - [[index]]
+
+## [2026-04-12 01:33] ingest | What To Do To Be Successful Jordan B Peterson
+
+Summary: Ingested a new English Jordan Peterson source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson]] plus a new concept page at [[wiki/concepts/productivity/conscientiousness]], and deepened [[wiki/concepts/productivity/future-self-prioritization]], [[wiki/concepts/productivity/willpower]], and [[wiki/entities/jordan-peterson]] so the Peterson branch now captures conscientiousness as a reusable concept, multi-domain future design, negotiated scheduling, and a more operational self-management model.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson]]
+- [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson]]
+- [[wiki/concepts/productivity/conscientiousness]]
+- [[wiki/concepts/productivity/future-self-prioritization]]
+- [[wiki/concepts/productivity/willpower]]
+- [[wiki/entities/jordan-peterson]]
+- [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]]
+- [[index]]
