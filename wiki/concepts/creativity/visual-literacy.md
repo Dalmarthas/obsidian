@@ -2,7 +2,7 @@
 type: concept
 title: Visual Literacy
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-11
 status: active
 tags:
   - concept
@@ -16,6 +16,7 @@ source_pages:
   - wiki/sources/2026-04-09-bong-joon-ho-on-parasite-and-story-construction.md
   - wiki/sources/2026-04-09-christopher-nolan-on-the-dark-knight.md
   - wiki/sources/2026-04-09-johnny-harris-explainer-storytelling-formula.md
+  - wiki/sources/2026-04-11-science-and-application-of-visual-design-principles.md
 related:
   - wiki/entities/christopher-nolan.md
   - wiki/entities/johnny-harris.md
@@ -23,6 +24,7 @@ related:
   - wiki/concepts/filmmaking/spatial-storytelling.md
   - wiki/concepts/creativity/graphic-design.md
   - wiki/concepts/creativity/typography-as-image.md
+  - wiki/concepts/creativity/visual-hierarchy.md
   - wiki/syntheses/filmmaking/scorsese-filmmaking-framework.md
 ---
 
@@ -45,6 +47,7 @@ Visual literacy is the ability to read, build, and judge meaning through images,
 - The current Bong source adds a spatial-meaning layer: architecture, vertical levels, and the audience's knowledge of a house can become part of the film's visual language before anyone verbalizes the social meaning.
 - The current Nolan source adds an expectation-reversal layer: menace can intensify when image choices invert genre assumptions, such as placing instability, threat, or dread in bright daylight instead of protective darkness.
 - The current Johnny Harris source adds a communication layer: visual literacy is not only artistic or atmospheric, but explanatory. A single concrete object or image can carry enough intuitive meaning to make later context easier to absorb.
+- The current visual-design source adds a perceptual-processing layer: because people scan in fragments, good visual communication depends on focal points, contrast, grouping, and simplified hierarchy that the eye can parse quickly.
 
 # Source Comparisons
 
@@ -54,6 +57,7 @@ Visual literacy is the ability to read, build, and judge meaning through images,
 - The current Bong source is strongest on architecture as readable narrative language: once the audience understands the physical space, spatial movement itself starts communicating danger, hierarchy, and hidden truth.
 - The current Nolan source is strongest on tonal inversion through image conditions: the frame can unsettle by refusing the lighting, staging, or atmospheric cues that viewers expect from danger.
 - The current Johnny Harris source is strongest on image-as-entry-point: use a vivid, graspable visual anchor to create immediate understanding pressure before abstract explanation begins.
+- The current visual-design source is strongest on applied perceptual guidance: how contrast, pattern, compartmentalization, and restrained motion help viewers know where to look and how to proceed.
 
 # Tensions / Open Questions
 
@@ -70,4 +74,5 @@ Visual literacy is the ability to read, build, and judge meaning through images,
 - [[wiki/entities/johnny-harris|Johnny Harris]]
 - [[wiki/concepts/creativity/graphic-design|Graphic Design]]
 - [[wiki/concepts/creativity/typography-as-image|Typography as Image]]
+- [[wiki/concepts/creativity/visual-hierarchy|Visual Hierarchy]]
 - [[wiki/syntheses/filmmaking/scorsese-filmmaking-framework|Scorsese Filmmaking Framework]]

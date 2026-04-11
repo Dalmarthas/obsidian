@@ -2,7 +2,7 @@
 type: entity
 title: Chris Voss
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-10
 status: active
 tags:
   - entity
@@ -12,6 +12,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
   - wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary.md
+  - wiki/sources/2026-04-10-chris-voss-power-of-no-and-tactical-empathy.md
 related:
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/negotiation-and-mediation.md
@@ -24,17 +25,18 @@ related:
 
 # Overview
 
-Chris Voss is presented in this vault as a negotiation teacher whose FBI-derived framework turns empathy, tone, silence, question design, and negativity management into practical influence tools.
+Chris Voss is presented in this vault as a negotiation teacher whose FBI-derived framework turns empathy, tone, silence, question design, negativity management, and safe use of `no` into practical influence tools.
 
 # Role In This Vault
 
-Voss currently deepens the vault's negotiation branch and adds a more tactical communication model centered on tactical empathy, information gathering, emotional regulation, and collaborative leverage.
+Voss currently deepens the vault's negotiation branch and adds a more tactical communication model centered on tactical empathy, information gathering, emotional regulation, collaboration against the problem, and skepticism toward lazy compromise.
 
 # Evidence In This Vault
 
 - Named principle: [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - Negotiation branch: [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
 - Technique pages: [[wiki/concepts/communication/mirroring|Mirroring]], [[wiki/concepts/communication/labeling|Labeling]], [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]], [[wiki/concepts/communication/accusation-audit|Accusation Audit]]
+- The newest source sharpens three additional emphases: `no` as a safety-creating move, compromise as a frequent value leak, and a style-adaptation heuristic built around assertives, accommodators, and analysts.
 - System-level distillation: [[wiki/syntheses/communication/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]
 
 # Related Pages
@@ -45,4 +47,5 @@ Voss currently deepens the vault's negotiation branch and adds a more tactical c
 - [[wiki/concepts/communication/labeling|Labeling]]
 - [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]]
 - [[wiki/concepts/communication/accusation-audit|Accusation Audit]]
+- [[wiki/concepts/communication/no-oriented-questions|No-Oriented Questions]]
 - [[wiki/syntheses/communication/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]

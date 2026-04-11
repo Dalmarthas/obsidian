@@ -15,9 +15,12 @@ source_pages:
 related:
   - wiki/concepts/productivity/uchet-vremeni.md
   - wiki/concepts/productivity/samoupravlenie.md
+  - wiki/concepts/productivity/konechnost-vremeni.md
+  - wiki/concepts/productivity/lovushka-effektivnosti.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/business/business-systems.md
   - wiki/syntheses/productivity/freymvork-samoupravleniya-cherez-sistemy-i-privychki.md
+  - wiki/syntheses/productivity/antiproduktivnyi-freymvork-olivera-berkmana.md
 ---
 
 # Что Это
@@ -41,18 +44,23 @@ related:
 - Этот концепт близок к [[wiki/concepts/business/framework-driven-action|фреймворк-ориентированному действию]], но работает на более личном и поведенческом уровне.
 - Он также пересекается с [[wiki/concepts/business/business-systems|бизнес-системами]], однако здесь речь не о функциях компании, а о личном устройстве действий и повторений.
 - В отличие от чисто мотивационного языка про `добейся цели`, текущий источник делает процесс главным объектом внимания.
+- Беркмановская ветка добавляет сюда ограничение: система полезна только если она помогает выбирать важное в условиях конечности, а не превращается в машину ускорения второстепенного.
 
 # Напряжения / Открытые Вопросы
 
 - Если полностью убрать цели из поля зрения, можно потерять критерий направления и начать оптимизировать процесс без ясного смысла.
 - Короткий источник не дает полного прикладного слоя: как именно проектировать такие системы для разных типов поведения, здесь раскрыто лишь частично.
 - Остается вопрос, как сочетать системное мышление с ситуациями, где нужна не только повторяемость, но и редкие стратегические развилки.
+- После появления концепта [[wiki/concepts/productivity/lovushka-effektivnosti|ловушки эффективности]] встает еще один риск: хорошо налаженная система может не освобождать, а лишь ускорять поток малозначимого.
 
 # Связанные Страницы
 
 - [[wiki/concepts/productivity/uchet-vremeni|Учет времени]]
 - [[wiki/concepts/productivity/samoupravlenie|Самоуправление]]
+- [[wiki/concepts/productivity/konechnost-vremeni|Конечность времени]]
+- [[wiki/concepts/productivity/lovushka-effektivnosti|Ловушка эффективности]]
 - [[wiki/concepts/business/framework-driven-action|фреймворк-ориентированное действие]]
 - [[wiki/concepts/business/business-systems|бизнес-системы]]
 - [[wiki/syntheses/productivity/freymvork-samoupravleniya-cherez-sistemy-i-privychki|Фреймворк самоуправления через системы и привычки]]
+- [[wiki/syntheses/productivity/antiproduktivnyi-freymvork-olivera-berkmana|Антипродуктивный фреймворк Оливера Беркмана]]
 - [[wiki/sources/2026-04-09-vyderzhki-iz-knigi-atomnye-privychki-dzheimsa-klira|Выдержки из книги «Атомные привычки» Джеймса Клира]]

@@ -2,7 +2,7 @@
 type: concept
 title: Childhood Development Triangle
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -11,11 +11,14 @@ tags:
   - others
 source_pages:
   - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
+  - wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness.md
 related:
   - wiki/concepts/others/mask-behavior.md
   - wiki/concepts/others/inversion-patterns.md
   - wiki/concepts/others/projection-as-self-signal.md
   - wiki/concepts/others/emotional-gravity.md
+  - wiki/concepts/communication/assertiveness.md
+  - wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy.md
   - wiki/syntheses/communication/chase-hughes-identity-and-permission-framework.md
 ---
 
@@ -34,12 +37,14 @@ The Childhood Development Triangle is a heuristic model for tracing adult behavi
 - The current Chase Hughes source says children learn what they must do to feel safe, to belong, and to receive reward.
 - Those strategies are then carried forward into adult work, relationships, ambition, and stress reactions.
 - The source frames the ongoing voice of these patterns as a child's voice that can be recognized and reduced in authority rather than fully deleted.
+- The Jordan Peterson source adds a practical adult manifestation of the same theme: people-pleasing and conflict avoidance can persist as under-assertiveness in work and relationships, especially when self-advocacy still feels socially dangerous.
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/others/mask-behavior|Mask Behavior]], the Childhood Development Triangle is more origin-focused: it asks where the defensive strategy first became useful.
 - Compared with [[wiki/concepts/others/projection-as-self-signal|Projection as Self-Signal]], it is less about what current judgment reveals and more about the old contract that current judgment may be protecting.
 - Compared with [[wiki/concepts/others/emotional-gravity|Emotional Gravity]], it is more explanatory than dynamic: the triangle describes the early script, while emotional gravity describes how old scripts keep pulling new scenes into their orbit.
+- Compared with [[wiki/concepts/communication/assertiveness|Assertiveness]], the triangle explains why direct speech may feel risky long after it becomes necessary.
 
 # Tensions / Open Questions
 
@@ -53,5 +58,7 @@ The Childhood Development Triangle is a heuristic model for tracing adult behavi
 - [[wiki/concepts/others/inversion-patterns|Inversion Patterns]]
 - [[wiki/concepts/others/projection-as-self-signal|Projection as Self-Signal]]
 - [[wiki/concepts/others/emotional-gravity|Emotional Gravity]]
+- [[wiki/concepts/communication/assertiveness|Assertiveness]]
+- [[wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy|Assertiveness, Agreeableness, and Self-Advocacy]]
 - [[wiki/syntheses/communication/chase-hughes-identity-and-permission-framework|Chase Hughes Identity and Permission Framework]]
 - [[wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection|Chase Hughes Influence, Identity, and Human Connection]]

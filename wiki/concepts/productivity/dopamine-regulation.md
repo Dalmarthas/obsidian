@@ -1,0 +1,58 @@
+---
+type: concept
+title: Dopamine Regulation
+created: 2026-04-10
+updated: 2026-04-10
+status: active
+tags:
+  - concept
+  - productivity
+  - dopamine
+  - motivation
+  - self-regulation
+source_pages:
+  - wiki/sources/2026-04-10-difficult-rewarding-behaviors-and-dopamine-regulation.md
+related:
+  - wiki/concepts/productivity/restorative-breaks.md
+  - wiki/concepts/productivity/peak-hours.md
+  - wiki/concepts/productivity/future-self-prioritization.md
+  - wiki/concepts/productivity/samoupravlenie.md
+  - wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework.md
+---
+
+# What It Is
+
+Dopamine regulation in the current vault means managing the reward environment so that immediate-gratification stimuli do not repeatedly drain motivation for slower, more meaningful work. It is not presented here as a clinical neuroscience doctrine. It is a practical self-regulation concept: understand how fast rewards distort desire, then redesign routines so difficult but beneficial behaviors feel easier to enter and more rewarding to sustain.
+
+# Why It Matters
+
+- It gives the productivity branch a biological explanation for why important work can feel harder than low-value stimulation.
+- It helps distinguish `I do not care about this` from `my reward system is overtrained on easier pleasures`.
+- It reframes discipline away from pure moral effort and toward environment design, trigger management, and better sequencing.
+
+# Evidence In This Vault
+
+- The current source argues that frequent fast-reward consumption lowers motivation for challenging but worthwhile activities.
+- It distinguishes `fast dopamine` and `slow dopamine` as a practical way to think about why scrolling is easier to initiate than reading, exercise, or deep work.
+- The source also recommends logging triggers, scheduling pleasures, and expecting a temporary motivational drop while reward balance recalibrates.
+
+# Source Comparisons
+
+- Compared with [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]], dopamine regulation is less moral and identity-framed, and more about managing the architecture of reward and temptation.
+- Compared with [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]], this concept is less about recovery after exertion and more about preventing overstimulation from corrupting motivation before the work even starts.
+- Compared with [[wiki/concepts/productivity/peak-hours|Peak Hours]], dopamine regulation focuses less on cognitive timing and more on reward timing and trigger exposure.
+
+# Tensions / Open Questions
+
+- The fast-versus-slow dopamine language is useful heuristically, but it may flatten a much more complex scientific reality.
+- A dopamine lens can over-biologize what is also shaped by stress, meaning, sleep, social context, and structural overload.
+- The branch still needs stronger sources that separate sound neuroscience from oversimplified online self-optimization rhetoric.
+
+# Related Pages
+
+- [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
+- [[wiki/concepts/productivity/peak-hours|Peak Hours]]
+- [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
+- [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
+- [[wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework|Difficult but Rewarding Behaviors Framework]]
+- [[wiki/sources/2026-04-10-difficult-rewarding-behaviors-and-dopamine-regulation|Difficult Rewarding Behaviors and Dopamine Regulation]]

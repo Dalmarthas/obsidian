@@ -17,6 +17,7 @@ source_pages:
   - wiki/sources/2026-04-08-keep-your-brain-sharp-at-90-summary.md
   - wiki/sources/2026-04-10-kelly-mcgonigal-stress-mindset-and-social-resilience.md
   - wiki/sources/2026-04-10-daniel-levitin-stress-premortems-and-decision-hygiene.md
+  - wiki/sources/2026-04-10-michael-pollan-psychedelics-and-therapeutic-transformation.md
 related:
   - wiki/entities/david-sinclair.md
   - wiki/entities/michael-greger.md
@@ -28,6 +29,7 @@ related:
   - wiki/concepts/health/longevity-fundamentals.md
   - wiki/concepts/health/stress-mindset.md
   - wiki/concepts/health/premortem.md
+  - wiki/concepts/health/psychedelic-assisted-therapy.md
   - wiki/concepts/health/strength-training.md
   - wiki/concepts/health/daily-dozen.md
   - wiki/concepts/health/sleep-quality.md
@@ -35,6 +37,7 @@ related:
   - wiki/syntheses/health/michael-greger-nutrition-framework.md
   - wiki/syntheses/health/pavel-tsatsouline-strength-framework.md
   - wiki/syntheses/health/longevity-health-fundamentals-framework.md
+  - wiki/syntheses/health/michael-pollan-psychedelic-therapy-framework.md
   - wiki/syntheses/cross-source/preventive-health-and-longevity-models.md
 ---
 
@@ -58,6 +61,7 @@ Healthspan is the portion of life lived with strong function, low disease burden
 - The brain-health source adds a cognitive-preservation layer: staying mentally sharp, protecting hippocampal structure, and reducing dementia risk are part of what makes later years genuinely high-quality.
 - The current Kelly McGonigal source adds a psychophysiological layer that the branch lacked: how stress is interpreted, socially metabolized, and connected to meaning may shape whether pressure contributes more to wear or to resilient function.
 - The current Daniel Levitin source adds a decision-hygiene layer: quality of life is also protected by reducing avoidable mistakes through premortems, advance discussion, and environmental systems before stress peaks.
+- The current Michael Pollan source adds a mental-health-and-selfhood layer that the branch did not yet have: for some people, quality of life may depend not only on prevention habits but on whether rigid self-narratives, fear patterns, or existential distress can be therapeutically loosened in a safe container.
 
 # Source Comparisons
 
@@ -69,6 +73,7 @@ Healthspan is the portion of life lived with strong function, low disease burden
 - [[wiki/concepts/health/stress-mindset|Stress Mindset]]
 - [[wiki/concepts/health/premortem|Premortem]] adds a missing interpretation layer: the body is not only affected by external load, but also by whether the person meets that load as damage, challenge, or meaningful demand.
 - [[wiki/concepts/health/premortem|Premortem]] adds a preventive decision layer: durable function also depends on not waiting until crisis to make every important choice from scratch.
+- [[wiki/concepts/health/psychedelic-assisted-therapy|Psychedelic-Assisted Therapy]] adds a more intervention-specific mental-health layer: the branch broadens from daily prevention alone toward certain high-intensity therapies that may restore function when ordinary patterns are deeply stuck.
 - Compared with [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], healthspan is broader and less performance-centric: it is about durable function for life, not only excellence under pressure.
 
 # Tensions / Open Questions
@@ -78,6 +83,7 @@ Healthspan is the portion of life lived with strong function, low disease burden
 - There is also an open tension between public-health guidance and individualized medicine that this branch has not yet resolved.
 - There is now a visible source-level tension between stricter plant-based prevention and a more mixed longevity model that still endorses fish oil or fatty fish in some contexts.
 - The new McGonigal branch adds another tension: stress may be partly reframable, but the vault still needs stronger boundaries between helpful challenge, chronic overload, and environments that should not be adapted to psychologically.
+- The Pollan branch adds a different evidence tension: a treatment may be psychologically powerful and clinically promising without yet fitting neatly into the same evidence hierarchy or risk profile as sleep, diet, or exercise fundamentals.
 
 # Related Pages
 
@@ -96,10 +102,12 @@ Healthspan is the portion of life lived with strong function, low disease burden
 - [[wiki/concepts/health/longevity-fundamentals|Longevity Fundamentals]]
 - [[wiki/concepts/health/stress-mindset|Stress Mindset]]
 - [[wiki/concepts/health/premortem|Premortem]]
+- [[wiki/concepts/health/psychedelic-assisted-therapy|Psychedelic-Assisted Therapy]]
 - [[wiki/concepts/health/sleep-quality|Sleep Quality]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/syntheses/health/michael-greger-nutrition-framework|Michael Greger Nutrition Framework]]
 - [[wiki/syntheses/health/pavel-tsatsouline-strength-framework|Pavel Tsatsouline Strength Framework]]
 - [[wiki/syntheses/health/longevity-health-fundamentals-framework|Longevity Health Fundamentals Framework]]
+- [[wiki/syntheses/health/michael-pollan-psychedelic-therapy-framework|Michael Pollan Psychedelic Therapy Framework]]
 - [[wiki/syntheses/cross-source/preventive-health-and-longevity-models|Preventive Health and Longevity Models]]
 

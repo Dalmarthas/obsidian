@@ -2,7 +2,7 @@
 type: synthesis
 title: Chris Voss Negotiation Framework
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-10
 status: active
 tags:
   - synthesis
@@ -12,6 +12,7 @@ question: What durable negotiation framework can be extracted from the Chris Vos
 basis:
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
   - wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary.md
+  - wiki/sources/2026-04-10-chris-voss-power-of-no-and-tactical-empathy.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/negotiation-and-mediation.md
   - wiki/concepts/communication/mirroring.md
@@ -54,23 +55,34 @@ The current Voss branch supports a nine-part framework:
 7. Preempt the negative story.
    Use accusation audits before hard asks or bad news so the unspoken fears are named before they harden into resistance.
 
-8. Treat strategic pressure points carefully.
-   `Fair`, deadlines, and loss aversion are not minor details. They are emotional levers that should be handled with empathy, specificity, and skepticism about manipulation.
+8. Resist lazy compromise and trade asymmetrically instead.
+   Meeting in the middle often destroys value. Better negotiation looks for what is cheap for you but valuable to them, and vice versa.
 
-9. Hunt for black swans and practice progressively.
-   Hidden information can change the whole deal, and the skill set should be drilled first in low-stakes workplace situations before high-stakes use.
+9. Treat strategic pressure points and hidden leverage carefully.
+   `Fair`, deadlines, loss aversion, and black swans are not side details. They change emotional state, perceived legitimacy, and the real shape of the deal.
+
+10. Adapt to counterpart tendencies and practice progressively.
+   Assertives, accommodators, and analysts respond differently to pace, warmth, and evidence, and the skill set should be drilled first in low-stakes workplace situations before high-stakes use.
 
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary|Chris Voss Negotiation Masterclass Master Summary]]
 - Additional source: [[wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary|Chris Voss Workplace Negotiation Masterclass Complete Summary]]
+- Additional source: [[wiki/sources/2026-04-10-chris-voss-power-of-no-and-tactical-empathy|Chris Voss Power of No and Tactical Empathy]]
 - Canonical concepts: [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]], [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]], [[wiki/concepts/communication/mirroring|Mirroring]], [[wiki/concepts/communication/labeling|Labeling]], [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]], [[wiki/concepts/communication/no-oriented-questions|No-Oriented Questions]], [[wiki/concepts/communication/accusation-audit|Accusation Audit]]
+
+# Comparisons
+
+- The newest Voss source is less operationally granular than the workplace summary, but clearer on three strategic points: `no` as psychological safety, compromise as a frequent value leak, and style adaptation across assertives, accommodators, and analysts.
+- The workplace Voss summary remains the strongest technique manual for sequencing and drills.
+- The earlier master summary remains the cleanest overview of the original negotiation stack.
 
 # Gaps
 
 - The branch is currently based on a secondary summary rather than a primary transcript.
 - The vault still needs counter-models from negotiators who rely more on structural power, explicit distributive bargaining, or legal process.
 - The branch is now much stronger on tactics than on ethical guardrails; future counter-sources should test where the method breaks or becomes too instrumental.
+- The style-typing layer is still heuristic and needs stronger evidence or counterexamples before it should be treated as durable classification.
 
 # Related Pages
 

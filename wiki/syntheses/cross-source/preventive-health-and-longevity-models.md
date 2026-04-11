@@ -18,6 +18,7 @@ basis:
   - wiki/sources/2026-04-08-keep-your-brain-sharp-at-90-summary.md
   - wiki/sources/2026-04-10-kelly-mcgonigal-stress-mindset-and-social-resilience.md
   - wiki/sources/2026-04-10-daniel-levitin-stress-premortems-and-decision-hygiene.md
+  - wiki/sources/2026-04-10-michael-pollan-psychedelics-and-therapeutic-transformation.md
   - wiki/concepts/health/sleep-quality.md
   - wiki/concepts/health/brain-health-and-cognitive-aging.md
   - wiki/concepts/health/diet-and-chronic-disease.md
@@ -25,6 +26,7 @@ basis:
   - wiki/concepts/health/longevity-fundamentals.md
   - wiki/concepts/health/stress-mindset.md
   - wiki/concepts/health/premortem.md
+  - wiki/concepts/health/psychedelic-assisted-therapy.md
   - wiki/concepts/health/strength-training.md
   - wiki/concepts/health/whole-food-plant-based-diet.md
 related:
@@ -35,6 +37,7 @@ related:
   - wiki/syntheses/health/brain-sharpness-at-90-protocol.md
   - wiki/syntheses/health/kelly-mcgonigal-stress-resilience-framework.md
   - wiki/syntheses/health/daniel-levitin-decision-hygiene-framework.md
+  - wiki/syntheses/health/michael-pollan-psychedelic-therapy-framework.md
 ---
 
 # Question
@@ -43,7 +46,7 @@ What shared model of preventive health is emerging across the current health bra
 
 # Answer
 
-The current health branch supports a six-part shared model:
+The current health branch supports a seven-part shared model:
 
 1. Health is built upstream.
    All three sources treat everyday inputs as major drivers of long-horizon outcomes rather than as optional polish after disease appears.
@@ -63,6 +66,9 @@ The current health branch supports a six-part shared model:
 6. The body is one connected process.
    Recovery, metabolism, disease burden, aging, and stress appraisal are not treated as isolated problems in separate silos.
 
+7. Some therapeutic breakthroughs depend on container, not only compound.
+   The new Pollan branch adds a different preventive-health lesson: high-impact mental-health interventions may work or fail partly because of preparation, guidance, and integration rather than because the substance alone is inherently curative.
+
 The shared direction is clear: durable health is not an emergency-room phenomenon. It is accumulated daily through repeated inputs and avoided damage.
 
 # Basis
@@ -79,12 +85,14 @@ The shared direction is clear: durable health is not an emergency-room phenomeno
 - The brain-health source is strongest on a concrete cognitive endpoint: it makes aerobic exercise, deep sleep, and risk reduction feel directly tied to preserving memory and reducing dementia risk.
 - The current Kelly McGonigal source is strongest on the appraisal-and-connection layer: beliefs about stress, social support, and prosocial behavior are treated as meaningful health variables rather than soft side notes.
 - The current Daniel Levitin source is strongest on decision hygiene under stress: pre-plan failure points, externalize memory, and move high-stakes choices out of crisis conditions wherever possible.
+- The new Pollan branch is strongest on altered-state therapeutic structure: it adds set-and-setting logic, ego-softening mechanisms, integration, and a more explicit distinction between serious therapeutic use and hype-heavy casual adoption.
 - Greger and the longevity composite branch agree on prevention and healthspan but differ on nutrition emphasis: Greger pushes a stronger whole-food plant-based default, while the composite source is more open to fatty fish and fish oil.
 - Rhonda Patrick and the composite source overlap heavily on sleep and supplement advice, but the composite source adds little independent sleep structure beyond what the Rhonda branch already captured.
 - Pavel complements the other branches by adding a concrete answer to what "exercise" should often cash out to in practice: not maximal punishment, but recoverable strength-building with technical quality.
 - The brain-health source strengthens the shared model by making cognition a clearer reason these upstream habits matter, but it also introduces a more tentative multivitamin claim that should stay lower-confidence than the exercise and sleep layers.
 - The new McGonigal branch broadens the prevention model beyond behaviors alone by arguing that interpretation, meaning, and social response partly mediate what stress does to health.
 - The new Levitin branch adds a procedural prevention layer: one way to protect health is to protect decision quality before pressure strips away executive control.
+- The Pollan branch complicates the shared model in a useful way: not every valuable health intervention is a daily habit or low-intensity prevention practice; some may be acute, high-intensity, and highly context-dependent.
 
 # Gaps
 
@@ -95,6 +103,7 @@ The shared direction is clear: durable health is not an emergency-room phenomeno
 - The brain-health branch also needs better source depth on dementia prevention, `APOE4`, and whether the multivitamin effect survives closer scrutiny.
 - The new stress branch also needs stronger depth on burnout, trauma, workplace stress, and the boundary between useful reframing and adaptation to genuinely harmful conditions.
 - The new decision-hygiene branch also needs stronger depth on checklists, emergency planning, medical evidence interpretation, and the line between prudent preparation and compulsive overplanning.
+- The new psychedelic-therapy branch also needs stronger depth on indication-specific evidence, adverse events, therapist quality, legal context, and the line between clinical promise and cultural overreach.
 
 # Related Pages
 
@@ -103,4 +112,5 @@ The shared direction is clear: durable health is not an emergency-room phenomeno
 - [[wiki/syntheses/health/longevity-health-fundamentals-framework|Longevity Health Fundamentals Framework]]
 - [[wiki/syntheses/health/pavel-tsatsouline-strength-framework|Pavel Tsatsouline Strength Framework]]
 - [[wiki/syntheses/health/brain-sharpness-at-90-protocol|Brain Sharpness at 90 Protocol]]
+- [[wiki/syntheses/health/michael-pollan-psychedelic-therapy-framework|Michael Pollan Psychedelic Therapy Framework]]
 

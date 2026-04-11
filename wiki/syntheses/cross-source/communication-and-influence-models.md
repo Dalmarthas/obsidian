@@ -23,6 +23,7 @@ basis:
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
   - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
   - wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication.md
+  - wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/boundary-language.md
   - wiki/concepts/communication/concrete-specificity.md
@@ -30,6 +31,7 @@ basis:
   - wiki/concepts/communication/elicitation.md
   - wiki/concepts/communication/frame-control.md
   - wiki/concepts/communication/interactional-authority.md
+  - wiki/concepts/communication/power-dynamics.md
   - wiki/concepts/communication/behavioral-profiling.md
   - wiki/concepts/communication/social-needs-profiling.md
   - wiki/concepts/communication/pcp-model.md
@@ -53,7 +55,7 @@ What shared model of communication and influence appears across George Stephanop
 
 # Answer
 
-The current source base supports a ten-part model:
+The current source base supports an eleven-part model:
 
 1. Shape the context before you push the message.
    Good influence depends on preparation, timing, environmental design, and the early management of authority and attention rather than on verbal force alone.
@@ -85,6 +87,9 @@ The current source base supports a ten-part model:
 10. Make the claim concrete and the choice legible.
    At scale, influence depends on vivid, checkable language and on a frame the audience can keep recognizing across channels and crises.
 
+11. Recognize when the game is really about power, not persuasion.
+   Some actors are not trying to create understanding at all. They are protecting rank, controlling options, shaping perception, and converting opacity or dependence into leverage.
+
 # Basis
 
 - Source pages: [[wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary|George Stephanopoulos Effective Communication Masterclass Complete Summary]], [[wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary|Chris Voss Negotiation Masterclass Master Summary]], [[wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary|Daniel Pink Persuasion Masterclass Complete Summary]], [[wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary|Axelrod Rove Political Campaign Masterclass Complete Summary]], [[wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary|Bill Clinton Leadership Masterclass Master Summary]], [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary|Bob Iger Disney Leadership Masterclass Complete Summary]], [[wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture|Chase Hughes 90-Second Brain Capture]]
@@ -104,6 +109,7 @@ The current source base supports a ten-part model:
 - The current Chase Hughes behavioral-framework source is broadest on the self-mastery and observation layer beneath communication: comfort, authority, behavioral profiling, and need-reading are treated as preconditions for stronger influence.
 - The current Chase Hughes identity-and-connection source is strongest on identity-and-permission mechanics: PCP, precommitment, indirect identity priming, and the claim that genuine human recognition becomes more valuable as synthetic interaction scales.
 - The current Jefferson Fisher source is strongest on manipulation-resistant accountability: short boundary language, fake-apology diagnosis, and refusal to let conflict get reframed around whether your reaction is allowed.
+- The Robert Greene power source is strongest on influence as strategic contest: reputation, concealment, dependence, spectacle, and formless adaptation matter because some environments reward political survival more than mutual clarity.
 
 # Gaps
 
@@ -115,6 +121,7 @@ The current source base supports a ten-part model:
 - The new Chase Hughes branch sharpens a separate ethical gap: the vault still needs a cleaner boundary between humane influence design and deliberate autonomy bypass.
 - The current Chase Hughes reading-minds source sharpens another gap: the vault still needs stronger evidence-based guidance on which behavior cues and interaction heuristics are genuinely reliable under pressure and which are overclaimed.
 - The newest Chase Hughes source sharpens a third gap: the vault still needs better ways to distinguish authentic connection from highly convincing pseudo-connection engineered through identity tactics.
+- The Robert Greene source sharpens an adjacent gap: the vault still needs stronger guidance on when power-conscious realism is necessary and when it simply trains people into corrosive social paranoia.
 
 # Related Pages
 

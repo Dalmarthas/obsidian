@@ -2,7 +2,7 @@
 type: concept
 title: Board Vision
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-11
 status: active
 tags:
   - chess
@@ -14,6 +14,7 @@ source_pages:
   - wiki/sources/2026-04-09-john-bartholomew-beginner-chess-mistakes
   - wiki/sources/2026-04-09-john-bartholomew-undefended-pieces
   - wiki/sources/2026-04-09-polgar-long-term-chess-improvement-plan
+  - wiki/sources/2026-04-11-quiet-eye-visual-attention-and-skill-performance.md
 related:
   - wiki/concepts/chess/chess
   - wiki/concepts/chess/calculation-in-chess
@@ -23,6 +24,7 @@ related:
   - wiki/concepts/chess/undefended-pieces
   - wiki/concepts/chess/time-management-in-chess
   - wiki/concepts/chess/problem-first-chess-training
+  - wiki/concepts/others/quiet-eye
   - wiki/entities/laszlo-polgar
   - wiki/syntheses/chess/gothamchess-practical-improvement-framework
   - wiki/syntheses/chess/chess-calculation-process
@@ -47,10 +49,12 @@ Many beginner mistakes are not strategic failures but awareness failures. Player
 - [[wiki/sources/2026-04-09-john-bartholomew-beginner-chess-mistakes]] adds the practical beginner failure mode: many tactical and strategic mistakes begin with not seeing loose pieces, opponent threats, and coordination problems clearly enough.
 - [[wiki/sources/2026-04-09-john-bartholomew-undefended-pieces]] turns one specific part of board vision into a primary training habit: scan consciously for newly loose pieces on both sides until the check becomes automatic.
 - [[wiki/sources/2026-04-09-polgar-long-term-chess-improvement-plan]] adds a slower training model for visualization itself: solve mates and studies on a physical board, write answers first, and let repeated position work stabilize the mental board.
+- The quiet-eye source adds a neighboring performance-science distinction: not all seeing is equal. Stable gaze at the critical moment may matter separately from broader field awareness, which suggests board vision and move-execution attention should not be fully collapsed together.
 
 # Tensions / Open Questions
 
 - The branch now distinguishes simple visual awareness from deeper multi-move calculation more clearly, but the boundary is still not fully formalized.
+- The newer quiet-eye source sharpens a second boundary the branch still lacks: whole-board scanning versus attentional steadiness at the decisive point of execution.
 - Later sources may still justify splitting visualization, candidate moves, and calculation depth into even cleaner subpages.
 
 # Related Pages
@@ -63,6 +67,7 @@ Many beginner mistakes are not strategic failures but awareness failures. Player
 - [[wiki/concepts/chess/undefended-pieces|Undefended Pieces]]
 - [[wiki/concepts/chess/time-management-in-chess|Time Management in Chess]]
 - [[wiki/concepts/chess/problem-first-chess-training|Problem-First Chess Training]]
+- [[wiki/concepts/others/quiet-eye|Quiet Eye]]
 - [[wiki/entities/laszlo-polgar|Laszlo Polgar]]
 - [[wiki/syntheses/chess/gothamchess-practical-improvement-framework|GothamChess Practical Improvement Framework]]
 - [[wiki/syntheses/chess/chess-calculation-process|Chess Calculation Process]]

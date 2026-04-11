@@ -11,9 +11,11 @@ tags:
   - marketing
 question: What reusable marketing framework does the Rory Sutherland source add to the vault?
 basis:
+  - wiki/sources/2026-04-10-rory-sutherland-bottleneck-theory.md
   - wiki/sources/2026-04-10-rory-sutherland-marketing-psychology-and-perceived-value.md
   - wiki/concepts/business/advertising.md
   - wiki/concepts/business/brand-strategy.md
+  - wiki/concepts/business/bottleneck-theory.md
   - wiki/concepts/business/reverse-benchmarking.md
   - wiki/concepts/business/perception-driven-value.md
 related:
@@ -27,7 +29,7 @@ What reusable marketing framework does the Rory Sutherland source add to the vau
 
 # Answer
 
-The current source base supports a six-part model:
+The current source base supports a seven-part model:
 
 1. Look for psychological leverage, not only logical proof.
    People often choose through framing, emotion, symbolism, and expectation before they justify the choice rationally.
@@ -47,22 +49,27 @@ The current source base supports a six-part model:
 6. Protect exploration from institutional over-rationalization.
    Procurement, compensation models, and short-term incentives can kill the very experiments that produce uncommon value.
 
+7. Diagnose the current bottleneck before optimizing the system.
+   Growth is often constrained by one dominant limiter at a time, and the limiter may be awareness, distribution, logistics, or some other non-obvious narrow point.
+
 # Basis
 
-- Main source: [[wiki/sources/2026-04-10-rory-sutherland-marketing-psychology-and-perceived-value|Rory Sutherland Marketing Psychology and Perceived Value]]
-- Related concepts: [[wiki/concepts/business/advertising|Advertising]], [[wiki/concepts/business/brand-strategy|Brand Strategy]], [[wiki/concepts/business/reverse-benchmarking|Reverse Benchmarking]], [[wiki/concepts/business/perception-driven-value|Perception-Driven Value]]
+- Main sources: [[wiki/sources/2026-04-10-rory-sutherland-marketing-psychology-and-perceived-value|Rory Sutherland Marketing Psychology and Perceived Value]], [[wiki/sources/2026-04-10-rory-sutherland-bottleneck-theory|Rory Sutherland Bottleneck Theory]]
+- Related concepts: [[wiki/concepts/business/advertising|Advertising]], [[wiki/concepts/business/brand-strategy|Brand Strategy]], [[wiki/concepts/business/bottleneck-theory|Bottleneck Theory]], [[wiki/concepts/business/reverse-benchmarking|Reverse Benchmarking]], [[wiki/concepts/business/perception-driven-value|Perception-Driven Value]]
 
 # Comparisons
 
 - Compared with [[wiki/syntheses/business/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]], Rory Sutherland is less focused on humane creative culture and more focused on the irrational economics of attention, value, and differentiation.
 - Goodby Silverstein is stronger on making work people want to see; Sutherland is stronger on why strange framing and neglected dimensions can create disproportionate commercial value.
+- The newer Rory source broadens the branch away from pure perception: it argues that unusual insight is also needed to find the real bottleneck, especially when teams keep polishing non-limiting parts of the business.
 - Together the two branches make the advertising layer broader: one emphasizes human truth and creative craft, the other emphasizes psychological leverage and non-linear value creation.
 
 # Gaps
 
-- This framework currently rests on one secondary summary rather than a larger Rory branch.
+- This framework now rests on two secondary summaries rather than a larger Rory branch.
 - The vault still needs stronger contrast from more measurement-heavy marketing traditions.
-- The AI claim in this source is narrower and more speculative than the rest of the framework and should not be treated as the core durable lesson.
+- The bottleneck layer is conceptually strong but still needs more operational examples showing how firms distinguished awareness constraints from distribution, product, or operations constraints in practice.
+- The AI claim in the earlier source is narrower and more speculative than the rest of the framework and should not be treated as the core durable lesson.
 
 # Related Pages
 

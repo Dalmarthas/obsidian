@@ -2,7 +2,7 @@
 type: concept
 title: Buoyancy
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -14,10 +14,12 @@ source_pages:
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
 related:
   - wiki/concepts/leadership/high-performance-mindset.md
+  - wiki/concepts/leadership/mental-toughness.md
   - wiki/concepts/communication/persuasion.md
   - wiki/concepts/filmmaking/protect-the-process.md
   - wiki/syntheses/communication/daniel-pink-persuasion-framework.md
   - wiki/syntheses/leadership/lewis-hamilton-performance-framework.md
+  - wiki/syntheses/leadership/mark-manson-resilience-framework.md
 ---
 
 # What It Is
@@ -44,17 +46,20 @@ Buoyancy is the ability to keep acting effectively in an environment where rejec
 - Pink is strongest on everyday resilience in persuasion and work shaped by frequent refusal.
 - Hamilton is strongest on resilience in elite performance settings where public pressure and identity stakes are higher.
 - Both reject catastrophizing and treat setbacks as material for the next move rather than as final verdicts.
+- The Mark Manson source sits adjacent to both but works at a different scale: not repeated small refusal, but how people frame and endure concentrated challenge without collapsing or romanticizing trauma.
 
 # Tensions / Open Questions
 
 - Resilience language can become a way of normalizing unhealthy systems if it never questions the environment producing the rejection.
 - Self-interrogation helps preparation, but in some people it could also intensify anxiety if not paired with self-compassion.
+- The newer challenge-oriented source sharpens another boundary: toughness grows in the zone of manageable challenge, not from every discomfort and not from overwhelming harm.
 
 # Related Pages
 
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
+- [[wiki/concepts/leadership/mental-toughness|Mental Toughness]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]
 - [[wiki/concepts/filmmaking/protect-the-process|Protect the Process]]
 - [[wiki/syntheses/communication/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
 - [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]
-
+- [[wiki/syntheses/leadership/mark-manson-resilience-framework|Mark Manson Resilience Framework]]

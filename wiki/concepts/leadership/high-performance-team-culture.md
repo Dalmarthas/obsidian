@@ -15,6 +15,7 @@ source_pages:
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
+  - wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments.md
   - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
 related:
   - wiki/concepts/leadership/leadership.md
@@ -50,6 +51,7 @@ High-performance team culture is the set of norms, standards, and relationship p
 - Rhimes adds the television version: rooms and production teams perform better when contribution norms are clear, deadlines are real, ego performance is minimized, and everyone understands the show they are helping make.
 - Schultz adds the scaled-company version: performance culture works best when excellence is expected, humanity remains explicit, and the organization moves quickly against mediocrity or entitlement before they harden into the norm.
 - Simon Sinek adds a sharper selection rule: culture stays healthier when organizations explicitly prefer trust-generating teammates over toxic stars, and when recognition reaches the people who quietly keep the team safe and cohesive.
+- The newer Simon Sinek source adds a stronger operating rule: high performance depends on leaders creating enough safety that people report mistakes, seek support, and stop wasting energy on defensive self-protection.
 
 # Source Comparisons
 
@@ -60,6 +62,7 @@ High-performance team culture is the set of norms, standards, and relationship p
 - Rhimes is strongest on creative throughput under deadline: culture is not abstract morale, but the difference between a room that generates usable pages and a room that burns time performing itself.
 - Schultz is strongest on company-scale cultural reinforcement: town halls, audits, storytelling, benefits, and direct standards keep performance and humanity from drifting apart as the organization grows.
 - Sinek is strongest on toxic tradeoff recognition: he makes the case that performance and trust are separate variables, and that the wrong combination can quietly rot the team even when output still looks good.
+- The newer Sinek source is strongest on the climate-performance link: if fear governs the room, innovation, candor, and customer care deteriorate even before the scoreboard fully shows the damage.
 
 # Tensions / Open Questions
 
@@ -67,6 +70,7 @@ High-performance team culture is the set of norms, standards, and relationship p
 - Public accountability clarifies expectations, but in the wrong hands it can slip into humiliation.
 - Klopp's branch adds a related risk: intensity can become cultish or exhausting if it is copied as mood and symbolism without the underlying care, judgment, and continuity.
 - The Sinek layer adds a management risk in the other direction: if leaders say trust matters but still promote toxic stars, the culture learns that stated values are cosmetic.
+- The newer Sinek layer adds a second risk: leaders may espouse trust while still running the team through policing, reprimand, and image management, which teaches concealment rather than excellence.
 
 # Related Pages
 

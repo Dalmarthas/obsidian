@@ -2193,3 +2193,823 @@ Pages touched:
 - [[wiki/syntheses/business/clayton-christensen-growth-framework]]
 - [[index]]
 
+## [2026-04-10 13:06] ingest | Michael Pollan Psychedelics and Therapeutic Transformation
+
+Summary: Ingested a new English Michael Pollan source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-michael-pollan-psychedelics-and-therapeutic-transformation]], a new entity page at [[wiki/entities/michael-pollan]], a new canonical concept page at [[wiki/concepts/health/psychedelic-assisted-therapy]], and a new synthesis at [[wiki/syntheses/health/michael-pollan-psychedelic-therapy-framework]]. Deepened [[wiki/concepts/health/healthspan]], [[wiki/concepts/health/biohack-skepticism]], and [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]] so the health branch now preserves Pollan's set-and-setting logic, integration-centered caution, and the tension between therapeutic promise and hype-heavy adoption.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-michael-pollan-psychedelics-and-therapeutic-transformation]]
+- [[wiki/sources/2026-04-10-michael-pollan-psychedelics-and-therapeutic-transformation]]
+- [[wiki/entities/michael-pollan]]
+- [[wiki/concepts/health/psychedelic-assisted-therapy]]
+- [[wiki/concepts/health/healthspan]]
+- [[wiki/concepts/health/biohack-skepticism]]
+- [[wiki/syntheses/health/michael-pollan-psychedelic-therapy-framework]]
+- [[wiki/syntheses/cross-source/preventive-health-and-longevity-models]]
+- [[index]]
+
+## [2026-04-10 13:18] ingest | Eric Ries Core Concepts of the Lean Startup Methodology
+
+Summary: Ingested a second English Eric Ries source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-eric-ries-core-concepts-of-the-lean-startup-methodology]] and a new canonical concept page at [[wiki/concepts/business/innovation-accounting]]. Deepened [[wiki/entities/eric-ries]], [[wiki/concepts/business/validated-learning]], [[wiki/concepts/business/framework-driven-action]], [[wiki/concepts/business/business-strategy]], and [[wiki/syntheses/business/lean-startup-validation-framework]] so the Lean Startup branch now preserves startup-definition logic, build-measure-learn speed, and the accountability layer around experimentation instead of leaving those ideas trapped in the new source alone.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-eric-ries-core-concepts-of-the-lean-startup-methodology]]
+- [[wiki/sources/2026-04-10-eric-ries-core-concepts-of-the-lean-startup-methodology]]
+- [[wiki/concepts/business/innovation-accounting]]
+- [[wiki/entities/eric-ries]]
+- [[wiki/concepts/business/validated-learning]]
+- [[wiki/concepts/business/framework-driven-action]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/syntheses/business/lean-startup-validation-framework]]
+- [[index]]
+
+## [2026-04-10 13:44] ingest | Daniel Goleman Social Intelligence at Google
+
+Summary: Ingested a new English Daniel Goleman source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-daniel-goleman-social-intelligence-at-google]], a new entity page at [[wiki/entities/daniel-goleman]], a new canonical concept page at [[wiki/concepts/leadership/emotional-intelligence]], and a new synthesis at [[wiki/syntheses/leadership/daniel-goleman-emotional-intelligence-framework]]. Deepened [[wiki/concepts/communication/attunement]], [[wiki/concepts/leadership/high-performance-mindset]], [[wiki/concepts/leadership/leadership]], and [[wiki/syntheses/cross-source/high-performance-leadership-models]] so the leadership branch now preserves Goleman's EQ, social-intelligence, and anti-amygdala-hijack logic instead of leaving it isolated in a source-only page.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-daniel-goleman-social-intelligence-at-google]]
+- [[wiki/sources/2026-04-10-daniel-goleman-social-intelligence-at-google]]
+- [[wiki/entities/daniel-goleman]]
+- [[wiki/concepts/leadership/emotional-intelligence]]
+- [[wiki/concepts/communication/attunement]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/concepts/leadership/leadership]]
+- [[wiki/syntheses/leadership/daniel-goleman-emotional-intelligence-framework]]
+- [[wiki/syntheses/cross-source/high-performance-leadership-models]]
+- [[index]]
+
+
+## [2026-04-10 14:10] ingest | Daniel Kahneman Two-Systems Thinking
+
+Summary: Ingested a new English Daniel Kahneman source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-daniel-kahneman-two-systems-thinking]], a new entity page at [[wiki/entities/daniel-kahneman]], new canonical concept pages at [[wiki/concepts/others/two-systems-thinking]] and [[wiki/concepts/others/expert-intuition]], and a new cross-source synthesis at [[wiki/syntheses/cross-source/decision-making-under-cognitive-strain]]. This ingest gives the vault a durable cognition branch for fast versus slow judgment, the conditions under which intuition is actually trustworthy, and a clearer bridge from Kahneman's bias model to Levitin's decision-hygiene procedures.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-daniel-kahneman-two-systems-thinking]]
+- [[wiki/sources/2026-04-10-daniel-kahneman-two-systems-thinking]]
+- [[wiki/entities/daniel-kahneman]]
+- [[wiki/concepts/others/two-systems-thinking]]
+- [[wiki/concepts/others/expert-intuition]]
+- [[wiki/syntheses/cross-source/decision-making-under-cognitive-strain]]
+- [[index]]
+
+
+## [2026-04-10 14:18] ingest | Chris Voss Power of No and Tactical Empathy
+
+Summary: Ingested a new English Chris Voss source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-chris-voss-power-of-no-and-tactical-empathy]] and updated the canonical Voss branch in [[wiki/entities/chris-voss]], [[wiki/concepts/communication/no-oriented-questions]], [[wiki/concepts/communication/tactical-empathy]], and [[wiki/syntheses/communication/chris-voss-negotiation-framework]]. The branch now preserves this source's stronger emphasis on `no` as safety, compromise as a frequent value leak, and assertive-accommodator-analyst style adaptation without spawning duplicate negotiation concepts.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-chris-voss-power-of-no-and-tactical-empathy]]
+- [[wiki/sources/2026-04-10-chris-voss-power-of-no-and-tactical-empathy]]
+- [[wiki/entities/chris-voss]]
+- [[wiki/concepts/communication/no-oriented-questions]]
+- [[wiki/concepts/communication/tactical-empathy]]
+- [[wiki/syntheses/communication/chris-voss-negotiation-framework]]
+- [[index]]
+
+## [2026-04-10 14:24] ingest | Robert Greene The Laws of Human Nature
+
+Summary: Ingested a new English Robert Greene source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-robert-greene-the-laws-of-human-nature]], a new entity page at [[wiki/entities/robert-greene]], a new canonical concept page at [[wiki/concepts/others/shadow-integration]], and a new cross-source synthesis at [[wiki/syntheses/cross-source/hidden-motives-and-social-behavior]]. Deepened [[wiki/concepts/others/mask-behavior]], [[wiki/concepts/leadership/organizational-culture]], and [[wiki/concepts/leadership/emotional-intelligence]] so the vault now preserves Greene's hidden-motive, shadow, and culture-contagion logic in the existing branch structure instead of leaving it trapped in a source-only page.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-robert-greene-the-laws-of-human-nature]]
+- [[wiki/sources/2026-04-10-robert-greene-the-laws-of-human-nature]]
+- [[wiki/entities/robert-greene]]
+- [[wiki/concepts/others/shadow-integration]]
+- [[wiki/concepts/others/mask-behavior]]
+- [[wiki/concepts/leadership/organizational-culture]]
+- [[wiki/concepts/leadership/emotional-intelligence]]
+- [[wiki/syntheses/cross-source/hidden-motives-and-social-behavior]]
+- [[index]]
+
+## [2026-04-10 14:32] ingest | Steve Jobs 2005 Stanford Commencement
+
+Summary: Ingested a new English Steve Jobs source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-steve-jobs-2005-stanford-commencement]], a new entity page at [[wiki/entities/steve-jobs]], and a new business synthesis at [[wiki/syntheses/business/steve-jobs-stanford-framework]]. Deepened [[wiki/concepts/business/career-blueprint]], [[wiki/concepts/business/creative-entrepreneurship]], [[wiki/concepts/communication/authentic-communication]], and [[wiki/concepts/leadership/high-performance-mindset]] so the vault now preserves Jobs's `connecting the dots`, reinvention, mortality, and anti-dogma logic inside the existing career and performance branches.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-steve-jobs-2005-stanford-commencement]]
+- [[wiki/sources/2026-04-10-steve-jobs-2005-stanford-commencement]]
+- [[wiki/entities/steve-jobs]]
+- [[wiki/syntheses/business/steve-jobs-stanford-framework]]
+- [[wiki/concepts/business/career-blueprint]]
+- [[wiki/concepts/business/creative-entrepreneurship]]
+- [[wiki/concepts/communication/authentic-communication]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[index]]
+
+## [2026-04-10 14:40] ingest | Jordan Peterson Excessive Agreeableness and Assertiveness
+
+Summary: Ingested a new English Jordan Peterson source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness]], a new entity page at [[wiki/entities/jordan-peterson]], a new canonical concept page at [[wiki/concepts/communication/assertiveness]], and a new synthesis at [[wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy]]. Deepened [[wiki/concepts/communication/boundary-language]] and [[wiki/concepts/others/childhood-development-triangle]] so the vault now preserves both the in-the-moment language of boundaries and the upstream agreeableness-and-conflict-avoidance patterns that make self-advocacy difficult.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness]]
+- [[wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness]]
+- [[wiki/entities/jordan-peterson]]
+- [[wiki/concepts/communication/assertiveness]]
+- [[wiki/concepts/communication/boundary-language]]
+- [[wiki/concepts/others/childhood-development-triangle]]
+- [[wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy]]
+- [[index]]
+
+
+## [2026-04-10 14:00] ingest | Carol Dweck Fixed and Growth Mindsets
+
+Summary: Ingested a new English Carol Dweck source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-carol-dweck-fixed-and-growth-mindsets]], a new entity page at [[wiki/entities/carol-dweck]], a new canonical concept page at [[wiki/concepts/leadership/growth-mindset]], and a new synthesis at [[wiki/syntheses/leadership/carol-dweck-growth-mindset-framework]]. Deepened [[wiki/concepts/leadership/high-performance-mindset]], [[wiki/concepts/leadership/organizational-culture]], and [[wiki/concepts/leadership/leadership]] so the leadership branch now preserves Dweck's fixed-versus-growth logic, process-praise distinction, and developmental-culture warning instead of leaving those ideas isolated in a source-only page.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-carol-dweck-fixed-and-growth-mindsets]]
+- [[wiki/sources/2026-04-10-carol-dweck-fixed-and-growth-mindsets]]
+- [[wiki/entities/carol-dweck]]
+- [[wiki/concepts/leadership/growth-mindset]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/concepts/leadership/organizational-culture]]
+- [[wiki/concepts/leadership/leadership]]
+- [[wiki/syntheses/leadership/carol-dweck-growth-mindset-framework]]
+- [[index]]
+
+## [2026-04-10 14:56] ingest | Simon Sinek Golden Circle Framework
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-simon-sinek-golden-circle-framework]], a new canonical concept page at [[wiki/concepts/business/golden-circle]], and a new synthesis at [[wiki/syntheses/business/simon-sinek-golden-circle-framework]]. Deepened [[wiki/entities/simon-sinek]], [[wiki/concepts/business/brand-strategy]], [[wiki/concepts/business/values-driven-companies]], [[wiki/concepts/leadership/leadership-communication]], and [[wiki/concepts/business/framework-driven-action]] so the Simon Sinek branch now preserves his why-how-what communication model and its overlap with purpose, values, and audience loyalty instead of leaving it trapped in a source-only page.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-simon-sinek-golden-circle-framework]]
+- [[wiki/sources/2026-04-10-simon-sinek-golden-circle-framework]]
+- [[wiki/concepts/business/golden-circle]]
+- [[wiki/syntheses/business/simon-sinek-golden-circle-framework]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/concepts/business/values-driven-companies]]
+- [[wiki/concepts/leadership/leadership-communication]]
+- [[wiki/concepts/business/framework-driven-action]]
+- [[index]]
+
+## [2026-04-10 15:07] ingest | Casey Neistat Permissionless Creation
+
+Summary: Ingested a new English Casey Neistat source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-casey-neistat-permissionless-creation]], a new entity page at [[wiki/entities/casey-neistat]], a new canonical concept page at [[wiki/concepts/business/permissionless-creation]], and a new synthesis at [[wiki/syntheses/business/casey-neistat-permissionless-creation-framework]]. Deepened [[wiki/concepts/business/creative-entrepreneurship]], [[wiki/concepts/business/career-blueprint]], and [[wiki/concepts/business/framework-driven-action]] so the career branch now preserves creator-economy entry logic, public iteration, and anti-gatekeeper resourcefulness instead of leaving that material as generic motivational prose.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-casey-neistat-permissionless-creation]]
+- [[wiki/sources/2026-04-10-casey-neistat-permissionless-creation]]
+- [[wiki/entities/casey-neistat]]
+- [[wiki/concepts/business/permissionless-creation]]
+- [[wiki/concepts/business/creative-entrepreneurship]]
+- [[wiki/concepts/business/career-blueprint]]
+- [[wiki/concepts/business/framework-driven-action]]
+- [[wiki/syntheses/business/casey-neistat-permissionless-creation-framework]]
+- [[index]]
+
+## [2026-04-10 15:15] ingest | Simon Sinek Incomplete Success Metrics
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics]], a new canonical concept page at [[wiki/concepts/business/success-metrics]], and a new synthesis at [[wiki/syntheses/business/simon-sinek-success-metrics-framework]]. Deepened [[wiki/entities/simon-sinek]], [[wiki/concepts/leadership/infinite-game-mindset]], [[wiki/concepts/leadership/trust-performance-matrix]], and [[wiki/concepts/business/business-strategy]] so the Simon Sinek branch now preserves the metric-design consequences of purpose and trust instead of leaving them implicit inside earlier source pages.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-simon-sinek-incomplete-success-metrics]]
+- [[wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics]]
+- [[wiki/concepts/business/success-metrics]]
+- [[wiki/syntheses/business/simon-sinek-success-metrics-framework]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/concepts/leadership/infinite-game-mindset]]
+- [[wiki/concepts/leadership/trust-performance-matrix]]
+- [[wiki/concepts/business/business-strategy]]
+- [[index]]
+
+## [2026-04-10 15:25] ingest | Simon Sinek at Equinix Connect 2025
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025]] and deepened [[wiki/concepts/business/golden-circle]], [[wiki/concepts/leadership/leadership-communication]], [[wiki/concepts/business/brand-strategy]], [[wiki/syntheses/business/simon-sinek-golden-circle-framework]], and [[wiki/entities/simon-sinek]] so the Simon Sinek branch now preserves purpose-first selling, story as a bridge to `why`, and the relationship-versus-commodity distinction instead of leaving those ideas trapped in the raw note.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-simon-sinek-at-equinix-connect-2025]]
+- [[wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/concepts/business/golden-circle]]
+- [[wiki/concepts/leadership/leadership-communication]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/syntheses/business/simon-sinek-golden-circle-framework]]
+- [[index]]
+
+## [2026-04-10 15:33] ingest | Robert Greene The 48 Laws of Power
+
+Summary: Ingested a new English Robert Greene source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power]], a new canonical concept page at [[wiki/concepts/communication/power-dynamics]], and a new synthesis at [[wiki/syntheses/communication/robert-greene-power-framework]]. Deepened [[wiki/entities/robert-greene]], [[wiki/concepts/communication/persuasion]], and [[wiki/syntheses/cross-source/communication-and-influence-models]] so the vault now preserves Greene's adversarial power logic, reputation emphasis, and ethical tension instead of folding everything into the earlier human-nature branch.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-robert-greene-the-48-laws-of-power]]
+- [[wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power]]
+- [[wiki/concepts/communication/power-dynamics]]
+- [[wiki/syntheses/communication/robert-greene-power-framework]]
+- [[wiki/entities/robert-greene]]
+- [[wiki/concepts/communication/persuasion]]
+- [[wiki/syntheses/cross-source/communication-and-influence-models]]
+- [[index]]
+
+## [2026-04-10 16:00] ingest | Simon Sinek Trusting Teams and Leadership Environments
+
+Summary: Ingested a new English Simon Sinek source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments]] and deepened [[wiki/entities/simon-sinek]], [[wiki/concepts/leadership/trust-based-collaboration]], [[wiki/concepts/leadership/high-performance-team-culture]], [[wiki/concepts/leadership/organizational-culture]], and [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework]] so the Simon Sinek branch now preserves leader-built safety, daily trust maintenance, and the environment-design side of trusting teams rather than only the selection side.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments]]
+- [[wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/concepts/leadership/high-performance-team-culture]]
+- [[wiki/concepts/leadership/organizational-culture]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework]]
+- [[index]]
+
+## [2026-04-10 16:03] ingest | Rory Sutherland Bottleneck Theory
+
+Summary: Ingested a new English Rory Sutherland source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-rory-sutherland-bottleneck-theory]] and a new canonical concept page at [[wiki/concepts/business/bottleneck-theory]]. Deepened [[wiki/entities/rory-sutherland]], [[wiki/concepts/business/framework-driven-action]], [[wiki/concepts/business/business-strategy]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]] so the Rory branch now preserves moving-constraint diagnosis and anti-optimization-theater logic instead of limiting him to perception and framing alone.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-rory-sutherland-bottleneck-theory]]
+- [[wiki/sources/2026-04-10-rory-sutherland-bottleneck-theory]]
+- [[wiki/concepts/business/bottleneck-theory]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/concepts/business/framework-driven-action]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-10 16:30] ingest | Выдержки из книги «4 тысячи недель» Оливера Беркмана
+
+Summary: Ingested a new Russian Oliver Burkeman source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-vyderzhki-iz-knigi-4-tysyachi-nedel-olivera-berkmana]], new canonical concept pages at [[wiki/concepts/productivity/konechnost-vremeni]] and [[wiki/concepts/productivity/lovushka-effektivnosti]], a new entity page at [[wiki/entities/oliver-berkman]], and a new synthesis at [[wiki/syntheses/productivity/antiproduktivnyi-freymvork-olivera-berkmana]]. Deepened [[wiki/concepts/productivity/samoupravlenie]], [[wiki/concepts/productivity/uchet-vremeni]], and [[wiki/concepts/productivity/sistemy-vmesto-celei]] so the productivity branch now preserves the tension between operational discipline and the acceptance of finite time instead of treating productivity as pure optimization.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-vyderzhki-iz-knigi-4-tysyachi-nedel-olivera-berkmana]]
+- [[wiki/sources/2026-04-10-vyderzhki-iz-knigi-4-tysyachi-nedel-olivera-berkmana]]
+- [[wiki/concepts/productivity/konechnost-vremeni]]
+- [[wiki/concepts/productivity/lovushka-effektivnosti]]
+- [[wiki/concepts/productivity/samoupravlenie]]
+- [[wiki/concepts/productivity/uchet-vremeni]]
+- [[wiki/concepts/productivity/sistemy-vmesto-celei]]
+- [[wiki/entities/oliver-berkman]]
+- [[wiki/syntheses/productivity/antiproduktivnyi-freymvork-olivera-berkmana]]
+- [[index]]
+
+## [2026-04-10 16:45] ingest | Daniel Pink Productivity Wisdom
+
+Summary: Ingested a new English Daniel Pink productivity source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-daniel-pink-productivity-wisdom]], new canonical concept pages at [[wiki/concepts/productivity/peak-hours]] and [[wiki/concepts/productivity/restorative-breaks]], and a new synthesis at [[wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework]]. Deepened [[wiki/entities/daniel-pink]], [[wiki/concepts/productivity/behavior-journaling]], and [[wiki/concepts/productivity/samoupravlenie]] so the productivity branch now preserves a stronger sustainable-execution layer around prime work windows, visible progress, and recovery instead of leaning only on tracking, discipline, or anti-overload critique.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-daniel-pink-productivity-wisdom]]
+- [[wiki/sources/2026-04-10-daniel-pink-productivity-wisdom]]
+- [[wiki/concepts/productivity/peak-hours]]
+- [[wiki/concepts/productivity/restorative-breaks]]
+- [[wiki/concepts/productivity/behavior-journaling]]
+- [[wiki/concepts/productivity/samoupravlenie]]
+- [[wiki/entities/daniel-pink]]
+- [[wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework]]
+- [[index]]
+
+## [2026-04-10 17:00] ingest | Difficult Rewarding Behaviors and Dopamine Regulation
+
+Summary: Ingested a new English self-regulation source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-difficult-rewarding-behaviors-and-dopamine-regulation]], a new canonical concept page at [[wiki/concepts/productivity/dopamine-regulation]], and a new synthesis at [[wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework]]. Deepened [[wiki/concepts/productivity/restorative-breaks]] and [[wiki/concepts/productivity/samoupravlenie]] so the productivity branch now preserves a clearer distinction between restoration and overstimulation, plus a stronger reward-environment explanation for why meaningful but effortful behaviors are hard to sustain.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-difficult-rewarding-behaviors-and-dopamine-regulation]]
+- [[wiki/sources/2026-04-10-difficult-rewarding-behaviors-and-dopamine-regulation]]
+- [[wiki/concepts/productivity/dopamine-regulation]]
+- [[wiki/concepts/productivity/restorative-breaks]]
+- [[wiki/concepts/productivity/samoupravlenie]]
+- [[wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework]]
+- [[index]]
+
+## [2026-04-10 17:05] ingest | Mark Manson Mental Toughness and Resilience
+
+Summary: Ingested a new English Mark Manson resilience source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-mark-manson-mental-toughness-and-resilience]], a new canonical concept page at [[wiki/concepts/leadership/mental-toughness]], a new entity page at [[wiki/entities/mark-manson]], and a new synthesis at [[wiki/syntheses/leadership/mark-manson-resilience-framework]]. Deepened [[wiki/concepts/leadership/high-performance-mindset]], [[wiki/concepts/leadership/buoyancy]], and [[wiki/concepts/health/stress-mindset]] so the resilience branch now distinguishes meaningful challenge from both trivial discomfort and overwhelming trauma instead of treating all stress exposure as uniformly developmental.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-mark-manson-mental-toughness-and-resilience]]
+- [[wiki/sources/2026-04-10-mark-manson-mental-toughness-and-resilience]]
+- [[wiki/concepts/leadership/mental-toughness]]
+- [[wiki/entities/mark-manson]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/concepts/leadership/buoyancy]]
+- [[wiki/concepts/health/stress-mindset]]
+- [[wiki/syntheses/leadership/mark-manson-resilience-framework]]
+- [[index]]
+
+## [2026-04-10 17:10] ingest | Josh Kaufman The First 20 Hours
+
+Summary: Ingested a new English Josh Kaufman learning source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-josh-kaufman-the-first-20-hours]], a new canonical concept page at [[wiki/concepts/productivity/rapid-skill-acquisition]], a new entity page at [[wiki/entities/josh-kaufman]], and a new synthesis at [[wiki/syntheses/productivity/josh-kaufman-rapid-skill-acquisition-framework]]. This ingest gives the productivity branch a dedicated rapid-learning model centered on functional proficiency, skill deconstruction, self-correction, effortful practice, and sleep-aware consolidation rather than treating learning as only a motivation or time-management issue.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-josh-kaufman-the-first-20-hours]]
+- [[wiki/sources/2026-04-10-josh-kaufman-the-first-20-hours]]
+- [[wiki/concepts/productivity/rapid-skill-acquisition]]
+- [[wiki/entities/josh-kaufman]]
+- [[wiki/syntheses/productivity/josh-kaufman-rapid-skill-acquisition-framework]]
+- [[index]]
+
+## [2026-04-10 17:20] ingest | Josh Kaufman Frustration Barrier and 20 Hours
+
+Summary: Ingested a second English Josh Kaufman source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-josh-kaufman-frustration-barrier-and-20-hours]] and merged its distinct value into the existing Kaufman branch rather than spawning duplicate concept pages. Deepened [[wiki/concepts/productivity/rapid-skill-acquisition]], [[wiki/entities/josh-kaufman]], and [[wiki/syntheses/productivity/josh-kaufman-rapid-skill-acquisition-framework]] so the branch now includes the frustration barrier, barrier removal, pre-commitment, and a clearer distinction between knowing what to practice and actually surviving the beginner phase.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-josh-kaufman-frustration-barrier-and-20-hours]]
+- [[wiki/sources/2026-04-10-josh-kaufman-frustration-barrier-and-20-hours]]
+- [[wiki/concepts/productivity/rapid-skill-acquisition]]
+- [[wiki/entities/josh-kaufman]]
+- [[wiki/syntheses/productivity/josh-kaufman-rapid-skill-acquisition-framework]]
+- [[index]]
+
+## [2026-04-10 17:30] ingest | Locus of Control and Sustained Motivation
+
+Summary: Ingested a new English motivation source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-locus-of-control-and-sustained-motivation]], a new canonical concept page at [[wiki/concepts/leadership/locus-of-control]], and a new synthesis at [[wiki/syntheses/leadership/locus-of-control-motivation-framework]]. Deepened [[wiki/concepts/leadership/growth-mindset]] and [[wiki/concepts/leadership/mental-toughness]] so the leadership branch now distinguishes between whether abilities can grow, whether actions influence outcomes, and how people function once adversity is already underway.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-locus-of-control-and-sustained-motivation]]
+- [[wiki/sources/2026-04-10-locus-of-control-and-sustained-motivation]]
+- [[wiki/concepts/leadership/locus-of-control]]
+- [[wiki/concepts/leadership/growth-mindset]]
+- [[wiki/concepts/leadership/mental-toughness]]
+- [[wiki/syntheses/leadership/locus-of-control-motivation-framework]]
+- [[index]]
+
+## [2026-04-10 17:40] ingest | Mark Manson Feeling Lost and Reinvention
+
+Summary: Ingested a second English Mark Manson source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-mark-manson-feeling-lost-and-reinvention]], a new canonical concept page at [[wiki/concepts/leadership/feeling-lost-as-transition]], and a new synthesis at [[wiki/syntheses/leadership/mark-manson-reinvention-framework]]. Deepened [[wiki/entities/mark-manson]] and [[wiki/concepts/leadership/high-performance-mindset]] so the Manson branch now distinguishes between resilience under challenge and existential reinvention after drift, comparison, or post-success emptiness.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-mark-manson-feeling-lost-and-reinvention]]
+- [[wiki/sources/2026-04-10-mark-manson-feeling-lost-and-reinvention]]
+- [[wiki/concepts/leadership/feeling-lost-as-transition]]
+- [[wiki/entities/mark-manson]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/syntheses/leadership/mark-manson-reinvention-framework]]
+- [[index]]
+
+## [2026-04-10 17:50] ingest | Andrew Huberman Morning Routine
+
+Summary: Ingested a new English Andrew Huberman source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-10-andrew-huberman-morning-routine]], a new entity page at [[wiki/entities/andrew-huberman]], and a new synthesis at [[wiki/syntheses/health/andrew-huberman-morning-framework]]. Deepened [[wiki/concepts/health/circadian-alignment]] and [[wiki/concepts/productivity/peak-hours]] so the vault now links circadian timing more explicitly to morning sequencing, hydration, caffeine timing, distraction control, and early cognitive work rather than treating `prime hours` as only a calendar preference.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-10-andrew-huberman-morning-routine]]
+- [[wiki/sources/2026-04-10-andrew-huberman-morning-routine]]
+- [[wiki/entities/andrew-huberman]]
+- [[wiki/concepts/health/circadian-alignment]]
+- [[wiki/concepts/productivity/peak-hours]]
+- [[wiki/syntheses/health/andrew-huberman-morning-framework]]
+- [[index]]
+
+## [2026-04-11 01:25] ingest | ADHD and Anxiety Executive Function Overlap
+
+Summary: Ingested a new English health source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-adhd-and-anxiety-executive-function-overlap]], new canonical concept pages at [[wiki/concepts/health/adhd-and-anxiety-overlap]], [[wiki/concepts/health/executive-function-scaffolding]], and [[wiki/concepts/health/body-doubling]], plus a new synthesis at [[wiki/syntheses/health/adhd-anxiety-management-framework]]. Also deepened [[wiki/concepts/health/stress-mindset]] so the health branch now distinguishes symptom overlap from root-cause difference and captures a support-centered management model built around executive-function scaffolds, social regulation, and slower decisions under overwhelm.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-adhd-and-anxiety-executive-function-overlap]]
+- [[wiki/sources/2026-04-11-adhd-and-anxiety-executive-function-overlap]]
+- [[wiki/concepts/health/adhd-and-anxiety-overlap]]
+- [[wiki/concepts/health/executive-function-scaffolding]]
+- [[wiki/concepts/health/body-doubling]]
+- [[wiki/concepts/health/stress-mindset]]
+- [[wiki/syntheses/health/adhd-anxiety-management-framework]]
+- [[index]]
+
+## [2026-04-11 02:45] ingest | Judson Brewer Mindfulness and Habit Loops
+
+Summary: Ingested a new English health source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-judson-brewer-mindfulness-and-habit-loops]], a new entity page at [[wiki/entities/judson-brewer]], new canonical concept pages at [[wiki/concepts/health/reward-based-habit-loops]], [[wiki/concepts/health/mindful-curiosity]], and [[wiki/concepts/health/disenchantment]], plus a new synthesis at [[wiki/syntheses/health/judson-brewer-habit-change-framework]]. Also deepened [[wiki/concepts/health/stress-mindset]] so the health branch now contains a clearer behavior-change mechanism for cravings and compulsive habits built around curiosity, reward updating, and the limits of willpower under stress.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-judson-brewer-mindfulness-and-habit-loops]]
+- [[wiki/sources/2026-04-11-judson-brewer-mindfulness-and-habit-loops]]
+- [[wiki/entities/judson-brewer]]
+- [[wiki/concepts/health/reward-based-habit-loops]]
+- [[wiki/concepts/health/mindful-curiosity]]
+- [[wiki/concepts/health/disenchantment]]
+- [[wiki/concepts/health/stress-mindset]]
+- [[wiki/syntheses/health/judson-brewer-habit-change-framework]]
+- [[index]]
+
+## [2026-04-11 02:55] ingest | Effective Practice and Skill Learning
+
+Summary: Ingested a new English productivity source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-effective-practice-and-skill-learning]] and a new canonical concept page at [[wiki/concepts/productivity/effective-practice]], then merged the source's distinct value into [[wiki/concepts/productivity/rapid-skill-acquisition]] and [[wiki/syntheses/productivity/josh-kaufman-rapid-skill-acquisition-framework]] rather than spawning a redundant parallel learning branch. The productivity branch now captures myelination, slow-before-fast repetition, mental rehearsal, and short break-aware practice structure as part of what makes learning repetitions actually compound.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-effective-practice-and-skill-learning]]
+- [[wiki/sources/2026-04-11-effective-practice-and-skill-learning]]
+- [[wiki/concepts/productivity/effective-practice]]
+- [[wiki/concepts/productivity/rapid-skill-acquisition]]
+- [[wiki/syntheses/productivity/josh-kaufman-rapid-skill-acquisition-framework]]
+- [[index]]
+
+## [2026-04-11 03:05] ingest | Mark Manson Hard-Learned Life Lessons
+
+Summary: Ingested a new English Mark Manson source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-mark-manson-hard-learned-life-lessons]] and a new canonical concept page at [[wiki/concepts/leadership/better-problems]], then merged the source's distinct value into [[wiki/concepts/leadership/mental-toughness]], [[wiki/concepts/leadership/feeling-lost-as-transition]], [[wiki/entities/mark-manson]], and [[wiki/syntheses/leadership/mark-manson-resilience-framework]] rather than splitting the Manson branch into near-duplicates. The leadership branch now captures sacrifice-defined identity, conflict muscle, self-prioritization, and the idea that growth means graduating into better problems rather than escaping struggle.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-mark-manson-hard-learned-life-lessons]]
+- [[wiki/sources/2026-04-11-mark-manson-hard-learned-life-lessons]]
+- [[wiki/concepts/leadership/better-problems]]
+- [[wiki/concepts/leadership/mental-toughness]]
+- [[wiki/concepts/leadership/feeling-lost-as-transition]]
+- [[wiki/entities/mark-manson]]
+- [[wiki/syntheses/leadership/mark-manson-resilience-framework]]
+- [[index]]
+
+## [2026-04-11 03:16] ingest | Sean Carroll Physics, Philosophy, and Meaning
+
+Summary: Ingested a new English Sean Carroll source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-sean-carroll-physics-philosophy-and-meaning]], a new entity page at [[wiki/entities/sean-carroll]], three new canonical concept pages at [[wiki/concepts/others/emergence-and-levels-of-explanation]], [[wiki/concepts/others/arrow-of-time-and-entropy]], and [[wiki/concepts/others/naturalistic-meaning]], plus a new synthesis at [[wiki/syntheses/others/sean-carroll-poetic-naturalism-framework]]. The `others` branch now captures lawful-pattern explanation over naive teleological causality, entropy as the backdrop for time asymmetry and complexity, and a naturalistic defense of meaning inside finite physical life.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-sean-carroll-physics-philosophy-and-meaning]]
+- [[wiki/sources/2026-04-11-sean-carroll-physics-philosophy-and-meaning]]
+- [[wiki/entities/sean-carroll]]
+- [[wiki/concepts/others/emergence-and-levels-of-explanation]]
+- [[wiki/concepts/others/arrow-of-time-and-entropy]]
+- [[wiki/concepts/others/naturalistic-meaning]]
+- [[wiki/syntheses/others/sean-carroll-poetic-naturalism-framework]]
+- [[index]]
+
+## [2026-04-11 21:20] ingest | Garry Kasparov, Moderated by Demis Hassabis
+
+Summary: Ingested a new English Kasparov source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-garry-kasparov-moderated-by-demis-hassabis]], new entity pages at [[wiki/entities/garry-kasparov]] and [[wiki/entities/demis-hassabis]], a new canonical AI concept page at [[wiki/concepts/ai/human-machine-collaboration]], and a new synthesis at [[wiki/syntheses/ai/kasparov-human-machine-collaboration-framework]]. Also merged the source's chess-training value into [[wiki/concepts/chess/training-with-chess-bots]] so the chess branch now captures a stronger `calculator not oracle` model for engine use rather than leaving that insight trapped in the AI branch alone.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-garry-kasparov-moderated-by-demis-hassabis]]
+- [[wiki/sources/2026-04-11-garry-kasparov-moderated-by-demis-hassabis]]
+- [[wiki/entities/garry-kasparov]]
+- [[wiki/entities/demis-hassabis]]
+- [[wiki/concepts/ai/human-machine-collaboration]]
+- [[wiki/concepts/chess/training-with-chess-bots]]
+- [[wiki/syntheses/ai/kasparov-human-machine-collaboration-framework]]
+- [[index]]
+
+## [2026-04-11 21:25] ingest | Ron Siegel Evidence-Based Introduction to Mindfulness
+
+Summary: Ingested a new English Ron Siegel source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-ron-siegel-evidence-based-introduction-to-mindfulness]], a new entity page at [[wiki/entities/ron-siegel]], two new canonical health concepts at [[wiki/concepts/health/mindfulness]] and [[wiki/concepts/health/experiential-avoidance]], and a new synthesis at [[wiki/syntheses/health/ron-siegel-mindfulness-framework]]. Also merged the overlap back into [[wiki/concepts/health/mindful-curiosity]] so the health branch now distinguishes broader mindfulness from Brewer's narrower curiosity-based habit-change use case instead of leaving both collapsed together.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-ron-siegel-evidence-based-introduction-to-mindfulness]]
+- [[wiki/sources/2026-04-11-ron-siegel-evidence-based-introduction-to-mindfulness]]
+- [[wiki/entities/ron-siegel]]
+- [[wiki/concepts/health/mindfulness]]
+- [[wiki/concepts/health/experiential-avoidance]]
+- [[wiki/concepts/health/mindful-curiosity]]
+- [[wiki/syntheses/health/ron-siegel-mindfulness-framework]]
+- [[index]]
+
+## [2026-04-11 21:33] ingest | Tim Ferriss Monkey Mind Systems and Stoic Tools
+
+Summary: Ingested a new English Tim Ferriss source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-tim-ferriss-monkey-mind-systems-and-stoic-tools]], a new entity page at [[wiki/entities/tim-ferriss]], a new canonical productivity concept at [[wiki/concepts/productivity/voluntary-discomfort]], and a new synthesis at [[wiki/syntheses/productivity/tim-ferriss-self-management-framework]]. Also merged the source's journaling overlap into [[wiki/concepts/productivity/behavior-journaling]] so the productivity branch now includes journaling as cognitive offload and monkey-mind management, not only as measurement and progress tracking.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-tim-ferriss-monkey-mind-systems-and-stoic-tools]]
+- [[wiki/sources/2026-04-11-tim-ferriss-monkey-mind-systems-and-stoic-tools]]
+- [[wiki/entities/tim-ferriss]]
+- [[wiki/concepts/productivity/voluntary-discomfort]]
+- [[wiki/concepts/productivity/behavior-journaling]]
+- [[wiki/syntheses/productivity/tim-ferriss-self-management-framework]]
+- [[index]]
+
+## [2026-04-11 21:50] ingest | Kelly McGonigal Willpower and Self-Control
+
+Summary: Ingested a new English Kelly McGonigal source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control]], a new canonical productivity concept at [[wiki/concepts/productivity/willpower]], and a new synthesis at [[wiki/syntheses/productivity/kelly-mcgonigal-willpower-framework]]. Also merged the source's overlap into [[wiki/entities/kelly-mcgonigal]], [[wiki/concepts/productivity/future-self-prioritization]], and [[wiki/concepts/health/mindfulness]] so the vault now preserves a fuller self-regulation model built around physiology, future-self vividness, self-compassion after lapses, and urge management rather than leaving the branch split between stress material and isolated habit pages.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-kelly-mcgonigal-willpower-and-self-control]]
+- [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control]]
+- [[wiki/concepts/productivity/willpower]]
+- [[wiki/concepts/productivity/future-self-prioritization]]
+- [[wiki/concepts/health/mindfulness]]
+- [[wiki/entities/kelly-mcgonigal]]
+- [[wiki/syntheses/productivity/kelly-mcgonigal-willpower-framework]]
+- [[index]]
+
+## [2026-04-11 22:05] ingest | Barbara Oakley Learning How to Learn
+
+Summary: Ingested a new English Barbara Oakley source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn]], a new entity page at [[wiki/entities/barbara-oakley]], new canonical productivity concepts at [[wiki/concepts/productivity/focused-and-diffuse-learning-modes]] and [[wiki/concepts/productivity/chunking]], plus a new synthesis at [[wiki/syntheses/productivity/barbara-oakley-learning-framework]]. Also merged the source's overlap into [[wiki/concepts/productivity/effective-practice]], [[wiki/concepts/productivity/rapid-skill-acquisition]], and [[wiki/concepts/productivity/restorative-breaks]] so the learning branch now preserves memory structure, active recall, break-driven integration, and process-based anti-procrastination instead of leaving those ideas trapped in a standalone summary.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-barbara-oakley-learning-how-to-learn]]
+- [[wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn]]
+- [[wiki/entities/barbara-oakley]]
+- [[wiki/concepts/productivity/focused-and-diffuse-learning-modes]]
+- [[wiki/concepts/productivity/chunking]]
+- [[wiki/concepts/productivity/effective-practice]]
+- [[wiki/concepts/productivity/rapid-skill-acquisition]]
+- [[wiki/concepts/productivity/restorative-breaks]]
+- [[wiki/syntheses/productivity/barbara-oakley-learning-framework]]
+- [[index]]
+
+## [2026-04-11 22:20] ingest | Yuval Noah Harari 21 Lessons for the 21st Century
+
+Summary: Ingested a new English Yuval Noah Harari source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-yuval-noah-harari-21-lessons-for-the-21st-century]], a new entity page at [[wiki/entities/yuval-noah-harari]], a new canonical AI concept at [[wiki/concepts/ai/ai-and-biotechnology-convergence]], a new canonical `others` concept at [[wiki/concepts/others/shared-fictions]], and a new AI synthesis at [[wiki/syntheses/ai/harari-ai-governance-and-self-knowledge-framework]]. Also deepened [[wiki/concepts/ai/artificial-intelligence]] so the AI branch now captures governance, autonomy, and manipulation risk rather than remaining mostly technical and workflow-oriented.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-yuval-noah-harari-21-lessons-for-the-21st-century]]
+- [[wiki/sources/2026-04-11-yuval-noah-harari-21-lessons-for-the-21st-century]]
+- [[wiki/entities/yuval-noah-harari]]
+- [[wiki/concepts/ai/ai-and-biotechnology-convergence]]
+- [[wiki/concepts/others/shared-fictions]]
+- [[wiki/concepts/ai/artificial-intelligence]]
+- [[wiki/syntheses/ai/harari-ai-governance-and-self-knowledge-framework]]
+- [[index]]
+
+## [2026-04-11 22:35] ingest | Jordan Peterson Wasting Time and Responsibility
+
+Summary: Ingested a new English Jordan Peterson source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-jordan-peterson-wasting-time-and-responsibility]], a new canonical leadership concept at [[wiki/concepts/leadership/meaning-through-responsibility]], and a new synthesis at [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework]]. Also deepened [[wiki/entities/jordan-peterson]], [[wiki/concepts/leadership/locus-of-control]], and [[wiki/concepts/leadership/high-performance-mindset]] so the Peterson branch now includes wasted time, conscience, accepted burden, and the social consequences of personal irresponsibility rather than remaining limited to assertiveness and agreeableness.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-jordan-peterson-wasting-time-and-responsibility]]
+- [[wiki/sources/2026-04-11-jordan-peterson-wasting-time-and-responsibility]]
+- [[wiki/concepts/leadership/meaning-through-responsibility]]
+- [[wiki/concepts/leadership/locus-of-control]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/entities/jordan-peterson]]
+- [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework]]
+- [[index]]
+
+## [2026-04-11 22:45] ingest | Science and Application of Visual Design Principles
+
+Summary: Ingested a new English visual-design source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-science-and-application-of-visual-design-principles]], a new creativity concept at [[wiki/concepts/creativity/visual-hierarchy]], and a new creativity synthesis at [[wiki/syntheses/creativity/human-centered-visual-design-framework]]. Also deepened [[wiki/concepts/creativity/graphic-design]] and [[wiki/concepts/creativity/visual-literacy]] so the design branch now captures perceptual scanning, focal points, contrast, grouping, and simplification instead of leaning mostly on expressive or cinematic visual language.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-science-and-application-of-visual-design-principles]]
+- [[wiki/sources/2026-04-11-science-and-application-of-visual-design-principles]]
+- [[wiki/concepts/creativity/visual-hierarchy]]
+- [[wiki/concepts/creativity/graphic-design]]
+- [[wiki/concepts/creativity/visual-literacy]]
+- [[wiki/syntheses/creativity/human-centered-visual-design-framework]]
+- [[index]]
+
+## [2026-04-11 22:55] ingest | Seth Godin Challenges Creators and Entrepreneurs to Reject the Average for the Masses
+
+Summary: Ingested a new English Seth Godin source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-seth-godin-challenges-creators-and-entrepreneurs-to-reject-the-average-for-the-masses]], a new entity page at [[wiki/entities/seth-godin]], a new canonical business concept at [[wiki/concepts/business/smallest-viable-audience]], and a new business synthesis at [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]. Also deepened [[wiki/concepts/business/brand-strategy]] and [[wiki/concepts/business/permissionless-creation]] so the business branch now captures anti-average positioning, permission, tribe formation, and audience selection more explicitly instead of leaving those ideas diffused across adjacent creator and marketing notes.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-seth-godin-challenges-creators-and-entrepreneurs-to-reject-the-average-for-the-masses]]
+- [[wiki/sources/2026-04-11-seth-godin-challenges-creators-and-entrepreneurs-to-reject-the-average-for-the-masses]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/concepts/business/smallest-viable-audience]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/concepts/business/permissionless-creation]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[index]]
+
+## [2026-04-11 23:05] ingest | Robert Greene Presentation at Google: Mastery
+
+Summary: Ingested a new English Robert Greene mastery source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-robert-greene-presentation-at-google-mastery]], a new creativity concept at [[wiki/concepts/creativity/negative-capability]], and a new productivity synthesis at [[wiki/syntheses/productivity/robert-greene-mastery-framework]]. Also deepened [[wiki/entities/robert-greene]], [[wiki/concepts/productivity/rapid-skill-acquisition]], and [[wiki/concepts/productivity/effective-practice]] so the vault now makes the tension between fast competence and long apprenticeship explicit instead of treating learning mostly as practice design and early-skill compression.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-robert-greene-presentation-at-google-mastery]]
+- [[wiki/sources/2026-04-11-robert-greene-presentation-at-google-mastery]]
+- [[wiki/concepts/creativity/negative-capability]]
+- [[wiki/entities/robert-greene]]
+- [[wiki/concepts/productivity/rapid-skill-acquisition]]
+- [[wiki/concepts/productivity/effective-practice]]
+- [[wiki/syntheses/productivity/robert-greene-mastery-framework]]
+- [[index]]
+
+## [2026-04-11 23:15] ingest | Seth Godin The Practice and Process Over Outcomes
+
+Summary: Ingested a new English Seth Godin source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-seth-godin-the-practice-and-process-over-outcomes]], a new canonical business concept at [[wiki/concepts/business/process-over-outcomes]], and then deepened [[wiki/entities/seth-godin]], [[wiki/concepts/business/permissionless-creation]], [[wiki/concepts/business/creative-entrepreneurship]], [[wiki/concepts/business/smallest-viable-audience]], and [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]. The Seth Godin branch now preserves a fuller creator-operating model built around practice over outcomes, identity through repeated action, filtered feedback, and generosity as a steadier compass than scoreboard obsession.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-seth-godin-the-practice-and-process-over-outcomes]]
+- [[wiki/sources/2026-04-11-seth-godin-the-practice-and-process-over-outcomes]]
+- [[wiki/concepts/business/process-over-outcomes]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/concepts/business/permissionless-creation]]
+- [[wiki/concepts/business/creative-entrepreneurship]]
+- [[wiki/concepts/business/smallest-viable-audience]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[index]]
+
+## [2026-04-11 23:25] ingest | Values, Motivation, and Sustainable Self-Improvement
+
+Summary: Ingested a new English motivation source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-values-motivation-and-sustainable-self-improvement]], a new canonical leadership concept at [[wiki/concepts/leadership/values-driven-action]], and a new synthesis at [[wiki/syntheses/leadership/values-driven-motivation-framework]]. Also deepened [[wiki/concepts/leadership/locus-of-control]], [[wiki/concepts/leadership/high-performance-mindset]], [[wiki/concepts/productivity/future-self-prioritization]], and [[wiki/syntheses/leadership/locus-of-control-motivation-framework]] so the motivation branch now distinguishes values-driven effort from desire-, emotion-, and prestige-driven effort instead of treating agency alone as enough.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-values-motivation-and-sustainable-self-improvement]]
+- [[wiki/sources/2026-04-11-values-motivation-and-sustainable-self-improvement]]
+- [[wiki/concepts/leadership/values-driven-action]]
+- [[wiki/syntheses/leadership/values-driven-motivation-framework]]
+- [[wiki/concepts/leadership/locus-of-control]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/concepts/productivity/future-self-prioritization]]
+- [[wiki/syntheses/leadership/locus-of-control-motivation-framework]]
+- [[index]]
+
+## [2026-04-11 23:35] ingest | Matthew McConaughey on Fame, Commitment, and Meaning
+
+Summary: Ingested a new English Matthew McConaughey source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-matthew-mcconaughey-on-fame-commitment-and-meaning]], a new entity page at [[wiki/entities/matthew-mcconaughey]], a new canonical leadership concept at [[wiki/concepts/leadership/owners-mentality]], and a new synthesis at [[wiki/syntheses/leadership/matthew-mcconaughey-commitment-framework]]. Also deepened [[wiki/concepts/leadership/meaning-through-responsibility]], [[wiki/concepts/leadership/values-driven-action]], and [[wiki/concepts/leadership/high-performance-mindset]] so the leadership branch now captures wholehearted commitment, the hidden cost of fame and validation, and values-based sacrifice as part of meaning rather than leaving those ideas trapped in a celebrity-interview summary.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-matthew-mcconaughey-on-fame-commitment-and-meaning]]
+- [[wiki/sources/2026-04-11-matthew-mcconaughey-on-fame-commitment-and-meaning]]
+- [[wiki/entities/matthew-mcconaughey]]
+- [[wiki/concepts/leadership/owners-mentality]]
+- [[wiki/syntheses/leadership/matthew-mcconaughey-commitment-framework]]
+- [[wiki/concepts/leadership/meaning-through-responsibility]]
+- [[wiki/concepts/leadership/values-driven-action]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[index]]
+
+## [2026-04-11 23:45] ingest | Quiet Eye, Visual Attention, and Skill Performance
+
+Summary: Ingested a new English performance-science source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-quiet-eye-visual-attention-and-skill-performance]], a new canonical `others` concept at [[wiki/concepts/others/quiet-eye]], and a new synthesis at [[wiki/syntheses/others/quiet-eye-performance-framework]]. Also deepened [[wiki/concepts/productivity/effective-practice]], [[wiki/concepts/leadership/high-performance-mindset]], and [[wiki/concepts/chess/board-vision]] so the vault now captures visual attention and quiet-eye fixation as part of elite execution rather than leaving `focus` and `seeing the board` too vague. The source page explicitly excludes unrelated appended material in the raw note that overlaps with already-ingested motivation and expertise branches.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-quiet-eye-visual-attention-and-skill-performance]]
+- [[wiki/sources/2026-04-11-quiet-eye-visual-attention-and-skill-performance]]
+- [[wiki/concepts/others/quiet-eye]]
+- [[wiki/syntheses/others/quiet-eye-performance-framework]]
+- [[wiki/concepts/productivity/effective-practice]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/concepts/chess/board-vision]]
+- [[index]]
+
+## [2026-04-11 23:58] ingest | Seth Godin This Is Strategy
+
+Summary: Ingested a new English Seth Godin strategy source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-seth-godin-this-is-strategy]] and a new synthesis at [[wiki/syntheses/business/seth-godin-strategy-framework]]. Also deepened [[wiki/entities/seth-godin]], [[wiki/concepts/business/business-strategy]], [[wiki/concepts/business/business-systems]], [[wiki/concepts/business/smallest-viable-audience]], [[wiki/concepts/business/success-metrics]], and [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]] so the business branch now captures Godin's systems-time-games-empathy model, customer and competitor selection, compounding loops, scaffolding, and decision-quality logic instead of leaving those ideas trapped in a single source summary.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-seth-godin-this-is-strategy]]
+- [[wiki/sources/2026-04-11-seth-godin-this-is-strategy]]
+- [[wiki/syntheses/business/seth-godin-strategy-framework]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/business/smallest-viable-audience]]
+- [[wiki/concepts/business/success-metrics]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[index]]
+
+## [2026-04-12 00:08] ingest | Seth Godin Magnetic Brand That Sells Itself
+
+Summary: Ingested a new English Seth Godin brand and marketing source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-seth-godin-magnetic-brand-that-sells-itself]]. Also deepened [[wiki/entities/seth-godin]], [[wiki/concepts/business/brand-strategy]], [[wiki/concepts/business/brand-stewardship]], [[wiki/concepts/business/success-metrics]], and [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]] so the Seth branch now captures trust versus attention, referrals as a stronger early truth signal than vanity metrics, brand as expectation and promise, and consistency as a stewardship discipline rather than leaving those ideas trapped in an interview summary.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-seth-godin-magnetic-brand-that-sells-itself]]
+- [[wiki/sources/2026-04-11-seth-godin-magnetic-brand-that-sells-itself]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/concepts/business/brand-stewardship]]
+- [[wiki/concepts/business/success-metrics]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[index]]
+
+## [2026-04-12 00:16] ingest | Seth Godin Everything You Probably Dont Know About Marketing
+
+Summary: Ingested a new English Seth Godin marketing source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-11-seth-godin-everything-you-probably-dont-know-about-marketing]] and a new business concept at [[wiki/concepts/business/psychographic-targeting]]. Also deepened [[wiki/entities/seth-godin]], [[wiki/concepts/business/brand-strategy]], [[wiki/concepts/business/smallest-viable-audience]], [[wiki/concepts/business/values-driven-companies]], and [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]] so the Seth branch now captures brand versus direct marketing, psychographics over demographics, `people like us do things like this`, and the ethics of shaping culture rather than leaving those reusable structures trapped in one interview summary.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-11-seth-godin-everything-you-probably-dont-know-about-marketing]]
+- [[wiki/sources/2026-04-11-seth-godin-everything-you-probably-dont-know-about-marketing]]
+- [[wiki/concepts/business/psychographic-targeting]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/concepts/business/smallest-viable-audience]]
+- [[wiki/concepts/business/values-driven-companies]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[index]]
+
+## [2026-04-12 00:30] ingest | Seth Godin How to Get Your Ideas to Spread
+
+Summary: Ingested a new English Seth Godin source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-seth-godin-how-to-get-your-ideas-to-spread]] and a new business concept at [[wiki/concepts/business/connection-economy]]. Also deepened [[wiki/entities/seth-godin]], [[wiki/concepts/business/brand-strategy]], [[wiki/concepts/business/permissionless-creation]], and [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]] so the Seth branch now captures the connection economy, tribe-led spread, permission and enrollment, and the idea that connected groups carry ideas farther than interruption-heavy mass marketing.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-seth-godin-how-to-get-your-ideas-to-spread]]
+- [[wiki/sources/2026-04-12-seth-godin-how-to-get-your-ideas-to-spread]]
+- [[wiki/concepts/business/connection-economy]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/concepts/business/permissionless-creation]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[index]]
+
+## [2026-04-12 00:46] ingest | Seth Godin Leadership vs. Management What It Means to Make a Difference
+
+Summary: Ingested a new English Seth Godin source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-seth-godin-leadership-vs-management-what-it-means-to-make-a-difference]], a new leadership concept at [[wiki/concepts/leadership/leadership-vs-management]], and a new synthesis at [[wiki/syntheses/leadership/seth-godin-leadership-framework]]. Also deepened [[wiki/entities/seth-godin]], [[wiki/concepts/leadership/leadership]], and [[wiki/syntheses/cross-source/high-performance-leadership-models]] so the leadership branch now captures responsibility without authority, the management-versus-leadership distinction, excellence beyond spec quality, and enrollment as a mode of change leadership.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-seth-godin-leadership-vs-management-what-it-means-to-make-a-difference]]
+- [[wiki/sources/2026-04-12-seth-godin-leadership-vs-management-what-it-means-to-make-a-difference]]
+- [[wiki/concepts/leadership/leadership-vs-management]]
+- [[wiki/syntheses/leadership/seth-godin-leadership-framework]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/concepts/leadership/leadership]]
+- [[wiki/syntheses/cross-source/high-performance-leadership-models]]
+- [[index]]
+
+## [2026-04-12 00:59] ingest | Seth Godin The Secret Strategy To Success
+
+Summary: Ingested a new English Seth Godin source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-seth-godin-the-secret-strategy-to-success]] and a new business concept at [[wiki/concepts/business/strategic-quitting]]. Also deepened [[wiki/entities/seth-godin]], [[wiki/concepts/business/business-strategy]], [[wiki/syntheses/business/seth-godin-strategy-framework]], and [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]] so the Seth branch now captures dips versus lottery traps, gravity-aware strategy, fear as resistance, and quitting as a decision-quality skill rather than as generic failure.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-seth-godin-the-secret-strategy-to-success]]
+- [[wiki/sources/2026-04-12-seth-godin-the-secret-strategy-to-success]]
+- [[wiki/concepts/business/strategic-quitting]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/syntheses/business/seth-godin-strategy-framework]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[index]]
+
+## [2026-04-12 01:10] ingest | Seth Godin Marketing Strategies That Work
+
+Summary: Ingested a new English Seth Godin source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-seth-godin-marketing-strategies-that-work]] and a new business concept at [[wiki/concepts/business/positioning-as-a-service]]. Also deepened [[wiki/entities/seth-godin]], [[wiki/concepts/business/brand-strategy]], [[wiki/concepts/business/smallest-viable-audience]], and [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]] so the Seth branch now captures marketing as ethical change, positioning as a buyer service, the first ten as an early spread test, and price as story rather than as a race to the bottom.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-seth-godin-marketing-strategies-that-work]]
+- [[wiki/sources/2026-04-12-seth-godin-marketing-strategies-that-work]]
+- [[wiki/concepts/business/positioning-as-a-service]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/concepts/business/smallest-viable-audience]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[index]]
+
+## [2026-04-12 01:22] ingest | Purple Cow, How to Be Remarkable, and the Secrets of Marketing
+
+Summary: Ingested a new English Seth Godin source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-purple-cow-how-to-be-remarkable-and-the-secrets-of-marketing]]. Also deepened [[wiki/entities/seth-godin]], [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]], [[wiki/syntheses/leadership/seth-godin-leadership-framework]], and [[wiki/concepts/ai/human-machine-collaboration]] so the branch now captures onlyness, customer-visible remarkability, surfing-style leadership under change, and AI adoption through small real-work pilots plus redesign from first principles.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-purple-cow-how-to-be-remarkable-and-the-secrets-of-marketing]]
+- [[wiki/sources/2026-04-12-purple-cow-how-to-be-remarkable-and-the-secrets-of-marketing]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[wiki/syntheses/leadership/seth-godin-leadership-framework]]
+- [[wiki/concepts/ai/human-machine-collaboration]]
+- [[index]]
+
+## [2026-04-12 12:55] ingest | Seth Godin Reveals 5 Secrets For GREAT Brand Marketing
+
+Summary: Ingested a new English Seth Godin source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-seth-godin-reveals-5-secrets-for-great-brand-marketing]] and deepened [[wiki/concepts/business/brand-strategy]], [[wiki/concepts/business/psychographic-targeting]], [[wiki/concepts/business/success-metrics]], [[wiki/entities/seth-godin]], and [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]] so the Seth branch now captures brand-versus-direct scoreboard mismatch, vanity-metric distortion, psychographic core-audience logic, and symbolic campaigns that only work when they fit brand DNA.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-seth-godin-reveals-5-secrets-for-great-brand-marketing]]
+- [[wiki/sources/2026-04-12-seth-godin-reveals-5-secrets-for-great-brand-marketing]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/concepts/business/psychographic-targeting]]
+- [[wiki/concepts/business/success-metrics]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework]]
+- [[index]]
+
+## [2026-04-12 13:05] ingest | Some of the Best Advice I've Received
+
+Summary: Ingested a new English Seth Godin source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-seth-godin-some-of-the-best-advice-ive-received]] and deepened [[wiki/concepts/business/permissionless-creation]], [[wiki/concepts/leadership/locus-of-control]], [[wiki/entities/seth-godin]], and [[wiki/syntheses/leadership/seth-godin-leadership-framework]] so the Seth branch now captures self-picking, anti-rescue agency, victim-to-agent reframing, and the psychological layer behind permissionless action.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-seth-godin-some-of-the-best-advice-ive-received]]
+- [[wiki/sources/2026-04-12-seth-godin-some-of-the-best-advice-ive-received]]
+- [[wiki/concepts/business/permissionless-creation]]
+- [[wiki/concepts/leadership/locus-of-control]]
+- [[wiki/entities/seth-godin]]
+- [[wiki/syntheses/leadership/seth-godin-leadership-framework]]
+- [[index]]

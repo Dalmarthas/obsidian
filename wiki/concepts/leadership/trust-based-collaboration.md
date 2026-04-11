@@ -20,6 +20,7 @@ source_pages:
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
+  - wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments.md
   - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
 related:
   - wiki/concepts/filmmaking/filmmaking.md
@@ -59,6 +60,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - Klopp adds a club-culture version: loyalty deepens when leaders treat stars, staff, and community as part of one human environment rather than as separate status tiers.
 - Chris Voss adds the adversarial version: even in negotiation, progress improves when the counterpart feels heard rather than cornered.
 - Simon Sinek adds a personnel-selection version: trust should not only be desired interpersonally, but treated as a concrete criterion for choosing, promoting, and rewarding people.
+- The newer Simon Sinek source adds an environment-design version: trust-based collaboration improves when leaders make it normal to admit mistakes, ask for help, and tell the truth early rather than defend image.
 
 # Source Comparisons
 
@@ -74,12 +76,14 @@ Trust-based collaboration is the practice of designing work so that other people
 - Klopp focuses on trust inside emotionally charged team identities: people commit harder when they feel seen personally and connected to a wider shared cause.
 - Voss focuses on trust inside bargaining: acknowledgment and calibrated curiosity make counterparts more cooperative without requiring softness.
 - Sinek focuses on trust inside selection logic: the question is not only how to collaborate once people are in the room, but which kinds of people should be given influence in the first place.
+- The newer Sinek source focuses on trust inside everyday climate: once people are in the room, the leader still determines whether vulnerability is punished or supported.
 
 # Tensions / Open Questions
 
 - Trust-building is slow, and some systems reward short-term extraction more than long-term cooperation.
 - Collaboration without clear boundaries can collapse into vagueness or avoid the hard decisions that only one person can make.
 - The Sinek layer adds a measurement problem: organizations may agree trust matters and still fail to assess it fairly enough for promotion and retention decisions.
+- The newer Sinek layer adds a maintenance problem: teams may endorse trust rhetorically while running on daily habits that still teach people to hide mistakes and protect status.
 
 # Related Pages
 

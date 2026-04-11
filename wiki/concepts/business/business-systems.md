@@ -2,7 +2,7 @@
 type: concept
 title: Business Systems
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-11
 status: active
 tags:
   - concept
@@ -12,12 +12,15 @@ tags:
   - scaling
 source_pages:
   - wiki/sources/2026-04-09-why-many-entrepreneurs-struggle-despite-implementing-systems.md
+  - wiki/sources/2026-04-11-seth-godin-this-is-strategy.md
 related:
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/business/business-strategy.md
+  - wiki/concepts/business/smallest-viable-audience.md
   - wiki/concepts/business/produktovoe-myshlenie.md
   - wiki/concepts/leadership/sistemy-i-standartizaciya.md
   - wiki/syntheses/business/scalable-business-systems-framework.md
+  - wiki/syntheses/business/seth-godin-strategy-framework.md
   - wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka.md
 ---
 
@@ -46,12 +49,16 @@ Business systems are the repeatable structures that turn business inputs into ou
   - client and team feedback shows where the lived experience is failing
 - Bottleneck diagnosis is central: the highest-leverage move is to identify the main current constraint and fix it before increasing volume.
 - The onboarding example sharpens the idea: what looks like a lead-generation problem may really be a downstream systems problem caused by overload or confusing handoff design.
+- The Seth Godin strategy source adds an outer-system layer: markets also contain invisible norms, incentives, gatekeepers, and defaults that shape what customers expect and what sellers can realistically change.
+- That source also makes system diagnosis more strategic: before improving a process, leaders should ask what larger system they are entering and whether the real failure is external misfit rather than internal sloppiness.
+- It also reinforces the role of feedback loops by showing how network effects and repeated social enrollment can act as strategic systems that compound each new win.
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/leadership/sistemy-i-standartizaciya|Systems and Standardization]], this page defines systems more by throughput and feedback than by documentation assets, training artifacts, or standard libraries.
 - Compared with [[wiki/concepts/business/produktovoe-myshlenie|Product Thinking]], this page is broader than the product alone: it treats marketing, sales, onboarding, operations, and finance as linked parts of one flow where any stage can become the real constraint.
 - Compared with [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], this page turns the framework into a mechanical operating model with observable inputs, outputs, and failure signals.
+- Compared with Seth Godin's strategy framing, the original systems source is more internal and operational, while Godin is stronger on reading the external field of norms, incentives, and social gravity around the business.
 - Compared with [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Grebenyuk's Realnyi Million Framework]], this page is less about owner psychology, ruthless focus, and profit discipline, and more about diagnosing where the current pipe is actually narrowing.
 
 # Tensions / Open Questions
@@ -59,6 +66,7 @@ Business systems are the repeatable structures that turn business inputs into ou
 - Documents and automations still matter, but they are downstream of process clarity rather than substitutes for it.
 - Bottleneck-first thinking is powerful, but some systems fail through interacting constraints that move together instead of through one obvious choke point.
 - Bad metrics can create fake feedback loops that optimize reporting behavior rather than real outcomes.
+- The Seth source adds a caution that internal system quality is not enough when the surrounding market system rewards the wrong behaviors or locks the business into extractive norms.
 - The main open question is how much mapping and instrumentation is enough before system design turns into bureaucratic drag.
 
 # Related Pages
@@ -66,7 +74,9 @@ Business systems are the repeatable structures that turn business inputs into ou
 - [[wiki/sources/2026-04-09-why-many-entrepreneurs-struggle-despite-implementing-systems|Why Many Entrepreneurs Struggle Despite Implementing Systems]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
+- [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]]
 - [[wiki/concepts/business/produktovoe-myshlenie|Product Thinking]]
 - [[wiki/concepts/leadership/sistemy-i-standartizaciya|Systems and Standardization]]
 - [[wiki/syntheses/business/scalable-business-systems-framework|Scalable Business Systems Framework]]
+- [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
 - [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Grebenyuk's Realnyi Million Framework]]

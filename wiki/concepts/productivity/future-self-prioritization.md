@@ -2,7 +2,7 @@
 type: concept
 title: Future-Self Prioritization
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-11
 status: active
 tags:
   - concept
@@ -12,11 +12,15 @@ tags:
 source_pages:
   - wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self.md
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
+  - wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control.md
 related:
   - wiki/concepts/productivity/fear-goal-programming.md
   - wiki/concepts/productivity/behavior-journaling.md
+  - wiki/concepts/productivity/willpower.md
+  - wiki/concepts/leadership/values-driven-action.md
   - wiki/concepts/leadership/high-performance-mindset.md
   - wiki/syntheses/productivity/chase-hughes-goal-programming-framework.md
+  - wiki/syntheses/productivity/kelly-mcgonigal-willpower-framework.md
 ---
 
 # What It Is
@@ -36,12 +40,16 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - It also recommends prompts and reminders that make the future self more psychologically vivid during decisions.
 - The later Chase Hughes behavioral-framework source deepens that vividness layer through age-progressed imagery, environmental cues, and `butler for tomorrow you` rituals that turn future-self care into a visible daily practice.
 - The same source also links the future-self frame to gratitude flowing backward and care flowing forward, making discipline feel less like punishment and more like continuity.
+- [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control]] adds a more explicitly behavioral version of the same idea: future-self vividness changes procrastination, ethics, and long-term restraint, and can be strengthened through visualization and letter-writing exercises rather than through slogans alone.
+- The newer values-focused source adds a motive filter that sits adjacent to the same logic: future-self care becomes easier to sustain when the effort is anchored to values that matter, not only to abstract ideals of discipline or superiority.
 
 # Source Comparisons
 
 - The current source is strongest on decision framing: it tries to make long-term behavior emotionally legible rather than treating discipline as abstract moral force.
 - It overlaps with the vault's performance material by assuming that better outcomes come from repeated alignment, but Hughes is more explicit about future-self language and everyday choice architecture.
 - The later Chase Hughes behavioral-framework source keeps the same rule but gives it more environmental and emotional infrastructure through dopamine remapping and care-for-future-you rituals.
+- The Kelly McGonigal source is less identity-engineering-oriented than Hughes and more interested in how future-self connection changes concrete self-control outcomes such as procrastination, saving, and temptation resistance.
+- Compared with [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]], future-self prioritization is more temporal and tactical. Values-driven action explains why the future is worth serving; this page explains how to choose that future in everyday conflicts with present comfort.
 
 # Tensions / Open Questions
 
@@ -49,11 +57,17 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - A future-self frame is helpful only if the future being served is actually chosen wisely rather than inherited blindly.
 - The branch still needs stronger contrast sources that distinguish healthy long-term thinking from compulsive self-optimization.
 - The newer Chase material adds one more risk: future-self language can become engineered guilt if it is used without compassion or realistic pacing.
+- The newer Kelly material sharpens that warning by implying that future-self focus works best when paired with self-compassion after lapses, not when used as another instrument of self-attack.
+- The new values layer adds a related risk: future-self discipline can still become sterile if the imagined future is organized around comparison, prestige, or inherited goals rather than around personally chosen values.
 
 # Related Pages
 
 - [[wiki/concepts/productivity/fear-goal-programming|FEAR Goal Programming]]
 - [[wiki/concepts/productivity/behavior-journaling|Behavior Journaling]]
+- [[wiki/concepts/productivity/willpower|Willpower]]
+- [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework|Chase Hughes Goal Programming Framework]]
+- [[wiki/syntheses/productivity/kelly-mcgonigal-willpower-framework|Kelly McGonigal Willpower Framework]]
 - [[wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self|Chase Hughes Goal Programming and Future Self]]
+- [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control|Kelly McGonigal Willpower and Self-Control]]

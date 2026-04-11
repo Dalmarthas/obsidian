@@ -2,7 +2,7 @@
 type: concept
 title: Authentic Communication
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -18,6 +18,7 @@ source_pages:
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
+  - wiki/sources/2026-04-10-steve-jobs-2005-stanford-commencement.md
 related:
   - wiki/concepts/business/mass-intimacy.md
   - wiki/concepts/leadership/leadership-communication.md
@@ -51,6 +52,7 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - Axelrod and Rove add the campaign version: voters can sense when a candidate is running to be something rather than to do something, and campaigns drift when slogans or frames do not match the candidate's real identity.
 - The current Chase Hughes identity-and-connection source adds a connection-economy angle: when synthetic and algorithmic interaction gets cheaper, actually making a person feel seen and heard becomes a scarcer and more valuable form of authenticity.
 - The same source also adds a warning that `authenticity` can be imitated as an influence tactic, which makes the vault's distinction between real connection and engineered pseudo-recognition more important.
+- The Steve Jobs source adds a life-direction version of the same idea: authenticity means refusing dogma and borrowed expectations strongly enough that career choices still answer to an inner signal rather than to external prestige scripts.
 
 # Source Comparisons
 
@@ -63,6 +65,7 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - Hamilton frames authenticity as grounded excellence under visibility: identity coherence matters because performance pressure can easily turn public figures into brands instead of people.
 - Axelrod and Rove frames authenticity as electoral durability: fake positioning, inauthentic pivots, and opportunistic slogans eventually collide with public scrutiny.
 - The current Chase Hughes source frames authenticity less as self-expression and more as costly human presence: something grows more real precisely because it cannot be mass-produced by manipulative systems.
+- Jobs frames authenticity as existential authorship: your time is limited, so sounding like yourself is not enough if you are still living someone else's life plan.
 
 # Tensions / Open Questions
 

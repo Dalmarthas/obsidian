@@ -11,10 +11,13 @@ tags:
   - teams
 source_pages:
   - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
+  - wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics.md
 related:
+  - wiki/concepts/business/success-metrics.md
   - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/concepts/leadership/organizational-culture.md
+  - wiki/syntheses/business/simon-sinek-success-metrics-framework.md
   - wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework.md
 ---
 
@@ -33,23 +36,28 @@ The trust-performance matrix is a selection and promotion model that evaluates p
 - The current Simon Sinek source explicitly contrasts performance and trust as separate evaluative dimensions.
 - That source argues that elite teams may prefer medium-performance/high-trust people over high-performance/low-trust people.
 - It also treats the high-performance/low-trust quadrant as the culturally dangerous one because those people are often rewarded while silently degrading the environment around them.
+- The newer Simon Sinek source adds the incentive-system layer: the matrix is not only for personal judgment, but for redesigning scoreboards so high-trust contributors and healthy momentum do not remain invisible.
 
 # Source Comparisons
 
 - This concept strengthens [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]] by making trust-vs-output tradeoffs more operational.
 - It also sharpens [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]] because it turns trust from a general virtue into a personnel decision criterion.
 - Compared with generic culture talk, the matrix is useful because it asks who should actually be selected, coached, promoted, or removed.
+- Compared with [[wiki/concepts/business/success-metrics|Success Metrics]], this page is more local and human-centered. The matrix evaluates people directly; success-metrics evaluates the broader system that decides which people appear successful.
 
 # Tensions / Open Questions
 
 - Trust can be hard to assess fairly and can be confused with likability, conformity, or political skill.
 - Some organizations overcorrect and protect pleasant underperformance; the matrix only works when competence still matters.
 - The branch still needs stronger evidence on how to evaluate trust in ways that are behavioral and reliable rather than vague.
+- The newer source adds a second danger: even when leaders intellectually understand the matrix, their bonuses and recognition systems may still reward only the output axis.
 
 # Related Pages
 
+- [[wiki/concepts/business/success-metrics|Success Metrics]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
+- [[wiki/syntheses/business/simon-sinek-success-metrics-framework|Simon Sinek Success Metrics Framework]]
 - [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework|Simon Sinek Trust-Centered Leadership Framework]]
 - [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection|Simon Sinek Trust and Team Selection]]

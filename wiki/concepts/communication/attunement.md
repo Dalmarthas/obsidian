@@ -2,7 +2,7 @@
 type: concept
 title: Attunement
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -10,6 +10,7 @@ tags:
   - communication
   - persuasion
 source_pages:
+  - wiki/sources/2026-04-10-daniel-goleman-social-intelligence-at-google.md
   - wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
   - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
@@ -18,6 +19,7 @@ related:
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/persuasion.md
+  - wiki/concepts/leadership/emotional-intelligence.md
   - wiki/concepts/leadership/leadership-communication.md
   - wiki/syntheses/cross-source/communication-and-influence-models.md
 ---
@@ -41,6 +43,7 @@ Attunement is the discipline of aligning with another person's perspective close
 - Voss operationalizes the same family of skills through tactical empathy, labels, and calibrated questions.
 - Stephanopoulos shows attunement in an accountability setting: observe silence, tone, gaze, and hesitation before deciding how to press.
 - Clinton shows attunement in mediation: people move further when they feel their side has been genuinely understood.
+- The Daniel Goleman source adds a biological and relational layer: attunement is linked to social-brain circuitry, emotional contagion, rapport, and the leader's ability to affect group climate through attention and emotional steadiness.
 
 # Source Comparisons
 
@@ -48,17 +51,19 @@ Attunement is the discipline of aligning with another person's perspective close
 - Voss is the strongest tactician, turning attunement into repeated negotiation moves.
 - Stephanopoulos is strongest on attunement in public conversation, where reading the room changes the next question.
 - Clinton is strongest on dignity-centered attunement in leadership and conflict resolution.
+- Goleman is strongest on attunement as emotional infrastructure: the skill is not only strategic perspective-taking, but part of a wider emotional-intelligence system tied to self-regulation and social rapport.
 
 # Tensions / Open Questions
 
 - Perspective-taking can become manipulative if it is used only to engineer compliance.
 - Pink's "head over heart" distinction is useful under load, but some contexts may require emotional attunement first.
+- Goleman's source adds a different tension: attunement can be real relational intelligence, but it can also be packaged too loosely in pop-neuroscience language.
 
 # Related Pages
 
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]
+- [[wiki/concepts/leadership/emotional-intelligence|Emotional Intelligence]]
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
-

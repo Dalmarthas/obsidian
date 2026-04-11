@@ -2,7 +2,7 @@
 type: concept
 title: No-Oriented Questions
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -11,6 +11,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
   - wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary.md
+  - wiki/sources/2026-04-10-chris-voss-power-of-no-and-tactical-empathy.md
 related:
   - wiki/concepts/communication/calibrated-questions.md
   - wiki/concepts/communication/tactical-empathy.md
@@ -35,6 +36,7 @@ No-oriented questions are questions framed to invite a `no` response because `no
 - The more detailed workplace Voss source explains the core claim directly: `yes` can feel like a trap, while `no` creates safety and control.
 - That source also supplies workplace examples such as delayed offers and stalled decisions, where a no-oriented question gently makes the other side help solve your problem.
 - The earlier Voss source already argued that productive `no` is often more useful than performative agreement.
+- The newer Voss source sharpens the same logic into a broader principle: `no` is not a negotiation failure state but the point where honest conversation and real thinking can finally begin.
 - The technique sits next to calibrated questions but serves a different role: it creates safety first, then reopens movement.
 
 # Tensions / Open Questions

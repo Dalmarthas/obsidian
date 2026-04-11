@@ -11,12 +11,15 @@ tags:
   - conflict
 source_pages:
   - wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication.md
+  - wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness.md
 related:
+  - wiki/concepts/communication/assertiveness.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/intention-and-impact.md
   - wiki/concepts/communication/face-saving-de-escalation.md
   - wiki/concepts/communication/frame-control.md
   - wiki/concepts/communication/authentic-communication.md
+  - wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy.md
   - wiki/syntheses/communication/jefferson-fisher-conflict-response-framework.md
 ---
 
@@ -36,6 +39,7 @@ Boundary language is concise speech that protects reality, names what is not acc
 - It repeatedly recommends short corrective phrases rather than emotional essays.
 - It also treats `no` without extra justification as a legitimate form of boundary language.
 - The same source frames calm pacing, pauses, and fewer words as part of stronger boundary delivery, not as optional style.
+- The Jordan Peterson source adds an upstream personality layer: boundary language often fails not because the wording is unknown, but because highly agreeable people have trouble tolerating the interpersonal friction required to say it.
 
 # Source Comparisons
 
@@ -43,6 +47,7 @@ Boundary language is concise speech that protects reality, names what is not acc
 - Compared with [[wiki/concepts/communication/face-saving-de-escalation|Face-Saving De-Escalation]], it is firmer and less protective of the other person's dignity. The aim is not humiliation, but neither is it to cushion accountability too much.
 - Compared with [[wiki/concepts/communication/frame-control|Frame Control]], it is less about abstract interactional meaning and more about concrete wording that refuses deflection.
 - Compared with [[wiki/concepts/communication/authentic-communication|Authentic Communication]], boundary language is a narrower use case: directness under pressure rather than authenticity across all contexts.
+- Compared with [[wiki/concepts/communication/assertiveness|Assertiveness]], boundary language is the expression layer. Assertiveness is the skill of representing yourself; boundary language is one of the clearest ways that skill sounds out loud.
 
 # Tensions / Open Questions
 
@@ -53,9 +58,11 @@ Boundary language is concise speech that protects reality, names what is not acc
 # Related Pages
 
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/communication/assertiveness|Assertiveness]]
 - [[wiki/concepts/communication/intention-and-impact|Intention and Impact]]
 - [[wiki/concepts/communication/face-saving-de-escalation|Face-Saving De-Escalation]]
 - [[wiki/concepts/communication/frame-control|Frame Control]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
+- [[wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy|Assertiveness, Agreeableness, and Self-Advocacy]]
 - [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
 - [[wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication|Jefferson Fisher Fake Apologies and Manipulative Communication]]

@@ -2,7 +2,7 @@
 type: concept
 title: Tactical Empathy
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -11,6 +11,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
   - wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary.md
+  - wiki/sources/2026-04-10-chris-voss-power-of-no-and-tactical-empathy.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-george-stephanopoulos-effective-communication-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-daniel-pink-persuasion-masterclass-complete-summary.md
@@ -49,6 +50,7 @@ Tactical empathy is the deliberate use of understanding to lower defensiveness, 
 - Voss defines tactical empathy as understanding the other side's perspective without agreeing with it.
 - Voss operationalizes the idea through mirroring, labeling, calibrated questions, and silence.
 - The more detailed Voss workplace source shows that empathy is not a single move but a sequence: tone regulation, labels, summaries, accusation audits, and no-oriented framing all help the counterpart feel understood enough to keep collaborating.
+- The newer Voss source re-emphasizes the target state more cleanly: the goal is a `that's right` moment that signals felt understanding, not a superficial `you're right` that merely ends the exchange.
 - Clinton's mediation guidance depends on showing each side that you genuinely understand what matters to them before trying to move them.
 - Stephanopoulos's best accountability interviews also use a softer version of the principle: listen closely, observe what is unsaid, and challenge actions without attacking motives.
 - Pink sharpens the concept analytically: perspective-taking often matters more than shared feeling under cognitive load, and reducing your own sense of power improves your ability to understand the other side.

@@ -2,7 +2,7 @@
 type: concept
 title: Persuasion
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-10
 status: active
 tags:
   - concept
@@ -20,6 +20,7 @@ source_pages:
   - wiki/sources/2026-04-09-chase-hughes-90-second-brain-capture.md
   - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
+  - wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power.md
 related:
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/concrete-specificity.md
@@ -28,6 +29,7 @@ related:
   - wiki/concepts/communication/elicitation.md
   - wiki/concepts/communication/frame-control.md
   - wiki/concepts/communication/interactional-authority.md
+  - wiki/concepts/communication/power-dynamics.md
   - wiki/concepts/communication/behavioral-profiling.md
   - wiki/concepts/communication/social-needs-profiling.md
   - wiki/concepts/communication/installation-vs-persuasion.md
@@ -62,6 +64,7 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - The current Chase Hughes `90-second` source adds a high-risk counterpoint: some influence models try to bypass evaluation by shaping authority, attention, identity flexibility, and narrator-level meaning before reflective agreement forms.
 - The current Chase Hughes reading-minds source adds a second counterpoint: persuasion is also framed as a hallway built through focus, authority, tribe, and emotion, with elicitation and frame control often working better than overt attempts to win the argument.
 - The current Chase Hughes behavioral-framework source deepens that counterpoint with a fuller diagnostic layer: profile the person's dominant social need, shape perception and context before permission changes, and use identity commitments to make later action feel self-authored.
+- The Robert Greene power source adds the vault's clearest openly Machiavellian counterpoint: persuasion can be treated not as mutual movement but as strategic advantage built through opacity, reputation, dependence, and timed boldness.
 
 # Source Comparisons
 
@@ -74,6 +77,7 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - The current Chase Hughes `90-second` source is strongest on persuasion as installation: it is the vault's clearest case of influence being designed around reduced scrutiny rather than around explicit agreement.
 - The current Chase Hughes reading-minds source is strongest on persuasion as state management: hold the frame, reduce visible neediness, guide disclosure through statements, and keep attention from falling back into autopilot.
 - The current Chase Hughes behavioral-framework source is strongest on persuasion as identity and need alignment: read the hunger beneath the language, then speak in a way that makes the outcome feel consistent with who the person already is.
+- The Robert Greene source is strongest on persuasion's adversarial edge: it cares less about felt understanding than about perceived rank, reputational force, strategic silence, and designing dependence.
 
 # Tensions / Open Questions
 
@@ -81,6 +85,7 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - The current Chase Hughes `90-second` source makes the boundary problem sharper because the framework openly treats conscious evaluation as friction to get around.
 - The current Chase Hughes reading-minds source raises a different risk: behavior-reading, frame talk, and indirect disclosure can create pseudo-clinical certainty if the evidence underneath the heuristics is thinner than the confidence of the technique.
 - The current Chase Hughes behavioral-framework source adds another risk: identity-level need diagnosis can feel accurate and still be wrong, flattening people into leverage profiles.
+- The Robert Greene source sharpens the oldest risk in the whole branch: some influence models work precisely because they bypass trust and mutuality, which makes them useful to recognize but dangerous to normalize.
 - Pink's positive-sum framing is strong but not universal; some situations involve real coercion, structural asymmetry, or incompatible interests.
 - The branch is now stronger on written influence than before, but it still needs more direct-response, long-form sales, and mass-media propaganda sources.
 - Axelrod and Rove widen the branch into mass political persuasion, but also surface the risk that highly effective campaign techniques can outrun democratic trust if ethics are under-specified.
