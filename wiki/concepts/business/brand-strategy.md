@@ -9,6 +9,7 @@ tags:
   - brand
   - strategy
 source_pages:
+  - wiki/sources/2026-04-12-steve-jobs-get-much-simpler-be-really-clear.md
   - wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts.md
   - wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why.md
   - wiki/sources/2026-04-12-seth-godin-reveals-5-secrets-for-great-brand-marketing.md
@@ -82,6 +83,10 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - That same source also adds a continuity rule:
   - products, channels, and execution can change substantially
   - but strong brand strategy re-expresses enduring values instead of inventing a new self every cycle
+- The Steve Jobs `Get Much Simpler` source sharpens the maintenance side of brand strategy:
+  - strong brands do not stay strong automatically
+  - they require deliberate care, reinvestment, and periodic clarification
+  - the source also adds two concrete marketing examples, `Got Milk?` and Nike, to show how identity-rich framing can beat feature-heavy persuasion
 - The Seth Godin source adds an audience-selection rule: strategy strengthens when the brand chooses a smallest viable audience rather than chasing broad average acceptability.
 - That source also adds a permission test: strong brand strategy is not just remembered, but missed when absent.
 - The newer Seth brand source adds a trust-density test: attention is only strategically useful when the audience trusts the story enough to believe it, repeat it, and attach some of its meaning to themselves.
@@ -106,6 +111,7 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - Rory Sutherland is strongest on strategic asymmetry and perceived value: why framing, neglected dimensions, and psychologically meaningful distinctions can outperform obvious optimization.
 - Simon Sinek is strongest on purpose sequencing: why-first communication explains how belief becomes emotionally legible before copy specificity or perception design does their work.
 - Steve Jobs is strongest on values dramatization under turnaround pressure: he shows how a damaged brand can be clarified by reasserting its core belief publicly and by refusing feature-led communication in favor of identity and cultural alignment.
+- The newer Steve Jobs `Get Much Simpler` source is strongest on brand revival as stewardship work: it emphasizes that great brands decay when neglected and that recovery requires active care, not only a clever slogan.
 - The newer Simon `Engage and Inspire` source is strongest on strategic exclusion: it shows how purpose-first positioning can be used to qualify buyers and protect early-stage coherence rather than merely improve message elegance.
 - Seth Godin is strongest on audience courage: he reframes strategy as a decision to become remarkable to a specific tribe rather than acceptable to everyone.
 - The newer Seth source is strongest on trust-aware spread: it clarifies how a brand becomes magnetic when the story is true enough, specific enough, and consistently delivered enough that customers voluntarily carry it to others.

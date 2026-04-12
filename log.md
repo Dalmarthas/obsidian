@@ -1,4 +1,4 @@
-# Log
+﻿# Log
 
 Append-only record of durable operations in this vault.
 
@@ -3344,4 +3344,210 @@ Pages touched:
 - [[wiki/concepts/business/business-systems]]
 - [[wiki/concepts/leadership/high-performance-mindset]]
 - [[wiki/entities/steve-jobs]]
+- [[index]]
+
+## [2026-04-12 22:31] ingest | Steve Jobs Get Much Simpler Be Really Clear
+
+Summary: Ingested a new English Steve Jobs source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-12-steve-jobs-get-much-simpler-be-really-clear]]. Created [[wiki/sources/2026-04-12-steve-jobs-get-much-simpler-be-really-clear]] as a dedicated source page instead of collapsing it into an older composite, then deepened [[wiki/concepts/business/strategic-focus]], [[wiki/concepts/business/brand-strategy]], [[wiki/concepts/business/business-systems]], [[wiki/entities/steve-jobs]], and [[wiki/syntheses/business/steve-jobs-think-different-framework]] so the 1997 Steve Jobs branch now captures the product-marketing-distribution basics, morale effects of clearer strategy after cuts, and stronger brand-stewardship language about active care rather than legacy alone.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-steve-jobs-get-much-simpler-be-really-clear]]
+- [[wiki/sources/2026-04-12-steve-jobs-get-much-simpler-be-really-clear]]
+- [[wiki/concepts/business/strategic-focus]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/entities/steve-jobs]]
+- [[wiki/syntheses/business/steve-jobs-think-different-framework]]
+- [[index]]
+
+## [2026-04-12 22:40] ingest | The Secret to Elon Musk's Productivity
+
+Summary: Ingested a new English productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-12-the-secret-to-elon-musks-productivity]]. Created [[wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity]], added the new canonical concept [[wiki/concepts/productivity/serial-tasking]], created [[wiki/entities/elon-musk]], and distilled the branch into [[wiki/syntheses/productivity/elon-musk-serial-focus-framework]]. Updated [[wiki/concepts/productivity/restorative-breaks]], [[wiki/concepts/productivity/signal-to-noise-ratio]], and [[wiki/concepts/leadership/high-performance-mindset]] so the vault now captures clean-switch focus, bottleneck `surges`, support-system dependence, and the personal costs of extreme urgency without flattening the source into hero-model advice.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-the-secret-to-elon-musks-productivity]]
+- [[wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity]]
+- [[wiki/concepts/productivity/serial-tasking]]
+- [[wiki/concepts/productivity/restorative-breaks]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/entities/elon-musk]]
+- [[wiki/syntheses/productivity/elon-musk-serial-focus-framework]]
+- [[index]]
+
+## [2026-04-12 22:49] ingest | Elon Musk's Approach to Problem-Solving
+
+Summary: Ingested a new English Elon Musk source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-12-elon-musks-approach-to-problem-solving]]. Created [[wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving]], added the new canonical concept [[wiki/concepts/business/first-principles-problem-solving]], and distilled the branch into [[wiki/syntheses/business/elon-musk-problem-solving-framework]]. Updated [[wiki/concepts/business/business-systems]], [[wiki/concepts/business/operational-productivity]], [[wiki/concepts/productivity/workflow-redesign]], [[wiki/concepts/business/bottleneck-theory]], and [[wiki/entities/elon-musk]] so the Elon branch now captures requirement challenge, deletion-first redesign, late automation, frontline immersion, and the role of physical infrastructure constraints in advanced systems work.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-elon-musks-approach-to-problem-solving]]
+- [[wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving]]
+- [[wiki/concepts/business/first-principles-problem-solving]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/business/operational-productivity]]
+- [[wiki/concepts/productivity/workflow-redesign]]
+- [[wiki/concepts/business/bottleneck-theory]]
+- [[wiki/entities/elon-musk]]
+- [[wiki/syntheses/business/elon-musk-problem-solving-framework]]
+- [[index]]
+
+## [2026-04-12 22:58] ingest | Elon Musk on Time Management
+
+Summary: Ingested a new English Elon Musk source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-12-elon-musk-on-time-management]]. Created [[wiki/sources/2026-04-12-elon-musk-on-time-management]] and used it to deepen [[wiki/entities/elon-musk]], [[wiki/concepts/business/operational-productivity]], [[wiki/concepts/productivity/serial-tasking]], and [[wiki/syntheses/productivity/elon-musk-serial-focus-framework]]. The Elon branch now captures an architect-CEO time model built around engineering-first allocation, delegated operations, factory-as-product thinking, and scheduled attention to secondary initiatives rather than purely ad hoc switching.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-elon-musk-on-time-management]]
+- [[wiki/sources/2026-04-12-elon-musk-on-time-management]]
+- [[wiki/entities/elon-musk]]
+- [[wiki/concepts/business/operational-productivity]]
+- [[wiki/concepts/productivity/serial-tasking]]
+- [[wiki/syntheses/productivity/elon-musk-serial-focus-framework]]
+- [[index]]
+
+## [2026-04-12 23:05] ingest | Marc Andreessen Shares How Elon Musk Achieves Hyper Productivity
+
+Summary: Ingested a new English Elon-adjacent source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity]]. Created [[wiki/sources/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity]] and used it to deepen [[wiki/concepts/business/bottleneck-theory]], [[wiki/entities/elon-musk]], and [[wiki/syntheses/business/elon-musk-problem-solving-framework]]. The Elon branch now captures a sharper weekly cadence for one-bottleneck intervention, selective micromanagement of the main constraint, and a more explicit contrast between technical bottleneck-solving leadership and generic management education.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity]]
+- [[wiki/sources/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity]]
+- [[wiki/concepts/business/bottleneck-theory]]
+- [[wiki/entities/elon-musk]]
+- [[wiki/syntheses/business/elon-musk-problem-solving-framework]]
+- [[index]]
+
+## [2026-04-12 23:18] ingest | Why You Need To Put In 10,000 Hours
+
+Summary: Ingested a new English Robert Greene source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-12-why-you-need-to-put-in-10000-hours]]. Created [[wiki/sources/2026-04-12-why-you-need-to-put-in-10000-hours]] and used it to add [[wiki/concepts/productivity/deliberate-practice]], deepen [[wiki/concepts/productivity/effective-practice]], [[wiki/entities/robert-greene]], and [[wiki/syntheses/productivity/robert-greene-mastery-framework]], and create [[wiki/syntheses/cross-source/competence-vs-mastery-learning-models]]. The learning branch now distinguishes more clearly between raw hours and qualified hours, early competence and long-horizon mastery, and technical drills versus live social exposure.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-why-you-need-to-put-in-10000-hours]]
+- [[wiki/sources/2026-04-12-why-you-need-to-put-in-10000-hours]]
+- [[wiki/concepts/productivity/deliberate-practice]]
+- [[wiki/concepts/productivity/effective-practice]]
+- [[wiki/entities/robert-greene]]
+- [[wiki/syntheses/productivity/robert-greene-mastery-framework]]
+- [[wiki/syntheses/cross-source/competence-vs-mastery-learning-models]]
+- [[index]]
+
+## [2026-04-12 23:27] ingest | Mastery Summarized in 8 Minutes by Robert Greene
+
+Summary: Ingested a new English Robert Greene source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-12-mastery-summarized-in-8-minutes-by-robert-greene]]. Created [[wiki/sources/2026-04-12-mastery-summarized-in-8-minutes-by-robert-greene]] and used it to add [[wiki/concepts/business/mentorship]], deepen [[wiki/concepts/business/zone-of-genius]], [[wiki/concepts/leadership/emotional-intelligence]], [[wiki/entities/robert-greene]], and expand [[wiki/syntheses/productivity/robert-greene-mastery-framework]]. The Greene mastery branch now includes life's task, mentor-mediated acceleration, social intelligence as a compounding factor, and mastery as the fusion of intuition with rational analysis.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-mastery-summarized-in-8-minutes-by-robert-greene]]
+- [[wiki/sources/2026-04-12-mastery-summarized-in-8-minutes-by-robert-greene]]
+- [[wiki/concepts/business/mentorship]]
+- [[wiki/concepts/business/zone-of-genius]]
+- [[wiki/concepts/leadership/emotional-intelligence]]
+- [[wiki/entities/robert-greene]]
+- [[wiki/syntheses/productivity/robert-greene-mastery-framework]]
+- [[index]]
+
+## [2026-04-13 00:41] ingest | The Best Path To Success - Robert Greene
+
+Summary: Ingested a new English Robert Greene source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-best-path-to-success-robert-greene]]. Created [[wiki/sources/2026-04-13-the-best-path-to-success-robert-greene]] and used it to deepen [[wiki/concepts/business/strategic-focus]], [[wiki/concepts/business/career-blueprint]], [[wiki/entities/robert-greene]], and [[wiki/syntheses/productivity/robert-greene-mastery-framework]]. The Greene branch now captures one-vehicle focus, early resource accumulation before diversification, and envy-resistant judgment as part of the mastery path rather than as generic motivation advice.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-best-path-to-success-robert-greene]]
+- [[wiki/sources/2026-04-13-the-best-path-to-success-robert-greene]]
+- [[wiki/concepts/business/strategic-focus]]
+- [[wiki/concepts/business/career-blueprint]]
+- [[wiki/entities/robert-greene]]
+- [[wiki/syntheses/productivity/robert-greene-mastery-framework]]
+- [[index]]
+
+## [2026-04-13 00:52] ingest | Lessons on Mastery
+
+Summary: Ingested a new English Robert Greene source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-lessons-on-mastery]]. Created [[wiki/sources/2026-04-13-lessons-on-mastery]] and used it to add [[wiki/concepts/productivity/alive-time]], deepen [[wiki/entities/robert-greene]], and expand [[wiki/syntheses/productivity/robert-greene-mastery-framework]]. The Greene mastery branch now explicitly includes alive-versus-dead time, discipline linked to deeper pleasure, and self-critique plus frustration tolerance as part of originality rather than as optional mindset garnish.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-lessons-on-mastery]]
+- [[wiki/sources/2026-04-13-lessons-on-mastery]]
+- [[wiki/concepts/productivity/alive-time]]
+- [[wiki/entities/robert-greene]]
+- [[wiki/syntheses/productivity/robert-greene-mastery-framework]]
+- [[index]]
+
+## [2026-04-13 01:03] ingest | Master Psychology to Win Any Competition
+
+Summary: Ingested a new English Robert Greene source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-master-psychology-to-win-any-competition]]. Created [[wiki/sources/2026-04-13-master-psychology-to-win-any-competition]] and used it to add [[wiki/concepts/communication/reputation]], deepen [[wiki/entities/robert-greene]], and expand [[wiki/syntheses/communication/robert-greene-power-framework]]. The Greene power branch now makes reputation, consistency, digital permanence, and credibility collapse explicit rather than leaving them as subpoints inside the older power summary.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-master-psychology-to-win-any-competition]]
+- [[wiki/sources/2026-04-13-master-psychology-to-win-any-competition]]
+- [[wiki/concepts/communication/reputation]]
+- [[wiki/entities/robert-greene]]
+- [[wiki/syntheses/communication/robert-greene-power-framework]]
+- [[index]]
+
+## [2026-04-13 01:10] ingest | The Path To Power: Ambition, Status, Strength & Respect
+
+Summary: Ingested a new English Robert Greene source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-path-to-power-ambition-status-strength-and-respect]]. Created [[wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect]] and used it to deepen [[wiki/concepts/communication/reputation]], [[wiki/concepts/communication/power-dynamics]], [[wiki/entities/robert-greene]], [[wiki/syntheses/communication/robert-greene-power-framework]], and [[wiki/syntheses/productivity/robert-greene-mastery-framework]]. The Greene branch now explicitly captures irreplaceability through cultivated weirdness, pressure and adversity as developmental inputs, scarcity rhythm in visibility, and ambition disciplined into contribution rather than vanity.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-path-to-power-ambition-status-strength-and-respect]]
+- [[wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect]]
+- [[wiki/concepts/communication/reputation]]
+- [[wiki/concepts/communication/power-dynamics]]
+- [[wiki/entities/robert-greene]]
+- [[wiki/syntheses/communication/robert-greene-power-framework]]
+- [[wiki/syntheses/productivity/robert-greene-mastery-framework]]
+- [[index]]
+
+## [2026-04-13 01:22] ingest | How to DEFEAT Your BOSS Every Time
+
+Summary: Ingested a new English Robert Greene source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-to-defeat-your-boss-every-time]]. Created [[wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time]] and a new durable [[wiki/syntheses/communication/toxic-boss-response-framework]]. Used the source to deepen [[wiki/concepts/communication/assertiveness]], [[wiki/concepts/communication/boundary-language]], [[wiki/concepts/communication/power-dynamics]], [[wiki/entities/robert-greene]], [[wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy]], and [[wiki/syntheses/communication/robert-greene-power-framework]]. The communication branch now captures toxic-authority handling as a distinct model built around depersonalization, emotional non-capture, calibrated self-advocacy, and preserved options rather than direct confrontation alone.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-how-to-defeat-your-boss-every-time]]
+- [[wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time]]
+- [[wiki/syntheses/communication/toxic-boss-response-framework]]
+- [[wiki/concepts/communication/assertiveness]]
+- [[wiki/concepts/communication/boundary-language]]
+- [[wiki/concepts/communication/power-dynamics]]
+- [[wiki/entities/robert-greene]]
+- [[wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy]]
+- [[wiki/syntheses/communication/robert-greene-power-framework]]
+- [[index]]
+
+## [2026-04-13 01:34] ingest | The Ultimate Sales Training for 2026
+
+Summary: Ingested a new English sales source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-ultimate-sales-training-for-2026]]. Created [[wiki/sources/2026-04-13-the-ultimate-sales-training-for-2026]], added the new concept [[wiki/concepts/business/sales-operations]], and created [[wiki/syntheses/business/modern-sales-systems-framework]]. Used the source to deepen [[wiki/concepts/business/business-systems]] and [[wiki/syntheses/business/scalable-business-systems-framework]]. The business branch now captures a dedicated sales-ops layer built around speed-to-lead, calendar architecture, show-rate management, routing logic, training loops, and post-sale handoff rather than treating sales as conversation technique alone.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-ultimate-sales-training-for-2026]]
+- [[wiki/sources/2026-04-13-the-ultimate-sales-training-for-2026]]
+- [[wiki/concepts/business/sales-operations]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/syntheses/business/modern-sales-systems-framework]]
+- [[wiki/syntheses/business/scalable-business-systems-framework]]
+- [[index]]
+
+## [2026-04-13 01:46] ingest | How Elon Musk solves problems
+
+Summary: Ingested a new English Elon Musk source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-elon-musk-solves-problems]]. Created [[wiki/sources/2026-04-13-how-elon-musk-solves-problems]] and added the new concept [[wiki/concepts/business/platonic-ideal-product]]. Used the source to deepen [[wiki/concepts/business/first-principles-problem-solving]], [[wiki/concepts/business/operational-productivity]], [[wiki/entities/elon-musk]], and [[wiki/syntheses/business/elon-musk-problem-solving-framework]]. The Musk branch now makes physics-first reasoning, limit testing, raw-material-floor cost logic, and ideal-product-first design explicit rather than leaving the branch centered only on deletion order and bottleneck clearing.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-how-elon-musk-solves-problems]]
+- [[wiki/sources/2026-04-13-how-elon-musk-solves-problems]]
+- [[wiki/concepts/business/platonic-ideal-product]]
+- [[wiki/concepts/business/first-principles-problem-solving]]
+- [[wiki/concepts/business/operational-productivity]]
+- [[wiki/entities/elon-musk]]
+- [[wiki/syntheses/business/elon-musk-problem-solving-framework]]
 - [[index]]

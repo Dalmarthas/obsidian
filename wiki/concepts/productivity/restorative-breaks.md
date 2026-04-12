@@ -16,6 +16,7 @@ source_pages:
   - wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn.md
   - wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive.md
   - wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine.md
+  - wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity.md
 related:
   - wiki/concepts/productivity/calibrated-challenge.md
   - wiki/concepts/leadership/buoyancy.md
@@ -46,6 +47,10 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - The Oakley learning source adds a more cognitive role for breaks: walking away, napping, or sleeping after effort can support `diffuse mode` integration and insight rather than serving only as recovery.
 - [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive]] adds a stronger long-horizon and calendar-design claim: pre-scheduled multi-day recovery can increase total output over time when the real target is a sustainable multi-decade career rather than one overloaded stretch.
 - [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine]] adds a shorter-cycle version of the same logic: 10 to 15 minute naps can serve as tactical resets that restore enough energy to preserve work quality without pretending the mind is indefinitely rechargeable.
+- [[wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity]] adds a switching-specific reset layer:
+  - short `palette cleansers` can help clear one domain before entering another
+  - this makes some breaks less about broad recovery and more about protecting clean attention transfer
+  - the same source also warns that some resets can become reputationally or psychologically costly if they are impulsive rather than restorative
 
 # Source Comparisons
 
@@ -55,6 +60,7 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - The current source is stronger on sustainability than earlier productivity pages, which leaned more on control, tracking, and prioritization.
 - The newer dopamine source sharpens the distinction between restoration and stimulation: not every pleasurable pause restores, and some quick hits actively worsen the next work block.
 - The Oakley source sharpens a different distinction: not every break is merely a pause in work, because some breaks continue the learning process indirectly through integration and recombination.
+- The Elon Musk source sharpens a different distinction: not every break is for recovery depth or diffuse insight, because some pauses are tactical resets used to switch domains cleanly without dragging residual attention forward.
 
 # Tensions / Open Questions
 
@@ -63,6 +69,7 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - The branch still needs clearer material on break length, frequency, and how recovery rules differ by task type.
 - The newer source adds another risk: people may call a dopamine spike `recovery` even when it predictably leaves them flatter, more distractible, and less willing to re-enter difficult work.
 - The Peterson routine source adds a more tactical question: when is a short nap genuinely restorative, and when is it a sign that the broader sleep and workload system is already badly mis-sized?
+- The Elon Musk source adds a neighboring risk: a `palette cleanser` can preserve performance when it genuinely resets attention, but it can also become a new source of stimulation, distraction, or external fallout.
 
 # Related Pages
 

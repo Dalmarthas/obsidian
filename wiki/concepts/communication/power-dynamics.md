@@ -2,7 +2,7 @@
 type: concept
 title: Power Dynamics
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -12,6 +12,8 @@ tags:
   - strategy
 source_pages:
   - wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power.md
+  - wiki/sources/2026-04-13-master-psychology-to-win-any-competition.md
+  - wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect.md
 related:
   - wiki/concepts/communication/persuasion.md
   - wiki/concepts/communication/frame-control.md
@@ -39,6 +41,14 @@ Power dynamics is the branch of communication concerned not just with clarity or
 - The same source argues that people gain advantage by revealing less, making others dependent, and forcing others to react to a field they did not design.
 - Attention, spectacle, and controlled unpredictability are also treated as strategic tools rather than just personality traits.
 - The source repeatedly values timing and patience over impulsive reaction, especially when visibility, status, or conflict are involved.
+- The newer Greene power summaries make three additions clearer:
+  - credibility and public consistency are now part of the power field because searchable archives can harden or collapse status
+  - visibility has a scarcity rhythm, so calibrated absence can increase intrigue while constant presence can cheapen perception
+  - enemies, attacks, and imposed pressure can become developmental forces if they are converted into sharper performance rather than reactive flailing
+- The newest workplace-specific Greene source adds a defensive application:
+  - toxic superiors often maintain power through emotional capture as much as through formal rank
+  - internal depersonalization and authority deflation can reduce that leverage
+  - preserving external options is itself a way of shifting the power balance
 - Its end-state ideal is `formlessness`: staying adaptive enough that others cannot stabilize a fixed response to you.
 
 # Source Comparisons
@@ -58,6 +68,9 @@ Power dynamics is the branch of communication concerned not just with clarity or
 # Related Pages
 
 - [[wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power|Robert Greene The 48 Laws of Power]]
+- [[wiki/sources/2026-04-13-master-psychology-to-win-any-competition|Master Psychology to Win Any Competition]]
+- [[wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect|The Path To Power: Ambition, Status, Strength & Respect]]
+- [[wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time|How to DEFEAT Your BOSS Every Time]]
 - [[wiki/entities/robert-greene|Robert Greene]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]
 - [[wiki/concepts/communication/frame-control|Frame Control]]
@@ -65,4 +78,5 @@ Power dynamics is the branch of communication concerned not just with clarity or
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/syntheses/communication/robert-greene-power-framework|Robert Greene Power Framework]]
+- [[wiki/syntheses/communication/toxic-boss-response-framework|Toxic Boss Response Framework]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]

@@ -2,7 +2,7 @@
 type: concept
 title: Boundary Language
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -40,6 +40,10 @@ Boundary language is concise speech that protects reality, names what is not acc
 - It also treats `no` without extra justification as a legitimate form of boundary language.
 - The same source frames calm pacing, pauses, and fewer words as part of stronger boundary delivery, not as optional style.
 - The Jordan Peterson source adds an upstream personality layer: boundary language often fails not because the wording is unknown, but because highly agreeable people have trouble tolerating the interpersonal friction required to say it.
+- The newer Greene workplace source adds a power-asymmetry layer:
+  - sometimes the right boundary is not an immediate verbal correction
+  - documentation, silence, delayed response, or tactical exit can function as boundary behavior when direct speech would be unsafe or strategically foolish
+  - workplace hierarchy changes what good boundary execution looks like
 
 # Source Comparisons
 
@@ -48,6 +52,7 @@ Boundary language is concise speech that protects reality, names what is not acc
 - Compared with [[wiki/concepts/communication/frame-control|Frame Control]], it is less about abstract interactional meaning and more about concrete wording that refuses deflection.
 - Compared with [[wiki/concepts/communication/authentic-communication|Authentic Communication]], boundary language is a narrower use case: directness under pressure rather than authenticity across all contexts.
 - Compared with [[wiki/concepts/communication/assertiveness|Assertiveness]], boundary language is the expression layer. Assertiveness is the skill of representing yourself; boundary language is one of the clearest ways that skill sounds out loud.
+- Compared with [[wiki/concepts/communication/power-dynamics|Power Dynamics]], boundary language is usually more explicit and verbal. Greene's toxic-boss model adds the reminder that, under real asymmetry, some boundaries are behavioral rather than spoken.
 
 # Tensions / Open Questions
 
@@ -65,4 +70,5 @@ Boundary language is concise speech that protects reality, names what is not acc
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy|Assertiveness, Agreeableness, and Self-Advocacy]]
 - [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
+- [[wiki/syntheses/communication/toxic-boss-response-framework|Toxic Boss Response Framework]]
 - [[wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication|Jefferson Fisher Fake Apologies and Manipulative Communication]]

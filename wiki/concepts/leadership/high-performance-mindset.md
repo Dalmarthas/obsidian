@@ -10,6 +10,7 @@ tags:
   - mindset
 source_pages:
   - wiki/sources/2026-04-12-all-you-need-to-work-like-steve-jobs.md
+  - wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity.md
   - wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula.md
   - wiki/sources/2026-04-10-carol-dweck-fixed-and-growth-mindsets.md
   - wiki/sources/2026-04-10-daniel-goleman-social-intelligence-at-google.md
@@ -90,6 +91,10 @@ High-performance mindset is the psychological operating system that allows a per
   - high performance is also described as relentless iteration on details until the product becomes meaningfully better, not merely different
   - the source frames Jobs as unusually able to combine taste, technical grasp, and the willingness to keep editing
   - it also adds a useful nuance that he could switch to the better idea quickly once convinced
+- The Elon Musk source adds a tempo-and-cost layer:
+  - high performance can also be driven by extreme urgency, serial immersion, and short-term `surges` against bottlenecks
+  - the source makes the supporting-system requirement explicit, since surrounding teams often stabilize whatever the focal leader is not attending to
+  - it also keeps the cost visible by linking intensity with weaker savoring, mood volatility, and the risk of turning pressure into a permanent identity
 
 # Source Comparisons
 
@@ -111,6 +116,7 @@ High-performance mindset is the psychological operating system that allows a per
 - The Steve Jobs signal-to-noise source is strongest on severe attentional filtering: it says high performance often looks like protecting a tiny set of daily signal tasks and refusing the rest, though the source is much more anecdotal and more vulnerable to hero-myth exaggeration than the others.
 - The Jony Ive and Larry Ellison Jobs source is strongest on obsessive finish quality: it describes performance not as raw grind alone, but as the rare capacity to turn good ideas into coherent finished systems through exhausting editorial work.
 - The quiet-eye source is strongest on attentional mechanics: elite execution includes a trainable visual steadiness that links perception, motor planning, and pressure resistance.
+- The Elon Musk source is strongest on tempo imposition and serial immersion: it shows how a leader may move across domains through fierce urgency and bottleneck surges, while also revealing the psychological and organizational price of that style.
 - Together these sources suggest that elite performance needs inward regulation, outwardly demanding systems, and a physical recovery base that is strong enough to support both.
 
 # Tensions / Open Questions
@@ -127,6 +133,7 @@ High-performance mindset is the psychological operating system that allows a per
 - The quiet-eye layer adds a methodological caution: perceptual metrics can look precise while still leaving causal questions unresolved, so the branch should not treat eye-tracking correlations as total explanations of expertise.
 - The signal-to-noise layer adds another caution: high-performance cultures can romanticize anti-social intensity and mistake exhausted or domineering behavior for proof of seriousness.
 - The newer Jobs-adjacent layer adds a related caution: obsessive iteration can improve quality, but copied without judgment it can become perfectionist theater, burnout, or endless polishing with no proportional gain.
+- The Elon Musk layer adds another caution: urgency can produce extraordinary throughput, but copied carelessly it can devolve into adrenaline dependence, team destabilization, and a life with too little recovery or savoring.
 
 # Related Pages
 

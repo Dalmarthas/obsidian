@@ -15,6 +15,7 @@ source_pages:
   - wiki/sources/2026-04-12-all-you-need-to-work-like-steve-jobs.md
   - wiki/sources/2026-04-12-focusing-is-about-saying-no-steve-jobs.md
   - wiki/sources/2026-04-12-steve-jobs-d8-conference-2010.md
+  - wiki/sources/2026-04-12-steve-jobs-get-much-simpler-be-really-clear.md
   - wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula.md
   - wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts.md
   - wiki/sources/2026-04-12-steve-jobs-mit-1992.md
@@ -62,6 +63,8 @@ Steve Jobs enters this vault here not only as a voice on uncertainty, reinventio
 - That same source adds a leadership-maturity layer: executives must sometimes absorb anger, criticism, and negative press without retaliating publicly if they want strategy to survive contact with human cost.
 - The newer `Think Different` source adds a values-and-brand layer: Jobs argues that marketing works best when it expresses enduring beliefs rather than technical features, and that Apple's public identity should honor people who change the world rather than only the boxes Apple sells.
 - That same source also adds an operations layer: lower inventory and faster demand sensing are treated as strategic advantages because they reduce guessing and let the company respond to real customer behavior.
+- The newer `Get Much Simpler` source sharpens the turnaround layer with a simpler operating triad of product, marketing, and distribution, plus the added claim that drastic cuts can increase energy when strategy becomes understandable again.
+- That same source also strengthens the stewardship branch: Jobs treats brand recovery as ongoing care work and uses Nike and `Got Milk?` as examples of emotional framing beating feature recital.
 - The MIT source adds an operational-productivity layer: software matters most when it changes core work rather than only administrative work.
 - It also adds a long-window strategy layer: once a genuine technology opening appears, advantage comes from exploiting it patiently through years of execution, education, and refinement.
 - That same source extends the leadership layer into ownership and alignment: important decisions should be few, lived with, and resolved through real agreement among the people who must execute them.

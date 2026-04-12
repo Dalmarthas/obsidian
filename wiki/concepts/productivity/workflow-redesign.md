@@ -12,7 +12,9 @@ tags:
   - workflow
 source_pages:
   - wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine.md
+  - wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving.md
 related:
+  - wiki/concepts/business/first-principles-problem-solving.md
   - wiki/concepts/productivity/samoupravlenie.md
   - wiki/concepts/productivity/peak-hours.md
   - wiki/concepts/productivity/lovushka-effektivnosti.md
@@ -39,6 +41,10 @@ Workflow redesign is the practice of improving output by rethinking the structur
 - The source also ties workflow redesign to meaning:
   - more efficient execution is valuable because it increases useful good done per unit of effort
   - the redesign logic is therefore instrumental, not just aesthetic tidiness
+- The Elon Musk problem-solving source adds a stronger sequence rule:
+  - do not optimize a process before asking whether its requirements are dumb
+  - delete before optimizing, speeding up, or automating
+  - some reintroduction after deletion is evidence that the redesign pass was real rather than timid
 
 # Source Comparisons
 
@@ -46,18 +52,22 @@ Workflow redesign is the practice of improving output by rethinking the structur
 - Compared with [[wiki/concepts/productivity/peak-hours|Peak Hours]], workflow redesign acts upstream of scheduling: first redesign the work, then place the highest-friction parts into the sharpest hours.
 - Compared with [[wiki/concepts/productivity/lovushka-effektivnosti|Ловушка эффективности]], this concept is the pro-efficiency side of the tension. The current vault therefore needs both pages: one for leverage through redesign, one for the risk that optimization merely creates room for more noise.
 - Compared with [[wiki/syntheses/productivity/tim-ferriss-self-management-framework|Tim Ferriss Self-Management Framework]], Peterson's version is less about fixed rules and more about repeatedly challenging assumptions about task structure and personal limits.
+- Compared with [[wiki/concepts/business/first-principles-problem-solving|First-Principles Problem-Solving]], workflow redesign is broader and less engineering-specific. The Musk page adds a harsher deletion-first method and a stronger warning against premature automation.
 
 # Tensions / Open Questions
 
 - The promise of `5 to 10 times faster` can become fantasy if it is detached from actual task constraints or quality checks.
 - Redesign time itself can turn into avoidance if the person keeps optimizing the system instead of using it.
 - The branch still needs stronger sources on when workflow redesign pays off most: creative work, administrative work, repetitive operations, or collaborative systems.
+- The newer Musk source adds a sharper danger: redesign language can justify reckless removal if teams copy deletion rules without understanding safety, resilience, or the true purpose of a requirement.
 
 # Related Pages
 
 - [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
+- [[wiki/concepts/business/first-principles-problem-solving|First-Principles Problem-Solving]]
 - [[wiki/concepts/productivity/peak-hours|Peak Hours]]
 - [[wiki/concepts/productivity/lovushka-effektivnosti|Ловушка эффективности]]
 - [[wiki/syntheses/productivity/jordan-peterson-self-management-framework|Jordan Peterson Self-Management Framework]]
 - [[wiki/syntheses/productivity/tim-ferriss-self-management-framework|Tim Ferriss Self-Management Framework]]
 - [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]]
+- [[wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving|Elon Musk's Approach to Problem-Solving]]

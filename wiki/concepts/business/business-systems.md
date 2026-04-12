@@ -2,7 +2,7 @@
 type: concept
 title: Business Systems
 created: 2026-04-09
-updated: 2026-04-12
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -11,12 +11,15 @@ tags:
   - operations
   - scaling
 source_pages:
+  - wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving.md
   - wiki/sources/2026-04-12-all-you-need-to-work-like-steve-jobs.md
   - wiki/sources/2026-04-12-steve-jobs-d8-conference-2010.md
+  - wiki/sources/2026-04-12-steve-jobs-get-much-simpler-be-really-clear.md
   - wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts.md
   - wiki/sources/2026-04-12-steve-jobs-mit-1992.md
   - wiki/sources/2026-04-09-why-many-entrepreneurs-struggle-despite-implementing-systems.md
   - wiki/sources/2026-04-11-seth-godin-this-is-strategy.md
+  - wiki/sources/2026-04-13-the-ultimate-sales-training-for-2026.md
 related:
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/business/business-strategy.md
@@ -64,6 +67,10 @@ Business systems are the repeatable structures that turn business inputs into ou
   - inventory depth is a systems design choice, not merely an accounting fact
   - long pipelines force leadership to guess too far ahead
   - reducing channel and manufacturing inventory lets the business learn from actual customer demand much faster
+- The Steve Jobs `Get Much Simpler` source deepens that layer with a more concrete executive framing:
+  - product, marketing, and distribution are treated as one turnaround system
+  - inventory is described in months across both manufacturing and channel layers, making the learning delay more visible
+  - the source therefore ties operational redesign directly to strategic clarity rather than treating it as background logistics
 - That same source also links systems to strategic clarity:
   - simpler product lines reduce not only engineering sprawl but also operational complexity
   - distribution, product design, and brand legibility reinforce each other when the system is coherent
@@ -76,6 +83,18 @@ Business systems are the repeatable structures that turn business inputs into ou
   - the system includes how the product is seen in the store, purchased, unboxed, activated, and used
   - product quality therefore includes physical, digital, and experiential continuity
   - the page also reinforces that finished-system excellence comes from many rounds of editing rather than from idea novelty alone
+- The Elon Musk problem-solving source adds a deletion-order layer:
+  - requirements should be questioned before a system is improved
+  - deletion should come before optimization, acceleration, and automation
+  - this reframes systems work as simplification-first rather than efficiency-first
+- That same source also strengthens the material-constraint layer:
+  - advanced systems can still be limited by power, cooling, cabling, and synchronization
+  - physical infrastructure therefore belongs inside core systems diagnosis, not as an afterthought
+  - the page also argues that leaders should do frontline work to see where requirements and process maps are misleading
+- The new sales-training source adds a revenue-operations layer:
+  - a business system can fail through response lag, bad slot design, weak reminders, and poor lead routing before the salesperson's conversational skill is even tested
+  - show rate, handoff quality, and sales-to-customer-success alignment are therefore system variables rather than merely rep variables
+  - the page also reinforces that training loops, script discipline, and call review belong inside the operating machine, not outside it
 
 # Source Comparisons
 
@@ -84,8 +103,11 @@ Business systems are the repeatable structures that turn business inputs into ou
 - Compared with [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], this page turns the framework into a mechanical operating model with observable inputs, outputs, and failure signals.
 - Compared with Seth Godin's strategy framing, the original systems source is more internal and operational, while Godin is stronger on reading the external field of norms, incentives, and social gravity around the business.
 - Compared with the Steve Jobs `Think Different` source, the existing sources were stronger on machine structure in the abstract, while Jobs adds a vivid example of how inventory compression and product simplification change the speed and quality of strategic feedback.
+- Compared with the Steve Jobs `Get Much Simpler` source, the `Think Different` page is broader and more brand-philosophical, while the new source is stronger on the operating triad of product, marketing, and distribution as a practical turnaround checklist.
 - Compared with the Steve Jobs D8 source, the MIT page explains integration at a deeper architectural level, while D8 shows how the same logic appears publicly in mobile-era product, pricing, curation, and controversy management.
 - Compared with the Jony Ive and Larry Ellison source, the older Jobs systems pages are stronger on architecture and strategy, while the newer source is stronger on how end-to-end coherence is experienced by users and enforced through obsessive editorial iteration.
+- Compared with the Elon Musk problem-solving source, the earlier pages are stronger on architecture and system coherence, while Musk is stronger on the order of intervention: challenge assumptions, delete aggressively, and only then improve what remains.
+- Compared with the new sales-training source, the older pages are broader and more cross-functional, while the sales source is stronger on one vivid subsystem where throughput depends on speed, scheduling, routing, reminders, and handoff quality.
 - Compared with [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Grebenyuk's Realnyi Million Framework]], this page is less about owner psychology, ruthless focus, and profit discipline, and more about diagnosing where the current pipe is actually narrowing.
 - Compared with [[wiki/concepts/business/operational-productivity|Operational Productivity]], business systems is broader and more machine-level. Operational productivity asks whether the system is improving the core work itself; business systems asks how the whole machine is structured and improved.
 
@@ -106,10 +128,12 @@ Business systems are the repeatable structures that turn business inputs into ou
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/business/operational-productivity|Operational Productivity]]
+- [[wiki/concepts/business/sales-operations|Sales Operations]]
 - [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]]
 - [[wiki/concepts/business/produktovoe-myshlenie|Product Thinking]]
 - [[wiki/concepts/leadership/sistemy-i-standartizaciya|Systems and Standardization]]
 - [[wiki/syntheses/business/scalable-business-systems-framework|Scalable Business Systems Framework]]
+- [[wiki/syntheses/business/modern-sales-systems-framework|Modern Sales Systems Framework]]
 - [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
 - [[wiki/syntheses/business/steve-jobs-think-different-framework|Steve Jobs Think Different Framework]]
 - [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Grebenyuk's Realnyi Million Framework]]

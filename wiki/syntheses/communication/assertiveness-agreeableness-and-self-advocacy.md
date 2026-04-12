@@ -2,7 +2,7 @@
 type: synthesis
 title: Assertiveness, Agreeableness, and Self-Advocacy
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - synthesis
@@ -12,6 +12,7 @@ tags:
 question: What reusable self-advocacy model emerges from the current Jordan Peterson source when read against the vault's boundary and developmental branches?
 basis:
   - wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness.md
+  - wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time.md
   - wiki/concepts/communication/assertiveness.md
   - wiki/concepts/communication/boundary-language.md
   - wiki/concepts/others/childhood-development-triangle.md
@@ -27,7 +28,7 @@ What reusable self-advocacy model emerges from the current Jordan Peterson sourc
 
 # Answer
 
-The current vault supports a five-part model:
+The current vault supports a six-part model:
 
 1. Notice the trait-level vulnerability.
    Some people are dispositionally pulled toward harmony, care, and conflict avoidance strongly enough that they underrepresent themselves by default.
@@ -44,6 +45,9 @@ The current vault supports a five-part model:
 5. Solve both the person and the system problem.
    Individual skill matters, but so do incentives, workload design, status dynamics, and institutional habits that reward invisible labor without naming it.
 
+6. Calibrate self-advocacy to power reality.
+   In unequal hierarchies, advocating for yourself may mean strategic calm, documentation, timing, and exit preparation rather than immediate verbal confrontation.
+
 # Basis
 
 - Peterson contributes the personality and exploitation diagnosis.
@@ -55,6 +59,7 @@ The current vault supports a five-part model:
 - Peterson is strongest on the under-assertive trait problem and on why agreeable people can get trapped in resentment-producing roles.
 - Jefferson Fisher is stronger on the wording layer once the person is already willing to speak.
 - The developmental branch is stronger on origin explanation than on practical workplace negotiation.
+- Greene adds the missing hierarchy layer: not all self-advocacy is best expressed through in-the-moment directness when the other party controls rank, rewards, or retaliation.
 
 # Gaps
 
@@ -65,8 +70,10 @@ The current vault supports a five-part model:
 # Related Pages
 
 - [[wiki/entities/jordan-peterson|Jordan Peterson]]
+- [[wiki/entities/robert-greene|Robert Greene]]
 - [[wiki/concepts/communication/assertiveness|Assertiveness]]
 - [[wiki/concepts/communication/boundary-language|Boundary Language]]
 - [[wiki/concepts/others/childhood-development-triangle|Childhood Development Triangle]]
 - [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
+- [[wiki/syntheses/communication/toxic-boss-response-framework|Toxic Boss Response Framework]]
 - [[wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness|Jordan Peterson Excessive Agreeableness and Assertiveness]]
