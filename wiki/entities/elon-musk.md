@@ -16,6 +16,7 @@ source_pages:
   - wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving.md
   - wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity.md
   - wiki/sources/2026-04-13-how-elon-musk-solves-problems.md
+  - wiki/sources/2026-04-13-first-principles-elon-musks-method-of-thinking.md
 related:
   - wiki/concepts/business/operational-productivity.md
   - wiki/concepts/business/first-principles-problem-solving.md
@@ -38,6 +39,7 @@ Elon Musk enters this vault here not only as a case of extreme productivity styl
 - He strengthens the productivity branch with a sharper model of short reset rituals between heavy domains.
 - He strengthens the leadership-performance branch with a more forceful example of urgency imposed through `surges` around bottlenecks.
 - He now also strengthens the business-systems branch with a five-step problem-solving algorithm that questions requirements, deletes aggressively, and delays automation until waste has been stripped away.
+- He now also sharpens the upstream reasoning branch by making first principles legible as an anti-analogy discipline rather than only as a deletion order inside engineering execution.
 - He now also strengthens the operational branch by treating power, cooling, cabling, and frontline debugging as real strategic constraints rather than background implementation detail.
 - He now also adds a more explicit design-and-manufacturing branch:
   - reason from physics and raw materials rather than industry precedent
@@ -68,6 +70,10 @@ Elon Musk enters this vault here not only as a case of extreme productivity styl
   - physical law and raw-material floors are treated as the strongest design axioms
   - the gap between that floor and actual cost is read as process and manufacturing inefficiency
   - manufacturing mastery and ideal-product thinking are presented as core innovation advantages, not afterthoughts
+- The newest explanatory source adds a more general epistemic and planning layer:
+  - most organizations default to analogy and social proof rather than reasoning from fundamentals
+  - a reusable four-step sequence is to define the goal, list assumed actions, interrogate them, and rebuild from first principles
+  - this branch also widens from engineering design into misinformation resistance, where authority and consensus can hide weak assumptions
 - The Andreessen source adds a weekly bottleneck-removal layer:
   - Musk is described as locating the single biggest problem in each company, fixing it directly, then moving on
   - this turns bottleneck theory into a recurring executive rhythm rather than only a systems concept
@@ -87,6 +93,7 @@ Elon Musk enters this vault here not only as a case of extreme productivity styl
 - [[wiki/sources/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity|Marc Andreessen Shares How Elon Musk Achieves Hyper Productivity]]
 - [[wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving|Elon Musk's Approach to Problem-Solving]]
 - [[wiki/sources/2026-04-13-how-elon-musk-solves-problems|How Elon Musk solves problems]]
+- [[wiki/sources/2026-04-13-first-principles-elon-musks-method-of-thinking|First Principles: Elon Musk's Method of Thinking]]
 - [[wiki/syntheses/productivity/elon-musk-serial-focus-framework|Elon Musk Serial Focus Framework]]
 - [[wiki/syntheses/business/elon-musk-problem-solving-framework|Elon Musk Problem-Solving Framework]]
 

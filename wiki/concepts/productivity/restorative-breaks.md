@@ -17,6 +17,7 @@ source_pages:
   - wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive.md
   - wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine.md
   - wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity.md
+  - wiki/sources/2026-04-13-how-to-improve-your-attention-and-focus.md
 related:
   - wiki/concepts/productivity/calibrated-challenge.md
   - wiki/concepts/leadership/buoyancy.md
@@ -26,6 +27,7 @@ related:
   - wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework.md
   - wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework.md
   - wiki/syntheses/productivity/barbara-oakley-learning-framework.md
+  - wiki/syntheses/productivity/attention-and-focus-framework.md
 ---
 
 # What It Is
@@ -61,6 +63,14 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - The newer dopamine source sharpens the distinction between restoration and stimulation: not every pleasurable pause restores, and some quick hits actively worsen the next work block.
 - The Oakley source sharpens a different distinction: not every break is merely a pause in work, because some breaks continue the learning process indirectly through integration and recombination.
 - The Elon Musk source sharpens a different distinction: not every break is for recovery depth or diffuse insight, because some pauses are tactical resets used to switch domains cleanly without dragging residual attention forward.
+- The new Huberman-Groh focus source adds an interval-attention layer:
+  - breaks can preserve acetylcholine-dependent spotlighting rather than merely provide generic refreshment
+  - some pauses are valuable because they let the next deep-focus bout remain high quality
+  - the page therefore now treats bounded breaks as part of the mechanism of attention, not only as general sustainability advice
+- That same source also adds a context-shift distinction:
+  - changing seats, rooms, or environments can be a productive reset rather than a full exit from the problem
+  - movement can help ideas continue to process in the background
+  - some `breaks` therefore restore not by stopping cognition but by changing how cognition is carried
 
 # Tensions / Open Questions
 
@@ -70,6 +80,7 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - The newer source adds another risk: people may call a dopamine spike `recovery` even when it predictably leaves them flatter, more distractible, and less willing to re-enter difficult work.
 - The Peterson routine source adds a more tactical question: when is a short nap genuinely restorative, and when is it a sign that the broader sleep and workload system is already badly mis-sized?
 - The Elon Musk source adds a neighboring risk: a `palette cleanser` can preserve performance when it genuinely resets attention, but it can also become a new source of stimulation, distraction, or external fallout.
+- The new focus source adds another ambiguity: interval breaks may help total output, but the branch still needs a sharper line between adaptive resets and avoidance disguised as `marination`.
 
 # Related Pages
 
@@ -78,6 +89,7 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - [[wiki/concepts/productivity/dopamine-regulation|Dopamine Regulation]]
 - [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
 - [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]]
+- [[wiki/syntheses/productivity/attention-and-focus-framework|Attention and Focus Framework]]
 - [[wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework|Daniel Pink Sustainable Productivity Framework]]
 - [[wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework|Difficult but Rewarding Behaviors Framework]]
 - [[wiki/syntheses/productivity/barbara-oakley-learning-framework|Barbara Oakley Learning Framework]]

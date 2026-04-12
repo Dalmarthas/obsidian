@@ -3551,3 +3551,112 @@ Pages touched:
 - [[wiki/entities/elon-musk]]
 - [[wiki/syntheses/business/elon-musk-problem-solving-framework]]
 - [[index]]
+
+## [2026-04-13 01:10] ingest | First Principles: Elon Musk's Method of Thinking
+
+Summary: Ingested a new English first-principles source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-first-principles-elon-musks-method-of-thinking]]. Created [[wiki/sources/2026-04-13-first-principles-elon-musks-method-of-thinking]] and used it to deepen [[wiki/concepts/business/first-principles-problem-solving]], [[wiki/entities/elon-musk]], and [[wiki/syntheses/business/elon-musk-problem-solving-framework]]. The Musk branch now captures the analogy-versus-first-principles distinction, a reusable four-step goal-to-redesign sequence, and a broader epistemic warning that authority and consensus can preserve bad assumptions.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-first-principles-elon-musks-method-of-thinking]]
+- [[wiki/sources/2026-04-13-first-principles-elon-musks-method-of-thinking]]
+- [[wiki/concepts/business/first-principles-problem-solving]]
+- [[wiki/entities/elon-musk]]
+- [[wiki/syntheses/business/elon-musk-problem-solving-framework]]
+- [[index]]
+
+## [2026-04-13 01:13] ingest | Founder Mode Explained
+
+Summary: Ingested a new English founder-scaling source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-founder-mode-explained]]. Created [[wiki/sources/2026-04-13-founder-mode-explained]], added the new concept [[wiki/concepts/business/founder-mode]], and created [[wiki/syntheses/business/founder-mode-framework]]. Used the source to deepen [[wiki/concepts/business/business-systems]] and [[wiki/concepts/leadership/leadership-vs-management]]. The business branch now captures founder mode as a calibrated alternative to bureaucratic manager mode, with craft-based promotions, task-relevant oversight, DRI-centered decision prep, and a scaling rule of turning duct-tape heroics into metal systems.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-founder-mode-explained]]
+- [[wiki/sources/2026-04-13-founder-mode-explained]]
+- [[wiki/concepts/business/founder-mode]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/leadership/leadership-vs-management]]
+- [[wiki/syntheses/business/founder-mode-framework]]
+- [[index]]
+
+## [2026-04-13 02:21] ingest | How to Improve Your Attention & Focus
+
+Summary: Ingested a new English Huberman-Groh productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-to-improve-your-attention-and-focus]]. Created [[wiki/sources/2026-04-13-how-to-improve-your-attention-and-focus]] and the new synthesis [[wiki/syntheses/productivity/attention-and-focus-framework]]. Used the source to deepen [[wiki/entities/andrew-huberman]], [[wiki/concepts/productivity/peak-hours]], and [[wiki/concepts/productivity/restorative-breaks]]. The productivity branch now more clearly captures focus as an attractor state shaped by sensory narrowing, interval-style effort, context shifts, and recovery rather than by brute-force willpower alone.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-how-to-improve-your-attention-and-focus]]
+- [[wiki/sources/2026-04-13-how-to-improve-your-attention-and-focus]]
+- [[wiki/syntheses/productivity/attention-and-focus-framework]]
+- [[wiki/entities/andrew-huberman]]
+- [[wiki/concepts/productivity/peak-hours]]
+- [[wiki/concepts/productivity/restorative-breaks]]
+- [[index]]
+
+## [2026-04-13 02:18] ingest | The Secret Art of Micromanagement with Airbnb CEO Brian Chesky
+
+Summary: Ingested a new English Brian Chesky leadership and founder-mode source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky]]. Created [[wiki/sources/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky]] and used it to deepen [[wiki/entities/brian-chesky]], [[wiki/concepts/business/founder-mode]], [[wiki/syntheses/business/founder-mode-framework]], [[wiki/concepts/business/business-systems]], and [[wiki/concepts/business/values-driven-companies]]. The Chesky branch now more clearly captures `eyes on, hands off` leadership, standards-to-muscle-memory review, crisis psychology, customer love as a deeper business signal than boardroom abstraction, and values tested through hiring honesty and humane contraction.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky]]
+- [[wiki/sources/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky]]
+- [[wiki/entities/brian-chesky]]
+- [[wiki/concepts/business/founder-mode]]
+- [[wiki/syntheses/business/founder-mode-framework]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/business/values-driven-companies]]
+- [[index]]
+
+## [2026-04-13 02:13] ingest | Jim Keller: Most People Don't Think Simple Enough
+
+Summary: Ingested a new English first-principles and systems-design source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-jim-keller-most-people-dont-think-simple-enough]]. Created [[wiki/sources/2026-04-13-jim-keller-most-people-dont-think-simple-enough]] and the new entity page [[wiki/entities/jim-keller]]. Used the source to deepen [[wiki/concepts/business/first-principles-problem-solving]] and added [[wiki/syntheses/business/architectural-redesign-from-first-principles]] so the vault now captures recipe-vs-understanding, decomposition failure, rewrite timing, the `two disasters` model, and redesign as a distribution-management problem rather than a guaranteed universal upgrade.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-jim-keller-most-people-dont-think-simple-enough]]
+- [[wiki/sources/2026-04-13-jim-keller-most-people-dont-think-simple-enough]]
+- [[wiki/entities/jim-keller]]
+- [[wiki/concepts/business/first-principles-problem-solving]]
+- [[wiki/syntheses/business/architectural-redesign-from-first-principles]]
+- [[index]]
+
+## [2026-04-13 01:25] ingest | Brian Chesky Founder Mode and the Art of Hiring
+
+Summary: Ingested a new English founder-mode and hiring source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-brian-chesky-founder-mode-and-the-art-of-hiring]]. Created [[wiki/sources/2026-04-13-brian-chesky-founder-mode-and-the-art-of-hiring]] and the new entity page [[wiki/entities/brian-chesky]]. Used the source to deepen [[wiki/concepts/business/founder-mode]], [[wiki/concepts/business/business-systems]], and [[wiki/syntheses/business/founder-mode-framework]]. The founder-mode branch now more clearly preserves functional expert-led org design, CEO review cadence, coordinated launch logic, heavy-reference evidence-based hiring, and Chesky's board-advice skepticism.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-brian-chesky-founder-mode-and-the-art-of-hiring]]
+- [[wiki/sources/2026-04-13-brian-chesky-founder-mode-and-the-art-of-hiring]]
+- [[wiki/entities/brian-chesky]]
+- [[wiki/concepts/business/founder-mode]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/syntheses/business/founder-mode-framework]]
+- [[index]]
+
+## [2026-04-13 01:17] ingest | We Need to Talk About Founder Mode
+
+Summary: Ingested a new English founder-mode source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-we-need-to-talk-about-founder-mode]]. Created [[wiki/sources/2026-04-13-we-need-to-talk-about-founder-mode]] and used it to deepen [[wiki/concepts/business/founder-mode]], [[wiki/concepts/business/business-systems]], and [[wiki/syntheses/business/founder-mode-framework]]. The founder-mode branch now captures user proximity, bug-response trust, skip-level truth flow, the `don't hire to avoid` rule, and a more explicit warning about investor advice and politics-heavy `professional fakers`.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-we-need-to-talk-about-founder-mode]]
+- [[wiki/sources/2026-04-13-we-need-to-talk-about-founder-mode]]
+- [[wiki/concepts/business/founder-mode]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/syntheses/business/founder-mode-framework]]
+- [[index]]
+
+## [2026-04-13 01:20] ingest | Founder Mode: A Summary of Paul Graham's Viral Essay
+
+Summary: Ingested a new English founder-mode source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-founder-mode-a-summary-of-paul-grahams-viral-essay]]. Created [[wiki/sources/2026-04-13-founder-mode-a-summary-of-paul-grahams-viral-essay]] and used it to deepen [[wiki/concepts/business/founder-mode]], [[wiki/concepts/leadership/leadership-vs-management]], and [[wiki/syntheses/business/founder-mode-framework]]. The founder-mode branch now more clearly captures `manage the work, not the team`, coach-mode founder involvement, anti-popularity feedback culture, growth-mindset hiring over pedigree defaults, and `bureaucrat mode` as a concrete organizational failure pattern.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-founder-mode-a-summary-of-paul-grahams-viral-essay]]
+- [[wiki/sources/2026-04-13-founder-mode-a-summary-of-paul-grahams-viral-essay]]
+- [[wiki/concepts/business/founder-mode]]
+- [[wiki/concepts/leadership/leadership-vs-management]]
+- [[wiki/syntheses/business/founder-mode-framework]]
+- [[index]]

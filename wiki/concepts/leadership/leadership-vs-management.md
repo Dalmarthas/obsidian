@@ -11,10 +11,12 @@ tags:
   - decision-making
 source_pages:
   - wiki/sources/2026-04-12-seth-godin-leadership-vs-management-what-it-means-to-make-a-difference.md
+  - wiki/sources/2026-04-13-founder-mode-a-summary-of-paul-grahams-viral-essay.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/business/process-over-outcomes.md
+  - wiki/concepts/business/founder-mode.md
   - wiki/concepts/leadership/organizational-culture.md
   - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/syntheses/leadership/seth-godin-leadership-framework.md
@@ -38,18 +40,29 @@ Leadership versus management is the distinction between optimizing a known syste
 - The source sharpens the vault's process theme by arguing that leadership requires repeated experimentation, comfort with being wrong, and learning loops rather than certainty theater.
 - It also ties leadership to enrollment: people volunteer into a culture, a direction, or a standard more durably than they obey a command they do not believe in.
 - [[wiki/concepts/leadership/leadership|Leadership]] overlaps with this page, but that broader concept covers the overall practice of direction and responsibility. This page is narrower and concentrates on when optimization logic stops being enough.
+- The new founder-mode source adds a useful complication:
+  - management distance is not the only alternative to chaotic control
+  - some founders scale by staying close to details, standards, and tradeoffs while still building real systems
+  - this suggests that the leadership-versus-management distinction should not be flattened into `leader = visionary, manager = detail person`
+- The newest founder-mode source adds a sharper performance-and-coaching complication:
+  - some leaders should spend less time optimizing rapport and more time reviewing real work, giving difficult feedback, and coaching toward stronger output
+  - this reframes part of `management` as work-adjacent coaching rather than as pure administrative supervision
+  - it also warns that popularity systems can reward social smoothness over actual result production
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/leadership/leadership|Leadership]], this concept is more diagnostic. It asks which job is actually being done right now: maintaining a system or changing one.
 - Compared with [[wiki/concepts/business/business-strategy|Business Strategy]], this page is less about allocation and market choice and more about the human mode required when strategy enters uncertainty.
 - Compared with [[wiki/concepts/business/process-over-outcomes|Process Over Outcomes]], this page is less about emotional steadiness in creative work and more about institutional responsibility, cultural enrollment, and action without formal authority.
+- Compared with [[wiki/concepts/business/founder-mode|Founder Mode]], this page is broader and more abstract. Founder mode is one concrete answer to how leadership behaves when scaling pressure tempts a company into generic management distance.
 
 # Tensions / Open Questions
 
 - Most real institutions need both management and leadership, but the vault still needs stronger material on how leaders should switch between the two modes without producing confusion.
 - Anti-management rhetoric can become sloppy if it ignores environments where safety, consistency, and tight execution are genuinely the primary job.
 - The branch also needs stronger counterweight from sources that defend excellent management as a competitive advantage in its own right, not merely as a lower form of leadership.
+- The founder-mode source also raises a sharper ambiguity: when does detail-level founder involvement count as real leadership, and when is it just status-protective interference dressed up as quality control?
+- The newer essay-summary source adds a related ambiguity: when does results-over-popularity discipline create growth, and when does it merely legitimize abrasive leadership that burns trust faster than it builds capability?
 
 # Related Pages
 
@@ -58,6 +71,8 @@ Leadership versus management is the distinction between optimizing a known syste
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/business/process-over-outcomes|Process Over Outcomes]]
+- [[wiki/concepts/business/founder-mode|Founder Mode]]
+- [[wiki/sources/2026-04-13-founder-mode-a-summary-of-paul-grahams-viral-essay|Founder Mode: A Summary of Paul Graham's Viral Essay]]
 - [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/syntheses/leadership/seth-godin-leadership-framework|Seth Godin Leadership Framework]]

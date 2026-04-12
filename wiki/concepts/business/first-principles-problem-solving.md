@@ -13,17 +13,20 @@ tags:
 source_pages:
   - wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving.md
   - wiki/sources/2026-04-13-how-elon-musk-solves-problems.md
+  - wiki/sources/2026-04-13-first-principles-elon-musks-method-of-thinking.md
+  - wiki/sources/2026-04-13-jim-keller-most-people-dont-think-simple-enough.md
 related:
   - wiki/concepts/business/business-systems.md
   - wiki/concepts/business/operational-productivity.md
   - wiki/concepts/business/bottleneck-theory.md
   - wiki/concepts/productivity/workflow-redesign.md
   - wiki/syntheses/business/elon-musk-problem-solving-framework.md
+  - wiki/syntheses/business/architectural-redesign-from-first-principles.md
 ---
 
 # What It Is
 
-First-principles problem-solving is the discipline of solving a system by questioning its assumptions and stripping it down before trying to improve its performance. In the current vault, it is not just `think from first principles` as a slogan. It is a concrete deletion-first sequence: question requirements, delete what may not need to exist, then optimize, speed up, and automate only what survives.
+First-principles problem-solving is the discipline of solving a system by questioning its assumptions and stripping it down before trying to improve its performance. In the current vault, it is not just `think from first principles` as a slogan. It is a concrete anti-analogy and deletion-first sequence: define the goal clearly, challenge inherited assumptions, delete what may not need to exist, then optimize, speed up, and automate only what survives.
 
 # Why It Matters
 
@@ -57,6 +60,22 @@ First-principles problem-solving is the discipline of solving a system by questi
   - start from physics and raw-material realities as axioms, not merely from `common sense`
   - think `in the limit` to test whether an explanation survives extreme scale assumptions
   - define the [[wiki/concepts/business/platonic-ideal-product|Platonic Ideal Product]] before accepting the constraints imposed by current tools
+- The newest first-principles source makes two upstream additions:
+  - it explicitly contrasts first principles with analogy, where teams copy accepted solutions and only make local edits
+  - it adds a four-step planning sequence: define the goal, list obstacles and assumed actions, interrogate those assumptions, then rebuild upward from fundamentals
+- That same source also broadens the page beyond engineering execution:
+  - consensus and authority can hide false assumptions
+  - bad incentives can make weak claims feel credible
+  - first-principles reasoning therefore also works as an epistemic filter against socially reinforced error
+- The new Jim Keller source adds a different but highly compatible layer:
+  - it distinguishes recipe-following from actual understanding, arguing that deep models matter because they let people diagnose and redesign rather than only execute
+  - it reframes some plateaus as decomposition failures, where the architecture and partitioning of the system have become the bottleneck
+  - it adds a `two disasters` leadership model:
+    - the short-term disaster of a rewrite dip
+    - the long-term disaster of stagnation if a rewrite never happens
+  - it also sharpens the stakeholder problem:
+    - a redesign may improve the average while still creating edge-case regressions
+    - those outliers help explain why organizations cling to incrementalism after it stops being the best technical path
 
 # Source Comparisons
 
@@ -65,6 +84,8 @@ First-principles problem-solving is the discipline of solving a system by questi
 - Compared with [[wiki/concepts/business/bottleneck-theory|Bottleneck Theory]], first-principles problem-solving is more sequence-driven and design-focused. Bottleneck theory asks where the limiter is; this page asks what should exist at all before the limiter is optimized.
 - Compared with [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]], this page is more engineering- and system-heavy. Workflow redesign improves recurring work; first-principles problem-solving adds a harsher requirement-challenge and deletion-first discipline.
 - Compared with [[wiki/concepts/business/platonic-ideal-product|Platonic Ideal Product]], this page is more skeptical and subtractive. Platonic ideal product defines the target; first-principles problem-solving defines the reasoning discipline and intervention order used to move toward it.
+- Compared with analogy-based decision-making, this page is slower upfront but better at escaping inherited constraints, cost structures, and social proof traps.
+- Compared with [[wiki/syntheses/business/architectural-redesign-from-first-principles|Architectural Redesign From First Principles]], this page is broader and more canonical. The synthesis isolates the rewrite-timing branch, while this concept page covers the full reasoning discipline behind both deletion-first simplification and deeper redesign.
 
 # Tensions / Open Questions
 
@@ -72,6 +93,9 @@ First-principles problem-solving is the discipline of solving a system by questi
 - Frontline immersion can ground leadership, but copied badly it can become executive micromanagement or anecdote-driven overconfidence.
 - The current branch still needs stronger cross-source support beyond Musk for how often deletion-first sequencing outperforms more cautious optimization paths.
 - The strongest open question is where to draw the line between simplification courage and unjustified removal of useful redundancy.
+- Another open question is when analogy should be treated as a useful shortcut versus a dangerous substitute for actual reasoning from fundamentals.
+- Keller's additions sharpen one more unresolved boundary: when should teams run a serious parallel redesign instead of continuing modular refactoring inside the current architecture?
+- The branch also needs stronger evidence from non-engineering and safety-critical domains to show where periodic rewrite logic transfers well and where it becomes too costly.
 
 # Related Pages
 
@@ -82,4 +106,7 @@ First-principles problem-solving is the discipline of solving a system by questi
 - [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
 - [[wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving|Elon Musk's Approach to Problem-Solving]]
 - [[wiki/sources/2026-04-13-how-elon-musk-solves-problems|How Elon Musk solves problems]]
+- [[wiki/sources/2026-04-13-first-principles-elon-musks-method-of-thinking|First Principles: Elon Musk's Method of Thinking]]
+- [[wiki/sources/2026-04-13-jim-keller-most-people-dont-think-simple-enough|Jim Keller: Most People Don't Think Simple Enough]]
 - [[wiki/syntheses/business/elon-musk-problem-solving-framework|Elon Musk Problem-Solving Framework]]
+- [[wiki/syntheses/business/architectural-redesign-from-first-principles|Architectural Redesign From First Principles]]

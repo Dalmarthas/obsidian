@@ -20,12 +20,17 @@ source_pages:
   - wiki/sources/2026-04-09-why-many-entrepreneurs-struggle-despite-implementing-systems.md
   - wiki/sources/2026-04-11-seth-godin-this-is-strategy.md
   - wiki/sources/2026-04-13-the-ultimate-sales-training-for-2026.md
+  - wiki/sources/2026-04-13-founder-mode-explained.md
+  - wiki/sources/2026-04-13-we-need-to-talk-about-founder-mode.md
+  - wiki/sources/2026-04-13-brian-chesky-founder-mode-and-the-art-of-hiring.md
+  - wiki/sources/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky.md
 related:
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/business/operational-productivity.md
   - wiki/concepts/business/smallest-viable-audience.md
   - wiki/concepts/business/produktovoe-myshlenie.md
+  - wiki/concepts/business/founder-mode.md
   - wiki/concepts/leadership/sistemy-i-standartizaciya.md
   - wiki/syntheses/business/scalable-business-systems-framework.md
   - wiki/syntheses/business/seth-godin-strategy-framework.md
@@ -95,6 +100,30 @@ Business systems are the repeatable structures that turn business inputs into ou
   - a business system can fail through response lag, bad slot design, weak reminders, and poor lead routing before the salesperson's conversational skill is even tested
   - show rate, handoff quality, and sales-to-customer-success alignment are therefore system variables rather than merely rep variables
   - the page also reinforces that training loops, script discipline, and call review belong inside the operating machine, not outside it
+- The new founder-mode source adds a scaling-governance layer:
+  - early systems are often held together by heroic effort and duct tape rather than by durable structure
+  - strong scaling converts that temporary glue into `metal`: explicit frameworks, DRIs, and clearer accountability
+  - the page also argues that systems should survive weaker operators over time rather than depending forever on unusually exceptional people
+- The newer founder-mode critique adds a live-feedback layer:
+  - good systems need direct contact with users, bugs, and edge cases rather than only manager-filtered summaries
+  - fast visible recovery can build more trust than rigid guard rails that slow shipping but hide real weakness
+  - the page also warns that process-heavy `professional fakers` can simulate order while reducing true throughput
+- The Chesky source adds a structural-coherence layer:
+  - divisional sprawl can replicate mini-organizations that fragment the roadmap and overload shared functions
+  - functional expert-led structures can reduce that duplication and clarify ownership
+  - coordinated launches and explicit review cadence are presented as systems for coherence, not only as leadership preferences
+- The newer Chesky conversation adds a standards-imprinting layer:
+  - some systems improve because leaders review critical outputs repeatedly until the quality bar becomes organizational muscle memory
+  - this makes review cadence a training mechanism, not merely an approval checkpoint
+  - the page therefore now links systems quality to deliberate standards installation rather than to process design alone
+- That same source also adds a values-under-stress layer:
+  - crisis simplification can test whether a system preserves dignity, transparency, and trust under cost pressure
+  - humane layoffs, direct communication, and principle-led cuts are treated as system behaviors, not only moral gestures
+  - the business system is therefore judged partly by how it behaves when it has to contract, not only when it scales
+- It further sharpens the signal-design layer:
+  - dashboards and financial views matter, but they are weaker than whether customers love and repeatedly use the product
+  - the page now has a stronger distinction between boardroom legibility and true product-market signal
+  - systems should therefore optimize for lived customer relevance, not only for internally persuasive numbers
 
 # Source Comparisons
 
@@ -108,6 +137,7 @@ Business systems are the repeatable structures that turn business inputs into ou
 - Compared with the Jony Ive and Larry Ellison source, the older Jobs systems pages are stronger on architecture and strategy, while the newer source is stronger on how end-to-end coherence is experienced by users and enforced through obsessive editorial iteration.
 - Compared with the Elon Musk problem-solving source, the earlier pages are stronger on architecture and system coherence, while Musk is stronger on the order of intervention: challenge assumptions, delete aggressively, and only then improve what remains.
 - Compared with the new sales-training source, the older pages are broader and more cross-functional, while the sales source is stronger on one vivid subsystem where throughput depends on speed, scheduling, routing, reminders, and handoff quality.
+- Compared with [[wiki/concepts/business/founder-mode|Founder Mode]], this page is more machine-oriented and less executive-philosophical. Business systems asks how the pipe should work; founder mode asks how a founder should stay close enough to that pipe to stop drift without becoming the pipe's main bottleneck.
 - Compared with [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Grebenyuk's Realnyi Million Framework]], this page is less about owner psychology, ruthless focus, and profit discipline, and more about diagnosing where the current pipe is actually narrowing.
 - Compared with [[wiki/concepts/business/operational-productivity|Operational Productivity]], business systems is broader and more machine-level. Operational productivity asks whether the system is improving the core work itself; business systems asks how the whole machine is structured and improved.
 
@@ -121,6 +151,10 @@ Business systems are the repeatable structures that turn business inputs into ou
 - The Steve Jobs source adds a new tension: tightly integrated systems can become a real advantage, but they can also become brittle or overbuilt if leaders integrate everything that should have stayed modular.
 - The D8 source sharpens a neighboring platform tension: systems that optimize quality through control can also reduce openness, experimentation, and external autonomy if the governing logic is not scrutinized carefully.
 - The newer Jobs-adjacent source adds a different systems tension: when leaders try to control every detail of the experience, the line between coherent quality and exhausting perfectionism becomes hard to manage.
+- The founder-mode source adds another tension: systems that are too founder-dependent may scale quality for a while but fail to become resilient enough to survive lower operator quality, executive turnover, or founder absence.
+- The newer founder-mode source adds a neighboring tension: direct truth flow from skip levels and users can improve system diagnosis, but without care it can also destabilize role clarity and create permanent founder interruption.
+- The Chesky source adds another systems tension: stronger launch coordination and central review can improve product coherence, but they can also slow local iteration if every meaningful step waits on top-level taste.
+- The newer Chesky conversation adds a related systems tension: early standards-imprinting can strengthen the machine, but if the founder never truly steps back, `muscle memory` can turn into dependence on recurring executive taste rather than durable local judgment.
 
 # Related Pages
 
@@ -128,6 +162,10 @@ Business systems are the repeatable structures that turn business inputs into ou
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/business/operational-productivity|Operational Productivity]]
+- [[wiki/concepts/business/founder-mode|Founder Mode]]
+- [[wiki/entities/brian-chesky|Brian Chesky]]
+- [[wiki/sources/2026-04-13-we-need-to-talk-about-founder-mode|We Need to Talk About Founder Mode]]
+- [[wiki/sources/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky|The Secret Art of Micromanagement with Airbnb CEO Brian Chesky]]
 - [[wiki/concepts/business/sales-operations|Sales Operations]]
 - [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]]
 - [[wiki/concepts/business/produktovoe-myshlenie|Product Thinking]]

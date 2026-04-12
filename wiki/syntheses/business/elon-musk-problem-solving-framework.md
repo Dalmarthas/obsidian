@@ -15,6 +15,7 @@ basis:
   - wiki/sources/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity.md
   - wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving.md
   - wiki/sources/2026-04-13-how-elon-musk-solves-problems.md
+  - wiki/sources/2026-04-13-first-principles-elon-musks-method-of-thinking.md
   - wiki/concepts/business/first-principles-problem-solving.md
   - wiki/concepts/business/business-systems.md
   - wiki/concepts/business/operational-productivity.md
@@ -31,7 +32,7 @@ What durable problem-solving framework can be extracted from this Elon Musk sour
 
 # Answer
 
-The current source base supports a ten-part framework:
+The current source base supports a twelve-part framework:
 
 1. Challenge the question before solving the answer.
    Requirements should be treated as partially wrong until tested, so the team is less likely to solve the wrong problem elegantly.
@@ -63,9 +64,15 @@ The current source base supports a ten-part framework:
 10. Define the ideal product before accepting the current toolset.
    Teams should imagine the best theoretically possible artifact first and then work backward to the manufacturing and process changes required to approach it.
 
+11. Separate first principles from analogy.
+   Copying existing solutions with minor edits is fast, but it preserves inherited assumptions and often hides where the real redesign opportunity lives.
+
+12. Re-question consensus when incentives look distorted.
+   Authority, industry custom, and socially repeated claims should not be treated as proof if the underlying mechanism and evidence remain weak.
+
 # Basis
 
-- Main sources: [[wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving|Elon Musk's Approach to Problem-Solving]], [[wiki/sources/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity|Marc Andreessen Shares How Elon Musk Achieves Hyper Productivity]], [[wiki/sources/2026-04-13-how-elon-musk-solves-problems|How Elon Musk solves problems]]
+- Main sources: [[wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving|Elon Musk's Approach to Problem-Solving]], [[wiki/sources/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity|Marc Andreessen Shares How Elon Musk Achieves Hyper Productivity]], [[wiki/sources/2026-04-13-how-elon-musk-solves-problems|How Elon Musk solves problems]], [[wiki/sources/2026-04-13-first-principles-elon-musks-method-of-thinking|First Principles: Elon Musk's Method of Thinking]]
 - Canonical concepts: [[wiki/concepts/business/first-principles-problem-solving|First-Principles Problem-Solving]], [[wiki/concepts/business/business-systems|Business Systems]], [[wiki/concepts/business/operational-productivity|Operational Productivity]], [[wiki/concepts/business/bottleneck-theory|Bottleneck Theory]], [[wiki/concepts/business/platonic-ideal-product|Platonic Ideal Product]], [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
 
 # Comparisons
@@ -76,6 +83,7 @@ The current source base supports a ten-part framework:
 - Compared with the Steve Jobs operational branch, Musk is less focused on integrated product architecture over long technology windows and more focused on forcing teams through a subtraction-first algorithm before optimization and automation.
 - Compared with the newer Andreessen source, the direct Musk source is stronger on intervention order, while Andreessen is stronger on the weekly executive cadence of finding one bottleneck, micromanaging it briefly, and delegating everything else.
 - Compared with the newest Lex clip, the existing Musk source is stronger on intervention order, while the new clip is stronger on asymptotic cost reasoning, ideal-product definition, and manufacturing-first innovation logic.
+- Compared with the newest explanatory video summary, the Musk clips are stronger on engineering sequence and product-cost logic, while the explanatory source is stronger on the analogy-versus-first-principles distinction and on first principles as a defense against authority-backed bad assumptions.
 
 # Gaps
 
@@ -83,6 +91,7 @@ The current source base supports a ten-part framework:
 - The current vault still needs stronger counterexamples showing when redundancy, safety margins, or formal process should override deletion-first instincts.
 - The branch needs broader evidence on how this algorithm performs outside high-control engineering environments.
 - The Andreessen source adds a neighboring uncertainty: some organizations may not reduce to one dominant bottleneck cleanly enough for the weekly-rule framing to hold.
+- The new explanatory source also raises a scope question: how far should first-principles rhetoric be extended into public-belief disputes before domain-specific expertise and evidence review matter more than reductive reasoning style alone?
 
 # Related Pages
 
@@ -96,3 +105,4 @@ The current source base supports a ten-part framework:
 - [[wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving|Elon Musk's Approach to Problem-Solving]]
 - [[wiki/sources/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity|Marc Andreessen Shares How Elon Musk Achieves Hyper Productivity]]
 - [[wiki/sources/2026-04-13-how-elon-musk-solves-problems|How Elon Musk solves problems]]
+- [[wiki/sources/2026-04-13-first-principles-elon-musks-method-of-thinking|First Principles: Elon Musk's Method of Thinking]]

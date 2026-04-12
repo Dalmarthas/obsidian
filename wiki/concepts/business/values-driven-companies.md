@@ -16,6 +16,7 @@ source_pages:
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/sources/2026-04-10-simon-sinek-golden-circle-framework.md
   - wiki/sources/2026-04-11-seth-godin-everything-you-probably-dont-know-about-marketing.md
+  - wiki/sources/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/leadership/organizational-culture.md
@@ -52,6 +53,18 @@ Values-driven companies are organizations that explicitly try to align commercia
   - the brand becomes stronger when it honors people and ideals it genuinely admires rather than describing itself only through product utility
 - The newer Seth Godin marketing source adds a responsibility layer: modern marketers have enough leverage to affect culture directly, so choosing manipulative or cynical tactics is not just a style decision but a values decision.
 - That same source also adds a mission filter: values-driven work does not require serving everyone, but it does require being genuinely `true to some` and clear about the change the company seeks to make for a specific group.
+- The newer Chesky conversation adds a sharper behavioral filter:
+  - culture is values plus behavior, not perks or slogans
+  - real values should repel some candidates and attract others rather than blandly pleasing everyone
+  - recruiting should therefore describe difficulty and standards honestly enough that people self-select truthfully
+- That same source also adds a crisis-proofing test:
+  - the real question is not whether a company talks about values in growth periods
+  - it is whether those values remain legible during layoffs, simplification, and cash-preservation pressure
+  - humane treatment under contraction becomes proof that the values system is real
+- It further sharpens the product-side meaning of values:
+  - a values-driven company should still anchor itself in whether customers truly love and repeatedly use what it makes
+  - values are not a substitute for product meaning
+  - they are part of how the company decides what kind of customer relationship and internal conduct are worth building
 
 # Source Comparisons
 
@@ -61,6 +74,7 @@ Values-driven companies are organizations that explicitly try to align commercia
 - Simon Sinek is strongest on purpose articulation: values need to be expressible as a coherent cause that organizes message order, audience loyalty, and internal alignment.
 - Steve Jobs is strongest on values made iconic: he shows how a company in strategic trouble can recover part of its identity by returning to one durable belief and expressing it through memorable symbols rather than internal mission language alone.
 - Seth Godin is strongest on marketer responsibility: values show up in whether the company races to the top culturally or accepts a race to the bottom because it measures only what is easy and immediate.
+- Chesky is strongest on values as selection and crisis behavior: he turns values from aspirational language into a hiring filter, a simplification filter, and a humane-conduct test during pain.
 
 # Tensions / Open Questions
 
@@ -68,6 +82,7 @@ Values-driven companies are organizations that explicitly try to align commercia
 - Financial stress tests this concept brutally: the hard question is not whether values matter in good times, but what remains intact when conditions worsen.
 - The Sinek source adds a second test: even before crisis, values may already be hollow if the firm cannot explain its `why` in a way that meaningfully shapes `how` and `what`.
 - The Seth source adds a neighboring tension: mission language can still be self-flattering if the company claims cultural virtue while using targeting, channel strategy, or measurement in ways that degrade trust and dignity.
+- The Chesky source adds another tension: values that are intentionally somewhat polarizing can strengthen coherence, but they can also narrow the talent pool or rationalize an unnecessarily punishing culture if leaders mistake harshness for honesty.
 
 # Related Pages
 
@@ -76,6 +91,8 @@ Values-driven companies are organizations that explicitly try to align commercia
 - [[wiki/concepts/business/golden-circle|Golden Circle]]
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/entities/brian-chesky|Brian Chesky]]
+- [[wiki/sources/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky|The Secret Art of Micromanagement with Airbnb CEO Brian Chesky]]
 - [[wiki/syntheses/business/simon-sinek-golden-circle-framework|Simon Sinek Golden Circle Framework]]
 - [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]
 - [[wiki/syntheses/business/steve-jobs-think-different-framework|Steve Jobs Think Different Framework]]

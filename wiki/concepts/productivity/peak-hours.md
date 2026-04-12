@@ -15,6 +15,7 @@ source_pages:
   - wiki/sources/2026-04-10-andrew-huberman-morning-routine.md
   - wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula.md
   - wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine.md
+  - wiki/sources/2026-04-13-how-to-improve-your-attention-and-focus.md
 related:
   - wiki/concepts/communication/timing-and-sequencing.md
   - wiki/concepts/health/circadian-alignment.md
@@ -24,6 +25,7 @@ related:
   - wiki/concepts/productivity/workflow-redesign.md
   - wiki/syntheses/health/andrew-huberman-morning-framework.md
   - wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework.md
+  - wiki/syntheses/productivity/attention-and-focus-framework.md
 ---
 
 # What It Is
@@ -47,6 +49,10 @@ Peak hours is the principle of identifying the period of the day when one's atte
   - important choices should happen during the person's strongest hours
   - lower-quality cognitive periods should not be used for the day's highest-signal work
   - the window matters because signal is partly defined by decision quality, not only by calendar priority
+- The new Huberman-Groh focus source adds an attentional-entry refinement:
+  - a prime window is not enough by itself if sensory competition remains too high
+  - peak hours are used best when the environment is narrow enough for attention to settle into a trench
+  - the page now distinguishes a good time of day from the conditions needed to convert that time into real focus
 
 # Source Comparisons
 
@@ -64,6 +70,7 @@ Peak hours is the principle of identifying the period of the day when one's atte
 - The branch still needs stronger contrast sources on how peak-hour logic changes in collaborative, managerial, or service-heavy work.
 - The newer source also sharpens an equity problem: many routines that optimize the first hours of the day assume schedule control, outdoor access, and minimal caregiving or commute friction.
 - The Peterson source adds another unresolved question: when does protecting peak hours imply a hard stop on deep-work quantity rather than simply moving more work into that window?
+- The new focus source adds a neighboring question: how much of a failed peak block is really bad timing, and how much is poor sensory gating or failure to tolerate the uncomfortable first minutes of entry?
 
 # Related Pages
 
@@ -74,6 +81,7 @@ Peak hours is the principle of identifying the period of the day when one's atte
 - [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
 - [[wiki/concepts/productivity/signal-to-noise-ratio|Signal-to-Noise Ratio]]
 - [[wiki/syntheses/health/andrew-huberman-morning-framework|Andrew Huberman Morning Framework]]
+- [[wiki/syntheses/productivity/attention-and-focus-framework|Attention and Focus Framework]]
 - [[wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework|Daniel Pink Sustainable Productivity Framework]]
 - [[wiki/sources/2026-04-10-daniel-pink-productivity-wisdom|Daniel Pink Productivity Wisdom]]
 - [[wiki/sources/2026-04-10-andrew-huberman-morning-routine|Andrew Huberman Morning Routine]]
