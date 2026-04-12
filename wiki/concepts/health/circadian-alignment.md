@@ -2,7 +2,7 @@
 type: concept
 title: Circadian Alignment
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-12
 status: active
 tags:
   - concept
@@ -12,6 +12,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-08-rhonda-patrick-sleep-tips.md
   - wiki/sources/2026-04-10-andrew-huberman-morning-routine.md
+  - wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine.md
 related:
   - wiki/entities/andrew-huberman.md
   - wiki/entities/rhonda-patrick.md
@@ -40,23 +41,27 @@ Circadian alignment is the practice of giving the body strong time-of-day signal
 - For shift workers, the branch suggests artificial bright light when daylight exposure is unavailable.
 - Late eating, alcohol, and caffeine are framed partly as circadian disruptors because they disturb temperature and hormonal timing.
 - The Huberman source adds a sequence layer around circadian support: hydration first, delayed caffeine later, and early light as the opening move that helps set downstream focus and energy.
+- [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine]] adds a simpler behavioral emphasis: if the system is chaotic, consistent wake time may be the most practical anchor even before a person perfects every other sleep-hygiene variable.
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/health/sleep-quality|Sleep Quality]], this page focuses on one major lever rather than the whole system.
 - Compared with [[wiki/concepts/health/nighttime-awakenings|Nighttime Awakenings]], circadian alignment is more preventive and systemic, while nighttime awakenings is more diagnostic and symptom-centered.
 - Compared with [[wiki/concepts/productivity/peak-hours|Peak Hours]], circadian alignment works further upstream: it helps shape the physiological conditions that make a prime cognitive window more likely to exist.
+- The newer Peterson source pushes the concept toward a `stability first` framing: wake-time consistency is justified less by physiology education and more by the need to stop daily chaos from cascading into anxiety and low function.
 
 # Tensions / Open Questions
 
 - Circadian advice is powerful, but it can be hard to apply in real lives shaped by childcare, travel, or shift work.
 - One open question is how much improvement can usually be won through light/dark timing alone before medical investigation becomes the more important move.
 - The newer source also raises a practical boundary question: which elements belong to foundational circadian care and which are optional performance tweaks for relatively privileged schedules?
+- The Peterson source also adds a behavioral-compliance question: for unstable lives, is fixed wake time the highest-yield first move even when bedtime remains imperfect for a while?
 
 # Related Pages
 
 - [[wiki/sources/2026-04-08-rhonda-patrick-sleep-tips|Rhonda Patrick Sleep Tips]]
 - [[wiki/sources/2026-04-10-andrew-huberman-morning-routine|Andrew Huberman Morning Routine]]
+- [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]]
 - [[wiki/entities/andrew-huberman|Andrew Huberman]]
 - [[wiki/entities/rhonda-patrick|Rhonda Patrick]]
 - [[wiki/concepts/health/sleep-quality|Sleep Quality]]

@@ -14,6 +14,7 @@ source_pages:
   - wiki/sources/2026-04-12-authenticity-starts-with-knowing-your-why.md
   - wiki/sources/2026-04-11-values-motivation-and-sustainable-self-improvement.md
   - wiki/sources/2026-04-11-matthew-mcconaughey-on-fame-commitment-and-meaning.md
+  - wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable.md
 related:
   - wiki/concepts/leadership/locus-of-control.md
   - wiki/concepts/leadership/meaning-through-responsibility.md
@@ -21,6 +22,7 @@ related:
   - wiki/concepts/leadership/growth-mindset.md
   - wiki/concepts/leadership/owners-mentality.md
   - wiki/concepts/productivity/future-self-prioritization.md
+  - wiki/concepts/productivity/value-hierarchy.md
   - wiki/syntheses/leadership/values-driven-motivation-framework.md
 ---
 
@@ -42,6 +44,7 @@ Values-driven action is the principle of organizing difficult effort around stab
 - The source adds a practical filter: in hard moments, values help ask whether progress or comfort matters more, and whether tomorrow's self is more likely to feel pride or regret.
 - It also adds an anti-avoidance rule: imperfect early application is usually more growth-producing than waiting until the self-image feels ready.
 - The Matthew McConaughey source deepens the stakes of the concept by showing values in collision with fame, money, and typecast identity. In that branch, values-driven action may require visible sacrifice and tolerated uncertainty, not just inner clarity.
+- [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable]] adds a governance layer: values do not only motivate action, they may also need to be ranked into a working hierarchy so competing drives can be organized instead of fought impulsively.
 - The newer Simon Sinek source adds a discovery-and-alignment layer:
   - values-driven action may begin with naming the one recurring contribution or `why` that runs through multiple life domains
   - authenticity then means choosing contexts that allow that contribution to be expressed more often and more fully
@@ -53,6 +56,7 @@ Values-driven action is the principle of organizing difficult effort around stab
 
 - Compared with [[wiki/concepts/leadership/locus-of-control|Locus of Control]], this concept is more motivationally vertical than causal. Locus of control asks whether action matters; values-driven action asks which kind of action deserves commitment.
 - Compared with [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]], this page is less duty-centered and more internally chosen. Responsibility emphasizes burden accepted; values-driven action emphasizes alignment between effort and what the person actually stands for.
+- Compared with [[wiki/concepts/productivity/value-hierarchy|Value Hierarchy]], this page is broader and more motivational. Values-driven action explains why effort is worth choosing; value hierarchy explains how those values get ranked when daily conflicts appear.
 - Compared with the newer Simon Sinek source, this page is broader and less identity-specific. The Simon layer is narrower: it argues for one stable `why` and offers a method for surfacing it through relational feedback and emotional resonance.
 - Compared with [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], this page is narrower and more foundational. High-performance mindset includes pressure, recovery, and standards; values-driven action focuses on the motivational substrate underneath them.
 - Compared with [[wiki/concepts/leadership/growth-mindset|Growth Mindset]], this concept is less about whether ability can improve and more about what source of motivation remains stable enough to keep improvement going.
@@ -76,4 +80,5 @@ Values-driven action is the principle of organizing difficult effort around stab
 - [[wiki/concepts/leadership/growth-mindset|Growth Mindset]]
 - [[wiki/concepts/leadership/owners-mentality|Owner's Mentality]]
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
+- [[wiki/concepts/productivity/value-hierarchy|Value Hierarchy]]
 - [[wiki/syntheses/leadership/values-driven-motivation-framework|Values-Driven Motivation Framework]]

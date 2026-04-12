@@ -2,7 +2,7 @@
 type: concept
 title: Peak Hours
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-12
 status: active
 tags:
   - concept
@@ -13,11 +13,13 @@ tags:
 source_pages:
   - wiki/sources/2026-04-10-daniel-pink-productivity-wisdom.md
   - wiki/sources/2026-04-10-andrew-huberman-morning-routine.md
+  - wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine.md
 related:
   - wiki/concepts/communication/timing-and-sequencing.md
   - wiki/concepts/health/circadian-alignment.md
   - wiki/concepts/productivity/samoupravlenie.md
   - wiki/concepts/productivity/uchet-vremeni.md
+  - wiki/concepts/productivity/workflow-redesign.md
   - wiki/syntheses/health/andrew-huberman-morning-framework.md
   - wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework.md
 ---
@@ -38,6 +40,7 @@ Peak hours is the principle of identifying the period of the day when one's atte
 - That source treats distractions during peak hours as especially costly because they waste the highest-value mental window.
 - The same source links peak-hour protection to time-boxing and ruthless prioritization, not just to personal preference.
 - The Huberman source adds a more physiological precondition model: morning light, delayed caffeine, hydration, and early distraction control are treated as ways of helping the day's first strong focus window emerge more reliably.
+- [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine]] adds a `capacity ceiling` refinement: protecting peak hours is not only about using the best time first, but also about admitting that extremely intense writing or editing may stay high-quality for only a few hours before error rate rises.
 
 # Source Comparisons
 
@@ -45,6 +48,7 @@ Peak hours is the principle of identifying the period of the day when one's atte
 - Compared with [[wiki/concepts/productivity/uchet-vremeni|Uchet Vremeni]], this page focuses less on measuring all time and more on protecting the specific slice that matters most.
 - Compared with [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]], peak hours is a narrower operational lever inside the broader self-management system.
 - Compared with [[wiki/concepts/health/circadian-alignment|Circadian Alignment]], peak hours is less about sleep and hormonal timing themselves and more about converting those biological conditions into actual protected cognitive work.
+- Compared with [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]], peak hours answers `when should the hardest work happen?` while workflow redesign answers `how can the work itself become less wasteful before it is scheduled?`
 
 # Tensions / Open Questions
 
@@ -52,6 +56,7 @@ Peak hours is the principle of identifying the period of the day when one's atte
 - Chronotype awareness can become self-flattering mythology if it is not tested against actual output quality.
 - The branch still needs stronger contrast sources on how peak-hour logic changes in collaborative, managerial, or service-heavy work.
 - The newer source also sharpens an equity problem: many routines that optimize the first hours of the day assume schedule control, outdoor access, and minimal caregiving or commute friction.
+- The Peterson source adds another unresolved question: when does protecting peak hours imply a hard stop on deep-work quantity rather than simply moving more work into that window?
 
 # Related Pages
 
@@ -59,7 +64,9 @@ Peak hours is the principle of identifying the period of the day when one's atte
 - [[wiki/concepts/health/circadian-alignment|Circadian Alignment]]
 - [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
 - [[wiki/concepts/productivity/uchet-vremeni|Uchet Vremeni]]
+- [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
 - [[wiki/syntheses/health/andrew-huberman-morning-framework|Andrew Huberman Morning Framework]]
 - [[wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework|Daniel Pink Sustainable Productivity Framework]]
 - [[wiki/sources/2026-04-10-daniel-pink-productivity-wisdom|Daniel Pink Productivity Wisdom]]
 - [[wiki/sources/2026-04-10-andrew-huberman-morning-routine|Andrew Huberman Morning Routine]]
+- [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]]

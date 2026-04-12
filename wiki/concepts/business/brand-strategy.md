@@ -9,6 +9,7 @@ tags:
   - brand
   - strategy
 source_pages:
+  - wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts.md
   - wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why.md
   - wiki/sources/2026-04-12-seth-godin-reveals-5-secrets-for-great-brand-marketing.md
   - wiki/sources/2026-04-12-seth-godin-marketing-strategies-that-work.md
@@ -42,6 +43,7 @@ related:
   - wiki/syntheses/business/harry-dry-copywriting-framework.md
   - wiki/syntheses/business/rory-sutherland-marketing-framework.md
   - wiki/syntheses/business/seth-godin-remarkable-marketing-framework.md
+  - wiki/syntheses/business/steve-jobs-think-different-framework.md
 ---
 
 # What It Is
@@ -73,6 +75,13 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
   - strong brand strategy is not only what you say yes to, but what kinds of customers and conversations you decline
   - belief-fit among early adopters can create denser referrals than broader but weaker-fit customer acquisition
   - a brand can therefore strengthen by refusing to chase majority-style reassurance too early
+- The Steve Jobs `Think Different` source adds a values-over-features rule:
+  - in noisy categories, brands are remembered more for what they stand for than for detailed specification talk
+  - strategy therefore has to define a small set of beliefs and symbols the brand can express repeatedly
+  - product simplification helps branding because customers can understand both the offer and the identity more easily
+- That same source also adds a continuity rule:
+  - products, channels, and execution can change substantially
+  - but strong brand strategy re-expresses enduring values instead of inventing a new self every cycle
 - The Seth Godin source adds an audience-selection rule: strategy strengthens when the brand chooses a smallest viable audience rather than chasing broad average acceptability.
 - That source also adds a permission test: strong brand strategy is not just remembered, but missed when absent.
 - The newer Seth brand source adds a trust-density test: attention is only strategically useful when the audience trusts the story enough to believe it, repeat it, and attach some of its meaning to themselves.
@@ -96,6 +105,7 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - Harry Dry is strongest on translating strategy into lines the market can actually remember and trust: a differentiated claim is not strategically complete until it becomes specific written language.
 - Rory Sutherland is strongest on strategic asymmetry and perceived value: why framing, neglected dimensions, and psychologically meaningful distinctions can outperform obvious optimization.
 - Simon Sinek is strongest on purpose sequencing: why-first communication explains how belief becomes emotionally legible before copy specificity or perception design does their work.
+- Steve Jobs is strongest on values dramatization under turnaround pressure: he shows how a damaged brand can be clarified by reasserting its core belief publicly and by refusing feature-led communication in favor of identity and cultural alignment.
 - The newer Simon `Engage and Inspire` source is strongest on strategic exclusion: it shows how purpose-first positioning can be used to qualify buyers and protect early-stage coherence rather than merely improve message elegance.
 - Seth Godin is strongest on audience courage: he reframes strategy as a decision to become remarkable to a specific tribe rather than acceptable to everyone.
 - The newer Seth source is strongest on trust-aware spread: it clarifies how a brand becomes magnetic when the story is true enough, specific enough, and consistently delivered enough that customers voluntarily carry it to others.
@@ -141,3 +151,4 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - [[wiki/syntheses/business/harry-dry-copywriting-framework|Harry Dry Copywriting Framework]]
 - [[wiki/syntheses/business/rory-sutherland-marketing-framework|Rory Sutherland Marketing Framework]]
 - [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]
+- [[wiki/syntheses/business/steve-jobs-think-different-framework|Steve Jobs Think Different Framework]]

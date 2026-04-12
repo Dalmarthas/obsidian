@@ -18,6 +18,7 @@ related:
   - wiki/concepts/productivity/conscientiousness.md
   - wiki/concepts/productivity/fear-goal-programming.md
   - wiki/concepts/productivity/behavior-journaling.md
+  - wiki/concepts/productivity/value-hierarchy.md
   - wiki/concepts/productivity/willpower.md
   - wiki/concepts/leadership/values-driven-action.md
   - wiki/concepts/leadership/high-performance-mindset.md
@@ -46,6 +47,7 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control]] adds a more explicitly behavioral version of the same idea: future-self vividness changes procrastination, ethics, and long-term restraint, and can be strengthened through visualization and letter-writing exercises rather than through slogans alone.
 - The newer values-focused source adds a motive filter that sits adjacent to the same logic: future-self care becomes easier to sustain when the effort is anchored to values that matter, not only to abstract ideals of discipline or superiority.
 - [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson]] adds a broader life-architecture version of the same principle: define a 3 to 5 year future across core domains, then connect daily actions to that future through micro-processes and a negotiated schedule.
+- [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable]] adds an upstream ordering layer: future-self prioritization works better when short-term impulses are already governed by a stable value hierarchy rather than argued with one by one.
 
 # Source Comparisons
 
@@ -54,6 +56,7 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - The later Chase Hughes behavioral-framework source keeps the same rule but gives it more environmental and emotional infrastructure through dopamine remapping and care-for-future-you rituals.
 - The Kelly McGonigal source is less identity-engineering-oriented than Hughes and more interested in how future-self connection changes concrete self-control outcomes such as procrastination, saving, and temptation resistance.
 - The Peterson source is less cue-design-heavy than Hughes and less lapse-recovery-focused than McGonigal. Its distinct layer is using a vivid multi-domain future to build conscientiousness and make scheduled effort feel worth cooperating with.
+- The newer Peterson discipline source sharpens where that future-oriented logic sits: it is one concrete expression of a broader value hierarchy rather than the whole of discipline by itself.
 - Compared with [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]], future-self prioritization is more temporal and tactical. Values-driven action explains why the future is worth serving; this page explains how to choose that future in everyday conflicts with present comfort.
 
 # Tensions / Open Questions
@@ -70,6 +73,7 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - [[wiki/concepts/productivity/fear-goal-programming|FEAR Goal Programming]]
 - [[wiki/concepts/productivity/conscientiousness|Conscientiousness]]
 - [[wiki/concepts/productivity/behavior-journaling|Behavior Journaling]]
+- [[wiki/concepts/productivity/value-hierarchy|Value Hierarchy]]
 - [[wiki/concepts/productivity/willpower|Willpower]]
 - [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
@@ -79,3 +83,4 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - [[wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self|Chase Hughes Goal Programming and Future Self]]
 - [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control|Kelly McGonigal Willpower and Self-Control]]
 - [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson|What To Do To Be Successful Jordan B Peterson]]
+- [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable|Being Disciplined Will Make You Unstoppable]]

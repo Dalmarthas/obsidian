@@ -2,7 +2,7 @@
 type: synthesis
 title: Jordan Peterson Responsibility Framework
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-04-12
 status: active
 tags:
   - synthesis
@@ -13,6 +13,8 @@ tags:
 question: What reusable responsibility framework does the current Jordan Peterson source add to the vault?
 basis:
   - wiki/sources/2026-04-11-jordan-peterson-wasting-time-and-responsibility.md
+  - wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive.md
+  - wiki/sources/2026-04-12-jordan-peterson-sorting-your-life.md
   - wiki/concepts/leadership/meaning-through-responsibility.md
   - wiki/concepts/leadership/locus-of-control.md
   - wiki/concepts/leadership/high-performance-mindset.md
@@ -27,7 +29,7 @@ What reusable responsibility framework does the current Jordan Peterson source a
 
 # Answer
 
-The source adds a five-part framework:
+The Peterson responsibility branch now adds a seven-part framework:
 
 1. Audit where life is leaking away.
    Time-wasting is not trivial drift. It is measurable lost potential and often a disguised avoidance pattern.
@@ -44,9 +46,15 @@ The source adds a five-part framework:
 5. Replace nihilistic ease with chosen responsibility.
    Avoidance can reduce short-term strain, but over time it produces emptier suffering than the difficult life built around contribution.
 
+6. Start reform where you actually live.
+   Responsibility is not only abstract moral seriousness. It begins with putting local environment and recurring routines into better order, even when that exposes surrounding dysfunction or resistance.
+
+7. Carry the burden at a sustainable dose.
+   The right responsibility exposes weakness, forces correction, and generates meaning without becoming so chaotic that the person collapses into exhaustion or bitterness.
+
 # Basis
 
-- Main source: [[wiki/sources/2026-04-11-jordan-peterson-wasting-time-and-responsibility|Jordan Peterson Wasting Time and Responsibility]]
+- Main sources: [[wiki/sources/2026-04-11-jordan-peterson-wasting-time-and-responsibility|Jordan Peterson Wasting Time and Responsibility]], [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive|Jordan Peterson Becoming Highly Efficient and Productive]], [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]]
 - Canonical concepts: [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]], [[wiki/concepts/leadership/locus-of-control|Locus of Control]], [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 
 # Comparisons
@@ -54,12 +62,16 @@ The source adds a five-part framework:
 - Compared with [[wiki/syntheses/leadership/locus-of-control-motivation-framework|Locus of Control Motivation Framework]], Peterson is less about attribution style and more about the moral and existential consequences of what one does with agency once it is felt.
 - Compared with [[wiki/syntheses/leadership/mark-manson-reinvention-framework|Mark Manson Reinvention Framework]], Peterson is less permissive toward drift and more insistent that avoidance itself is part of the problem to confront directly.
 - Compared with [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], Peterson is less elite-performance oriented and more concerned with whether a person stops actively making life worse before trying to optimize it.
+- The newer source makes the framework less purely burden-maximizing than it first looked: mature responsibility includes knowing how much chaos to accept, when to recover, and how to avoid turning growth into self-destruction.
+- The newest source makes the framework more local and domestic than it first looked: responsibility is not only about big burdens, but about cleaning up immediate surroundings and redesigning repetitive interactions that silently shape family and relational life.
 
 # Gaps
 
 - The source is stronger on exhortation than on differentiated intervention for burnout, depression, or structurally trapped people.
 - The vault still lacks a dedicated concept page on conscience or self-sabotage, both of which matter here.
 - More sources are needed to distinguish healthy responsibility from compulsive over-responsibility.
+- The newer source helps, but the branch still lacks better practical rules for distinguishing courageous burden from grandiose overload.
+- The newest source also raises a practical prioritization question: which mundane recurring interactions should be treated as highest-leverage targets for life repair?
 
 # Related Pages
 
@@ -69,3 +81,5 @@ The source adds a five-part framework:
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/concepts/leadership/feeling-lost-as-transition|Feeling Lost as Transition]]
 - [[wiki/sources/2026-04-11-jordan-peterson-wasting-time-and-responsibility|Jordan Peterson Wasting Time and Responsibility]]
+- [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive|Jordan Peterson Becoming Highly Efficient and Productive]]
+- [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]]

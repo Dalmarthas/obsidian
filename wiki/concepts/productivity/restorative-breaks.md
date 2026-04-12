@@ -2,7 +2,7 @@
 type: concept
 title: Restorative Breaks
 created: 2026-04-10
-updated: 2026-04-11
+updated: 2026-04-12
 status: active
 tags:
   - concept
@@ -14,7 +14,10 @@ source_pages:
   - wiki/sources/2026-04-10-daniel-pink-productivity-wisdom.md
   - wiki/sources/2026-04-10-difficult-rewarding-behaviors-and-dopamine-regulation.md
   - wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn.md
+  - wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive.md
+  - wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine.md
 related:
+  - wiki/concepts/productivity/calibrated-challenge.md
   - wiki/concepts/leadership/buoyancy.md
   - wiki/concepts/productivity/dopamine-regulation.md
   - wiki/concepts/productivity/samoupravlenie.md
@@ -41,10 +44,13 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - The same source uses elite-practice examples to argue that high performance depends on recovery rhythm, not nonstop effort.
 - The dopamine-regulation source adds a stronger caution about pseudo-rest: many `breaks` are actually fast-reward overstimulation that depletes the motivation needed for slower, more meaningful effort afterward.
 - The Oakley learning source adds a more cognitive role for breaks: walking away, napping, or sleeping after effort can support `diffuse mode` integration and insight rather than serving only as recovery.
+- [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive]] adds a stronger long-horizon and calendar-design claim: pre-scheduled multi-day recovery can increase total output over time when the real target is a sustainable multi-decade career rather than one overloaded stretch.
+- [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine]] adds a shorter-cycle version of the same logic: 10 to 15 minute naps can serve as tactical resets that restore enough energy to preserve work quality without pretending the mind is indefinitely rechargeable.
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/leadership/buoyancy|Buoyancy]], this concept is less about handling rejection and more about preserving capacity before performance degrades.
+- Compared with [[wiki/concepts/productivity/calibrated-challenge|Calibrated Challenge]], restorative breaks govern the recovery side of the equation while calibrated challenge governs the dosage of stress and difficulty.
 - Compared with [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]], restorative breaks are one concrete design choice inside a broader self-management model.
 - The current source is stronger on sustainability than earlier productivity pages, which leaned more on control, tracking, and prioritization.
 - The newer dopamine source sharpens the distinction between restoration and stimulation: not every pleasurable pause restores, and some quick hits actively worsen the next work block.
@@ -56,10 +62,12 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - Not every work environment allows ideal breaks, which creates a gap between the model and many real schedules.
 - The branch still needs clearer material on break length, frequency, and how recovery rules differ by task type.
 - The newer source adds another risk: people may call a dopamine spike `recovery` even when it predictably leaves them flatter, more distractible, and less willing to re-enter difficult work.
+- The Peterson routine source adds a more tactical question: when is a short nap genuinely restorative, and when is it a sign that the broader sleep and workload system is already badly mis-sized?
 
 # Related Pages
 
 - [[wiki/concepts/leadership/buoyancy|Buoyancy]]
+- [[wiki/concepts/productivity/calibrated-challenge|Calibrated Challenge]]
 - [[wiki/concepts/productivity/dopamine-regulation|Dopamine Regulation]]
 - [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
 - [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]]
@@ -69,3 +77,5 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - [[wiki/sources/2026-04-10-daniel-pink-productivity-wisdom|Daniel Pink Productivity Wisdom]]
 - [[wiki/sources/2026-04-10-difficult-rewarding-behaviors-and-dopamine-regulation|Difficult Rewarding Behaviors and Dopamine Regulation]]
 - [[wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn|Barbara Oakley Learning How to Learn]]
+- [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive|Jordan Peterson Becoming Highly Efficient and Productive]]
+- [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]]

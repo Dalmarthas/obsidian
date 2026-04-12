@@ -9,6 +9,8 @@ tags:
   - leadership
   - decision-making
 source_pages:
+  - wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson.md
+  - wiki/sources/2026-04-12-jordan-peterson-guide-to-leadership.md
   - wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont.md
   - wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe.md
   - wiki/sources/2026-04-12-seth-godin-leadership-vs-management-what-it-means-to-make-a-difference.md
@@ -29,11 +31,13 @@ related:
   - wiki/concepts/leadership/diverse-teams.md
   - wiki/concepts/communication/negotiation-and-mediation.md
   - wiki/concepts/leadership/leadership-communication.md
+  - wiki/concepts/leadership/character-based-leadership.md
   - wiki/concepts/filmmaking/showrunning.md
   - wiki/concepts/business/values-driven-companies.md
   - wiki/concepts/leadership/organizational-culture.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/leadership/trust-based-collaboration.md
+  - wiki/concepts/leadership/voluntary-cooperation.md
   - wiki/concepts/leadership/head-and-heart-harmony.md
   - wiki/concepts/leadership/emotional-intelligence.md
   - wiki/concepts/leadership/growth-mindset.md
@@ -43,6 +47,7 @@ related:
   - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/concepts/leadership/individualized-leadership.md
   - wiki/syntheses/leadership/clinton-leadership-framework.md
+  - wiki/syntheses/leadership/jordan-peterson-leadership-framework.md
   - wiki/syntheses/leadership/jurgen-klopp-leadership-framework.md
   - wiki/syntheses/leadership/simon-sinek-infinite-game-framework.md
   - wiki/syntheses/leadership/seth-godin-leadership-framework.md
@@ -82,6 +87,8 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Seth Godin adds a mode-switching version: management is useful for known processes, but leadership starts when someone takes responsibility for change without waiting for authority and uses enrollment, experimentation, and judgment rather than obedience alone.
 - The newest Simon TED source adds a protective-duty version: leadership is not mainly the privilege of rank, but the obligation to create safety, absorb risk first, and prevent people from being sacrificed to protect status or short-run numbers.
 - The newest `Leaders Eat Last` source adds a biological and incentive-design version: leadership quality is partly visible in whether the system over-rewards dopamine-style chasing of targets and status or supports trust, belonging, and outward-focused cooperation by lowering fear inside the institution.
+- The Jordan Peterson leadership source adds a narrative-and-consent version: leadership begins with an ethical destination, becomes legible through story, and works best when the organizational game is arranged so people can voluntarily accept their role in it rather than merely comply.
+- The newer Peterson character source adds a characterological version: leadership quality depends less on warmth or rank than on whether the leader is conscientious, trustworthy, and reliable enough that other people can orient themselves around what is said.
 
 # Source Comparisons
 
@@ -99,6 +106,8 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Goleman is strongest on leadership as emotional architecture: IQ may open the door, but self-mastery and social intelligence often decide whether people can lead effectively once complexity and pressure rise.
 - Dweck is strongest on leadership as developmental framing: leaders shape whether challenge becomes an invitation to grow or a threat to identity for the people around them.
 - Seth Godin is strongest on leadership as responsibility under uncertainty: the central question is not who has the title, but who is willing to own direction, invite volunteers, and proceed without a complete map.
+- Peterson is strongest on leadership as ethical destination plus shared story: before systems, incentives, or team chemistry, the leader has to know what game is worth playing and why anyone should freely join it.
+- The newer Peterson character source is strongest on leadership as durable reliability: before style, charisma, or even motivation tactics, people need to know whether the leader's words can be trusted across time.
 - Both reject leadership as theater. Each favors clarity, candor, and responsibility over performative certainty.
 
 # Tensions / Open Questions
@@ -114,6 +123,8 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Godin adds a role-confusion tension: many institutions say they want leadership while rewarding only compliance, spec-meeting, and deference to existing authority.
 - The newest Simon TED source adds a legitimacy tension: formal authority can be granted instantly, but felt leadership depends on whether people experience real protection and reciprocity over time.
 - The newest `Leaders Eat Last` source adds an evidence tension: the biological framing is clarifying and memorable, but the vault should be careful not to treat metaphorical chemistry language as more empirically settled than the summary justifies.
+- The Peterson source adds a consent tension: organizations often speak as if participation is voluntary while relying on economic dependence, hierarchy, and mission language that may weaken the reality of free acceptance.
+- The newer Peterson character source adds a style tension: a reliable hard-edged leader may outperform an unreliable warm one, but the vault still needs better criteria for when harsh consistency becomes culturally damaging enough to negate its coordinating value.
 
 # Related Pages
 
@@ -122,11 +133,13 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/concepts/leadership/character-based-leadership|Character-Based Leadership]]
 - [[wiki/concepts/filmmaking/showrunning|Showrunning]]
 - [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
 - [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/voluntary-cooperation|Voluntary Cooperation]]
 - [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
 - [[wiki/concepts/leadership/emotional-intelligence|Emotional Intelligence]]
 - [[wiki/concepts/leadership/growth-mindset|Growth Mindset]]
@@ -136,6 +149,7 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/concepts/leadership/individualized-leadership|Individualized Leadership]]
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
+- [[wiki/syntheses/leadership/jordan-peterson-leadership-framework|Jordan Peterson Leadership Framework]]
 - [[wiki/syntheses/leadership/jurgen-klopp-leadership-framework|Jurgen Klopp Leadership Framework]]
 - [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
 - [[wiki/syntheses/leadership/seth-godin-leadership-framework|Seth Godin Leadership Framework]]

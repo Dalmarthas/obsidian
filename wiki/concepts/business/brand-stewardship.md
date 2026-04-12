@@ -2,13 +2,14 @@
 type: concept
 title: Brand Stewardship
 created: 2026-04-08
-updated: 2026-04-11
+updated: 2026-04-12
 status: active
 tags:
   - concept
   - brand
   - strategy
 source_pages:
+  - wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
@@ -22,6 +23,7 @@ related:
   - wiki/syntheses/business/iger-strategy-framework.md
   - wiki/syntheses/business/schultz-values-driven-leadership-framework.md
   - wiki/syntheses/business/seth-godin-remarkable-marketing-framework.md
+  - wiki/syntheses/business/steve-jobs-think-different-framework.md
 ---
 
 # What It Is
@@ -40,6 +42,10 @@ Brand stewardship is the long-term management of a brand's meaning, audience rel
 - Iger repeatedly argues that acquired brands like Marvel or Star Wars should keep their own identity rather than being sanitized into Disney sameness.
 - Goodby Silverstein adds the campaign-side view: strong work starts from what a brand truly stands for and fails when that truth is faked.
 - Schultz adds the trust-and-pride layer: a brand is also shaped by how employees are treated, whether the company behaves consistently with its values, and whether new moves stay inside brand-equity guardrails.
+- The Steve Jobs `Think Different` source adds a re-expression layer:
+  - stewardship during a turnaround is not inventing a new identity from scratch
+  - it is returning to the company's enduring values and expressing them in a cleaner, more memorable way
+  - that same source also ties stewardship to product simplification, because the brand weakens when the portfolio becomes too confusing to symbolize anything clearly
 - The newer Seth Godin source adds a promise-keeping layer: a brand is the expectation people have about the next interaction, which means stewardship includes making that expectation reliable over time rather than just keeping visual identity stable.
 - That same source also makes trust more measurable: if people do not refer others, return, or act as if the promise is worth carrying forward, the brand may have attention without stewardship-grade trust.
 - Together the sources imply that stewardship requires both strategic protection and truthful communication.
@@ -49,6 +55,7 @@ Brand stewardship is the long-term management of a brand's meaning, audience rel
 - Iger works at the enterprise and portfolio level: protect brand essence, balance heritage with innovation, and avoid short-term damage for temporary gain.
 - Goodby Silverstein works at the communication level: clarify what the brand stands for and build ideas from that truth rather than from generic persuasion tricks.
 - Schultz works at the lived-company level: brand meaning is inseparable from culture, customer pride, and the discipline of entering new categories only when the company has earned the right.
+- Steve Jobs works at the turnaround-expression level: when the brand has drifted, stewardship can require a public restatement of core belief powerful enough to reorganize both internal morale and external perception.
 - Seth Godin works at the expectation level: stewardship succeeds when the promise becomes clear enough and consistent enough that customers trust it, miss it when absent, and spread it voluntarily.
 
 # Tensions / Open Questions
@@ -67,3 +74,4 @@ Brand stewardship is the long-term management of a brand's meaning, audience rel
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]
 - [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]
+- [[wiki/syntheses/business/steve-jobs-think-different-framework|Steve Jobs Think Different Framework]]

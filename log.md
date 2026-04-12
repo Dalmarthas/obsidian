@@ -3129,3 +3129,174 @@ Pages touched:
 - [[wiki/entities/jordan-peterson]]
 - [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]]
 - [[index]]
+
+## [2026-04-12 02:28] ingest | Jordan Peterson Becoming Highly Efficient and Productive
+
+Summary: Ingested a new English Jordan Peterson source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive]] plus a new concept page at [[wiki/concepts/productivity/calibrated-challenge]], and deepened [[wiki/concepts/productivity/restorative-breaks]], [[wiki/concepts/leadership/meaning-through-responsibility]], [[wiki/entities/jordan-peterson]], [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]], and [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework]] so the Peterson branch now captures calibrated challenge, planned recovery, and long-horizon productivity more explicitly.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive]]
+- [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive]]
+- [[wiki/concepts/productivity/calibrated-challenge]]
+- [[wiki/concepts/productivity/restorative-breaks]]
+- [[wiki/concepts/leadership/meaning-through-responsibility]]
+- [[wiki/entities/jordan-peterson]]
+- [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]]
+- [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework]]
+- [[index]]
+
+## [2026-04-12 21:10] ingest | Being Disciplined Will Make You Unstoppable
+
+Summary: Ingested a new English Jordan Peterson source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable]] plus a new concept page at [[wiki/concepts/productivity/value-hierarchy]], and deepened [[wiki/concepts/productivity/conscientiousness]], [[wiki/concepts/productivity/future-self-prioritization]], [[wiki/concepts/leadership/values-driven-action]], [[wiki/entities/jordan-peterson]], and [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]] so the Peterson productivity branch now captures discipline as internal governance under a ranked value structure rather than as brute-force suppression alone.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-being-disciplined-will-make-you-unstoppable]]
+- [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable]]
+- [[wiki/concepts/productivity/value-hierarchy]]
+- [[wiki/concepts/productivity/conscientiousness]]
+- [[wiki/concepts/productivity/future-self-prioritization]]
+- [[wiki/concepts/leadership/values-driven-action]]
+- [[wiki/entities/jordan-peterson]]
+- [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]]
+- [[index]]
+
+## [2026-04-12 21:19] ingest | Jordan Peterson Daily Productivity Routine
+
+Summary: Ingested a new English Jordan Peterson source and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine]] plus a new concept page at [[wiki/concepts/productivity/workflow-redesign]], and deepened [[wiki/concepts/productivity/peak-hours]], [[wiki/concepts/productivity/restorative-breaks]], [[wiki/concepts/health/circadian-alignment]], [[wiki/entities/jordan-peterson]], and [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]] so the Peterson productivity branch now captures physiological stability, tactical naps, a capacity-aware view of deep work, and deliberate workflow redesign.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-jordan-peterson-daily-productivity-routine]]
+- [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine]]
+- [[wiki/concepts/productivity/workflow-redesign]]
+- [[wiki/concepts/productivity/peak-hours]]
+- [[wiki/concepts/productivity/restorative-breaks]]
+- [[wiki/concepts/health/circadian-alignment]]
+- [[wiki/entities/jordan-peterson]]
+- [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]]
+- [[index]]
+
+## [2026-04-12 21:33] ingest | Jordan Peterson Sorting Your Life
+
+Summary: Ingested a new English Jordan Peterson source from `raw/` and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life]] plus a new concept page at [[wiki/concepts/productivity/environmental-order]], and deepened [[wiki/concepts/leadership/meaning-through-responsibility]], [[wiki/concepts/productivity/value-hierarchy]], [[wiki/entities/jordan-peterson]], [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework]], and [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]] so the Peterson branch now captures anti-hedonistic meaning, local order, and the leverage of repeated mundane routines.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-jordan-peterson-sorting-your-life]]
+- [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life]]
+- [[wiki/concepts/productivity/environmental-order]]
+- [[wiki/concepts/leadership/meaning-through-responsibility]]
+- [[wiki/concepts/productivity/value-hierarchy]]
+- [[wiki/entities/jordan-peterson]]
+- [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework]]
+- [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]]
+- [[index]]
+
+## [2026-04-12 21:39] ingest | Jordan Peterson Guide to Leadership
+
+Summary: Ingested a new English Jordan Peterson source from `raw/` and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-jordan-peterson-guide-to-leadership]], a new concept page at [[wiki/concepts/leadership/voluntary-cooperation]], and a new synthesis at [[wiki/syntheses/leadership/jordan-peterson-leadership-framework]]. Deepened [[wiki/concepts/leadership/leadership]], [[wiki/concepts/leadership/leadership-communication]], [[wiki/concepts/leadership/trust-based-collaboration]], and [[wiki/entities/jordan-peterson]] so the Peterson branch now captures ethical destination, narrative leadership, and voluntary cooperation more explicitly.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-jordan-peterson-guide-to-leadership]]
+- [[wiki/sources/2026-04-12-jordan-peterson-guide-to-leadership]]
+- [[wiki/concepts/leadership/voluntary-cooperation]]
+- [[wiki/syntheses/leadership/jordan-peterson-leadership-framework]]
+- [[wiki/concepts/leadership/leadership]]
+- [[wiki/concepts/leadership/leadership-communication]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/entities/jordan-peterson]]
+- [[index]]
+
+## [2026-04-12 21:44] ingest | The Importance of Character in Leadership Jordan Peterson
+
+Summary: Ingested a new English Jordan Peterson source from `raw/` and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson]] plus a new concept page at [[wiki/concepts/leadership/character-based-leadership]], and deepened [[wiki/concepts/leadership/leadership]], [[wiki/concepts/leadership/trust-based-collaboration]], [[wiki/concepts/productivity/conscientiousness]], [[wiki/entities/jordan-peterson]], and [[wiki/syntheses/leadership/jordan-peterson-leadership-framework]] so the Peterson branch now captures characterological leadership, trustworthiness, and the distinction between style and reliability.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson]]
+- [[wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson]]
+- [[wiki/concepts/leadership/character-based-leadership]]
+- [[wiki/concepts/leadership/leadership]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/concepts/productivity/conscientiousness]]
+- [[wiki/entities/jordan-peterson]]
+- [[wiki/syntheses/leadership/jordan-peterson-leadership-framework]]
+- [[index]]
+
+## [2026-04-12 21:52] ingest | Your Job Is Not To Motivate People
+
+Summary: Ingested a new English Jordan Peterson source from `raw/` and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-your-job-is-not-to-motivate-people]] and deepened [[wiki/concepts/leadership/leadership-communication]], [[wiki/concepts/leadership/voluntary-cooperation]], [[wiki/entities/jordan-peterson]], and [[wiki/syntheses/leadership/jordan-peterson-leadership-framework]] so the Peterson leadership branch now captures a sharper anti-`motivation` framing, explicit goal-role-mutual-benefit communication, and progress-based engagement.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-your-job-is-not-to-motivate-people]]
+- [[wiki/sources/2026-04-12-your-job-is-not-to-motivate-people]]
+- [[wiki/concepts/leadership/leadership-communication]]
+- [[wiki/concepts/leadership/voluntary-cooperation]]
+- [[wiki/entities/jordan-peterson]]
+- [[wiki/syntheses/leadership/jordan-peterson-leadership-framework]]
+- [[index]]
+
+## [2026-04-12 21:58] ingest | Focusing Is About Saying No Steve Jobs
+
+Summary: Ingested a new English Steve Jobs source from `raw/` and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-focusing-is-about-saying-no-steve-jobs]], a new concept page at [[wiki/concepts/business/strategic-focus]], and a new synthesis at [[wiki/syntheses/business/steve-jobs-focus-framework]]. Deepened [[wiki/concepts/business/business-strategy]] and [[wiki/entities/steve-jobs]] so the Steve Jobs branch now captures strategic focus as refusal, portfolio coherence, and the leadership cost of killing misaligned work.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-focusing-is-about-saying-no-steve-jobs]]
+- [[wiki/sources/2026-04-12-focusing-is-about-saying-no-steve-jobs]]
+- [[wiki/concepts/business/strategic-focus]]
+- [[wiki/syntheses/business/steve-jobs-focus-framework]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/entities/steve-jobs]]
+- [[index]]
+
+## [2026-04-12 22:03] ingest | Steve Jobs MIT 1992
+
+Summary: Ingested a new English Steve Jobs source from `raw/` and archived the canonical raw file under `raw/inbox/`. Created a new source page at [[wiki/sources/2026-04-12-steve-jobs-mit-1992]], a new concept page at [[wiki/concepts/business/operational-productivity]], and a new synthesis at [[wiki/syntheses/business/steve-jobs-next-framework]]. Deepened [[wiki/concepts/business/business-systems]], [[wiki/concepts/business/business-strategy]], and [[wiki/entities/steve-jobs]] so the Steve Jobs branch now captures operational productivity, integrated company design, ownership, and long-window technology strategy.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-steve-jobs-mit-1992]]
+- [[wiki/sources/2026-04-12-steve-jobs-mit-1992]]
+- [[wiki/concepts/business/operational-productivity]]
+- [[wiki/syntheses/business/steve-jobs-next-framework]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/entities/steve-jobs]]
+- [[index]]
+
+## [2026-04-12 22:06] ingest | Steve Jobs Think Different and Stanford Excerpts
+
+Summary: Ingested a new English Steve Jobs composite source from `raw/` and archived the canonical raw file under [[raw/inbox/2026-04-12-steve-jobs-think-different-and-stanford-excerpts]]. Created a new source page at [[wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts]] and a new synthesis at [[wiki/syntheses/business/steve-jobs-think-different-framework]]. Deepened [[wiki/entities/steve-jobs]], [[wiki/concepts/business/brand-strategy]], [[wiki/concepts/business/values-driven-companies]], [[wiki/concepts/business/strategic-focus]], [[wiki/concepts/business/brand-stewardship]], and [[wiki/concepts/business/business-systems]] so the Steve Jobs branch now captures values-first brand communication, customer-legible focus, and distribution speed as strategic feedback infrastructure.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-steve-jobs-think-different-and-stanford-excerpts]]
+- [[wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts]]
+- [[wiki/syntheses/business/steve-jobs-think-different-framework]]
+- [[wiki/entities/steve-jobs]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/concepts/business/values-driven-companies]]
+- [[wiki/concepts/business/strategic-focus]]
+- [[wiki/concepts/business/brand-stewardship]]
+- [[wiki/concepts/business/business-systems]]
+- [[index]]
+
+## [2026-04-12 22:11] ingest | Steve Jobs D8 Conference 2010
+
+Summary: Ingested a new English Steve Jobs source from `raw/` and archived the canonical raw file under [[raw/inbox/2026-04-12-steve-jobs-d8-conference-2010]]. Created a new source page at [[wiki/sources/2026-04-12-steve-jobs-d8-conference-2010]]. Deepened [[wiki/entities/steve-jobs]], [[wiki/concepts/business/business-strategy]], [[wiki/concepts/business/business-systems]], [[wiki/concepts/business/operational-productivity]], and [[wiki/syntheses/business/steve-jobs-next-framework]] so the Steve Jobs branch now includes a lower-confidence late-career restatement on platform transitions, integrated ecosystems, and the openness-versus-control tradeoff.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-steve-jobs-d8-conference-2010]]
+- [[wiki/sources/2026-04-12-steve-jobs-d8-conference-2010]]
+- [[wiki/entities/steve-jobs]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/business/operational-productivity]]
+- [[wiki/syntheses/business/steve-jobs-next-framework]]
+- [[index]]

@@ -9,6 +9,9 @@ tags:
   - strategy
   - business
 source_pages:
+  - wiki/sources/2026-04-12-steve-jobs-d8-conference-2010.md
+  - wiki/sources/2026-04-12-steve-jobs-mit-1992.md
+  - wiki/sources/2026-04-12-focusing-is-about-saying-no-steve-jobs.md
   - wiki/sources/2026-04-12-seth-godin-the-secret-strategy-to-success.md
   - wiki/sources/2026-04-10-rory-sutherland-bottleneck-theory.md
   - wiki/sources/2026-04-10-eric-ries-core-concepts-of-the-lean-startup-methodology.md
@@ -21,6 +24,8 @@ source_pages:
   - wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-million.md
   - wiki/sources/2026-04-11-seth-godin-this-is-strategy.md
 related:
+  - wiki/concepts/business/operational-productivity.md
+  - wiki/concepts/business/strategic-focus.md
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/business/strategic-quitting.md
@@ -76,6 +81,12 @@ Business strategy is the deliberate selection of a few priorities that determine
 - It also reframes customer and competitor choice as strategy, not mere sales operations, because those selections determine the future conditions and norms the business must live inside.
 - The source adds a compounding lens as well: strong strategy seeks feedback loops, network effects, and culturally shareable status or affiliation rather than relying on one-time awareness bursts.
 - The newer Seth perseverance source adds a game-selection layer: strategy includes quitting low-probability lottery paths, staying through real dips only when there is scaffolding and evidence, and aligning with the gravity of systems instead of defending legacy bets for ego reasons.
+- The Steve Jobs focus source adds a subtraction layer: strategy becomes real when leadership kills good-but-misaligned work, protects portfolio coherence, and refuses to let local project logic override company-level direction.
+- The Steve Jobs MIT source adds a technology-and-operations layer: strategy improves when leaders aim technology investment at operational productivity, design integrated advantage across product and go-to-market, and exploit real technology windows over many years.
+- The Steve Jobs D8 source adds a transition-and-platform layer, though with lower confidence than the other Jobs sources:
+  - strategy during a platform shift may require abandoning PC-era assumptions rather than extending them incrementally
+  - integrated hardware-software-service design is again presented as a strategic choice rather than as aesthetic preference
+  - openness and control are framed as tradeoffs among trust, quality, incentives, and user protection rather than as simple moral opposites
 
 # Source Comparisons
 
@@ -90,6 +101,9 @@ Business strategy is the deliberate selection of a few priorities that determine
 - The niche branch is strongest at market-entry strategy: find the field, narrow it, and pressure-test demand before building too much.
 - Grebenyuk's product branch is strongest on inside-the-business strategy: pick two or three key customer values, institutionalize product improvement, and treat the full client journey as part of the offer.
 - The Realnyi Million branch is strongest on owner-level strategic compression: stop feeding too many directions, choose one main engine, and force the company to prove it can turn focus into actual owner economics.
+- Steve Jobs is strongest on strategy as painful refusal: the leader has to decide which interesting efforts die so the surviving product system can become more coherent than the portfolio it replaced.
+- The Steve Jobs MIT source is strongest on strategy as integrated system design: product platform, sales model, manufacturing, and leadership philosophy should reinforce the same chosen opportunity.
+- The Steve Jobs D8 source is strongest on late-stage platform positioning: it shows how Jobs re-articulated integration and product conviction in the mobile transition era, though the source is much thinner and more inferential than the rest of the branch.
 - Together these sources imply that strategy has at least eight layers in this vault: where to play, what to stop, what to prioritize, what kind of value to deliver, which systems and games shape the field, which time horizon the work can survive, how to test uncertainty honestly, and how to make the economics honest enough to confirm the choice.
 
 # Tensions / Open Questions
@@ -103,12 +117,17 @@ Business strategy is the deliberate selection of a few priorities that determine
 - Seth Godin adds another tension: a long strategic time horizon can be a real advantage, but it can also become self-flattering stubbornness if leaders never revisit whether the underlying game or audience has changed.
 - The newer Seth source sharpens that tension into a quitting problem: persistence can be noble, but it can also become sunk-cost theater when there is no scaffolding, joy, or realistic path through the dip.
 - The Realnyi Million branch adds a useful corrective against chaos, but its radical concentration can oversimplify businesses that genuinely need portfolio logic.
+- The Jobs source adds a cancellation tension: strategic clarity may improve when projects are killed, but the way leaders handle the social aftermath determines whether focus builds maturity or fear.
+- The Steve Jobs MIT source adds an integration tension: vertical or tightly coupled strategy can create leverage, but it can also overfit to one era's economics, channels, or technical assumptions.
+- The D8 source adds a governance tension: platform control may improve consistency and safety, but the branch still needs stronger evidence on when such control protects users versus when it mainly protects the platform owner.
 - The strongest open question is where the boundary lies between hygiene and true strategic differentiation: which improvements merely make a company competent, and which ones actually change market choice?
 - The Rory source sharpens a related question: how should leaders decide whether a growth problem is caused by product weakness, weak awareness, poor distribution, internal process friction, or some other hidden bottleneck?
 
 # Related Pages
 
 - [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/business/strategic-focus|Strategic Focus]]
+- [[wiki/concepts/business/operational-productivity|Operational Productivity]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/business/strategic-quitting|Strategic Quitting]]
 - [[wiki/concepts/business/success-metrics|Success Metrics]]
