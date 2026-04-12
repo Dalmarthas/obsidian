@@ -11,7 +11,9 @@ tags:
   - focus
   - prioritization
 source_pages:
+  - wiki/sources/2026-04-12-all-you-need-to-work-like-steve-jobs.md
   - wiki/sources/2026-04-12-focusing-is-about-saying-no-steve-jobs.md
+  - wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula.md
   - wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/sources/2026-04-11-seth-godin-this-is-strategy.md
@@ -52,6 +54,14 @@ Strategic focus is the discipline of concentrating talent, capital, and operatin
 - That same source also adds an operational-feedback layer:
   - shorter inventory and channel cycles reduce the amount of strategy that depends on long-range guessing
   - focus works better when the company can learn from demand faster
+- The Steve Jobs signal-to-noise source adds a personal-execution analogue:
+  - the same `say no` logic can be translated from the company portfolio level to the daily schedule
+  - the page frames focus as protecting 3 to 5 mission-critical actions from the rest of the day's noise
+  - it is more tactical and more personality-driven than the stronger Steve Jobs strategy sources
+- The Jony Ive and Larry Ellison Jobs source sharpens the sacrifice criterion:
+  - focus is only real when the rejected option is something you genuinely wanted to pursue
+  - saying no to weak or irrelevant options is not a meaningful test
+  - the page also links focus directly to the rare work of turning promising ideas into finished products
 - [[wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary]] adds a priority-discipline layer:
   - strategy should reduce the organization to a few repeated priorities
   - leaders damage focus when they try to do everything at once
@@ -63,6 +73,8 @@ Strategic focus is the discipline of concentrating talent, capital, and operatin
 
 - Jobs is strongest on focus as painful refusal: strategy works only when leaders actually terminate good-but-misaligned work and accept the consequences.
 - The newer Jobs `Think Different` source is strongest on how focus becomes externally visible: a simpler portfolio and a values-coherent message make the company easier for customers to understand, not just easier for executives to manage.
+- The signal-to-noise source is strongest on daily translation: it turns focus into an immediate execution filter, though with more anecdote and less strategic depth than the other Jobs material.
+- The Jony Ive and Larry Ellison source is strongest on emotional cost and editorial finish: it shows that focus is not only subtraction, but painful refusal in service of a much higher standard of completed product coherence.
 - Iger is strongest on focus as repeated institutional priorities: fewer strategic pillars make execution, communication, and capital allocation more coherent.
 - Seth Godin is strongest on focus as worldview selection: before project pruning, the organization has to know which audience, time horizon, and change logic it has chosen.
 - Compared with [[wiki/concepts/business/strategic-quitting|Strategic Quitting]], strategic focus is more organizational and portfolio-level. Strategic quitting often concerns whether to leave a path; strategic focus concerns how many paths the system should support at once.
@@ -73,6 +85,8 @@ Strategic focus is the discipline of concentrating talent, capital, and operatin
 - Focus can produce coherence, but it can also create strategic blindness if leaders mistake concentration for certainty.
 - Some domains genuinely require portfolio breadth, experimentation, or optionality, so `say no` cannot become a universal slogan detached from context.
 - The branch still needs stronger material on the human cost of pruning: how to preserve candor, trust, and morale when projects are stopped.
+- The signal-to-noise source adds a neighboring risk: focus language can become a license for needless harshness, neglected relationships, and over-centralized judgment if leaders confuse disciplined filtering with genius entitlement.
+- The Jony Ive and Larry Ellison source adds a related risk: execution hero stories can over-attribute product greatness to obsessive intensity while under-describing the team structures, recovery, and selective judgment that make intensity net-useful rather than merely punishing.
 
 # Related Pages
 

@@ -3300,3 +3300,48 @@ Pages touched:
 - [[wiki/concepts/business/operational-productivity]]
 - [[wiki/syntheses/business/steve-jobs-next-framework]]
 - [[index]]
+
+## [2026-04-12 22:14] ingest | Steve Jobs Signal to Noise Success Formula
+
+Summary: Ingested a new English Steve Jobs-adjacent source from `raw/` and archived the canonical raw file under [[raw/inbox/2026-04-12-steve-jobs-signal-to-noise-success-formula]]. Created a new source page at [[wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula]] and a new concept page at [[wiki/concepts/productivity/signal-to-noise-ratio]]. Deepened [[wiki/entities/steve-jobs]], [[wiki/concepts/productivity/peak-hours]], [[wiki/concepts/business/strategic-focus]], and [[wiki/concepts/leadership/high-performance-mindset]] so the vault now has a named place for the daily `3 to 5 high-signal tasks` execution rule, with explicit caveats about anecdotal evidence, personality overreach, and the risk of mistaking harshness for disciplined focus.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-steve-jobs-signal-to-noise-success-formula]]
+- [[wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio]]
+- [[wiki/entities/steve-jobs]]
+- [[wiki/concepts/productivity/peak-hours]]
+- [[wiki/concepts/business/strategic-focus]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[index]]
+
+## [2026-04-12 22:17] ingest | Steve Jobs D8 Conference 2010 Re-ingest
+
+Summary: Re-ingested the D8 Steve Jobs source using a corrected raw note and replaced the archived raw file in place at [[raw/inbox/2026-04-12-steve-jobs-d8-conference-2010]]. Rewrote [[wiki/sources/2026-04-12-steve-jobs-d8-conference-2010]] to remove the earlier metadata-derived downgrade and deepen the source around `springtime` technologies, integrated ecosystem tradeoffs, aggressive pricing for volume, idea-driven leadership, and values-preserving decision-making under scrutiny. Updated [[wiki/entities/steve-jobs]], [[wiki/concepts/business/business-strategy]], [[wiki/concepts/business/business-systems]], [[wiki/concepts/business/operational-productivity]], and [[wiki/syntheses/business/steve-jobs-next-framework]] so the D8 material now strengthens the Steve Jobs branch rather than serving mainly as a low-confidence confirmation layer.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-steve-jobs-d8-conference-2010]]
+- [[wiki/sources/2026-04-12-steve-jobs-d8-conference-2010]]
+- [[wiki/entities/steve-jobs]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/business/operational-productivity]]
+- [[wiki/syntheses/business/steve-jobs-next-framework]]
+- [[index]]
+
+## [2026-04-12 22:20] ingest | All You Need To Work Like Steve Jobs
+
+Summary: Ingested a new English Steve Jobs-adjacent source from `raw/` and archived the canonical raw file under [[raw/inbox/2026-04-12-all-you-need-to-work-like-steve-jobs]]. Created a new source page at [[wiki/sources/2026-04-12-all-you-need-to-work-like-steve-jobs]]. Deepened [[wiki/concepts/productivity/signal-to-noise-ratio]], [[wiki/concepts/business/strategic-focus]], [[wiki/concepts/business/business-systems]], [[wiki/concepts/leadership/high-performance-mindset]], and [[wiki/entities/steve-jobs]] so the Steve Jobs branch now captures a stronger observer-side account of real-sacrifice focus, end-to-end experience control, and the difference between having ideas and finishing coherent products.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-12-all-you-need-to-work-like-steve-jobs]]
+- [[wiki/sources/2026-04-12-all-you-need-to-work-like-steve-jobs]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio]]
+- [[wiki/concepts/business/strategic-focus]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/entities/steve-jobs]]
+- [[index]]

@@ -12,8 +12,10 @@ tags:
   - leadership
 source_pages:
   - wiki/sources/2026-04-10-steve-jobs-2005-stanford-commencement.md
+  - wiki/sources/2026-04-12-all-you-need-to-work-like-steve-jobs.md
   - wiki/sources/2026-04-12-focusing-is-about-saying-no-steve-jobs.md
   - wiki/sources/2026-04-12-steve-jobs-d8-conference-2010.md
+  - wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula.md
   - wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts.md
   - wiki/sources/2026-04-12-steve-jobs-mit-1992.md
 related:
@@ -26,6 +28,7 @@ related:
   - wiki/concepts/business/values-driven-companies.md
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/leadership/high-performance-mindset.md
+  - wiki/concepts/productivity/signal-to-noise-ratio.md
   - wiki/syntheses/business/steve-jobs-think-different-framework.md
   - wiki/syntheses/business/steve-jobs-stanford-framework.md
   - wiki/syntheses/business/steve-jobs-focus-framework.md
@@ -45,7 +48,9 @@ Steve Jobs enters this vault here not only as a voice on uncertainty, reinventio
 - He now also strengthens the brand branch by linking strategy to customer legibility, values-first communication, and the claim that enduring core beliefs should survive even when products and markets change.
 - He now also strengthens the systems branch by treating distribution speed and low inventory not as support hygiene but as strategic feedback infrastructure.
 - He now also strengthens the business branch with a richer systems model: where value really sits, how platforms create leverage, why ownership beats advice without consequences, and how manufacturing, sales, and software can become one strategic machine.
-- He now also adds a weaker but still useful late-career layer on platform transitions: integrated design, post-PC positioning, and the tradeoff between openness and responsibility in controlled ecosystems.
+- He now also adds a stronger late-career layer on platform transitions: integrated design, `springtime` technology bets, aggressive volume pricing, and the tradeoff between openness and responsibility in controlled ecosystems.
+- He now also contributes a more tactical execution layer, though through Kevin O'Leary's interpretation rather than Jobs's own direct framing: protect a few high-signal actions each day and filter most other demands aggressively.
+- He now also gains a stronger editorial-execution layer through Jony Ive and Larry Ellison: real focus has emotional cost, product quality includes the full user journey, and greatness comes from turning good ideas into finished systems through relentless iteration.
 
 # Evidence In This Vault
 
@@ -60,7 +65,9 @@ Steve Jobs enters this vault here not only as a voice on uncertainty, reinventio
 - The MIT source adds an operational-productivity layer: software matters most when it changes core work rather than only administrative work.
 - It also adds a long-window strategy layer: once a genuine technology opening appears, advantage comes from exploiting it patiently through years of execution, education, and refinement.
 - That same source extends the leadership layer into ownership and alignment: important decisions should be few, lived with, and resolved through real agreement among the people who must execute them.
-- The D8 source adds a lower-confidence late-career restatement: Jobs again ties product quality to focus and integration, frames mobile computing as a platform transition, and defends controlled platforms as a quality-and-responsibility tradeoff rather than as control for its own sake.
+- The D8 source adds a late-career strategic layer: Jobs ties product quality to focus and integration, frames mobile computing as a platform transition, defends controlled platforms as a quality-and-responsibility tradeoff, and pairs that stance with explicit commitment to `springtime` technologies, reasonable pricing for volume, and idea-driven leadership under scrutiny.
+- The signal-to-noise source adds a lower-confidence daily-execution layer: Jobs is presented as concentrating on a tiny number of mission-critical tasks each day and treating many interruptions or socially normal obligations as noise, though the page is clearly mediated through O'Leary's rhetoric and anecdotes.
+- The Jony Ive and Larry Ellison source adds a more credible close-observer layer: Jobs is described as an editor of end-to-end experience who could say no to ideas he loved, obsess over user-facing details across the full journey, and revise until a product crossed from good into finished and coherent.
 
 # Related Pages
 
@@ -75,6 +82,7 @@ Steve Jobs enters this vault here not only as a voice on uncertainty, reinventio
 - [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio|Signal-to-Noise Ratio]]
 - [[wiki/syntheses/business/steve-jobs-think-different-framework|Steve Jobs Think Different Framework]]
 - [[wiki/syntheses/business/steve-jobs-stanford-framework|Steve Jobs Stanford Framework]]
 - [[wiki/syntheses/business/steve-jobs-focus-framework|Steve Jobs Focus Framework]]

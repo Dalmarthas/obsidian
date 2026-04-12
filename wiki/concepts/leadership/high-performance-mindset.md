@@ -9,6 +9,8 @@ tags:
   - performance
   - mindset
 source_pages:
+  - wiki/sources/2026-04-12-all-you-need-to-work-like-steve-jobs.md
+  - wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula.md
   - wiki/sources/2026-04-10-carol-dweck-fixed-and-growth-mindsets.md
   - wiki/sources/2026-04-10-daniel-goleman-social-intelligence-at-google.md
   - wiki/sources/2026-04-09-chase-hughes-goal-programming-and-future-self.md
@@ -26,6 +28,7 @@ source_pages:
   - wiki/sources/2026-04-11-quiet-eye-visual-attention-and-skill-performance.md
 related:
   - wiki/concepts/productivity/future-self-prioritization.md
+  - wiki/concepts/productivity/signal-to-noise-ratio.md
   - wiki/concepts/productivity/fear-goal-programming.md
   - wiki/concepts/productivity/behavior-journaling.md
   - wiki/concepts/leadership/high-performance-team-culture.md
@@ -79,6 +82,14 @@ High-performance mindset is the psychological operating system that allows a per
 - The newer values-focused source adds a motive-quality correction: high performance becomes less sustainable when it is organized around `being the best`, emotional swings, or insecure comparison rather than around clearly named values and meaningful application of effort.
 - The Matthew McConaughey source adds a commitment-and-sacrifice correction: sustained performance sometimes depends on rejecting lucrative but misaligned paths, enduring typecast or identity disruption, and entering the chosen direction with an owner's mentality rather than preserving reversibility.
 - The quiet-eye source adds a perceptual-execution correction: high performance also depends on where attention settles at the decisive moment, not only on mindset, discipline, or pressure tolerance in the abstract.
+- The Steve Jobs signal-to-noise source adds an attentional triage layer:
+  - elite execution is framed as spending the day on a very small number of mission-critical actions
+  - high performance therefore depends not only on endurance or belief, but on ruthless exclusion of low-leverage demands
+  - the source also makes the tradeoff visible: extraordinary focus can corrode warmth, sociality, and ordinary balance if copied uncritically
+- The Jony Ive and Larry Ellison Jobs source adds an editorial-obsession layer:
+  - high performance is also described as relentless iteration on details until the product becomes meaningfully better, not merely different
+  - the source frames Jobs as unusually able to combine taste, technical grasp, and the willingness to keep editing
+  - it also adds a useful nuance that he could switch to the better idea quickly once convinced
 
 # Source Comparisons
 
@@ -97,6 +108,8 @@ High-performance mindset is the psychological operating system that allows a per
 - Peterson is strongest on anti-avoidance moral clarity: high performance begins not with fine optimization but with stopping obvious self-sabotage and moving toward necessary burdens.
 - The values-focused source is strongest on motivational hygiene: before tactics and standards can hold, a person may need to replace prestige hunger and unstable feeling-state motivation with a values-based reason to keep going.
 - McConaughey is strongest on wholehearted entry: performance and reinvention deepen when the person accepts the cost of commitment, visible sacrifice, and reduced escape-hatch psychology.
+- The Steve Jobs signal-to-noise source is strongest on severe attentional filtering: it says high performance often looks like protecting a tiny set of daily signal tasks and refusing the rest, though the source is much more anecdotal and more vulnerable to hero-myth exaggeration than the others.
+- The Jony Ive and Larry Ellison Jobs source is strongest on obsessive finish quality: it describes performance not as raw grind alone, but as the rare capacity to turn good ideas into coherent finished systems through exhausting editorial work.
 - The quiet-eye source is strongest on attentional mechanics: elite execution includes a trainable visual steadiness that links perception, motor planning, and pressure resistance.
 - Together these sources suggest that elite performance needs inward regulation, outwardly demanding systems, and a physical recovery base that is strong enough to support both.
 
@@ -112,6 +125,8 @@ High-performance mindset is the psychological operating system that allows a per
 - The newer values layer adds another failure mode: performance systems can quietly reward insecurity-fueled comparison so strongly that the person becomes more driven but less stable.
 - The McConaughey layer adds a related danger: struggle and sacrifice can become part of a heroic self-image that obscures when reinvention has turned into performative hardship.
 - The quiet-eye layer adds a methodological caution: perceptual metrics can look precise while still leaving causal questions unresolved, so the branch should not treat eye-tracking correlations as total explanations of expertise.
+- The signal-to-noise layer adds another caution: high-performance cultures can romanticize anti-social intensity and mistake exhausted or domineering behavior for proof of seriousness.
+- The newer Jobs-adjacent layer adds a related caution: obsessive iteration can improve quality, but copied without judgment it can become perfectionist theater, burnout, or endless polishing with no proportional gain.
 
 # Related Pages
 

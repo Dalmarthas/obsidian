@@ -83,10 +83,11 @@ Business strategy is the deliberate selection of a few priorities that determine
 - The newer Seth perseverance source adds a game-selection layer: strategy includes quitting low-probability lottery paths, staying through real dips only when there is scaffolding and evidence, and aligning with the gravity of systems instead of defending legacy bets for ego reasons.
 - The Steve Jobs focus source adds a subtraction layer: strategy becomes real when leadership kills good-but-misaligned work, protects portfolio coherence, and refuses to let local project logic override company-level direction.
 - The Steve Jobs MIT source adds a technology-and-operations layer: strategy improves when leaders aim technology investment at operational productivity, design integrated advantage across product and go-to-market, and exploit real technology windows over many years.
-- The Steve Jobs D8 source adds a transition-and-platform layer, though with lower confidence than the other Jobs sources:
-  - strategy during a platform shift may require abandoning PC-era assumptions rather than extending them incrementally
-  - integrated hardware-software-service design is again presented as a strategic choice rather than as aesthetic preference
+- The Steve Jobs D8 source adds a stronger transition-and-platform layer:
+  - strategy during a platform shift may require abandoning `graveyard` technologies and backing only `springtime` ones with long futures
+  - integrated hardware-software-service design is presented as a strategic choice rather than as aesthetic preference
   - openness and control are framed as tradeoffs among trust, quality, incentives, and user protection rather than as simple moral opposites
+  - pricing and volume also become strategic weapons when entering a new category, provided product quality is preserved
 
 # Source Comparisons
 
@@ -103,7 +104,7 @@ Business strategy is the deliberate selection of a few priorities that determine
 - The Realnyi Million branch is strongest on owner-level strategic compression: stop feeding too many directions, choose one main engine, and force the company to prove it can turn focus into actual owner economics.
 - Steve Jobs is strongest on strategy as painful refusal: the leader has to decide which interesting efforts die so the surviving product system can become more coherent than the portfolio it replaced.
 - The Steve Jobs MIT source is strongest on strategy as integrated system design: product platform, sales model, manufacturing, and leadership philosophy should reinforce the same chosen opportunity.
-- The Steve Jobs D8 source is strongest on late-stage platform positioning: it shows how Jobs re-articulated integration and product conviction in the mobile transition era, though the source is much thinner and more inferential than the rest of the branch.
+- The Steve Jobs D8 source is strongest on late-stage platform positioning: it shows how Jobs connected technology-cycle timing, integrated design, aggressive volume pricing, and values-preserving tradeoffs in the mobile transition era.
 - Together these sources imply that strategy has at least eight layers in this vault: where to play, what to stop, what to prioritize, what kind of value to deliver, which systems and games shape the field, which time horizon the work can survive, how to test uncertainty honestly, and how to make the economics honest enough to confirm the choice.
 
 # Tensions / Open Questions

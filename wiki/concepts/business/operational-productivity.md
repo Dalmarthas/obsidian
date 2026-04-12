@@ -43,9 +43,10 @@ Operational productivity is productivity gained in the core value-creating work 
 - It adds a development-leverage rule as well:
   - operational productivity improves when platforms reduce code volume dramatically through reuse and objects
   - faster development is downstream of lower code burden, easier maintenance, and safer iteration
-- The Steve Jobs D8 source adds a weaker but still useful continuity signal:
+- The Steve Jobs D8 source adds a later continuity signal:
   - years later, Jobs is still arguing that product quality depends on integrated stack design rather than loose vendor coordination
   - in the mobile era, that integration increasingly includes the service layer and distribution rules around the product, not only the software and device itself
+  - the source also implies that operational excellence supports aggressive category pricing only when design, supply chain, and ecosystem execution are aligned well enough to preserve quality at scale
 
 # Source Comparisons
 

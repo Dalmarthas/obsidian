@@ -17,47 +17,56 @@ tags:
 
 # Summary
 
-This source is a secondary summary of Steve Jobs at the 2010 D8 Conference. Its strongest additions to the vault are a late-career restatement of Jobs on simplicity, integrated hardware-software-service design, and the coming post-PC transition. The source is materially weaker than the other Steve Jobs entries because its own note says the extraction is inferred from metadata and context rather than a full transcript, so its claims should be treated as suggestive and lower-confidence. Raw source: [[raw/inbox/2026-04-12-steve-jobs-d8-conference-2010|Raw source]].
+This source is a secondary summary of Steve Jobs at the 2010 D8 Conference. Its strongest additions to the vault are a clearer late-career account of how Jobs thinks about platform transitions, `springtime` technologies, aggressive pricing for volume, controlled ecosystems, and the need to preserve core values while taking heat for unpopular tradeoffs. Raw source: [[raw/inbox/2026-04-12-steve-jobs-d8-conference-2010|Raw source]].
 
 # Key Claims
 
 - Jobs again treats focus and simplicity as central to product quality.
-- He argues for integrated hardware, software, and services rather than loosely coupled vendor stacks.
-- The interview frames 2010 as a platform transition from the traditional PC era toward mobile and post-PC computing.
-- Apple-style platform control is presented as a tradeoff among openness, quality, security, and responsibility.
-- Leadership is framed as conviction about the future, coherent product taste, and alignment around a clear narrative rather than feature-by-feature reaction to competitors.
+- He argues for integrated hardware, software, services, and curated distribution rather than loosely coupled vendor stacks.
+- The interview frames 2010 as a platform transition in which Apple should back `springtime` technologies and kill aging ones early.
+- Apple-style platform control is presented as a tradeoff among openness, quality, security, incentives, and user experience.
+- Leadership is framed around values, idea-driven collaboration, and user delight rather than market-cap comparison or platform-war obsession.
 
 # Important Details
 
-- The source mainly reinforces existing Jobs themes, but with a later historical vantage:
-  - focus and subtraction remain central
-  - integration is still treated as advantage
-  - product quality is still prioritized over competitor mirroring
-- Its strongest incremental addition is a transition lens:
-  - iPhone and iPad are framed as signals of a post-PC shift
-  - platform changes are treated as moments when old assumptions should be re-examined
-  - user experience becomes even more central during such transitions
-- It also adds a platform-governance layer:
-  - openness is not treated as an unconditional virtue
-  - platform rules are justified in terms of trust, quality, and user protection
-  - this makes control a strategic and ethical question, not only a technical or commercial one
-- The leadership layer is more reflective than operational:
-  - the company should orient around building great products rather than beating rivals in a reactive feature war
-  - leaders still need a coherent story about the future to align teams and stakeholders
-- Because the source lacks transcript-grounded detail, the most reusable value here is not precise quotation but the way it confirms continuity between Jobs's earlier systems logic and later platform-era thinking
+- The source reinforces existing Jobs themes, but it adds more concrete late-period tradeoff language:
+  - focus means choosing only a few horses to ride
+  - old technologies should be dropped when they belong to the `graveyard`
+  - taking public heat is sometimes the cost of protecting a longer-horizon thesis
+- Its strongest new strategic addition is a technology-cycle lens:
+  - Apple should bet on `springtime` technologies rather than extending legacy stacks
+  - Flash is used as the canonical case of a technology Apple judged wrong for mobile
+  - platform shifts therefore require both subtraction and forward commitment
+- It adds a more developed ecosystem layer:
+  - hardware, software, services, and app distribution are treated as one package of emphasis
+  - curation is justified as part of quality control and user protection
+  - the product cannot be judged feature by feature without seeing the full tradeoff bundle
+- The go-to-market layer is also stronger than in the previous version:
+  - Apple wants reasonable pricing and high volume in new categories
+  - aggressive pricing is framed as a way to accelerate adoption and strengthen ecosystem position
+  - lower prices must come from design, scale, and supply-chain efficiency rather than from product cheapening
+- The leadership and culture layer is now clearer:
+  - Jobs says Apple should be run by ideas rather than hierarchy
+  - the best ideas should win regardless of title
+  - the deepest failure would be changing core values for short-term financial logic
+- The source also adds a scrutiny-and-remediation layer:
+  - Apple is presented as willing to admit mistakes and fix them quickly
+  - public criticism is treated as unavoidable when making hard tradeoffs under high visibility
+  - the moral claim is not `we never err` but `we learn and correct fast`
 
 # Tensions / Caveats
 
-- The raw note explicitly says the concepts are inferred from video metadata and context rather than a transcript, so this source has a lower confidence level than the other Steve Jobs pages.
-- This source is therefore better used to reinforce broad themes already established elsewhere than to support highly specific claims about wording or minute-by-minute argument.
-- The openness-versus-control issue is framed through Jobs's own likely logic and needs stronger counterweights from other sources before becoming a stable vault conclusion.
-- The post-PC framing is historically important, but this source alone does not prove which parts of Jobs's forecast were right, partial, or overstated.
+- This is still a secondary summary rather than a primary transcript page, so some framing compression is unavoidable.
+- Jobs's claims about Flash, labor transparency, and ecosystem control are still perspective-laden and need counterweights before the vault treats them as settled conclusions.
+- The source is strongest on articulated tradeoffs and strategic posture, not on proving that each controversial judgment was fully correct.
+- The post-PC and tablet claims are historically important, but the vault still needs more sources before turning them into a broader transition model.
 
 # Links
 
 - [[wiki/entities/steve-jobs|Steve Jobs]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/business/business-systems|Business Systems]]
+- [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
 - [[wiki/concepts/business/operational-productivity|Operational Productivity]]
 - [[wiki/concepts/business/strategic-focus|Strategic Focus]]
 - [[wiki/syntheses/business/steve-jobs-next-framework|Steve Jobs NeXT Framework]]
@@ -65,5 +74,5 @@ This source is a secondary summary of Steve Jobs at the 2010 D8 Conference. Its 
 # Open Questions
 
 - What stronger source should the vault add to test Jobs's platform-control logic against more open ecosystem models?
-- Which parts of the `post-PC` framing deserve their own concept page only after the vault has more than one source on the transition?
-- How should the vault distinguish principled platform governance from self-serving gatekeeping rhetoric?
+- How should the vault distinguish principled values-preserving tradeoffs from self-serving narrative cover for control?
+- Which parts of Jobs's `springtime` technology logic belong on a broader concept page only after more cross-source support exists?

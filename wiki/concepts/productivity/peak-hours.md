@@ -13,11 +13,13 @@ tags:
 source_pages:
   - wiki/sources/2026-04-10-daniel-pink-productivity-wisdom.md
   - wiki/sources/2026-04-10-andrew-huberman-morning-routine.md
+  - wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula.md
   - wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine.md
 related:
   - wiki/concepts/communication/timing-and-sequencing.md
   - wiki/concepts/health/circadian-alignment.md
   - wiki/concepts/productivity/samoupravlenie.md
+  - wiki/concepts/productivity/signal-to-noise-ratio.md
   - wiki/concepts/productivity/uchet-vremeni.md
   - wiki/concepts/productivity/workflow-redesign.md
   - wiki/syntheses/health/andrew-huberman-morning-framework.md
@@ -41,6 +43,10 @@ Peak hours is the principle of identifying the period of the day when one's atte
 - The same source links peak-hour protection to time-boxing and ruthless prioritization, not just to personal preference.
 - The Huberman source adds a more physiological precondition model: morning light, delayed caffeine, hydration, and early distraction control are treated as ways of helping the day's first strong focus window emerge more reliably.
 - [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine]] adds a `capacity ceiling` refinement: protecting peak hours is not only about using the best time first, but also about admitting that extremely intense writing or editing may stay high-quality for only a few hours before error rate rises.
+- The Steve Jobs signal-to-noise source adds a decision-window refinement:
+  - important choices should happen during the person's strongest hours
+  - lower-quality cognitive periods should not be used for the day's highest-signal work
+  - the window matters because signal is partly defined by decision quality, not only by calendar priority
 
 # Source Comparisons
 
@@ -49,6 +55,7 @@ Peak hours is the principle of identifying the period of the day when one's atte
 - Compared with [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]], peak hours is a narrower operational lever inside the broader self-management system.
 - Compared with [[wiki/concepts/health/circadian-alignment|Circadian Alignment]], peak hours is less about sleep and hormonal timing themselves and more about converting those biological conditions into actual protected cognitive work.
 - Compared with [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]], peak hours answers `when should the hardest work happen?` while workflow redesign answers `how can the work itself become less wasteful before it is scheduled?`
+- Compared with [[wiki/concepts/productivity/signal-to-noise-ratio|Signal-to-Noise Ratio]], peak hours is more temporal and less selective. Peak hours protects the best slice of the day; signal-to-noise ratio defines which tasks deserve that slice.
 
 # Tensions / Open Questions
 
@@ -65,6 +72,7 @@ Peak hours is the principle of identifying the period of the day when one's atte
 - [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
 - [[wiki/concepts/productivity/uchet-vremeni|Uchet Vremeni]]
 - [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio|Signal-to-Noise Ratio]]
 - [[wiki/syntheses/health/andrew-huberman-morning-framework|Andrew Huberman Morning Framework]]
 - [[wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework|Daniel Pink Sustainable Productivity Framework]]
 - [[wiki/sources/2026-04-10-daniel-pink-productivity-wisdom|Daniel Pink Productivity Wisdom]]

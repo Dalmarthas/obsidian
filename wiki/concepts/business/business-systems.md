@@ -11,6 +11,7 @@ tags:
   - operations
   - scaling
 source_pages:
+  - wiki/sources/2026-04-12-all-you-need-to-work-like-steve-jobs.md
   - wiki/sources/2026-04-12-steve-jobs-d8-conference-2010.md
   - wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts.md
   - wiki/sources/2026-04-12-steve-jobs-mit-1992.md
@@ -66,10 +67,15 @@ Business systems are the repeatable structures that turn business inputs into ou
 - That same source also links systems to strategic clarity:
   - simpler product lines reduce not only engineering sprawl but also operational complexity
   - distribution, product design, and brand legibility reinforce each other when the system is coherent
-- The Steve Jobs D8 source adds a later platform-systems restatement, though at lower confidence:
-  - hardware, software, and services are again treated as one end-to-end design problem
+- The Steve Jobs D8 source adds a later platform-systems layer:
+  - hardware, software, services, and curated app distribution are treated as one end-to-end design problem
   - the controlled platform is presented as a systems choice about quality, trust, and incentive alignment
   - platform transitions create moments when the whole system has to be redesigned around a new device and usage model
+  - pricing, supply-chain efficiency, and ecosystem growth are also shown as system variables rather than as isolated commercial decisions
+- The Jony Ive and Larry Ellison Jobs source deepens the user-journey layer:
+  - the system includes how the product is seen in the store, purchased, unboxed, activated, and used
+  - product quality therefore includes physical, digital, and experiential continuity
+  - the page also reinforces that finished-system excellence comes from many rounds of editing rather than from idea novelty alone
 
 # Source Comparisons
 
@@ -78,7 +84,8 @@ Business systems are the repeatable structures that turn business inputs into ou
 - Compared with [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], this page turns the framework into a mechanical operating model with observable inputs, outputs, and failure signals.
 - Compared with Seth Godin's strategy framing, the original systems source is more internal and operational, while Godin is stronger on reading the external field of norms, incentives, and social gravity around the business.
 - Compared with the Steve Jobs `Think Different` source, the existing sources were stronger on machine structure in the abstract, while Jobs adds a vivid example of how inventory compression and product simplification change the speed and quality of strategic feedback.
-- Compared with the Steve Jobs D8 source, the stronger Jobs system pages explain integration at a deeper architectural level, while D8 mostly confirms that the same integration logic persisted into the mobile-era platform transition.
+- Compared with the Steve Jobs D8 source, the MIT page explains integration at a deeper architectural level, while D8 shows how the same logic appears publicly in mobile-era product, pricing, curation, and controversy management.
+- Compared with the Jony Ive and Larry Ellison source, the older Jobs systems pages are stronger on architecture and strategy, while the newer source is stronger on how end-to-end coherence is experienced by users and enforced through obsessive editorial iteration.
 - Compared with [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Grebenyuk's Realnyi Million Framework]], this page is less about owner psychology, ruthless focus, and profit discipline, and more about diagnosing where the current pipe is actually narrowing.
 - Compared with [[wiki/concepts/business/operational-productivity|Operational Productivity]], business systems is broader and more machine-level. Operational productivity asks whether the system is improving the core work itself; business systems asks how the whole machine is structured and improved.
 
@@ -91,6 +98,7 @@ Business systems are the repeatable structures that turn business inputs into ou
 - The main open question is how much mapping and instrumentation is enough before system design turns into bureaucratic drag.
 - The Steve Jobs source adds a new tension: tightly integrated systems can become a real advantage, but they can also become brittle or overbuilt if leaders integrate everything that should have stayed modular.
 - The D8 source sharpens a neighboring platform tension: systems that optimize quality through control can also reduce openness, experimentation, and external autonomy if the governing logic is not scrutinized carefully.
+- The newer Jobs-adjacent source adds a different systems tension: when leaders try to control every detail of the experience, the line between coherent quality and exhausting perfectionism becomes hard to manage.
 
 # Related Pages
 

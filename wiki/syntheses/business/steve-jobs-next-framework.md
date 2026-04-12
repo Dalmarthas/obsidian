@@ -53,7 +53,7 @@ The source base now adds an eight-part framework:
    The factory, supply chain, and prototype path are not downstream support functions but part of the integrated system that creates advantage.
 
 8. Re-articulate the integrated system at each platform transition.
-   The later D8 source, though weaker and more inferential, suggests that Jobs carried the same integrated-systems logic into the mobile era, where device, software, services, and platform governance had to be designed as one experience.
+   The later D8 source shows that Jobs carried the same integrated-systems logic into the mobile era, where device, software, services, app distribution, pricing, and platform governance had to be designed as one experience.
 
 # Basis
 
@@ -64,13 +64,13 @@ The source base now adds an eight-part framework:
 
 - Compared with [[wiki/syntheses/business/steve-jobs-stanford-framework|Steve Jobs Stanford Framework]], this source is far less existential and far more institutional. The Stanford branch is about life direction; the NeXT branch is about software leverage, organizational design, manufacturing, and long-horizon execution.
 - Compared with [[wiki/syntheses/business/steve-jobs-focus-framework|Steve Jobs Focus Framework]], this source is broader and more constructive. The focus source is about painful refusal; this one is about what kind of integrated machine the refusals are trying to protect and build.
-- Compared with [[wiki/syntheses/business/steve-jobs-think-different-framework|Steve Jobs Think Different Framework]], this source base is less about brand meaning and clearer about how integrated architecture survives across eras from enterprise computing to mobile platforms.
+- Compared with [[wiki/syntheses/business/steve-jobs-think-different-framework|Steve Jobs Think Different Framework]], this source base is less about brand meaning and clearer about how integrated architecture, values-preserving tradeoffs, and category-entry economics survive across eras from enterprise computing to mobile platforms.
 - Compared with [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]], Jobs is more technology-stack and systems-design oriented. Iger is stronger on portfolio priorities and stewardship; Jobs is stronger on product-platform leverage, integrated execution, and operational architecture.
 
 # Gaps
 
 - The current source is rich but highly time-bound to a specific era of enterprise computing and to Jobs's own competitive framing.
-- The D8 addition is historically useful but methodologically weak because the raw note is inferred from metadata rather than transcript-level evidence.
+- The D8 addition is strategically useful, but it still needs counterweights on when curation, controlled ecosystems, and aggressive technology sunsetting become overreach rather than product wisdom.
 - The branch still needs stronger cross-source material on when integrated hardware-software-sales strategy is truly required versus when modularity wins.
 - It also needs counterweights on the risks of excessive consensus pressure, anti-consulting overreaction, and custom-system complexity.
 
