@@ -2,7 +2,7 @@
 type: concept
 title: Dopamine Regulation
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -12,11 +12,14 @@ tags:
   - self-regulation
 source_pages:
   - wiki/sources/2026-04-10-difficult-rewarding-behaviors-and-dopamine-regulation.md
+  - wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi.md
 related:
+  - wiki/concepts/productivity/flow.md
   - wiki/concepts/productivity/restorative-breaks.md
   - wiki/concepts/productivity/peak-hours.md
   - wiki/concepts/productivity/future-self-prioritization.md
   - wiki/concepts/productivity/samoupravlenie.md
+  - wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework.md
   - wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework.md
 ---
 
@@ -35,24 +38,34 @@ Dopamine regulation in the current vault means managing the reward environment s
 - The current source argues that frequent fast-reward consumption lowers motivation for challenging but worthwhile activities.
 - It distinguishes `fast dopamine` and `slow dopamine` as a practical way to think about why scrolling is easier to initiate than reading, exercise, or deep work.
 - The source also recommends logging triggers, scheduling pleasures, and expecting a temporary motivational drop while reward balance recalibrates.
+- [[wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi]] adds a phenomenological complement to the same problem:
+  - low-challenge, low-skill passive consumption is framed as an `apathy zone`
+  - the issue is not only that scrolling steals motivation, but that it often fails to create deep enjoyment or meaningful absorption
+  - the page therefore now links reward miscalibration to a flatter, less vivid structure of consciousness
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]], dopamine regulation is less moral and identity-framed, and more about managing the architecture of reward and temptation.
+- Compared with [[wiki/concepts/productivity/flow|Flow]], dopamine regulation is more upstream and anti-distraction-oriented. It explains why low-friction reward loops capture behavior; flow explains the richer state those loops often displace.
 - Compared with [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]], this concept is less about recovery after exertion and more about preventing overstimulation from corrupting motivation before the work even starts.
 - Compared with [[wiki/concepts/productivity/peak-hours|Peak Hours]], dopamine regulation focuses less on cognitive timing and more on reward timing and trigger exposure.
+- Compared with [[wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework|Mihaly Csikszentmihalyi Flow Framework]], this page is narrower and more behavior-design-oriented. The flow synthesis asks what kind of life feels vivid and fulfilling; dopamine regulation asks how the reward environment blocks entry into that kind of life.
 
 # Tensions / Open Questions
 
 - The fast-versus-slow dopamine language is useful heuristically, but it may flatten a much more complex scientific reality.
 - A dopamine lens can over-biologize what is also shaped by stress, meaning, sleep, social context, and structural overload.
 - The branch still needs stronger sources that separate sound neuroscience from oversimplified online self-optimization rhetoric.
+- The newer flow source adds a caution in the other direction: critique of passive media can become too categorical if it fails to distinguish numbing default consumption from genuine rest, play, or low-demand recovery.
 
 # Related Pages
 
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/concepts/productivity/peak-hours|Peak Hours]]
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
+- [[wiki/concepts/productivity/flow|Flow]]
 - [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
+- [[wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework|Mihaly Csikszentmihalyi Flow Framework]]
 - [[wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework|Difficult but Rewarding Behaviors Framework]]
 - [[wiki/sources/2026-04-10-difficult-rewarding-behaviors-and-dopamine-regulation|Difficult Rewarding Behaviors and Dopamine Regulation]]
+- [[wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi|Flow by Mihaly Csikszentmihalyi]]

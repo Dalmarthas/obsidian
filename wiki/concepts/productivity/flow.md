@@ -12,13 +12,17 @@ tags:
   - performance
 source_pages:
   - wiki/sources/2026-04-13-the-4-fs-of-flow.md
+  - wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi.md
 related:
   - wiki/concepts/productivity/calibrated-challenge.md
+  - wiki/concepts/productivity/dopamine-regulation.md
   - wiki/concepts/productivity/peak-hours.md
   - wiki/concepts/productivity/restorative-breaks.md
   - wiki/concepts/productivity/willpower.md
+  - wiki/entities/mihaly-csikszentmihalyi.md
   - wiki/syntheses/productivity/attention-and-focus-framework.md
   - wiki/syntheses/productivity/four-fs-of-flow-framework.md
+  - wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework.md
 ---
 
 # What It Is
@@ -39,14 +43,20 @@ Flow is a state of absorbed task engagement in which attention narrows, self-con
   - routine work can become more flow-compatible when those conditions are deliberately designed
 - The same source adds a practical anti-self-consciousness method through `permission timers`, which separate creation mode from critique mode instead of forcing both at once.
 - It also gives the branch a more concrete challenge heuristic: slightly harder tasks preserve engagement better than either guaranteed success or obvious impossibility.
+- [[wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi]] widens the branch beyond work-bout design:
+  - happiness is framed as a function of how consciousness is directed, not only of external conditions
+  - the source formalizes the broader challenge-skill map, including apathy, boredom, anxiety, and the flow channel
+  - it also argues that a good life requires continued co-growth of skill and challenge rather than defaulting to passive comfort
 
 # Source Comparisons
 
 - Compared with [[wiki/syntheses/productivity/attention-and-focus-framework|Attention and Focus Framework]], flow is the broader target state while that synthesis focuses more narrowly on how attention is stabilized and protected.
 - Compared with [[wiki/concepts/productivity/calibrated-challenge|Calibrated Challenge]], flow is the experiential outcome while calibrated challenge is one dosage rule that helps produce it.
+- Compared with [[wiki/concepts/productivity/dopamine-regulation|Dopamine Regulation]], flow explains the quality of engaged experience while dopamine regulation explains why low-friction stimulation can repeatedly pull people away from that experience.
 - Compared with [[wiki/concepts/productivity/willpower|Willpower]], flow depends less on ongoing restraint and more on good task-state design. Willpower may help entry; flow reduces the need for constant self-coercion once the state forms.
 - Compared with [[wiki/concepts/productivity/peak-hours|Peak Hours]], flow is less about time-of-day allocation and more about the task conditions that make absorbed work possible during the chosen window.
 - Compared with [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]], flow governs immersion during effort while restorative breaks govern the renewal conditions that keep immersion available across repeated bouts.
+- Compared with [[wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework|Mihaly Csikszentmihalyi Flow Framework]], this page defines the state itself, while the synthesis turns flow into a broader life strategy about anti-apathy, challenge-seeking, and consciousness design.
 
 # Tensions / Open Questions
 
@@ -54,13 +64,18 @@ Flow is a state of absorbed task engagement in which attention narrows, self-con
 - The current branch still does not know how transferable the `4 percent challenge` heuristic really is across domains.
 - Some high-stakes work may require too much real-time monitoring for full ego-suspension, which limits how directly the current protocol can be applied.
 - The vault still needs stronger primary or research-grade material to distinguish what is empirically robust from what is attractive but anecdotal flow folklore.
+- The newer source adds another boundary question: if passive comfort is criticized too aggressively, the branch may under-value rest, illness constraints, and lower-demand forms of legitimate recovery or leisure.
 
 # Related Pages
 
 - [[wiki/concepts/productivity/calibrated-challenge|Calibrated Challenge]]
+- [[wiki/concepts/productivity/dopamine-regulation|Dopamine Regulation]]
 - [[wiki/concepts/productivity/peak-hours|Peak Hours]]
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/concepts/productivity/willpower|Willpower]]
+- [[wiki/entities/mihaly-csikszentmihalyi|Mihaly Csikszentmihalyi]]
 - [[wiki/syntheses/productivity/attention-and-focus-framework|Attention and Focus Framework]]
 - [[wiki/syntheses/productivity/four-fs-of-flow-framework|Four Fs of Flow Framework]]
+- [[wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework|Mihaly Csikszentmihalyi Flow Framework]]
+- [[wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi|Flow by Mihaly Csikszentmihalyi]]
 - [[wiki/sources/2026-04-13-the-4-fs-of-flow|The 4 Fs of Flow]]

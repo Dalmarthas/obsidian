@@ -4154,3 +4154,32 @@ Pages touched:
 - [[wiki/syntheses/productivity/attention-and-focus-framework]]
 - [[index]]
 - [[log]]
+
+## [2026-04-13 15:13] ingest | Flow by Mihaly Csikszentmihalyi
+
+Summary: Ingested a new English productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-flow-by-mihaly-csikszentmihalyi]]. Created [[wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi]], the new entity page [[wiki/entities/mihaly-csikszentmihalyi]], and the new synthesis [[wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework]]. Used the source to deepen [[wiki/concepts/productivity/flow]] and [[wiki/concepts/productivity/dopamine-regulation]]. The flow branch now more clearly captures happiness as consciousness design, the challenge-skill channel as a state map, and the risk that passive comfort drifts into apathy rather than deep fulfillment.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-flow-by-mihaly-csikszentmihalyi]]
+- [[wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi]]
+- [[wiki/entities/mihaly-csikszentmihalyi]]
+- [[wiki/concepts/productivity/flow]]
+- [[wiki/concepts/productivity/dopamine-regulation]]
+- [[wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 15:18] ingest | Four Thousand Weeks by Oliver Burkeman
+
+Summary: Ingested a new English productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-four-thousand-weeks-by-oliver-burkeman]]. Created [[wiki/sources/2026-04-13-four-thousand-weeks-by-oliver-burkeman]], the new concept [[wiki/concepts/productivity/strategic-underachievement]], and the new synthesis [[wiki/syntheses/productivity/oliver-burkeman-four-thousand-weeks-framework]]. Used the source to deepen [[wiki/concepts/productivity/signal-to-noise-ratio]]. The Burkeman branch now more clearly captures open versus closed lists, deliberate good-enough standards for low-value work, and last-time reflection as a presence practice built on finitude rather than as another optimization tactic.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-four-thousand-weeks-by-oliver-burkeman]]
+- [[wiki/sources/2026-04-13-four-thousand-weeks-by-oliver-burkeman]]
+- [[wiki/concepts/productivity/strategic-underachievement]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio]]
+- [[wiki/syntheses/productivity/oliver-burkeman-four-thousand-weeks-framework]]
+- [[index]]
+- [[log]]

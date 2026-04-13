@@ -14,8 +14,10 @@ source_pages:
   - wiki/sources/2026-04-12-all-you-need-to-work-like-steve-jobs.md
   - wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula.md
   - wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity.md
+  - wiki/sources/2026-04-13-four-thousand-weeks-by-oliver-burkeman.md
 related:
   - wiki/concepts/productivity/peak-hours.md
+  - wiki/concepts/productivity/strategic-underachievement.md
   - wiki/concepts/productivity/serial-tasking.md
   - wiki/concepts/productivity/trusted-external-system.md
   - wiki/concepts/productivity/workflow-redesign.md
@@ -63,10 +65,15 @@ Signal-to-noise ratio is the rule of protecting a very small number of mission-c
   - some `noise` is not low-value work but uncaptured open loops
   - signal protection therefore improves when non-current commitments live in a trusted external system instead of remaining as anxious mental residue
   - the page now distinguishes better between true distraction and merely undefined obligation
+- The Burkeman source adds a stronger finitude layer:
+  - some noise survives because people refuse to close doors on moderately appealing goals
+  - the `open versus closed list` model forces a sharper distinction between possible futures and active commitments
+  - it also adds a harder anti-perfection rule: much low-value work should remain merely adequate so high-signal work can receive disproportionate care
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/productivity/peak-hours|Peak Hours]], signal-to-noise ratio answers `what deserves protection today?` while peak hours answers `when should that protected work happen?`
+- Compared with [[wiki/concepts/productivity/strategic-underachievement|Strategic Underachievement]], signal-to-noise ratio is better at naming the important few, while strategic underachievement explains how the surrounding many must often be handled with deliberately lower standards.
 - Compared with [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]], signal-to-noise ratio is more about selection than redesign. It filters which tasks deserve concentrated effort; workflow redesign changes how the chosen task is performed.
 - Compared with [[wiki/concepts/productivity/trusted-external-system|Trusted External System]], this page is more selective and day-level. Signal-to-noise ratio decides what should be foregrounded now; a trusted external system keeps everything else from cluttering attention while remaining retrievable and reviewable.
 - Compared with [[wiki/concepts/productivity/serial-tasking|Serial Tasking]], signal-to-noise ratio decides what deserves concentrated effort, while serial tasking explains how attention can move between several serious efforts without collapsing into ordinary multitasking.
@@ -84,10 +91,12 @@ Signal-to-noise ratio is the rule of protecting a very small number of mission-c
 - The source is anecdotal and personality-heavy, so the branch still needs stronger evidence on how much signal protection is optimal in different roles, especially collaborative or managerial ones.
 - The strongest unresolved question is how to protect signal without romanticizing leaders whose judgment quality does not justify extreme centralization.
 - The Elon Musk source adds a structural question: when someone appears to protect signal brilliantly, how much of that apparent discipline is actually borrowed from teams who are absorbing the unattended noise elsewhere?
+- The Burkeman source adds a quieter risk: some people may identify their signal correctly but still refuse to let lower-value obligations remain underachieved, which means signal protection never becomes real in the calendar.
 
 # Related Pages
 
 - [[wiki/concepts/productivity/peak-hours|Peak Hours]]
+- [[wiki/concepts/productivity/strategic-underachievement|Strategic Underachievement]]
 - [[wiki/concepts/productivity/trusted-external-system|Trusted External System]]
 - [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
@@ -95,3 +104,4 @@ Signal-to-noise ratio is the rule of protecting a very small number of mission-c
 - [[wiki/concepts/business/strategic-focus|Strategic Focus]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/sources/2026-04-12-steve-jobs-signal-to-noise-success-formula|Steve Jobs Signal to Noise Success Formula]]
+- [[wiki/sources/2026-04-13-four-thousand-weeks-by-oliver-burkeman|Four Thousand Weeks by Oliver Burkeman]]
