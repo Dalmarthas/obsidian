@@ -25,6 +25,7 @@ source_pages:
   - wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-million.md
   - wiki/sources/2026-04-11-seth-godin-this-is-strategy.md
   - wiki/sources/2026-04-13-rory-sutherland-soft-power-in-a-hard-world.md
+  - wiki/sources/2026-04-13-make-the-competition-irrelevant-blue-ocean-strategy.md
 related:
   - wiki/concepts/business/operational-productivity.md
   - wiki/concepts/business/strategic-focus.md
@@ -33,6 +34,9 @@ related:
   - wiki/concepts/business/strategic-quitting.md
   - wiki/concepts/business/success-metrics.md
   - wiki/concepts/business/jobs-to-be-done.md
+  - wiki/concepts/business/blue-ocean-strategy.md
+  - wiki/concepts/business/value-innovation.md
+  - wiki/concepts/business/errc-framework.md
   - wiki/concepts/business/innovation-accounting.md
   - wiki/concepts/business/brand-stewardship.md
   - wiki/concepts/business/paradigm-shifts.md
@@ -47,6 +51,7 @@ related:
   - wiki/concepts/business/nalog-uchreditelya.md
   - wiki/syntheses/business/iger-strategy-framework.md
   - wiki/syntheses/business/clayton-christensen-growth-framework.md
+  - wiki/syntheses/business/blue-ocean-strategy-framework.md
   - wiki/syntheses/business/simon-sinek-success-metrics-framework.md
   - wiki/syntheses/business/seth-godin-strategy-framework.md
   - wiki/syntheses/business/schultz-values-driven-leadership-framework.md
@@ -57,7 +62,7 @@ related:
 
 # What It Is
 
-Business strategy is the deliberate selection of a few priorities that determine where an organization will place capital, time, operating attention, and product effort. In this vault, strategy is not just market positioning or executive vision. It is the repeatable logic that decides what kind of value a company will create, for whom, through which tradeoffs, and which directions it must actively stop supporting. The Seth Godin branch sharpens this further by treating strategy as a stable philosophy of change while tactics remain flexible.
+Business strategy is the deliberate selection of a few priorities that determine where an organization will place capital, time, operating attention, and product effort. In this vault, strategy is not just market positioning or executive vision. It is the repeatable logic that decides what kind of value a company will create, for whom, through which tradeoffs, and which directions it must actively stop supporting. The Seth Godin branch sharpens this further by treating strategy as a stable philosophy of change while tactics remain flexible, and the Blue Ocean source adds a game-redesign layer: sometimes the strategic move is not to win harder inside the category, but to change the category logic itself.
 
 # Why It Matters
 
@@ -74,6 +79,13 @@ Business strategy is the deliberate selection of a few priorities that determine
 - The niche-selection branch adds an earlier layer of strategy: before scaling, choose the market, narrow to a sub-niche, and test demand against reality.
 - The Clayton Christensen source adds an innovation-allocation layer: strategy must distinguish sustaining, disruptive, and efficiency innovation, then avoid finance habits that starve the bets that create new demand.
 - That same source also argues that strategy improves when companies understand the `job to be done` in the customer's life rather than over-trusting segmentation, feature logic, or ratio-driven planning.
+- The Blue Ocean source adds a market-creation layer:
+  - some categories are structurally unattractive because competition is too direct and too crowded
+  - strategy can improve by studying non-customers rather than only current customers and rivals
+  - the aim can be to create uncontested space through `value innovation` rather than to optimize the same industry value curve
+- That same source also adds a redesign mechanism:
+  - the `eliminate-reduce-raise-create` grid forces strategy to question which features, norms, and costs are actually necessary
+  - this strengthens the vault's current strategy branch by making subtraction part of category design, not just portfolio focus
 - The Eric Ries branch adds an uncertainty-governance layer: strategy for new ventures is not only about choosing a direction, but about choosing how that direction will be tested, what learning milestone would count as progress, and which metrics are honest enough to justify continued investment.
 - The newer Simon Sinek source adds a scorecard-design layer: even a sound strategy can be undermined if the institution measures success only through short-term visible outcomes while ignoring momentum, trust, and cultural cost.
 - The Rory bottleneck source adds a constraint-diagnosis layer: strategy also requires knowing which variable is actually limiting growth right now, because improving non-constraints can create motion without progress.
@@ -112,6 +124,7 @@ Business strategy is the deliberate selection of a few priorities that determine
 - Iger is strongest on portfolio-level strategy: repeated priorities guide capital allocation, acquisitions, and long-horizon growth.
 - Schultz is strongest on values-aware business strategy: focus, economic fluency, and offensive self-cannibalization keep a company from drifting.
 - Christensen is strongest on growth causality: which kinds of innovation actually create new markets, why incumbents miss them, and how internal metrics can quietly reward the wrong portfolio.
+- Blue Ocean is strongest on category redesign: it shows how a firm can escape crowded comparison by rebuilding the offer around non-customer barriers, value innovation, and a different value curve.
 - Ries is strongest on strategy under uncertainty: define the venture by novelty plus uncertainty, then use innovation accounting so strategic bets are judged by learning rather than by mature-business optics.
 - Simon Sinek is strongest on incomplete scoreboards: a strategy's real logic is exposed by what the institution rewards, not only by what it says it values.
 - Rory Sutherland is strongest on moving constraints: strategy fails when teams optimize what is visible or fashionable instead of the real bottleneck, which may be cognitive availability as much as physical throughput.
@@ -126,6 +139,7 @@ Business strategy is the deliberate selection of a few priorities that determine
 - The Steve Jobs MIT source is strongest on strategy as integrated system design: product platform, sales model, manufacturing, and leadership philosophy should reinforce the same chosen opportunity.
 - The Steve Jobs D8 source is strongest on late-stage platform positioning: it shows how Jobs connected technology-cycle timing, integrated design, aggressive volume pricing, and values-preserving tradeoffs in the mobile transition era.
 - Together these sources imply that strategy has at least eight layers in this vault: where to play, what to stop, what to prioritize, what kind of value to deliver, which systems and games shape the field, which time horizon the work can survive, how to test uncertainty honestly, and how to make the economics honest enough to confirm the choice.
+- The Blue Ocean source pushes that model one step further: sometimes the strategic question is whether the current field should be escaped, reframed, or recomposed rather than merely navigated better.
 
 # Tensions / Open Questions
 
@@ -142,6 +156,7 @@ Business strategy is the deliberate selection of a few priorities that determine
 - The Steve Jobs MIT source adds an integration tension: vertical or tightly coupled strategy can create leverage, but it can also overfit to one era's economics, channels, or technical assumptions.
 - The D8 source adds a governance tension: platform control may improve consistency and safety, but the branch still needs stronger evidence on when such control protects users versus when it mainly protects the platform owner.
 - The strongest open question is where the boundary lies between hygiene and true strategic differentiation: which improvements merely make a company competent, and which ones actually change market choice?
+- Blue Ocean sharpens a neighboring question: when does a category-creation thesis reflect real demand redesign, and when is it just a flattering story pasted onto ordinary differentiation?
 - The Rory source sharpens a related question: how should leaders decide whether a growth problem is caused by product weakness, weak awareness, poor distribution, internal process friction, or some other hidden bottleneck?
 - The newer Rory source adds a neighboring question: how should leaders decide whether a low-measured touchpoint is strategically unimportant or merely trapped in a slow-feedback domain where the value is compounding invisibly?
 
@@ -154,6 +169,9 @@ Business strategy is the deliberate selection of a few priorities that determine
 - [[wiki/concepts/business/strategic-quitting|Strategic Quitting]]
 - [[wiki/concepts/business/success-metrics|Success Metrics]]
 - [[wiki/concepts/business/jobs-to-be-done|Jobs to Be Done]]
+- [[wiki/concepts/business/blue-ocean-strategy|Blue Ocean Strategy]]
+- [[wiki/concepts/business/value-innovation|Value Innovation]]
+- [[wiki/concepts/business/errc-framework|ERRC Framework]]
 - [[wiki/concepts/business/innovation-accounting|Innovation Accounting]]
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
 - [[wiki/concepts/business/paradigm-shifts|Paradigm Shifts]]
@@ -168,6 +186,7 @@ Business strategy is the deliberate selection of a few priorities that determine
 - [[wiki/concepts/business/nalog-uchreditelya|Налог учредителя]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/business/clayton-christensen-growth-framework|Clayton Christensen Growth Framework]]
+- [[wiki/syntheses/business/blue-ocean-strategy-framework|Blue Ocean Strategy Framework]]
 - [[wiki/syntheses/business/simon-sinek-success-metrics-framework|Simon Sinek Success Metrics Framework]]
 - [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
 - [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]

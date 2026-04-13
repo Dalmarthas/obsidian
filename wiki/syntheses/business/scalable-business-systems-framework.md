@@ -14,6 +14,7 @@ question: What reusable framework for building scalable business systems emerges
 basis:
   - wiki/sources/2026-04-09-why-many-entrepreneurs-struggle-despite-implementing-systems.md
   - wiki/sources/2026-04-13-the-ultimate-sales-training-for-2026.md
+  - wiki/sources/2026-04-13-the-4-disciplines-of-execution.md
   - wiki/concepts/business/business-systems.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/leadership/sistemy-i-standartizaciya.md
@@ -58,6 +59,8 @@ The distinctive contribution of this framework is definitional clarity. It argue
 
 The newer sales-training source sharpens one especially practical implication of that claim: a sales team is not scaled merely because reps have a script. It scales when lead response, slotting, reminders, routing, coaching, and post-sale handoff all operate as one measurable machine.
 
+The 4DX source adds a more execution-rhythmic implication: even a decent machine drifts unless one priority is protected from the `Whirlwind`, translated into lead measures, made visible on a scoreboard, and defended through weekly accountability.
+
 # Basis
 
 - Main source: [[wiki/sources/2026-04-09-why-many-entrepreneurs-struggle-despite-implementing-systems|Why Many Entrepreneurs Struggle Despite Implementing Systems]]
@@ -72,12 +75,14 @@ The newer sales-training source sharpens one especially practical implication of
 - Compared with [[wiki/concepts/business/produktovoe-myshlenie|Product Thinking]], this framework does not assume the product is always the bottleneck; it treats product, sales, onboarding, and other functions as competing candidates for the main current constraint.
 - Compared with [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], this framework is a particularly operational version in which a framework is valuable only if it creates measurable flow and clearer diagnostics.
 - Compared with the new sales-training source, this synthesis remains more abstract and cross-functional, while the sales source supplies a concrete subsystem example where response lag and show-rate failure are more important than script rhetoric.
+- Compared with the new 4DX source, this synthesis remains stronger on machine design, while 4DX is stronger on the weekly behavioral loop that keeps a machine pointed at one important target.
 
 # Gaps
 
 - The current branch is based on one compact secondary summary rather than a richer library of operational case studies.
 - It is strongest for service, agency, operations, or small-business execution contexts and less explicit about creative, R&D, or platform businesses with fuzzier outputs.
 - The vault still needs stronger sources on multi-constraint systems, local optimization failure, and how system design interacts with culture and incentives.
+- The 4DX source partly reduces that last gap by showing how accountability cadence and visible scoreboards affect behavior, but the branch still needs more on the politics and failure modes of those mechanisms.
 
 # Related Pages
 
@@ -90,3 +95,4 @@ The newer sales-training source sharpens one especially practical implication of
 - [[wiki/concepts/leadership/sistemy-i-standartizaciya|Systems and Standardization]]
 - [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Grebenyuk's Realnyi Million Framework]]
 - [[wiki/syntheses/business/modern-sales-systems-framework|Modern Sales Systems Framework]]
+- [[wiki/syntheses/business/4dx-execution-framework|4DX Execution Framework]]

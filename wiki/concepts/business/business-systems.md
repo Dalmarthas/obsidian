@@ -24,6 +24,8 @@ source_pages:
   - wiki/sources/2026-04-13-we-need-to-talk-about-founder-mode.md
   - wiki/sources/2026-04-13-brian-chesky-founder-mode-and-the-art-of-hiring.md
   - wiki/sources/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky.md
+  - wiki/sources/2026-04-13-the-4-disciplines-of-execution.md
+  - wiki/sources/2026-04-13-measure-what-matters-by-john-doerr.md
 related:
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/business/business-strategy.md
@@ -31,8 +33,11 @@ related:
   - wiki/concepts/business/smallest-viable-audience.md
   - wiki/concepts/business/produktovoe-myshlenie.md
   - wiki/concepts/business/founder-mode.md
+  - wiki/concepts/business/okrs.md
   - wiki/concepts/leadership/sistemy-i-standartizaciya.md
   - wiki/syntheses/business/scalable-business-systems-framework.md
+  - wiki/syntheses/business/4dx-execution-framework.md
+  - wiki/syntheses/business/john-doerr-okr-framework.md
   - wiki/syntheses/business/seth-godin-strategy-framework.md
   - wiki/syntheses/business/steve-jobs-think-different-framework.md
   - wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka.md
@@ -124,6 +129,14 @@ Business systems are the repeatable structures that turn business inputs into ou
   - dashboards and financial views matter, but they are weaker than whether customers love and repeatedly use the product
   - the page now has a stronger distinction between boardroom legibility and true product-market signal
   - systems should therefore optimize for lived customer relevance, not only for internally persuasive numbers
+- The 4DX source adds a protection layer for execution under ordinary chaos:
+  - even good systems lose important work to the `Whirlwind` unless one goal is explicitly protected
+  - simple lead measures and a visible scoreboard can turn a strategic priority into weekly operating behavior
+  - recurring accountability meetings act as a system for remembering the important work when urgency keeps trying to erase it
+- The Doerr source adds a measurement-rhythm layer:
+  - a system can bind one objective to a handful of key results so ambition and visibility stay connected
+  - green-yellow-red check-ins create an explicit mechanism for adaptation rather than leaving slippage implicit
+  - quantity-plus-quality key results also strengthen the machine by reducing the chance that one metric warps the whole system
 
 # Source Comparisons
 
@@ -140,6 +153,8 @@ Business systems are the repeatable structures that turn business inputs into ou
 - Compared with [[wiki/concepts/business/founder-mode|Founder Mode]], this page is more machine-oriented and less executive-philosophical. Business systems asks how the pipe should work; founder mode asks how a founder should stay close enough to that pipe to stop drift without becoming the pipe's main bottleneck.
 - Compared with [[wiki/syntheses/business/freymvork-realnogo-milliona-grebenyuka|Grebenyuk's Realnyi Million Framework]], this page is less about owner psychology, ruthless focus, and profit discipline, and more about diagnosing where the current pipe is actually narrowing.
 - Compared with [[wiki/concepts/business/operational-productivity|Operational Productivity]], business systems is broader and more machine-level. Operational productivity asks whether the system is improving the core work itself; business systems asks how the whole machine is structured and improved.
+- Compared with the 4DX source, the older pages are stronger on whole-system architecture and bottleneck diagnosis, while 4DX is stronger on protecting one goal inside the existing machine through scoreboard visibility and weekly accountability.
+- Compared with the Doerr source, this page remains broader on machine design, while Doerr is stronger on how one objective is translated into measurable key results and recurring review loops.
 
 # Tensions / Open Questions
 
@@ -155,6 +170,8 @@ Business systems are the repeatable structures that turn business inputs into ou
 - The newer founder-mode source adds a neighboring tension: direct truth flow from skip levels and users can improve system diagnosis, but without care it can also destabilize role clarity and create permanent founder interruption.
 - The Chesky source adds another systems tension: stronger launch coordination and central review can improve product coherence, but they can also slow local iteration if every meaningful step waits on top-level taste.
 - The newer Chesky conversation adds a related systems tension: early standards-imprinting can strengthen the machine, but if the founder never truly steps back, `muscle memory` can turn into dependence on recurring executive taste rather than durable local judgment.
+- The 4DX source adds another systems tension: simplifying execution around one WIG can improve follow-through, but it can also hide real interdependence when several goals are actually coupled.
+- The Doerr source adds a related systems tension: OKRs can improve alignment and ambition, but too many parallel objectives or poorly designed key results can turn the system into administrative noise.
 
 # Related Pages
 
@@ -163,6 +180,7 @@ Business systems are the repeatable structures that turn business inputs into ou
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/business/operational-productivity|Operational Productivity]]
 - [[wiki/concepts/business/founder-mode|Founder Mode]]
+- [[wiki/concepts/business/okrs|OKRs]]
 - [[wiki/entities/brian-chesky|Brian Chesky]]
 - [[wiki/sources/2026-04-13-we-need-to-talk-about-founder-mode|We Need to Talk About Founder Mode]]
 - [[wiki/sources/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky|The Secret Art of Micromanagement with Airbnb CEO Brian Chesky]]
@@ -171,6 +189,8 @@ Business systems are the repeatable structures that turn business inputs into ou
 - [[wiki/concepts/business/produktovoe-myshlenie|Product Thinking]]
 - [[wiki/concepts/leadership/sistemy-i-standartizaciya|Systems and Standardization]]
 - [[wiki/syntheses/business/scalable-business-systems-framework|Scalable Business Systems Framework]]
+- [[wiki/syntheses/business/4dx-execution-framework|4DX Execution Framework]]
+- [[wiki/syntheses/business/john-doerr-okr-framework|John Doerr OKR Framework]]
 - [[wiki/syntheses/business/modern-sales-systems-framework|Modern Sales Systems Framework]]
 - [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
 - [[wiki/syntheses/business/steve-jobs-think-different-framework|Steve Jobs Think Different Framework]]

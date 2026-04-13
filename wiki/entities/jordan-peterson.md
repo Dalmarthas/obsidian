@@ -2,7 +2,7 @@
 type: entity
 title: Jordan Peterson
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-13
 status: active
 tags:
   - entity
@@ -21,6 +21,7 @@ source_pages:
   - wiki/sources/2026-04-12-jordan-peterson-guide-to-leadership.md
   - wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson.md
   - wiki/sources/2026-04-12-your-job-is-not-to-motivate-people.md
+  - wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson.md
 related:
   - wiki/concepts/communication/assertiveness.md
   - wiki/concepts/communication/boundary-language.md
@@ -36,6 +37,7 @@ related:
   - wiki/concepts/productivity/conscientiousness.md
   - wiki/concepts/productivity/environmental-order.md
   - wiki/concepts/productivity/future-self-prioritization.md
+  - wiki/concepts/productivity/progress-against-yesterday.md
   - wiki/concepts/productivity/value-hierarchy.md
   - wiki/concepts/productivity/restorative-breaks.md
   - wiki/concepts/productivity/willpower.md
@@ -48,7 +50,7 @@ related:
 
 # Overview
 
-Jordan Peterson enters this vault here as a source on under-assertiveness, responsibility-heavy self-development, and meaning-driven self-management. In the current source base, his contributions now split across nine layers: a personality-level warning that excessive agreeableness can turn care and harmony-seeking into exploitation, an existential claim that meaning grows through voluntarily accepted burden rather than avoidance, a productivity model that links conscientiousness, valued goals, and negotiated schedules, a sustainability layer about calibrated challenge, planned recovery, and optimizing for a decades-long career rather than a sprint, an internal-governance layer where discipline is framed as ordering competing drives under a higher value hierarchy, a routine-design layer that ties wake regularity, fueling, naps, and workflow redesign to usable daily output, an environment-first layer where local order and recurring mundane interactions are treated as leverage points for larger life repair, a leadership-design layer where ethical destination, narrative alignment, and voluntary cooperation are treated as the real core of organizational leadership, and a characterological leadership layer where trustworthiness and reliability matter more than style alone.
+Jordan Peterson enters this vault here as a source on under-assertiveness, responsibility-heavy self-development, and meaning-driven self-management. In the current source base, his contributions now split across ten layers: a personality-level warning that excessive agreeableness can turn care and harmony-seeking into exploitation, an existential claim that meaning grows through voluntarily accepted burden rather than avoidance, a productivity model that links conscientiousness, valued goals, and negotiated schedules, a sustainability layer about calibrated challenge, planned recovery, and optimizing for a decades-long career rather than a sprint, an internal-governance layer where discipline is framed as ordering competing drives under a higher value hierarchy, a routine-design layer that ties wake regularity, fueling, naps, and workflow redesign to usable daily output, an environment-first layer where local order and recurring mundane interactions are treated as leverage points for larger life repair, a leadership-design layer where ethical destination, narrative alignment, and voluntary cooperation are treated as the real core of organizational leadership, a characterological leadership layer where trustworthiness and reliability matter more than style alone, and a compact anti-chaos layer built around progress against yesterday plus truth-telling as daily self-correction.
 
 # Role In This Vault
 
@@ -62,6 +64,7 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - He now also gives the leadership branch a narrative-and-consent frame: leaders should define an ethical destination, communicate it as a shared story, and build organizations that depend less on coercion and more on voluntary mutually beneficial participation.
 - He now also gives that same leadership branch a sharper anti-`motivation` frame: engagement should emerge from worthwhile direction, explicit mutual benefit, and life-plan alignment rather than from managerial energy theater.
 - He now also gives the leadership branch a character-and-reliability frame: followership depends on whether a leader is trustworthy, conscientious, and consistent enough that others can organize themselves around what is promised.
+- He now also gives the productivity and communication branches a compact anti-chaos frame: daily life gets steadier when self-worth is tied to progress against yesterday rather than to status competition, and when avoided truths are surfaced before they harden into larger problems.
 - Across both branches, he strengthens the link between self-understanding and deliberate corrective action rather than passive self-description.
 
 # Evidence In This Vault
@@ -80,6 +83,7 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - The leadership source adds an eighth layer: effective leadership is framed not as external motivation theater, but as story-shaped ethical direction that aligns organizational roles with voluntary cooperation and broader life purpose.
 - The anti-motivation source sharpens that eighth layer: leadership communication becomes most effective when it states goal, role, and mutual benefit clearly enough that progress itself starts generating motivation.
 - The character-in-leadership source adds a ninth layer: leadership is also framed as characterological reliability, where conscientiousness, keeping one's word, and being predictably trustworthy matter more than rhetorical style by themselves.
+- The `12 Rules for Life` summary adds a tenth layer: self-management becomes a daily anti-chaos loop built from comparing today with yesterday rather than with other people, then auditing where dishonesty or avoided conversations are blocking real progress.
 
 # Related Pages
 
@@ -90,6 +94,7 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable|Being Disciplined Will Make You Unstoppable]]
 - [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]]
 - [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]]
+- [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson|12 Rules for Life by Jordan Peterson]]
 - [[wiki/concepts/communication/assertiveness|Assertiveness]]
 - [[wiki/concepts/communication/boundary-language|Boundary Language]]
 - [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]]
@@ -100,6 +105,7 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - [[wiki/concepts/productivity/conscientiousness|Conscientiousness]]
 - [[wiki/concepts/productivity/environmental-order|Environmental Order]]
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
+- [[wiki/concepts/productivity/progress-against-yesterday|Progress Against Yesterday]]
 - [[wiki/concepts/productivity/value-hierarchy|Value Hierarchy]]
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/concepts/productivity/willpower|Willpower]]

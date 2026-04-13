@@ -2,7 +2,7 @@
 type: concept
 title: Rapid Skill Acquisition
 created: 2026-04-10
-updated: 2026-04-11
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -16,10 +16,12 @@ source_pages:
   - wiki/sources/2026-04-11-effective-practice-and-skill-learning.md
   - wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn.md
   - wiki/sources/2026-04-11-robert-greene-presentation-at-google-mastery.md
+  - wiki/sources/2026-04-13-the-only-skill-that-matters-by-jonathan-levi.md
 related:
   - wiki/concepts/productivity/effective-practice.md
   - wiki/concepts/productivity/chunking.md
   - wiki/concepts/productivity/focused-and-diffuse-learning-modes.md
+  - wiki/concepts/productivity/learning-pyramid.md
   - wiki/concepts/productivity/peak-hours.md
   - wiki/concepts/productivity/restorative-breaks.md
   - wiki/concepts/productivity/dopamine-regulation.md
@@ -53,6 +55,7 @@ Rapid skill acquisition is the idea that many useful skills can be brought to a 
 - That same source strengthens the branch's view on session design: start slowly, isolate weaknesses, use short frequent blocks, and include mental rehearsal where the movement pattern is already understood.
 - The Oakley source adds a stronger cognitive-learning layer: chunk knowledge into retrievable units, use recall instead of familiarity as the test of learning, and alternate concentrated work with diffuse-mode breaks so understanding can integrate rather than stay brittle.
 - The Robert Greene mastery source adds a strategic counterweight: fast competence is useful, but originality often requires a longer apprenticeship plus enough uncertainty tolerance that expertise does not harden into rigidity.
+- The Jonathan Levi source adds an anti-plateau layer: rapid learning improves when stalled understanding is attacked from multiple teachers, multiple formats, and higher rungs of the learning pyramid rather than through more exposure to the same explanation.
 
 # Source Comparisons
 
@@ -60,6 +63,7 @@ Rapid skill acquisition is the idea that many useful skills can be brought to a 
 - Compared with [[wiki/concepts/productivity/effective-practice|Effective Practice]], rapid skill acquisition is broader: it covers deconstruction, emotional survival, barrier removal, and feedback loops, while effective practice focuses on the quality of the repetitions themselves.
 - Compared with [[wiki/concepts/productivity/chunking|Chunking]], rapid skill acquisition is broader and more sequence-oriented. Chunking explains how units of understanding get stored; rapid skill acquisition includes the surrounding motivation, practice, and correction architecture.
 - Compared with [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]], this concept is less about cognitive state shifts and more about compressing the path from novice to usable performance.
+- Compared with [[wiki/concepts/productivity/learning-pyramid|Learning Pyramid]], rapid skill acquisition is earlier-phase and more speed-oriented. The learning pyramid is a depth test that checks how far the knowledge has really matured after the initial competence push.
 - Compared with [[wiki/concepts/productivity/peak-hours|Peak Hours]], this concept is less about protecting prime cognitive windows for known important work and more about using limited time to compress the path from novice to functional performer.
 - Compared with [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]], it gives recovery a narrower but sharper role: rest and especially sleep are valuable because they consolidate learning after struggle, not only because they prevent burnout.
 - Compared with [[wiki/concepts/productivity/dopamine-regulation|Dopamine Regulation]], rapid skill acquisition is less about managing fast-reward temptation in general and more about making practice psychologically and logistically easier to keep repeating during the aversive beginner phase.
@@ -79,6 +83,7 @@ Rapid skill acquisition is the idea that many useful skills can be brought to a 
 - [[wiki/concepts/productivity/effective-practice|Effective Practice]]
 - [[wiki/concepts/productivity/chunking|Chunking]]
 - [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]]
+- [[wiki/concepts/productivity/learning-pyramid|Learning Pyramid]]
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/concepts/productivity/dopamine-regulation|Dopamine Regulation]]
 - [[wiki/concepts/creativity/negative-capability|Negative Capability]]
@@ -89,3 +94,4 @@ Rapid skill acquisition is the idea that many useful skills can be brought to a 
 - [[wiki/sources/2026-04-10-josh-kaufman-frustration-barrier-and-20-hours|Josh Kaufman Frustration Barrier and 20 Hours]]
 - [[wiki/sources/2026-04-11-effective-practice-and-skill-learning|Effective Practice and Skill Learning]]
 - [[wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn|Barbara Oakley Learning How to Learn]]
+- [[wiki/sources/2026-04-13-the-only-skill-that-matters-by-jonathan-levi|The Only Skill That Matters by Jonathan Levi]]

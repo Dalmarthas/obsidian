@@ -3797,6 +3797,58 @@ Pages touched:
 - [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
 - [[index]]
 
+## [2026-04-13 12:23] ingest | Think Fast Talk Smart Matt Abrahams
+
+Summary: Ingested a new English Matt Abrahams communication source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-think-fast-talk-smart-matt-abrahams]]. Created [[wiki/sources/2026-04-13-think-fast-talk-smart-matt-abrahams]] and used it to deepen the existing spontaneous-speaking branch rather than create a parallel one. Updated [[wiki/concepts/communication/thinking-on-your-feet]], [[wiki/syntheses/communication/thinking-on-your-feet-framework]], and [[wiki/concepts/communication/effective-communication]] so the branch now makes the `approach-audience-context-structure` model explicit, including audience knowledge/expectations/attitudes, context-sensitive delivery, and `past-present-future` as another live-speaking structure.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-think-fast-talk-smart-matt-abrahams]]
+- [[wiki/sources/2026-04-13-think-fast-talk-smart-matt-abrahams]]
+- [[wiki/concepts/communication/thinking-on-your-feet]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[index]]
+
+## [2026-04-13 12:16] ingest | Speaking Up Without Freaking Out Matt Abrahams
+
+Summary: Ingested a new English Matt Abrahams communication source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-speaking-up-without-freaking-out-matt-abrahams]]. Created [[wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams]] and used it to deepen the existing spontaneous-speaking branch rather than create a parallel one. Updated [[wiki/concepts/communication/thinking-on-your-feet]], [[wiki/syntheses/communication/thinking-on-your-feet-framework]], and [[wiki/concepts/communication/effective-communication]] so the branch now carries a clearer anxiety-management layer around symptoms versus sources, greeting anxiety, audience-attention redirection, and `secondhand anxiety`.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-speaking-up-without-freaking-out-matt-abrahams]]
+- [[wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams]]
+- [[wiki/concepts/communication/thinking-on-your-feet]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[index]]
+
+## [2026-04-13 12:13] ingest | Think Fast, Talk Smart Communication Techniques
+
+Summary: Ingested a new English Matt Abrahams communication source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-think-fast-talk-smart-communication-techniques]]. Created [[wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques]] and used it to deepen the existing spontaneous-speaking branch rather than create a parallel one. Updated [[wiki/concepts/communication/thinking-on-your-feet]], [[wiki/syntheses/communication/thinking-on-your-feet-framework]], and [[wiki/concepts/communication/effective-communication]] so the branch now includes conversation-framing, `dare to be dull`, audience-comfort logic, hostile-question handling, and remote or cross-cultural adaptation.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-think-fast-talk-smart-communication-techniques]]
+- [[wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques]]
+- [[wiki/concepts/communication/thinking-on-your-feet]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[index]]
+
+## [2026-04-13 12:08] ingest | Think Faster, Talk Smarter with Matt Abrahams
+
+Summary: Ingested a new English communication source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-think-faster-talk-smarter-with-matt-abrahams]]. Created [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams]] and used it to deepen the existing live-speaking branch rather than create a duplicate one. Updated [[wiki/concepts/communication/thinking-on-your-feet]], [[wiki/syntheses/communication/thinking-on-your-feet-framework]], and [[wiki/concepts/communication/effective-communication]] so the branch now carries a fuller six-step Abrahams methodology with anxiety regulation, anti-perfectionism, deep listening, response structures, and outcome-focused brevity.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-think-faster-talk-smarter-with-matt-abrahams]]
+- [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams]]
+- [[wiki/concepts/communication/thinking-on-your-feet]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[index]]
+
 ## [2026-04-13 11:52] ingest | How to Think On Your Feet
 
 Summary: Ingested a new English communication source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-to-think-on-your-feet]]. Created [[wiki/sources/2026-04-13-how-to-think-on-your-feet]], the new canonical concept [[wiki/concepts/communication/thinking-on-your-feet]], and the new synthesis [[wiki/syntheses/communication/thinking-on-your-feet-framework]]. Updated [[wiki/concepts/communication/effective-communication]], [[wiki/concepts/communication/calibrated-questions]], and [[wiki/concepts/leadership/leadership-communication]] so the communication branch now has an explicit home for live-response skill under presentation and meeting pressure.
@@ -3865,3 +3917,240 @@ Pages touched:
 - [[wiki/entities/rory-sutherland]]
 - [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
 - [[index]]
+
+## [2026-04-13 12:27] ingest | 3 Techniques for Managing Speaking Anxiety
+
+Summary: Processed this raw source as a compact variant of the already-ingested Matt Abrahams speaking-anxiety material and archived it without creating new wiki pages, because its reusable structure is already represented in the existing spontaneous-speaking branch.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-3-techniques-for-managing-speaking-anxiety]]
+- [[log]]
+
+## [2026-04-13 12:45] ingest | No Freaking Speaking Managing Public Speaking Anxiety
+
+Summary: Ingested a new English speaking-anxiety source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-no-freaking-speaking-managing-public-speaking-anxiety]]. Created [[wiki/sources/2026-04-13-no-freaking-speaking-managing-public-speaking-anxiety]] and used it to deepen [[wiki/concepts/communication/thinking-on-your-feet]], [[wiki/concepts/communication/effective-communication]], and [[wiki/syntheses/communication/thinking-on-your-feet-framework]]. The communication branch now more clearly captures situation-audience-goal anxiety diagnosis, audience-response visualization instead of word-perfect rehearsal, and present-focus rituals as pre-speech regulation rather than generic confidence advice.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-no-freaking-speaking-managing-public-speaking-anxiety]]
+- [[wiki/sources/2026-04-13-no-freaking-speaking-managing-public-speaking-anxiety]]
+- [[wiki/concepts/communication/thinking-on-your-feet]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 12:58] ingest | Effective Body Language for Public Speaking
+
+Summary: Ingested a new English public-speaking delivery source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-effective-body-language-for-public-speaking]]. Created [[wiki/sources/2026-04-13-effective-body-language-for-public-speaking]] and used it to deepen [[wiki/concepts/communication/charismatic-presence]], [[wiki/concepts/communication/thinking-on-your-feet]], [[wiki/concepts/communication/effective-communication]], and [[wiki/syntheses/communication/thinking-on-your-feet-framework]]. The communication branch now more clearly captures anti-sway posture, open gesture mechanics, nonpatterned eye contact, purposeful movement, and seated or online delivery adaptations as reusable speaking infrastructure.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-effective-body-language-for-public-speaking]]
+- [[wiki/sources/2026-04-13-effective-body-language-for-public-speaking]]
+- [[wiki/concepts/communication/charismatic-presence]]
+- [[wiki/concepts/communication/thinking-on-your-feet]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 13:09] ingest | Think Faster Talk Smarter by Matt Abrahams Core Message
+
+Summary: Ingested a new English Matt Abrahams source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message]]. Created [[wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message]] and used it to deepen [[wiki/concepts/communication/thinking-on-your-feet]], [[wiki/concepts/communication/effective-communication]], and [[wiki/syntheses/communication/thinking-on-your-feet-framework]]. This source overlapped heavily with the existing Abrahams branch, but it added durable mnemonic packaging: the `3S` anxiety plan, `stick your landings`, `brick not cathedral`, and a slightly broader library of reusable structures.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message]]
+- [[wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message]]
+- [[wiki/concepts/communication/thinking-on-your-feet]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 13:18] ingest | How to Manage Adrenaline in Public Speaking 3 Magic Words
+
+Summary: Ingested a new English speaking-anxiety source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words]]. Created [[wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words]] and used it to deepen [[wiki/concepts/communication/thinking-on-your-feet]], [[wiki/concepts/communication/effective-communication]], and [[wiki/syntheses/communication/thinking-on-your-feet-framework]]. The branch now more clearly captures the secondary adrenaline spike, acceptance of symptoms through `and it's okay`, and the first minutes of speaking as the key window for preventing escalation.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words]]
+- [[wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words]]
+- [[wiki/concepts/communication/thinking-on-your-feet]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 13:31] ingest | How to Win Friends and Influence People by Dale Carnegie
+
+Summary: Ingested a new English Carnegie source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-to-win-friends-and-influence-people-by-dale-carnegie]]. Created [[wiki/sources/2026-04-13-how-to-win-friends-and-influence-people-by-dale-carnegie]] and the new entity page [[wiki/entities/dale-carnegie]]. Used the source to deepen [[wiki/concepts/communication/effective-communication]], [[wiki/concepts/communication/conversational-curiosity]], [[wiki/concepts/communication/persuasion]], and [[wiki/syntheses/communication/conversation-connection-framework]]. The communication branch now more clearly captures genuine interest as a compounding relationship strategy, appreciation as a primary behavior lever, and Carnegie as a humane counterweight to colder influence models.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-how-to-win-friends-and-influence-people-by-dale-carnegie]]
+- [[wiki/sources/2026-04-13-how-to-win-friends-and-influence-people-by-dale-carnegie]]
+- [[wiki/entities/dale-carnegie]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/concepts/communication/conversational-curiosity]]
+- [[wiki/concepts/communication/persuasion]]
+- [[wiki/syntheses/communication/conversation-connection-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 13:43] ingest | The 4 Disciplines of Execution
+
+Summary: Ingested a new English execution-system source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-4-disciplines-of-execution]]. Created [[wiki/sources/2026-04-13-the-4-disciplines-of-execution]] and the new synthesis [[wiki/syntheses/business/4dx-execution-framework]]. Used the source to deepen [[wiki/concepts/business/business-systems]], [[wiki/concepts/business/strategic-focus]], [[wiki/concepts/business/success-metrics]], and [[wiki/syntheses/business/scalable-business-systems-framework]]. The business branch now more clearly captures the `Whirlwind`, wildly important goals, lead-versus-lag measurement, visible scoreboards, and weekly accountability as a recurring execution loop.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-4-disciplines-of-execution]]
+- [[wiki/sources/2026-04-13-the-4-disciplines-of-execution]]
+- [[wiki/syntheses/business/4dx-execution-framework]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/business/strategic-focus]]
+- [[wiki/concepts/business/success-metrics]]
+- [[wiki/syntheses/business/scalable-business-systems-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 14:00] ingest | Be Rare and Valuable: So Good They Can't Ignore You
+
+Summary: Ingested a new English Cal Newport source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you]]. Created [[wiki/sources/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you]], the new entity page [[wiki/entities/cal-newport]], the new concepts [[wiki/concepts/business/career-capital]] and [[wiki/concepts/business/craftsman-mindset]], and the new synthesis [[wiki/syntheses/business/cal-newport-career-capital-framework]]. Used the source to deepen [[wiki/concepts/business/career-blueprint]], [[wiki/concepts/business/zone-of-genius]], and [[wiki/concepts/productivity/deliberate-practice]]. The career branch now more clearly captures satisfying work as an earned combination of creativity, control, and impact built through scarce skill, stretch projects, and a craftsman orientation rather than passion-first drift.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you]]
+- [[wiki/sources/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you]]
+- [[wiki/entities/cal-newport]]
+- [[wiki/concepts/business/career-capital]]
+- [[wiki/concepts/business/craftsman-mindset]]
+- [[wiki/concepts/business/career-blueprint]]
+- [[wiki/concepts/business/zone-of-genius]]
+- [[wiki/concepts/productivity/deliberate-practice]]
+- [[wiki/syntheses/business/cal-newport-career-capital-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 14:10] ingest | Thinking, Fast and Slow by Daniel Kahneman
+
+Summary: Ingested a new English Daniel Kahneman source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-thinking-fast-and-slow-by-daniel-kahneman]]. Created [[wiki/sources/2026-04-13-thinking-fast-and-slow-by-daniel-kahneman]] and the new concept pages [[wiki/concepts/others/mere-exposure-effect]], [[wiki/concepts/others/status-quo-bias]], and [[wiki/concepts/others/wysiati]]. Used the source to deepen [[wiki/concepts/others/two-systems-thinking]], [[wiki/entities/daniel-kahneman]], and [[wiki/syntheses/cross-source/decision-making-under-cognitive-strain]]. The judgment branch now more clearly captures how familiarity, default-preservation, and incomplete visible evidence distort major choices even when the two-systems model is already understood.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-thinking-fast-and-slow-by-daniel-kahneman]]
+- [[wiki/sources/2026-04-13-thinking-fast-and-slow-by-daniel-kahneman]]
+- [[wiki/concepts/others/mere-exposure-effect]]
+- [[wiki/concepts/others/status-quo-bias]]
+- [[wiki/concepts/others/wysiati]]
+- [[wiki/concepts/others/two-systems-thinking]]
+- [[wiki/entities/daniel-kahneman]]
+- [[wiki/syntheses/cross-source/decision-making-under-cognitive-strain]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 14:15] ingest | Make the Competition Irrelevant: Blue Ocean Strategy
+
+Summary: Ingested a new English strategy source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-make-the-competition-irrelevant-blue-ocean-strategy]]. Created [[wiki/sources/2026-04-13-make-the-competition-irrelevant-blue-ocean-strategy]], the new concepts [[wiki/concepts/business/blue-ocean-strategy]], [[wiki/concepts/business/value-innovation]], and [[wiki/concepts/business/errc-framework]], and the new synthesis [[wiki/syntheses/business/blue-ocean-strategy-framework]]. Used the source to deepen [[wiki/concepts/business/business-strategy]], [[wiki/concepts/business/jobs-to-be-done]], and [[wiki/syntheses/business/clayton-christensen-growth-framework]]. The business branch now more clearly captures category creation, non-customer insight, and redesign through elimination, reduction, raising, and creation rather than only head-to-head competition.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-make-the-competition-irrelevant-blue-ocean-strategy]]
+- [[wiki/sources/2026-04-13-make-the-competition-irrelevant-blue-ocean-strategy]]
+- [[wiki/concepts/business/blue-ocean-strategy]]
+- [[wiki/concepts/business/value-innovation]]
+- [[wiki/concepts/business/errc-framework]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/concepts/business/jobs-to-be-done]]
+- [[wiki/syntheses/business/blue-ocean-strategy-framework]]
+- [[wiki/syntheses/business/clayton-christensen-growth-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 14:20] ingest | Measure What Matters by John Doerr
+
+Summary: Ingested a new English execution-and-metrics source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-measure-what-matters-by-john-doerr]]. Created [[wiki/sources/2026-04-13-measure-what-matters-by-john-doerr]], the new concepts [[wiki/concepts/business/okrs]] and [[wiki/concepts/business/stretch-goals]], and the new synthesis [[wiki/syntheses/business/john-doerr-okr-framework]]. Used the source to deepen [[wiki/concepts/business/success-metrics]], [[wiki/concepts/business/business-systems]], [[wiki/concepts/business/strategic-focus]], and [[wiki/syntheses/business/4dx-execution-framework]]. The execution branch now more clearly captures ambition-calibrated objectives, mixed quality-and-quantity key results, traffic-light review loops, and the rule that easy 100 percent completion often signals timid target-setting rather than strong performance.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-measure-what-matters-by-john-doerr]]
+- [[wiki/sources/2026-04-13-measure-what-matters-by-john-doerr]]
+- [[wiki/concepts/business/okrs]]
+- [[wiki/concepts/business/stretch-goals]]
+- [[wiki/concepts/business/success-metrics]]
+- [[wiki/concepts/business/business-systems]]
+- [[wiki/concepts/business/strategic-focus]]
+- [[wiki/syntheses/business/john-doerr-okr-framework]]
+- [[wiki/syntheses/business/4dx-execution-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 14:49] ingest | 12 Rules for Life by Jordan Peterson
+
+Summary: Ingested a new English Jordan Peterson source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-12-rules-for-life-by-jordan-peterson]]. Created [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson]] and the new concept [[wiki/concepts/productivity/progress-against-yesterday]]. Used the source to deepen [[wiki/entities/jordan-peterson]], [[wiki/concepts/productivity/future-self-prioritization]], [[wiki/concepts/communication/assertiveness]], [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]], and [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework]]. The Peterson branch now more clearly captures progress-against-yesterday as an anti-comparison scoreboard, plus truth-telling and early difficult conversations as part of daily anti-chaos maintenance rather than only as abstract moral advice.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-12-rules-for-life-by-jordan-peterson]]
+- [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson]]
+- [[wiki/concepts/productivity/progress-against-yesterday]]
+- [[wiki/entities/jordan-peterson]]
+- [[wiki/concepts/productivity/future-self-prioritization]]
+- [[wiki/concepts/communication/assertiveness]]
+- [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]]
+- [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 14:51] ingest | Stress-free productivity: Getting Things Done by David Allen
+
+Summary: Ingested a new English David Allen source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-stress-free-productivity-getting-things-done-by-david-allen]]. Created [[wiki/sources/2026-04-13-stress-free-productivity-getting-things-done-by-david-allen]], the new entity page [[wiki/entities/david-allen]], the new concept [[wiki/concepts/productivity/trusted-external-system]], and the new synthesis [[wiki/syntheses/productivity/david-allen-gtd-framework]]. Used the source to deepen [[wiki/concepts/productivity/behavior-journaling]], [[wiki/concepts/productivity/future-self-prioritization]], [[wiki/concepts/productivity/signal-to-noise-ratio]], and [[wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework]]. The productivity branch now more clearly captures GTD as anti-overwhelm infrastructure: uncaptured open loops consume attention, while capture, clarification, trusted containers, and review cadence reduce stress by externalizing commitments rather than repeatedly renegotiating them mentally.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-stress-free-productivity-getting-things-done-by-david-allen]]
+- [[wiki/sources/2026-04-13-stress-free-productivity-getting-things-done-by-david-allen]]
+- [[wiki/entities/david-allen]]
+- [[wiki/concepts/productivity/trusted-external-system]]
+- [[wiki/concepts/productivity/behavior-journaling]]
+- [[wiki/concepts/productivity/future-self-prioritization]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio]]
+- [[wiki/syntheses/productivity/david-allen-gtd-framework]]
+- [[wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 14:59] ingest | The Only Skill That Matters by Jonathan Levi
+
+Summary: Ingested a new English Jonathan Levi source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-only-skill-that-matters-by-jonathan-levi]]. Created [[wiki/sources/2026-04-13-the-only-skill-that-matters-by-jonathan-levi]], the new entity page [[wiki/entities/jonathan-levi]], the new concept [[wiki/concepts/productivity/learning-pyramid]], and the new synthesis [[wiki/syntheses/productivity/jonathan-levi-superlearning-framework]]. Used the source to deepen [[wiki/concepts/productivity/effective-practice]], [[wiki/concepts/productivity/rapid-skill-acquisition]], [[wiki/concepts/productivity/retrieval-practice]], and [[wiki/syntheses/productivity/barbara-oakley-learning-framework]]. The learning branch now more clearly captures plateau-breaking through paired-skill transfer, multi-source explanation hunting, and climbing from understanding to recall, explanation, application, analysis, and creation instead of stopping at familiarity.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-only-skill-that-matters-by-jonathan-levi]]
+- [[wiki/sources/2026-04-13-the-only-skill-that-matters-by-jonathan-levi]]
+- [[wiki/entities/jonathan-levi]]
+- [[wiki/concepts/productivity/learning-pyramid]]
+- [[wiki/concepts/productivity/effective-practice]]
+- [[wiki/concepts/productivity/rapid-skill-acquisition]]
+- [[wiki/concepts/productivity/retrieval-practice]]
+- [[wiki/syntheses/productivity/jonathan-levi-superlearning-framework]]
+- [[wiki/syntheses/productivity/barbara-oakley-learning-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 15:03] ingest | The 4 Fs of Flow
+
+Summary: Ingested a new English productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-4-fs-of-flow]]. Created [[wiki/sources/2026-04-13-the-4-fs-of-flow]], the new concept [[wiki/concepts/productivity/flow]], and the new synthesis [[wiki/syntheses/productivity/four-fs-of-flow-framework]]. Used the source to deepen [[wiki/concepts/productivity/calibrated-challenge]] and [[wiki/syntheses/productivity/attention-and-focus-framework]]. The productivity branch now more clearly captures flow as a designable work state, `permission timers` as a way to separate performance from critique, and the `4 percent challenge` idea as a slight-stretch heuristic rather than a precise law.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-4-fs-of-flow]]
+- [[wiki/sources/2026-04-13-the-4-fs-of-flow]]
+- [[wiki/concepts/productivity/flow]]
+- [[wiki/concepts/productivity/calibrated-challenge]]
+- [[wiki/syntheses/productivity/four-fs-of-flow-framework]]
+- [[wiki/syntheses/productivity/attention-and-focus-framework]]
+- [[index]]
+- [[log]]

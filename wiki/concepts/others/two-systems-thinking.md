@@ -2,7 +2,7 @@
 type: concept
 title: Two-Systems Thinking
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -12,8 +12,12 @@ tags:
   - psychology
 source_pages:
   - wiki/sources/2026-04-10-daniel-kahneman-two-systems-thinking.md
+  - wiki/sources/2026-04-13-thinking-fast-and-slow-by-daniel-kahneman.md
 related:
   - wiki/concepts/others/expert-intuition.md
+  - wiki/concepts/others/mere-exposure-effect.md
+  - wiki/concepts/others/status-quo-bias.md
+  - wiki/concepts/others/wysiati.md
   - wiki/concepts/health/premortem.md
   - wiki/concepts/health/stress-mindset.md
   - wiki/syntheses/cross-source/decision-making-under-cognitive-strain.md
@@ -35,10 +39,15 @@ Two-systems thinking is the model that human judgment is shaped by two interacti
 - The same source defines `System 2` as slower, deliberate, and capable of monitoring or overriding intuitive output.
 - It also argues that many errors arise because the fast system answers easier substitute questions while the slow system fails to intervene.
 - The source further claims that confidence often reflects coherence and fluency rather than the actual quality of evidence.
+- The newer Kahneman source adds three more concrete failure patterns:
+  - familiarity can masquerade as truth or quality through mere exposure
+  - the current state can feel artificially safer through loss aversion and the endowment effect
+  - WYSIATI can make thin evidence feel complete by hiding what is missing
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/others/expert-intuition|Expert Intuition]], this concept is broader. Two-systems thinking describes the architecture of judgment; expert intuition describes the special conditions under which fast judgment becomes reliably skilled.
+- Compared with [[wiki/concepts/others/wysiati|WYSIATI]], this concept is broader. Two-systems thinking names the architecture; WYSIATI names one concrete way fast coherence becomes overconfident.
 - Compared with [[wiki/concepts/health/premortem|Premortem]], this concept explains the problem while premortem is one response: if automatic judgment is vulnerable, move part of the thinking upstream before pressure narrows attention.
 - Compared with [[wiki/concepts/health/stress-mindset|Stress Mindset]], two-systems thinking is less about whether stress is interpreted as harmful or useful and more about how cognition defaults, substitutes, and misses.
 
@@ -51,7 +60,11 @@ Two-systems thinking is the model that human judgment is shaped by two interacti
 # Related Pages
 
 - [[wiki/concepts/others/expert-intuition|Expert Intuition]]
+- [[wiki/concepts/others/mere-exposure-effect|Mere-Exposure Effect]]
+- [[wiki/concepts/others/status-quo-bias|Status Quo Bias]]
+- [[wiki/concepts/others/wysiati|WYSIATI]]
 - [[wiki/concepts/health/premortem|Premortem]]
 - [[wiki/concepts/health/stress-mindset|Stress Mindset]]
 - [[wiki/syntheses/cross-source/decision-making-under-cognitive-strain|Decision-Making Under Cognitive Strain]]
 - [[wiki/sources/2026-04-10-daniel-kahneman-two-systems-thinking|Daniel Kahneman Two-Systems Thinking]]
+- [[wiki/sources/2026-04-13-thinking-fast-and-slow-by-daniel-kahneman|Thinking, Fast and Slow by Daniel Kahneman]]

@@ -2,7 +2,7 @@
 type: synthesis
 title: Clayton Christensen Growth Framework
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - synthesis
@@ -12,13 +12,16 @@ tags:
 question: What reusable growth framework does the Clayton Christensen source add to the vault?
 basis:
   - wiki/sources/2026-04-10-clayton-christensen-sustainable-growth-and-jobs-to-be-done.md
+  - wiki/sources/2026-04-13-make-the-competition-irrelevant-blue-ocean-strategy.md
   - wiki/concepts/business/jobs-to-be-done.md
   - wiki/concepts/business/business-strategy.md
+  - wiki/concepts/business/blue-ocean-strategy.md
   - wiki/concepts/business/self-disruption.md
 related:
   - wiki/entities/clayton-christensen.md
   - wiki/syntheses/business/iger-strategy-framework.md
   - wiki/syntheses/business/lean-startup-validation-framework.md
+  - wiki/syntheses/business/blue-ocean-strategy-framework.md
 ---
 
 # Question
@@ -50,12 +53,14 @@ The current source base supports a six-part model:
 # Basis
 
 - Main source: [[wiki/sources/2026-04-10-clayton-christensen-sustainable-growth-and-jobs-to-be-done|Clayton Christensen Sustainable Growth and Jobs to Be Done]]
-- Canonical concepts: [[wiki/concepts/business/jobs-to-be-done|Jobs to Be Done]], [[wiki/concepts/business/business-strategy|Business Strategy]], [[wiki/concepts/business/self-disruption|Self-Disruption]]
+- Blue Ocean overlap: [[wiki/sources/2026-04-13-make-the-competition-irrelevant-blue-ocean-strategy|Make the Competition Irrelevant: Blue Ocean Strategy]]
+- Canonical concepts: [[wiki/concepts/business/jobs-to-be-done|Jobs to Be Done]], [[wiki/concepts/business/business-strategy|Business Strategy]], [[wiki/concepts/business/self-disruption|Self-Disruption]], [[wiki/concepts/business/blue-ocean-strategy|Blue Ocean Strategy]]
 
 # Comparisons
 
 - Compared with [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]], Christensen is less focused on a small set of executive priorities and more focused on the causal machinery that either enables or blocks future growth.
 - Compared with [[wiki/syntheses/business/lean-startup-validation-framework|Lean Startup Validation Framework]], Christensen is less about rapid experiment sequencing and more about identifying what kind of innovation is being pursued and why existing incentives may reject it.
+- Compared with [[wiki/syntheses/business/blue-ocean-strategy-framework|Blue Ocean Strategy Framework]], Christensen is more diagnostic about why growth emerges and why incumbents miss it, while Blue Ocean is more explicit about category redesign through non-customer focus, value innovation, and ERRC.
 - Iger is stronger on repeated strategic articulation at scale.
 - Ries is stronger on testing risky assumptions quickly.
 - Christensen is stronger on why companies systematically misallocate capital away from market-creating innovation in the first place.

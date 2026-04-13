@@ -2,7 +2,7 @@
 type: synthesis
 title: Jordan Peterson Self-Management Framework
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 status: active
 tags:
   - synthesis
@@ -16,11 +16,13 @@ basis:
   - wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive.md
   - wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable.md
   - wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine.md
+  - wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson.md
   - wiki/sources/2026-04-12-jordan-peterson-sorting-your-life.md
   - wiki/concepts/productivity/calibrated-challenge.md
   - wiki/concepts/productivity/conscientiousness.md
   - wiki/concepts/productivity/environmental-order.md
   - wiki/concepts/productivity/future-self-prioritization.md
+  - wiki/concepts/productivity/progress-against-yesterday.md
   - wiki/concepts/productivity/value-hierarchy.md
   - wiki/concepts/productivity/willpower.md
   - wiki/concepts/productivity/workflow-redesign.md
@@ -35,7 +37,7 @@ What reusable self-management framework do the current Jordan Peterson productiv
 
 # Answer
 
-The Peterson productivity branch now adds an eleven-part self-management framework:
+The Peterson productivity branch now adds a twelve-part self-management framework:
 
 1. Stabilize physiology before demanding discipline.
    Treat food, sleep, wake regularity, and exercise as operating conditions for cognition rather than as optional lifestyle extras.
@@ -70,10 +72,13 @@ The Peterson productivity branch now adds an eleven-part self-management framewo
 11. Govern impulses through a ranked value structure.
    Discipline is not only resistance in the moment. It is the ongoing organization of competing short-term drives under a hierarchy that the person can live with, schedule around, and refine over time.
 
+12. Measure progress locally and tell the truth early.
+   Use yesterday's self rather than social comparison as the baseline, then audit where dishonesty, false agreement, or avoided conversations are preventing real forward movement.
+
 # Basis
 
-- Main sources: [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson|What To Do To Be Successful Jordan B Peterson]], [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive|Jordan Peterson Becoming Highly Efficient and Productive]], [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable|Being Disciplined Will Make You Unstoppable]], [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]]
-- Canonical concepts: [[wiki/concepts/productivity/calibrated-challenge|Calibrated Challenge]], [[wiki/concepts/productivity/conscientiousness|Conscientiousness]], [[wiki/concepts/productivity/environmental-order|Environmental Order]], [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]], [[wiki/concepts/productivity/value-hierarchy|Value Hierarchy]], [[wiki/concepts/productivity/willpower|Willpower]], [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
+- Main sources: [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson|What To Do To Be Successful Jordan B Peterson]], [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive|Jordan Peterson Becoming Highly Efficient and Productive]], [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable|Being Disciplined Will Make You Unstoppable]], [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]], [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]], [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson|12 Rules for Life by Jordan Peterson]]
+- Canonical concepts: [[wiki/concepts/productivity/calibrated-challenge|Calibrated Challenge]], [[wiki/concepts/productivity/conscientiousness|Conscientiousness]], [[wiki/concepts/productivity/environmental-order|Environmental Order]], [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]], [[wiki/concepts/productivity/progress-against-yesterday|Progress Against Yesterday]], [[wiki/concepts/productivity/value-hierarchy|Value Hierarchy]], [[wiki/concepts/productivity/willpower|Willpower]], [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
 
 # Comparisons
 
@@ -84,6 +89,7 @@ The Peterson productivity branch now adds an eleven-part self-management framewo
 - The newest Peterson source adds a deeper motivational architecture beneath the calendar and routine layer: discipline works when a person can rank impulses under a value hierarchy and start the schedule simply enough that those impulses will keep cooperating.
 - The daily-routine source adds a more concrete operating layer beneath all of that: stabilize wake time and fuel, respect the limited span of truly sharp intellectual work, and redesign repeated workflows for leverage before trying to outwork the bottleneck.
 - The sorting-your-life source adds a local-environment layer: when abstraction is too big, order the room and the routine-level social moments first, because those mundane repetitions often dominate the lived feel of a life.
+- The `12 Rules for Life` summary adds a day-to-day anti-comparison loop that the earlier productivity pages only implied: motivation stabilizes when the scoreboard is `better than yesterday` rather than `better than other people`, and course correction becomes more honest when avoided truths are surfaced quickly.
 
 # Gaps
 
@@ -93,6 +99,7 @@ The Peterson productivity branch now adds an eleven-part self-management framewo
 - The `meaning as gauge` idea remains useful but underspecified; the branch still needs better practical signals for knowing when challenge is growth-producing versus overload-producing.
 - The routine source adds two more open questions: how general the `three hours of intense work` ceiling really is, and how to distinguish real workflow redesign from endless optimization tinkering.
 - The newest source adds another open question: which local environmental and interpersonal routines are most reliable as first repair points when life feels chaotic?
+- The `12 Rules for Life` summary adds one more gap: the vault still lacks stronger sources on when self-scoring improves follow-through versus when it becomes compulsive self-monitoring.
 
 # Related Pages
 
@@ -101,6 +108,7 @@ The Peterson productivity branch now adds an eleven-part self-management framewo
 - [[wiki/concepts/productivity/conscientiousness|Conscientiousness]]
 - [[wiki/concepts/productivity/environmental-order|Environmental Order]]
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
+- [[wiki/concepts/productivity/progress-against-yesterday|Progress Against Yesterday]]
 - [[wiki/concepts/productivity/value-hierarchy|Value Hierarchy]]
 - [[wiki/concepts/productivity/willpower|Willpower]]
 - [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
@@ -110,3 +118,4 @@ The Peterson productivity branch now adds an eleven-part self-management framewo
 - [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable|Being Disciplined Will Make You Unstoppable]]
 - [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]]
 - [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]]
+- [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson|12 Rules for Life by Jordan Peterson]]

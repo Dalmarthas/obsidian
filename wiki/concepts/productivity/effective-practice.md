@@ -17,8 +17,10 @@ source_pages:
   - wiki/sources/2026-04-11-robert-greene-presentation-at-google-mastery.md
   - wiki/sources/2026-04-12-why-you-need-to-put-in-10000-hours.md
   - wiki/sources/2026-04-11-quiet-eye-visual-attention-and-skill-performance.md
+  - wiki/sources/2026-04-13-the-only-skill-that-matters-by-jonathan-levi.md
 related:
   - wiki/concepts/productivity/deliberate-practice.md
+  - wiki/concepts/productivity/learning-pyramid.md
   - wiki/concepts/productivity/rapid-skill-acquisition.md
   - wiki/concepts/productivity/restorative-breaks.md
   - wiki/concepts/productivity/chunking.md
@@ -58,6 +60,7 @@ Effective practice is structured repetition designed to improve performance rath
   - dense continuity often matters more than simply serving time over many years
 - That same source also extends the concept into social domains by arguing that some forms of practice require live, in-the-moment reading of people and context rather than only technical drills.
 - The quiet-eye source adds a more perceptual lever inside the same idea: practice quality depends not only on what is repeated, but on whether visual attention stabilizes in a usable way during the decisive moment of action.
+- The Jonathan Levi source adds a progression test above repetition quality: effective practice is stronger when it keeps forcing the learner upward from understanding to recall, explanation, application, analysis, and creation instead of stopping at familiarity.
 
 # Source Comparisons
 
@@ -67,6 +70,7 @@ Effective practice is structured repetition designed to improve performance rath
 - Compared with [[wiki/concepts/leadership/growth-mindset|Growth Mindset]], effective practice is less belief-oriented and more operational. It says what good repetition looks like, not just why challenge should be embraced.
 - Compared with [[wiki/concepts/productivity/chunking|Chunking]], effective practice is more session-level and behavioral, while chunking describes the memory structures that those sessions are trying to build.
 - Compared with [[wiki/concepts/productivity/retrieval-practice|Retrieval Practice]], effective practice is broader and more session-level. Retrieval practice names one especially valuable mechanism inside good sessions, especially when the goal is recall under pressure rather than only familiarity during practice.
+- Compared with [[wiki/concepts/productivity/learning-pyramid|Learning Pyramid]], effective practice is more about the quality of the repetitions and tasks, while the pyramid is more about what level of command those repetitions should eventually produce.
 - Compared with [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]], effective practice is stronger on how to work during the session, while Oakley's concept is stronger on the alternation between concentrated work and integration.
 - Compared with [[wiki/concepts/creativity/negative-capability|Negative Capability]], effective practice is tighter and more executional. Negative capability becomes more relevant when the task is no longer just skill encoding but interpretation, originality, or breakthrough thinking.
 - Compared with [[wiki/concepts/others/quiet-eye|Quiet Eye]], effective practice is broader and more session-level. Quiet eye names one specific attentional behavior that may make execution more reliable inside the session.
@@ -82,6 +86,7 @@ Effective practice is structured repetition designed to improve performance rath
 - [[wiki/sources/2026-04-11-effective-practice-and-skill-learning|Effective Practice and Skill Learning]]
 - [[wiki/sources/2026-04-12-why-you-need-to-put-in-10000-hours|Why You Need To Put In 10,000 Hours]]
 - [[wiki/concepts/productivity/deliberate-practice|Deliberate Practice]]
+- [[wiki/concepts/productivity/learning-pyramid|Learning Pyramid]]
 - [[wiki/concepts/productivity/rapid-skill-acquisition|Rapid Skill Acquisition]]
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/concepts/productivity/chunking|Chunking]]

@@ -24,6 +24,15 @@ source_pages:
   - wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication.md
   - wiki/sources/2026-04-13-the-cheat-code-for-controlling-conflict.md
   - wiki/sources/2026-04-13-how-to-think-on-your-feet.md
+  - wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams.md
+  - wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques.md
+  - wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams.md
+  - wiki/sources/2026-04-13-think-fast-talk-smart-matt-abrahams.md
+  - wiki/sources/2026-04-13-no-freaking-speaking-managing-public-speaking-anxiety.md
+  - wiki/sources/2026-04-13-effective-body-language-for-public-speaking.md
+  - wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message.md
+  - wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words.md
+  - wiki/sources/2026-04-13-how-to-win-friends-and-influence-people-by-dale-carnegie.md
 related:
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/communication/anchor-bridge-structure.md
@@ -45,6 +54,7 @@ related:
   - wiki/concepts/communication/dynamic-silence.md
   - wiki/concepts/communication/calibrated-questions.md
   - wiki/concepts/communication/face-saving-de-escalation.md
+  - wiki/entities/dale-carnegie.md
   - wiki/syntheses/cross-source/communication-and-influence-models.md
 ---
 
@@ -90,6 +100,44 @@ Effective communication is the disciplined practice of making another person und
   - real-time speaking improves when the speaker becomes more present and less consumed by self-talk
   - live answers often improve when the point comes before the support rather than after a long runway
   - broad questions often deserve clarification first, and visible spontaneity is frequently just better anticipation
+- The Matt Abrahams source deepens that same live-speaking branch:
+  - self-judgment and perfectionism can consume the bandwidth needed to answer well
+  - deep listening and paraphrase are part of response quality, not just audience courtesy
+  - simple structures and audience filters often outperform raw improvisation
+- The second Abrahams source expands the same branch again:
+  - anxiety can be reframed as useful energy rather than only as a problem to suppress
+  - communicators sometimes need to optimize audience comfort as part of message delivery
+  - hostile questions, remote audiences, humor, and culturally mixed rooms all require adaptation rather than one universal style
+- The new anxiety-focused Abrahams source deepens the same branch once more:
+  - symptoms and sources of anxiety should be treated separately
+  - structure is not just message polish but anti-blanking support
+  - audience participation can reduce evaluation pressure while increasing engagement
+  - visible calm is partly a service to the audience because unmanaged nerves can spread as `secondhand anxiety`
+- The newest Abrahams source adds an outside-in design layer:
+  - start with audience knowledge, expectations, and attitudes
+  - adapt delivery to time, emotional climate, and setting
+  - choose structures based on the communication job, not only on speaker preference
+  - strategic expectation violation can sometimes create more attention than compliance
+- The new `No Freaking Speaking` source tightens the same communication branch further:
+  - direct `you` language and built-in questions make talks feel more relational and less like one-way performance
+  - visualizing audience response can be part of communication preparation, not just self-comfort
+  - future-focused goals can degrade clarity before the interaction even starts, so some communication quality is decided in the minute before speaking
+- The new body-language source strengthens the same branch from the nonverbal side:
+  - posture, gesture range, and eye-contact distribution shape whether confidence and credibility are believed
+  - visible stillness can communicate steadiness better than restless pacing or self-soothing motion
+  - seated and online communication have their own physical rules, so `effective communication` cannot be treated as standing-stage advice only
+- The new core-message Abrahams source strengthens the branch from the recall-and-execution side:
+  - memorable cues like `3S` and `stick your landings` help speakers apply good communication habits under pressure
+  - `brick not cathedral` clarifies that useful contribution often beats strained brilliance
+  - the branch now carries a slightly broader library of ready-made structures for analytical, persuasive, and narrative speaking
+- The new adrenaline-management source strengthens the branch from the acceptance side:
+  - communication quality degrades when the speaker interprets ordinary arousal as danger
+  - acceptance of symptoms can prevent a second escalation and preserve enough composure to stay useful
+  - the first minutes of a speech now have a clearer operating rule: downregulate by not fighting the body
+- The new Carnegie source strengthens the branch from the goodwill side:
+  - genuine interest in other people can be treated as a practical communication discipline rather than as vague niceness
+  - specific appreciation often changes cooperation and motivation more effectively than criticism
+  - humane influence can begin by making others feel seen, capable, and worth listening to
 - Across these sources, effective communication is not just self-expression. It is shaped around what helps the other person hear, think, and answer.
 
 # Source Comparisons
@@ -108,6 +156,11 @@ Effective communication is the disciplined practice of making another person und
 - The current Jefferson Fisher source is strongest on manipulative conflict response: diagnose the structure of deflection, keep the wording short, and make accountability more specific instead of arguing about whether your reaction is valid.
 - The new conflict-control source is strongest on live escalation diagnosis and pre-framing: it explains what kind of ego threat is active, how to stop yielding the frame, and how to move the exchange back to process and next steps.
 - The new `think on your feet` source is strongest on question-and-answer execution under ordinary business pressure: clarify the ask, lead with the point, elaborate briefly, and rely on anticipated preparation more than on verbal improvisation.
+- The Matt Abrahams source is strongest on a fuller spontaneous-speaking operating system: regulate anxiety, lower inner evaluation, listen until the need is clear, then answer through a repeatable structure filtered by what the audience should know, feel, and do.
+- The newer Abrahams source is strongest on contextual flexibility inside spontaneous speaking: it shows how the same core method adapts to tougher questions, conversation framing, audience comfort, remote interaction, and lightly adversarial interviews.
+- The newest Abrahams source is strongest on the fear-management substrate beneath all of that: it makes anxiety diagnosis, blanking prevention, and audience-side effects more explicit than the other speaking sources do.
+- The latest Abrahams source is strongest on audience-and-context adaptation: it treats communication less as self-expression under pressure and more as fit between message, listener, moment, and setting.
+- The Carnegie source is strongest on relationship-first communication: it is less sophisticated about adversarial settings, but stronger on goodwill, appreciation, and the compounding value of making others feel important in a sincere way.
 
 # Tensions / Open Questions
 
@@ -120,6 +173,7 @@ Effective communication is the disciplined practice of making another person und
 - Communication optimized around need-profiling can become exploitative if identity hunger is targeted without genuine care or consent.
 - Communication optimized around visible charisma can become social theater if warmth, curiosity, and listening are performed without real regard.
 - Communication optimized around frame management can also become manipulative theater if preserving leverage displaces truth, safety, or genuine repair.
+- Communication optimized around praise can also drift into flattery, avoidance of hard truth, or managerial softness if recognition substitutes for necessary correction.
 
 # Related Pages
 
@@ -138,6 +192,7 @@ Effective communication is the disciplined practice of making another person und
 - [[wiki/concepts/communication/dynamic-silence|Dynamic Silence]]
 - [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]]
 - [[wiki/concepts/communication/face-saving-de-escalation|Face-Saving De-Escalation]]
+- [[wiki/entities/dale-carnegie|Dale Carnegie]]
 - [[wiki/syntheses/communication/conflict-frame-control-framework|Conflict Frame Control Framework]]
 - [[wiki/syntheses/communication/thinking-on-your-feet-framework|Thinking on Your Feet Framework]]
 - [[wiki/syntheses/communication/conversation-connection-framework|Conversation Connection Framework]]

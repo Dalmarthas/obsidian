@@ -14,10 +14,12 @@ question: What reusable learning framework does the current Barbara Oakley sourc
 basis:
   - wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn.md
   - wiki/sources/2016-12-18-the-practice-strategy-that-could-bulletproof-your-memory-under-pressure.md
+  - wiki/sources/2026-04-13-the-only-skill-that-matters-by-jonathan-levi.md
   - wiki/concepts/productivity/focused-and-diffuse-learning-modes.md
   - wiki/concepts/productivity/chunking.md
   - wiki/concepts/productivity/effective-practice.md
   - wiki/concepts/productivity/retrieval-practice.md
+  - wiki/concepts/productivity/learning-pyramid.md
 related:
   - wiki/entities/barbara-oakley.md
   - wiki/concepts/productivity/restorative-breaks.md
@@ -62,6 +64,7 @@ The source adds a six-part model:
 # Comparisons
 
 - Compared with [[wiki/syntheses/productivity/josh-kaufman-rapid-skill-acquisition-framework|Josh Kaufman Rapid Skill Acquisition Framework]], Oakley is less about getting to usable competence fast and more about how learning actually stabilizes in memory and attention.
+- Compared with [[wiki/syntheses/productivity/jonathan-levi-superlearning-framework|Jonathan Levi Superlearning Framework]], Oakley is less anti-plateau and less source-rotation oriented. Levi is stronger on forcing learning upward through recall, explanation, application, analysis, and creation; Oakley is stronger on chunking, attentional modes, and anti-familiarity study design.
 - Compared with [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]], Oakley gives breaks a sharper cognitive role: not just restoring energy, but enabling integration and insight.
 - Compared with [[wiki/concepts/productivity/effective-practice|Effective Practice]], this framework adds more on memory architecture, study illusions, and anti-procrastination entry strategies.
 - Compared with [[wiki/syntheses/productivity/retrieval-practice-under-pressure-framework|Retrieval Practice Under Pressure Framework]], Oakley's framework is broader and more general-learning oriented, while the newer synthesis is narrower and more explicit about memory surviving acute stress.
@@ -72,6 +75,7 @@ The source adds a six-part model:
 - The current source is secondary and simplifies some neuroscience claims.
 - The vault still lacks a dedicated page on illusions of competence, even though the source treats it as central.
 - The newer pressure-focused source strengthens the case for retrieval, but the vault still needs stronger evidence on transfer from simple recall tasks to complex performance settings.
+- The Jonathan Levi source strengthens the anti-illusion branch by showing what should come after recall, but the vault still needs better evidence on whether a fixed staircase is the right model across domains.
 
 # Related Pages
 
@@ -80,7 +84,9 @@ The source adds a six-part model:
 - [[wiki/concepts/productivity/chunking|Chunking]]
 - [[wiki/concepts/productivity/effective-practice|Effective Practice]]
 - [[wiki/concepts/productivity/retrieval-practice|Retrieval Practice]]
+- [[wiki/concepts/productivity/learning-pyramid|Learning Pyramid]]
 - [[wiki/concepts/productivity/rapid-skill-acquisition|Rapid Skill Acquisition]]
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/syntheses/productivity/retrieval-practice-under-pressure-framework|Retrieval Practice Under Pressure Framework]]
 - [[wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn|Barbara Oakley Learning How to Learn]]
+- [[wiki/syntheses/productivity/jonathan-levi-superlearning-framework|Jonathan Levi Superlearning Framework]]

@@ -2,7 +2,7 @@
 type: concept
 title: Jobs to Be Done
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -12,18 +12,22 @@ tags:
   - strategy
 source_pages:
   - wiki/sources/2026-04-10-clayton-christensen-sustainable-growth-and-jobs-to-be-done.md
+  - wiki/sources/2026-04-13-make-the-competition-irrelevant-blue-ocean-strategy.md
 related:
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/business/validated-learning.md
   - wiki/concepts/business/produktovoe-myshlenie.md
   - wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti.md
   - wiki/concepts/business/vyyavlenie-boli-klienta.md
+  - wiki/concepts/business/blue-ocean-strategy.md
+  - wiki/concepts/business/value-innovation.md
   - wiki/syntheses/business/clayton-christensen-growth-framework.md
+  - wiki/syntheses/business/blue-ocean-strategy-framework.md
 ---
 
 # What It Is
 
-Jobs to be done is the discipline of understanding what progress a customer is trying to make in a specific situation, then designing the product, service, and business model around that job rather than around demographic categories or feature wish lists. In this vault, the idea is not just "know your customer." It is a sharper causal model: people hire solutions to make a particular life problem more manageable, bearable, or successful.
+Jobs to be done is the discipline of understanding what progress a customer is trying to make in a specific situation, then designing the product, service, and business model around that job rather than around demographic categories or feature wish lists. In this vault, the idea is not just `know your customer`. It is a sharper causal model: people hire solutions to make a particular life problem more manageable, bearable, or successful.
 
 # Why It Matters
 
@@ -36,18 +40,23 @@ Jobs to be done is the discipline of understanding what progress a customer is t
 - The Clayton Christensen source argues that the central unit of analysis is not the customer category but the job arising in the customer's life.
 - Its milkshake example shows why the same product may be hired for a specific circumstance rather than for a general taste preference.
 - That source also argues that jobs remain more stable over time than the technologies used to solve them.
+- The Blue Ocean source adds a useful adjacent layer:
+  - non-customers often reveal jobs or barriers incumbents ignore because current customers are already adapted to the category
+  - this makes non-consumption diagnostically valuable rather than strategically irrelevant
+  - category redesign can therefore begin where people currently avoid the offer, not only where current users ask for incremental improvements
 - The broader business branch overlaps with this logic already:
-  - [[wiki/concepts/business/vyyavlenie-boli-klienta|Выявление боли клиента]] is strong on pain discovery
-  - [[wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti|Ключевые клиентские ценности]] is strong on the value architecture a company chooses to deliver
-  - [[wiki/concepts/business/produktovoe-myshlenie|Продуктовое мышление]] is strong on redesigning the experience around client value
+  - [[wiki/concepts/business/vyyavlenie-boli-klienta|Ð’Ñ‹ÑÐ²Ð»ÐµÐ½Ð¸Ðµ Ð±Ð¾Ð»Ð¸ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð°]] is strong on pain discovery
+  - [[wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti|ÐšÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÐºÐ»Ð¸ÐµÐ½Ñ‚ÑÐºÐ¸Ðµ Ñ†ÐµÐ½Ð½Ð¾ÑÑ‚Ð¸]] is strong on the value architecture a company chooses to deliver
+  - [[wiki/concepts/business/produktovoe-myshlenie|ÐŸÑ€Ð¾Ð´ÑƒÐºÑ‚Ð¾Ð²Ð¾Ðµ Ð¼Ñ‹ÑˆÐ»ÐµÐ½Ð¸Ðµ]] is strong on redesigning the experience around client value
 - Jobs to be done adds a cleaner upstream frame: before choosing features or values, ask what progress the customer is actually trying to buy.
 
 # Source Comparisons
 
-- Compared with [[wiki/concepts/business/vyyavlenie-boli-klienta|Выявление боли клиента]], this page is broader than pain alone. A job may include convenience, identity, status, speed, or emotional relief, not only acute pain.
+- Compared with [[wiki/concepts/business/vyyavlenie-boli-klienta|Ð’Ñ‹ÑÐ²Ð»ÐµÐ½Ð¸Ðµ Ð±Ð¾Ð»Ð¸ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð°]], this page is broader than pain alone. A job may include convenience, identity, status, speed, or emotional relief, not only acute pain.
 - Compared with [[wiki/concepts/business/validated-learning|Validated Learning]], jobs to be done is more diagnostic than experimental. It helps define what should be tested; validated learning helps test whether the interpretation is actually right.
-- Compared with [[wiki/concepts/business/produktovoe-myshlenie|Продуктовое мышление]], jobs to be done comes earlier in the chain: first identify the progress the customer wants, then redesign the product and experience to deliver it better.
-- Compared with [[wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti|Ключевые клиентские ценности]], jobs to be done is less about the company's chosen value pillars and more about the customer's lived situation that makes those pillars matter at all.
+- Compared with [[wiki/concepts/business/produktovoe-myshlenie|ÐŸÑ€Ð¾Ð´ÑƒÐºÑ‚Ð¾Ð²Ð¾Ðµ Ð¼Ñ‹ÑˆÐ»ÐµÐ½Ð¸Ðµ]], jobs to be done comes earlier in the chain: first identify the progress the customer wants, then redesign the product and experience to deliver it better.
+- Compared with [[wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti|ÐšÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÐºÐ»Ð¸ÐµÐ½Ñ‚ÑÐºÐ¸Ðµ Ñ†ÐµÐ½Ð½Ð¾ÑÑ‚Ð¸]], jobs to be done is less about the company's chosen value pillars and more about the customer's lived situation that makes those pillars matter at all.
+- Compared with [[wiki/concepts/business/blue-ocean-strategy|Blue Ocean Strategy]], jobs to be done is more diagnostic and less category-architectural. Jobs clarifies the progress sought; blue ocean strategy uses that insight to redesign the market offering itself.
 
 # Tensions / Open Questions
 
@@ -59,10 +68,14 @@ Jobs to be done is the discipline of understanding what progress a customer is t
 # Related Pages
 
 - [[wiki/sources/2026-04-10-clayton-christensen-sustainable-growth-and-jobs-to-be-done|Clayton Christensen Sustainable Growth and Jobs to Be Done]]
+- [[wiki/sources/2026-04-13-make-the-competition-irrelevant-blue-ocean-strategy|Make the Competition Irrelevant: Blue Ocean Strategy]]
 - [[wiki/entities/clayton-christensen|Clayton Christensen]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
+- [[wiki/concepts/business/blue-ocean-strategy|Blue Ocean Strategy]]
+- [[wiki/concepts/business/value-innovation|Value Innovation]]
 - [[wiki/concepts/business/validated-learning|Validated Learning]]
-- [[wiki/concepts/business/produktovoe-myshlenie|Продуктовое мышление]]
-- [[wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti|Ключевые клиентские ценности]]
-- [[wiki/concepts/business/vyyavlenie-boli-klienta|Выявление боли клиента]]
+- [[wiki/concepts/business/produktovoe-myshlenie|ÐŸÑ€Ð¾Ð´ÑƒÐºÑ‚Ð¾Ð²Ð¾Ðµ Ð¼Ñ‹ÑˆÐ»ÐµÐ½Ð¸Ðµ]]
+- [[wiki/concepts/business/kkc-klyuchevye-klientskie-cennosti|ÐšÐ»ÑŽÑ‡ÐµÐ²Ñ‹Ðµ ÐºÐ»Ð¸ÐµÐ½Ñ‚ÑÐºÐ¸Ðµ Ñ†ÐµÐ½Ð½Ð¾ÑÑ‚Ð¸]]
+- [[wiki/concepts/business/vyyavlenie-boli-klienta|Ð’Ñ‹ÑÐ²Ð»ÐµÐ½Ð¸Ðµ Ð±Ð¾Ð»Ð¸ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð°]]
 - [[wiki/syntheses/business/clayton-christensen-growth-framework|Clayton Christensen Growth Framework]]
+- [[wiki/syntheses/business/blue-ocean-strategy-framework|Blue Ocean Strategy Framework]]

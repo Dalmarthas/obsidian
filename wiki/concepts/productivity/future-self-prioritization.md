@@ -2,7 +2,7 @@
 type: concept
 title: Future-Self Prioritization
 created: 2026-04-09
-updated: 2026-04-12
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -18,6 +18,8 @@ related:
   - wiki/concepts/productivity/conscientiousness.md
   - wiki/concepts/productivity/fear-goal-programming.md
   - wiki/concepts/productivity/behavior-journaling.md
+  - wiki/concepts/productivity/progress-against-yesterday.md
+  - wiki/concepts/productivity/trusted-external-system.md
   - wiki/concepts/productivity/value-hierarchy.md
   - wiki/concepts/productivity/willpower.md
   - wiki/concepts/leadership/values-driven-action.md
@@ -48,6 +50,8 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - The newer values-focused source adds a motive filter that sits adjacent to the same logic: future-self care becomes easier to sustain when the effort is anchored to values that matter, not only to abstract ideals of discipline or superiority.
 - [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson]] adds a broader life-architecture version of the same principle: define a 3 to 5 year future across core domains, then connect daily actions to that future through micro-processes and a negotiated schedule.
 - [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable]] adds an upstream ordering layer: future-self prioritization works better when short-term impulses are already governed by a stable value hierarchy rather than argued with one by one.
+- [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson]] adds a shorter-horizon calibration layer: future-serving behavior is easier to sustain when the comparison target is not some idealized other person, but yesterday's self plus one honest corrective step.
+- The David Allen source adds an execution bridge: long-horizon priorities are less useful when they remain mentally vague, so weekly review should reconnect 3 to 5 year direction to current projects and next actions inside a trusted system.
 
 # Source Comparisons
 
@@ -57,6 +61,8 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - The Kelly McGonigal source is less identity-engineering-oriented than Hughes and more interested in how future-self connection changes concrete self-control outcomes such as procrastination, saving, and temptation resistance.
 - The Peterson source is less cue-design-heavy than Hughes and less lapse-recovery-focused than McGonigal. Its distinct layer is using a vivid multi-domain future to build conscientiousness and make scheduled effort feel worth cooperating with.
 - The newer Peterson discipline source sharpens where that future-oriented logic sits: it is one concrete expression of a broader value hierarchy rather than the whole of discipline by itself.
+- The `12 Rules for Life` summary sharpens how the future-oriented logic is tracked day to day: long-range service to the future self becomes more livable when it is evaluated through progress against yesterday rather than through prestige-driven comparison with others.
+- The David Allen source is less motivational than this page and more infrastructural: future-self prioritization decides what deserves commitment, while GTD review makes sure those commitments are externalized and periodically reconnected to reality.
 - Compared with [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]], future-self prioritization is more temporal and tactical. Values-driven action explains why the future is worth serving; this page explains how to choose that future in everyday conflicts with present comfort.
 
 # Tensions / Open Questions
@@ -67,12 +73,15 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - The newer Chase material adds one more risk: future-self language can become engineered guilt if it is used without compassion or realistic pacing.
 - The newer Kelly material sharpens that warning by implying that future-self focus works best when paired with self-compassion after lapses, not when used as another instrument of self-attack.
 - The new values layer adds a related risk: future-self discipline can still become sterile if the imagined future is organized around comparison, prestige, or inherited goals rather than around personally chosen values.
+- The newest Peterson source adds a useful counterweight to that risk by arguing that self-comparison should be local and longitudinal rather than status-driven, but the vault still needs stronger non-Peterson evidence for that claim.
 
 # Related Pages
 
 - [[wiki/concepts/productivity/fear-goal-programming|FEAR Goal Programming]]
 - [[wiki/concepts/productivity/conscientiousness|Conscientiousness]]
 - [[wiki/concepts/productivity/behavior-journaling|Behavior Journaling]]
+- [[wiki/concepts/productivity/progress-against-yesterday|Progress Against Yesterday]]
+- [[wiki/concepts/productivity/trusted-external-system|Trusted External System]]
 - [[wiki/concepts/productivity/value-hierarchy|Value Hierarchy]]
 - [[wiki/concepts/productivity/willpower|Willpower]]
 - [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]]
@@ -84,3 +93,5 @@ Future-self prioritization is the rule of choosing what benefits the future vers
 - [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control|Kelly McGonigal Willpower and Self-Control]]
 - [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson|What To Do To Be Successful Jordan B Peterson]]
 - [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable|Being Disciplined Will Make You Unstoppable]]
+- [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson|12 Rules for Life by Jordan Peterson]]
+- [[wiki/sources/2026-04-13-stress-free-productivity-getting-things-done-by-david-allen|Stress-free productivity: Getting Things Done by David Allen]]

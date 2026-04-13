@@ -2,7 +2,7 @@
 type: synthesis
 title: Daniel Pink Sustainable Productivity Framework
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - synthesis
@@ -12,9 +12,11 @@ tags:
 question: What durable productivity framework can be extracted from this Daniel Pink productivity summary?
 basis:
   - wiki/sources/2026-04-10-daniel-pink-productivity-wisdom.md
+  - wiki/sources/2026-04-13-stress-free-productivity-getting-things-done-by-david-allen.md
   - wiki/concepts/productivity/peak-hours.md
   - wiki/concepts/productivity/restorative-breaks.md
   - wiki/concepts/productivity/behavior-journaling.md
+  - wiki/concepts/productivity/trusted-external-system.md
   - wiki/concepts/productivity/samoupravlenie.md
 related:
   - wiki/entities/daniel-pink.md
@@ -56,6 +58,7 @@ The current source supports a six-part framework:
 
 - Compared with [[wiki/syntheses/communication/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]], this branch is less about helping other people move and more about designing one's own work conditions.
 - Compared with [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework|Chase Hughes Goal Programming Framework]], Pink is less emotionally engineered and more operational: fewer identity-installation tactics, more prioritization, timing, and recovery design.
+- Compared with [[wiki/syntheses/productivity/david-allen-gtd-framework|David Allen GTD Framework]], Pink is lighter and more rhythm-oriented. Allen is stronger on capture, next-action clarity, and review maintenance, while Pink is stronger on subtraction, timing, and recovery as ongoing sustainability rules.
 - Compared with [[wiki/syntheses/productivity/antiproduktivnyi-freymvork-olivera-berkmana|Antiproduktivnyi Freymvork Olivera Berkmana]], Pink remains more managerial and execution-focused, while Burkeman is stronger on the limits and self-deceptions underneath productivity culture.
 
 # Gaps
@@ -63,6 +66,7 @@ The current source supports a six-part framework:
 - The source is highly distilled and secondary, so the relative weight of each principle is somewhat editorial.
 - Several practical tools are borrowed from adjacent productivity traditions, making this branch more of a curated operating model than a pure Daniel Pink doctrine.
 - The vault still needs stronger sources on how this model changes across knowledge work, management, and highly interrupt-driven roles.
+- The Allen source sharpens one missing layer in this framework: visible progress and weekly review help, but they are not the same thing as maintaining a trusted task system that holds all open loops outside the head.
 
 # Related Pages
 
@@ -70,5 +74,7 @@ The current source supports a six-part framework:
 - [[wiki/concepts/productivity/peak-hours|Peak Hours]]
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/concepts/productivity/behavior-journaling|Behavior Journaling]]
+- [[wiki/concepts/productivity/trusted-external-system|Trusted External System]]
 - [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
+- [[wiki/syntheses/productivity/david-allen-gtd-framework|David Allen GTD Framework]]
 - [[wiki/concepts/communication/timing-and-sequencing|Timing and Sequencing]]

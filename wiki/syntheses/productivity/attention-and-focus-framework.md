@@ -13,12 +13,15 @@ tags:
 question: What reusable attention framework can be extracted from the current Huberman-Groh focus source without collapsing it into generic `remove distractions` advice?
 basis:
   - wiki/sources/2026-04-13-how-to-improve-your-attention-and-focus.md
+  - wiki/sources/2026-04-13-the-4-fs-of-flow.md
+  - wiki/concepts/productivity/flow.md
   - wiki/concepts/productivity/peak-hours.md
   - wiki/concepts/productivity/restorative-breaks.md
   - wiki/concepts/productivity/willpower.md
   - wiki/syntheses/others/quiet-eye-performance-framework.md
 related:
   - wiki/entities/andrew-huberman.md
+  - wiki/syntheses/productivity/four-fs-of-flow-framework.md
 ---
 
 # Question
@@ -27,7 +30,7 @@ What reusable attention framework can be extracted from the current Huberman-Gro
 
 # Answer
 
-The current source base supports a seven-part framework:
+The current source base supports an eight-part framework:
 
 1. Treat deep focus as a state to be entered, not a command to obey.
    Focus stabilizes when conditions are narrow enough for attention to fall into a trench rather than continually bounce across stimuli.
@@ -50,30 +53,40 @@ The current source base supports a seven-part framework:
 7. Trust background processing when the work is not ready yet.
    Some blocks are solved not by immediate force but by marination during walks, travel, showers, or other lower-pressure periods.
 
+8. Reduce critique leakage during execution.
+   The newer flow source suggests that some focus failures are not sensory or motivational only, but come from running performance and judgment at the same time before immersion stabilizes.
+
 # Basis
 
 - Main source: [[wiki/sources/2026-04-13-how-to-improve-your-attention-and-focus|How to Improve Your Attention & Focus]]
-- Canonical concepts: [[wiki/concepts/productivity/peak-hours|Peak Hours]], [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]], [[wiki/concepts/productivity/willpower|Willpower]]
+- Supporting source: [[wiki/sources/2026-04-13-the-4-fs-of-flow|The 4 Fs of Flow]]
+- Canonical concepts: [[wiki/concepts/productivity/flow|Flow]], [[wiki/concepts/productivity/peak-hours|Peak Hours]], [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]], [[wiki/concepts/productivity/willpower|Willpower]]
 - Neighboring synthesis: [[wiki/syntheses/others/quiet-eye-performance-framework|Quiet Eye Performance Framework]]
 
 # Comparisons
 
 - Compared with [[wiki/concepts/productivity/peak-hours|Peak Hours]], this framework is less about when strong work should happen and more about what conditions help strong attention emerge once work begins.
+- Compared with [[wiki/concepts/productivity/flow|Flow]], this page is narrower and more mechanistic. Flow describes the broader absorbed state; this synthesis explains how attention is narrowed, protected, and re-stabilized.
 - Compared with [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]], this page is more mechanistic: breaks are not only for sustainability, but for maintaining the biochemical and attentional conditions that deep work requires.
 - Compared with [[wiki/concepts/productivity/willpower|Willpower]], this framework shifts the explanation away from moral force and toward sensory design, interval pacing, and recovery-aware attention management.
 - Compared with [[wiki/syntheses/others/quiet-eye-performance-framework|Quiet Eye Performance Framework]], this page is broader and less execution-moment-specific. Quiet eye focuses on stabilizing attention at the decisive moment; this framework covers environment, entry, intervals, recovery, and incubation across longer cognitive work.
+- Compared with [[wiki/syntheses/productivity/four-fs-of-flow-framework|Four Fs of Flow Framework]], this page is stronger on attentional mechanics while the flow page is stronger on combining focus with anti-self-criticism, feedback cadence, and slight stretch.
 
 # Gaps
 
 - The source is still secondary and conversational, so the framework is more heuristic than protocol-grade.
 - The branch needs stronger evidence on exact interval lengths, on individual variation, and on how much sensory narrowing is ideal before it becomes sterile or counterproductive.
 - The vault also still needs a sharper comparison between healthy marination and disguised avoidance.
+- The new flow source adds a neighboring unresolved question: how much focus failure is really poor sensory gating, and how much is the inner critic repeatedly breaking immersion before a stable work state forms?
 
 # Related Pages
 
 - [[wiki/entities/andrew-huberman|Andrew Huberman]]
+- [[wiki/concepts/productivity/flow|Flow]]
 - [[wiki/concepts/productivity/peak-hours|Peak Hours]]
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/concepts/productivity/willpower|Willpower]]
+- [[wiki/syntheses/productivity/four-fs-of-flow-framework|Four Fs of Flow Framework]]
 - [[wiki/syntheses/others/quiet-eye-performance-framework|Quiet Eye Performance Framework]]
 - [[wiki/sources/2026-04-13-how-to-improve-your-attention-and-focus|How to Improve Your Attention & Focus]]
+- [[wiki/sources/2026-04-13-the-4-fs-of-flow|The 4 Fs of Flow]]
