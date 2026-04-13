@@ -2,7 +2,7 @@
 type: concept
 title: Chunking
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -12,11 +12,14 @@ tags:
   - skill-acquisition
 source_pages:
   - wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn.md
+  - wiki/sources/2016-12-18-the-practice-strategy-that-could-bulletproof-your-memory-under-pressure.md
 related:
   - wiki/concepts/productivity/effective-practice.md
+  - wiki/concepts/productivity/retrieval-practice.md
   - wiki/concepts/productivity/rapid-skill-acquisition.md
   - wiki/concepts/productivity/focused-and-diffuse-learning-modes.md
   - wiki/syntheses/productivity/barbara-oakley-learning-framework.md
+  - wiki/syntheses/productivity/retrieval-practice-under-pressure-framework.md
 ---
 
 # What It Is
@@ -34,10 +37,12 @@ Chunking is the process of turning many small pieces of information or action in
 - [[wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn]] presents chunking as the route from fragmented exposure to durable understanding.
 - The same source ties chunking to recall, spaced repetition, and interleaving rather than to passive rereading.
 - It also implies that expertise is partly a library of many well-built chunks that can be combined across problems and domains.
+- [[wiki/sources/2016-12-18-the-practice-strategy-that-could-bulletproof-your-memory-under-pressure]] sharpens the retrieval side of the same idea by suggesting that chunks strengthened through recall may remain more accessible when later stress disrupts memory.
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/productivity/effective-practice|Effective Practice]], chunking is less about session quality and more about what repetitions are trying to build in memory.
+- Compared with [[wiki/concepts/productivity/retrieval-practice|Retrieval Practice]], chunking is more structural and retrieval practice is more access-oriented. One names the unit of learning; the other tests and strengthens the route back to that unit.
 - Compared with [[wiki/concepts/productivity/rapid-skill-acquisition|Rapid Skill Acquisition]], chunking is narrower and more memory-oriented. Rapid skill acquisition includes decomposition, barrier removal, and frustration survival; chunking explains how units of competence actually become cognitively available.
 - Compared with [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]], chunking is about the structure of what gets stored, while learning modes describe the mental states that help build and connect those structures.
 
@@ -50,7 +55,9 @@ Chunking is the process of turning many small pieces of information or action in
 # Related Pages
 
 - [[wiki/concepts/productivity/effective-practice|Effective Practice]]
+- [[wiki/concepts/productivity/retrieval-practice|Retrieval Practice]]
 - [[wiki/concepts/productivity/rapid-skill-acquisition|Rapid Skill Acquisition]]
 - [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]]
 - [[wiki/syntheses/productivity/barbara-oakley-learning-framework|Barbara Oakley Learning Framework]]
+- [[wiki/syntheses/productivity/retrieval-practice-under-pressure-framework|Retrieval Practice Under Pressure Framework]]
 - [[wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn|Barbara Oakley Learning How to Learn]]

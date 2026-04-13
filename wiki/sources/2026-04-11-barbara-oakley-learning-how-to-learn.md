@@ -58,6 +58,7 @@ This source is a secondary summary of Barbara Oakley's `Learning How to Learn` t
 
 # Links
 
+- [[wiki/concepts/productivity/retrieval-practice|Retrieval Practice]]
 - [[wiki/entities/barbara-oakley|Barbara Oakley]]
 - [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]]
 - [[wiki/concepts/productivity/chunking|Chunking]]

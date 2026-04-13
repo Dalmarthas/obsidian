@@ -2,7 +2,7 @@
 type: concept
 title: Advertising
 created: 2026-04-07
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -12,13 +12,22 @@ source_pages:
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
   - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
   - wiki/sources/2026-04-10-rory-sutherland-marketing-psychology-and-perceived-value.md
+  - wiki/sources/2026-04-13-rory-sutherland-on-the-magic-of-original-thinking.md
+  - wiki/sources/2026-04-13-how-your-brain-gets-tricked-by-clever-marketing.md
+  - wiki/sources/2026-04-13-the-marketing-secrets-apple-and-tesla-always-use-rory-sutherland.md
+  - wiki/sources/2026-04-13-psychology-hacks-of-the-worlds-best-advertisers.md
 related:
   - wiki/concepts/business/copywriting.md
   - wiki/concepts/business/mass-intimacy.md
   - wiki/concepts/business/brand-strategy.md
   - wiki/concepts/business/creative-pitching.md
   - wiki/concepts/business/reverse-benchmarking.md
+  - wiki/concepts/business/fat-tailed-marketing.md
   - wiki/concepts/business/perception-driven-value.md
+  - wiki/concepts/business/psychological-arbitrage.md
+  - wiki/concepts/business/experience-goods.md
+  - wiki/concepts/business/psychological-leverage.md
+  - wiki/concepts/business/costly-signaling.md
   - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/business/framework-driven-action.md
@@ -47,13 +56,22 @@ Advertising is the practice of shaping messages, stories, images, and experience
 - Craft details such as timing, casting, typography, sound, and production are treated as load-bearing rather than decorative.
 - The Harry Dry branch adds a more sentence-level layer: copy becomes stronger when the claim is visualizable, falsifiable, and specific enough that only this brand or product could credibly say it.
 - The Rory Sutherland source adds a more psychological-economic layer: perceived value, framing, and emotionally resonant distinctiveness can matter as much as objective feature superiority.
+- The newer Rory Sutherland source adds a clearer `marketing equals innovation directionality` idea: value can be created either by finding what people already want and making it, or by reframing what is possible so people newly want it.
 - The same source also adds `reverse benchmarking` as a strategic route to stand-out advertising and brand behavior.
+- The newer Rory source adds a stronger market-design layer: advertising and marketing work better when they help experience goods reveal themselves, redesign broken first-glance filters, and use credible signals of seriousness rather than relying on explanation alone.
+- The latest Rory source adds a stronger brand-experience layer: packaging, scarcity, helpful friction, customer-service recovery, and counter-signaling can all function as marketing because they change what the offer feels like and what the brand seems to believe about itself.
+- The newest Rory source also adds `psychological arbitrage` and experienced-time design, which widen advertising beyond messaging into category framing, service psychology, and low-cost interventions that alter how an offer is lived.
+- The current Rory source strengthens the economics layer again: advertising is not only creative craft but a fat-tailed search process, where rare breakthroughs, reverse benchmarking, and trade-off reversal can dwarf smooth optimization.
 
 # Source Comparisons
 
 - Goodby Silverstein is strongest on humane creative culture, audience respect, and making ads people want to see.
 - Harry Dry is strongest on sentence-level clarity, proof, and memorability in written claims.
 - Rory Sutherland is strongest on the irrational value layer: why perception, framing, and neglected dimensions of experience can create disproportionate commercial returns.
+- The newest Rory source is strongest on psychological underpricing: it shows how experienced time, reference points, and weakly measured motives can create openings that standard engineering or pricing logic misses.
+- The newer Rory branch is strongest on broken-market diagnosis: shallow proxies, costly signaling, trim-tab interventions, and Darwinian experimentation explain why some irrational-looking moves outperform rationally obvious ones.
+- The latest Rory source is strongest on marketing as system-wide meaning design: it ties together signaling, helpful friction, brand-building, service recovery, and personal storytelling rather than limiting `marketing` to campaigns alone.
+- The current Rory source is strongest on fat-tailed search logic: it explains why category breakthroughs come from anomaly-hunting, contrarian framing, and protected exploration rather than from smoother average-case optimization.
 - Together, the branch now covers three different levels of advertising:
   - cultural and emotional tone
   - message-level specificity
@@ -73,10 +91,19 @@ Advertising is the practice of shaping messages, stories, images, and experience
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]]
 - [[wiki/concepts/business/creative-pitching|Creative Pitching]]
 - [[wiki/concepts/business/reverse-benchmarking|Reverse Benchmarking]]
+- [[wiki/concepts/business/fat-tailed-marketing|Fat-Tailed Marketing]]
 - [[wiki/concepts/business/perception-driven-value|Perception-Driven Value]]
+- [[wiki/concepts/business/psychological-arbitrage|Psychological Arbitrage]]
+- [[wiki/concepts/business/experience-goods|Experience Goods]]
+- [[wiki/concepts/business/psychological-leverage|Psychological Leverage]]
+- [[wiki/concepts/business/costly-signaling|Costly Signaling]]
 - [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/business/ethical-consumerism|Ethical Consumerism]]
 - [[wiki/syntheses/business/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
 - [[wiki/syntheses/business/rory-sutherland-marketing-framework|Rory Sutherland Marketing Framework]]
+- [[wiki/sources/2026-04-13-rory-sutherland-on-the-magic-of-original-thinking|Rory Sutherland on the Magic of Original Thinking]]
+- [[wiki/sources/2026-04-13-how-your-brain-gets-tricked-by-clever-marketing|How Your Brain Gets Tricked By Clever Marketing]]
+- [[wiki/sources/2026-04-13-the-marketing-secrets-apple-and-tesla-always-use-rory-sutherland|The Marketing Secrets Apple & Tesla Always Use]]
+- [[wiki/sources/2026-04-13-psychology-hacks-of-the-worlds-best-advertisers|Psychology Hacks of the Worlds Best Advertisers]]

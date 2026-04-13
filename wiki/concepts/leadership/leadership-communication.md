@@ -2,7 +2,7 @@
 type: concept
 title: Leadership Communication
 created: 2026-04-07
-updated: 2026-04-12
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -18,12 +18,14 @@ source_pages:
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
   - wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025.md
   - wiki/sources/2026-04-10-simon-sinek-golden-circle-framework.md
+  - wiki/sources/2026-04-13-how-to-think-on-your-feet.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/golden-circle.md
   - wiki/concepts/communication/negotiation-and-mediation.md
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/communication/effective-communication.md
+  - wiki/concepts/communication/thinking-on-your-feet.md
   - wiki/syntheses/business/simon-sinek-golden-circle-framework.md
   - wiki/syntheses/leadership/clinton-leadership-framework.md
   - wiki/syntheses/cross-source/communication-and-influence-models.md
@@ -63,6 +65,10 @@ Leadership communication is the art of helping people understand a situation, tr
   - here is your role
   - here is the mutual benefit
   - and here is why this work deserves effort rather than requiring artificial hype
+- The new `think on your feet` source adds a more local execution layer inside the same branch:
+  - leaders are often judged not only by formal speeches but by how they elaborate, clarify, and answer in live moments
+  - concise point-first responses often read as stronger leadership than long contextual run-ups
+  - question anticipation is part of communication readiness, not an optional polish step
 
 # Source Comparisons
 
@@ -75,6 +81,7 @@ Leadership communication is the art of helping people understand a situation, tr
 - The Equinix branch adds that belief sequencing is not only for public speeches; it also changes whether smaller relationship-forming conversations feel human or transactional.
 - Peterson is strongest on narrative legitimacy inside institutions: the message has to justify the game itself, not merely excite people about goals after the structure is already assumed.
 - The newer Peterson anti-`motivation` source is strongest on communication as meaning design: the leader is not just transmitting information, but removing the need for shallow motivational theater by making the work intelligible enough to want.
+- The new `think on your feet` source is strongest on room-level response competence: the leader who can clarify, answer, and stop rambling under live scrutiny preserves credibility in moments where broad vision alone is not enough.
 
 # Tensions / Open Questions
 
@@ -92,6 +99,7 @@ Leadership communication is the art of helping people understand a situation, tr
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/communication/thinking-on-your-feet|Thinking on Your Feet]]
 - [[wiki/syntheses/business/simon-sinek-golden-circle-framework|Simon Sinek Golden Circle Framework]]
 - [[wiki/syntheses/leadership/jordan-peterson-leadership-framework|Jordan Peterson Leadership Framework]]
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]

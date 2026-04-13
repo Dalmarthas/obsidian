@@ -3579,6 +3579,22 @@ Pages touched:
 - [[wiki/syntheses/business/founder-mode-framework]]
 - [[index]]
 
+
+## [2026-04-13 02:25] ingest | The Cheat Code for Controlling Conflict
+
+Summary: Ingested a new English conflict-control source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-cheat-code-for-controlling-conflict]]. Created [[wiki/sources/2026-04-13-the-cheat-code-for-controlling-conflict]] and the new synthesis [[wiki/syntheses/communication/conflict-frame-control-framework]]. Used the source to deepen [[wiki/concepts/communication/frame-control]], [[wiki/concepts/communication/face-saving-de-escalation]], [[wiki/concepts/communication/boundary-language]], and [[wiki/concepts/communication/effective-communication]]. The communication branch now more clearly captures the ego triangle of identity, control, and safety, pre-framing as conflict prevention, anti-frame-attack rules, and procedural reframing that shifts blame fights back toward workable process.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-cheat-code-for-controlling-conflict]]
+- [[wiki/sources/2026-04-13-the-cheat-code-for-controlling-conflict]]
+- [[wiki/syntheses/communication/conflict-frame-control-framework]]
+- [[wiki/concepts/communication/frame-control]]
+- [[wiki/concepts/communication/face-saving-de-escalation]]
+- [[wiki/concepts/communication/boundary-language]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[index]]
+
 ## [2026-04-13 02:21] ingest | How to Improve Your Attention & Focus
 
 Summary: Ingested a new English Huberman-Groh productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-to-improve-your-attention-and-focus]]. Created [[wiki/sources/2026-04-13-how-to-improve-your-attention-and-focus]] and the new synthesis [[wiki/syntheses/productivity/attention-and-focus-framework]]. Used the source to deepen [[wiki/entities/andrew-huberman]], [[wiki/concepts/productivity/peak-hours]], and [[wiki/concepts/productivity/restorative-breaks]]. The productivity branch now more clearly captures focus as an attractor state shaped by sensory narrowing, interval-style effort, context shifts, and recovery rather than by brute-force willpower alone.
@@ -3659,4 +3675,193 @@ Pages touched:
 - [[wiki/concepts/business/founder-mode]]
 - [[wiki/concepts/leadership/leadership-vs-management]]
 - [[wiki/syntheses/business/founder-mode-framework]]
+- [[index]]
+
+## [2026-04-13 02:29] ingest | Rory Sutherland Perspective is Everything
+
+Summary: Ingested a new English Rory Sutherland source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-rory-sutherland-perspective-is-everything]]. Created [[wiki/sources/2026-04-13-rory-sutherland-perspective-is-everything]] and the new concept page [[wiki/concepts/business/psychological-leverage]]. Used the source to deepen [[wiki/concepts/business/perception-driven-value]], [[wiki/entities/rory-sutherland]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. The Rory branch now more clearly captures control-and-uncertainty design, the technical-economic-psychological three-lens model, and low-cost experiential interventions that can outperform brute-force optimization.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-rory-sutherland-perspective-is-everything]]
+- [[wiki/sources/2026-04-13-rory-sutherland-perspective-is-everything]]
+- [[wiki/concepts/business/psychological-leverage]]
+- [[wiki/concepts/business/perception-driven-value]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-13 11:28] ingest | Psychology Hacks of the Worlds Best Advertisers
+
+Summary: Ingested a new English Rory Sutherland source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-psychology-hacks-of-the-worlds-best-advertisers]]. Created [[wiki/sources/2026-04-13-psychology-hacks-of-the-worlds-best-advertisers]] and the new concept page [[wiki/concepts/business/fat-tailed-marketing]]. Used the source to deepen [[wiki/concepts/business/reverse-benchmarking]], [[wiki/concepts/business/advertising]], [[wiki/entities/rory-sutherland]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. The Rory branch now more clearly captures fat-tailed marketing, stronger reverse-benchmarking cases, and explore-versus-exploit logic in creative markets.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-psychology-hacks-of-the-worlds-best-advertisers]]
+- [[wiki/sources/2026-04-13-psychology-hacks-of-the-worlds-best-advertisers]]
+- [[wiki/concepts/business/fat-tailed-marketing]]
+- [[wiki/concepts/business/reverse-benchmarking]]
+- [[wiki/concepts/business/advertising]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-13 11:34] ingest | Rory Sutherland Soft Power in a Hard World
+
+Summary: Ingested a new English Rory Sutherland source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-rory-sutherland-soft-power-in-a-hard-world]]. Created [[wiki/sources/2026-04-13-rory-sutherland-soft-power-in-a-hard-world]] and the new concept page [[wiki/concepts/business/paradigm-shifts]]. Used the source to deepen [[wiki/concepts/business/perception-driven-value]], [[wiki/concepts/business/fat-tailed-marketing]], [[wiki/concepts/business/business-strategy]], [[wiki/entities/rory-sutherland]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. The Rory branch now more clearly captures paradigm shifts as soft power, separate explore-versus-exploit governance, and the strategic value of escaping false either/or frames.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-rory-sutherland-soft-power-in-a-hard-world]]
+- [[wiki/sources/2026-04-13-rory-sutherland-soft-power-in-a-hard-world]]
+- [[wiki/concepts/business/paradigm-shifts]]
+- [[wiki/concepts/business/perception-driven-value]]
+- [[wiki/concepts/business/fat-tailed-marketing]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-13 11:20] ingest | The Playbook Behind Every Great Campaign
+
+Summary: Ingested a new English Rory Sutherland source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-playbook-behind-every-great-campaign]]. Created [[wiki/sources/2026-04-13-the-playbook-behind-every-great-campaign]] and the new concept page [[wiki/concepts/business/transaction-utility]]. Used the source to deepen [[wiki/concepts/business/hidden-functions]], [[wiki/concepts/business/brand-strategy]], [[wiki/entities/rory-sutherland]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. The Rory branch now more clearly captures transaction utility, doorman-fallacy hidden-value loss, service touchpoints as brand multipliers, and the cost of quantification bias.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-playbook-behind-every-great-campaign]]
+- [[wiki/sources/2026-04-13-the-playbook-behind-every-great-campaign]]
+- [[wiki/concepts/business/transaction-utility]]
+- [[wiki/concepts/business/hidden-functions]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-13 11:08] ingest | The Lost Genius of Irrationality Rory Sutherland
+
+Summary: Ingested a new English Rory Sutherland source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-lost-genius-of-irrationality-rory-sutherland]]. Created [[wiki/sources/2026-04-13-the-lost-genius-of-irrationality-rory-sutherland]] and the new concept page [[wiki/concepts/business/social-heuristics]]. Used the source to deepen [[wiki/concepts/business/psychological-leverage]], [[wiki/entities/rory-sutherland]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. The Rory branch now more clearly captures named social scripts, binary rules, network-shaped behavior, and the limits of over-rationalized behavioral models.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-lost-genius-of-irrationality-rory-sutherland]]
+- [[wiki/sources/2026-04-13-the-lost-genius-of-irrationality-rory-sutherland]]
+- [[wiki/concepts/business/social-heuristics]]
+- [[wiki/concepts/business/psychological-leverage]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-13 02:33] ingest | How Your Brain Gets Tricked By Clever Marketing
+
+Summary: Ingested a new English Rory Sutherland source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-your-brain-gets-tricked-by-clever-marketing]]. Created [[wiki/sources/2026-04-13-how-your-brain-gets-tricked-by-clever-marketing]] and the new concept page [[wiki/concepts/business/experience-goods]]. Used the source to deepen [[wiki/concepts/business/psychological-leverage]], [[wiki/concepts/business/advertising]], [[wiki/entities/rory-sutherland]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. The Rory branch now more clearly captures broken first-glance filters, costly signaling, trim-tab experimentation, and the difference between what looks good instantly and what proves valuable through use.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-how-your-brain-gets-tricked-by-clever-marketing]]
+- [[wiki/sources/2026-04-13-how-your-brain-gets-tricked-by-clever-marketing]]
+- [[wiki/concepts/business/experience-goods]]
+- [[wiki/concepts/business/psychological-leverage]]
+- [[wiki/concepts/business/advertising]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-13 02:37] ingest | The Marketing Secrets Apple & Tesla Always Use
+
+Summary: Ingested a new English Rory Sutherland source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-marketing-secrets-apple-and-tesla-always-use-rory-sutherland]]. Created [[wiki/sources/2026-04-13-the-marketing-secrets-apple-and-tesla-always-use-rory-sutherland]] and the new concept page [[wiki/concepts/business/costly-signaling]]. Used the source to deepen [[wiki/concepts/business/advertising]], [[wiki/concepts/business/brand-strategy]], [[wiki/entities/rory-sutherland]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. The Rory branch now more clearly captures helpful versus harmful friction, signaling and counter-signaling, brand-versus-performance tradeoffs, and customer service as part of marketing rather than a separate cost center.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-marketing-secrets-apple-and-tesla-always-use-rory-sutherland]]
+- [[wiki/sources/2026-04-13-the-marketing-secrets-apple-and-tesla-always-use-rory-sutherland]]
+- [[wiki/concepts/business/costly-signaling]]
+- [[wiki/concepts/business/advertising]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-13 02:45] ingest | Rory Sutherland on the Magic of Original Thinking
+
+Summary: Ingested a new English Rory Sutherland source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-rory-sutherland-on-the-magic-of-original-thinking]]. Created [[wiki/sources/2026-04-13-rory-sutherland-on-the-magic-of-original-thinking]] and the new concept page [[wiki/concepts/business/psychological-arbitrage]]. Used the source to deepen [[wiki/concepts/business/perception-driven-value]], [[wiki/concepts/business/psychological-leverage]], [[wiki/concepts/business/advertising]], [[wiki/entities/rory-sutherland]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. The Rory branch now more clearly captures psychological arbitrage, experienced time versus clock time, protected explore-exploit space, and marketing as innovation through reframing.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-rory-sutherland-on-the-magic-of-original-thinking]]
+- [[wiki/sources/2026-04-13-rory-sutherland-on-the-magic-of-original-thinking]]
+- [[wiki/concepts/business/psychological-arbitrage]]
+- [[wiki/concepts/business/perception-driven-value]]
+- [[wiki/concepts/business/psychological-leverage]]
+- [[wiki/concepts/business/advertising]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-13 11:52] ingest | How to Think On Your Feet
+
+Summary: Ingested a new English communication source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-to-think-on-your-feet]]. Created [[wiki/sources/2026-04-13-how-to-think-on-your-feet]], the new canonical concept [[wiki/concepts/communication/thinking-on-your-feet]], and the new synthesis [[wiki/syntheses/communication/thinking-on-your-feet-framework]]. Updated [[wiki/concepts/communication/effective-communication]], [[wiki/concepts/communication/calibrated-questions]], and [[wiki/concepts/leadership/leadership-communication]] so the communication branch now has an explicit home for live-response skill under presentation and meeting pressure.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-how-to-think-on-your-feet]]
+- [[wiki/sources/2026-04-13-how-to-think-on-your-feet]]
+- [[wiki/concepts/communication/thinking-on-your-feet]]
+- [[wiki/concepts/communication/effective-communication]]
+- [[wiki/concepts/communication/calibrated-questions]]
+- [[wiki/concepts/leadership/leadership-communication]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework]]
+- [[index]]
+
+## [2026-04-13 11:48] ingest | Duplicate Capture of The Practice Strategy That Could "Bulletproof" Your Memory Under Pressure
+
+Summary: Processed a new raw-file arrival in `raw/` and determined it was a duplicate capture of an already ingested source rather than a materially new entry. Archived the recapture at [[raw/inbox/2026-04-13-the-practice-strategy-that-could-bulletproof-your-memory-under-pressure-duplicate-capture]] and left the existing canonical source branch unchanged because the differences were limited to clipping noise near the title block rather than new reusable content.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-the-practice-strategy-that-could-bulletproof-your-memory-under-pressure-duplicate-capture]]
+
+## [2026-04-13 11:44] ingest | The Practice Strategy That Could "Bulletproof" Your Memory Under Pressure
+
+Summary: Ingested a new English raw source from `raw/` and archived the canonical raw file at [[raw/inbox/2016-12-18-the-practice-strategy-that-could-bulletproof-your-memory-under-pressure]]. Created [[wiki/sources/2016-12-18-the-practice-strategy-that-could-bulletproof-your-memory-under-pressure]] plus the new canonical concept [[wiki/concepts/productivity/retrieval-practice]] and the new synthesis [[wiki/syntheses/productivity/retrieval-practice-under-pressure-framework]]. Updated [[wiki/concepts/productivity/chunking]], [[wiki/concepts/productivity/effective-practice]], [[wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn]], and [[wiki/syntheses/productivity/barbara-oakley-learning-framework]] so the learning branch now distinguishes chunk-building from recall-testing and makes the pressure-resistance claim legible instead of leaving it trapped in a source-local note.
+
+Pages touched:
+
+- [[raw/inbox/2016-12-18-the-practice-strategy-that-could-bulletproof-your-memory-under-pressure]]
+- [[wiki/sources/2016-12-18-the-practice-strategy-that-could-bulletproof-your-memory-under-pressure]]
+- [[wiki/concepts/productivity/retrieval-practice]]
+- [[wiki/concepts/productivity/chunking]]
+- [[wiki/concepts/productivity/effective-practice]]
+- [[wiki/sources/2026-04-11-barbara-oakley-learning-how-to-learn]]
+- [[wiki/syntheses/productivity/barbara-oakley-learning-framework]]
+- [[wiki/syntheses/productivity/retrieval-practice-under-pressure-framework]]
+- [[index]]
+
+## [2026-04-13 02:52] ingest | Rory Sutherland Why Logic Is Killing Your Business
+
+Summary: Ingested a new English Rory Sutherland source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-rory-sutherland-why-logic-is-killing-your-business]]. Created [[wiki/sources/2026-04-13-rory-sutherland-why-logic-is-killing-your-business]] and used it to deepen [[wiki/concepts/business/bottleneck-theory]], [[wiki/concepts/business/brand-strategy]], [[wiki/entities/rory-sutherland]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. The Rory branch now more clearly captures defensibility-versus-response logic, persuasion before compulsion, proxy-heavy opportunity bottlenecks, and the fact that B2B framing and service design are psychological too.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-rory-sutherland-why-logic-is-killing-your-business]]
+- [[wiki/sources/2026-04-13-rory-sutherland-why-logic-is-killing-your-business]]
+- [[wiki/concepts/business/bottleneck-theory]]
+- [[wiki/concepts/business/brand-strategy]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
+- [[index]]
+
+## [2026-04-13 03:00] ingest | Dirty Little Marketing Secrets That Always Work
+
+Summary: Ingested a new English Rory Sutherland source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-dirty-little-marketing-secrets-that-always-work]]. Created [[wiki/sources/2026-04-13-dirty-little-marketing-secrets-that-always-work]] and the new concept page [[wiki/concepts/business/hidden-functions]]. Used the source to deepen [[wiki/concepts/business/experience-goods]], [[wiki/concepts/business/costly-signaling]], [[wiki/concepts/business/business-strategy]], [[wiki/entities/rory-sutherland]], and [[wiki/syntheses/business/rory-sutherland-marketing-framework]]. The Rory branch now more clearly captures slow-feedback underinvestment, no-going-back trial effects, and the tacit functions that get destroyed by reductionist cost cutting.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-dirty-little-marketing-secrets-that-always-work]]
+- [[wiki/sources/2026-04-13-dirty-little-marketing-secrets-that-always-work]]
+- [[wiki/concepts/business/hidden-functions]]
+- [[wiki/concepts/business/experience-goods]]
+- [[wiki/concepts/business/costly-signaling]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/entities/rory-sutherland]]
+- [[wiki/syntheses/business/rory-sutherland-marketing-framework]]
 - [[index]]

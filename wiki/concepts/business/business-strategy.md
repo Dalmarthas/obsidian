@@ -2,7 +2,7 @@
 type: concept
 title: Business Strategy
 created: 2026-04-08
-updated: 2026-04-12
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -14,6 +14,7 @@ source_pages:
   - wiki/sources/2026-04-12-focusing-is-about-saying-no-steve-jobs.md
   - wiki/sources/2026-04-12-seth-godin-the-secret-strategy-to-success.md
   - wiki/sources/2026-04-10-rory-sutherland-bottleneck-theory.md
+  - wiki/sources/2026-04-13-dirty-little-marketing-secrets-that-always-work.md
   - wiki/sources/2026-04-10-eric-ries-core-concepts-of-the-lean-startup-methodology.md
   - wiki/sources/2026-04-10-clayton-christensen-sustainable-growth-and-jobs-to-be-done.md
   - wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics.md
@@ -23,6 +24,7 @@ source_pages:
   - wiki/sources/2026-04-08-mikhail-grebenyuk-produkt-polnaya-svodka.md
   - wiki/sources/2026-04-08-mikhail-grebenyuk-realnyi-million.md
   - wiki/sources/2026-04-11-seth-godin-this-is-strategy.md
+  - wiki/sources/2026-04-13-rory-sutherland-soft-power-in-a-hard-world.md
 related:
   - wiki/concepts/business/operational-productivity.md
   - wiki/concepts/business/strategic-focus.md
@@ -33,6 +35,8 @@ related:
   - wiki/concepts/business/jobs-to-be-done.md
   - wiki/concepts/business/innovation-accounting.md
   - wiki/concepts/business/brand-stewardship.md
+  - wiki/concepts/business/paradigm-shifts.md
+  - wiki/concepts/business/hidden-functions.md
   - wiki/concepts/business/self-disruption.md
   - wiki/concepts/business/vybor-nishi.md
   - wiki/concepts/business/podnisha.md
@@ -73,6 +77,16 @@ Business strategy is the deliberate selection of a few priorities that determine
 - The Eric Ries branch adds an uncertainty-governance layer: strategy for new ventures is not only about choosing a direction, but about choosing how that direction will be tested, what learning milestone would count as progress, and which metrics are honest enough to justify continued investment.
 - The newer Simon Sinek source adds a scorecard-design layer: even a sound strategy can be undermined if the institution measures success only through short-term visible outcomes while ignoring momentum, trust, and cultural cost.
 - The Rory bottleneck source adds a constraint-diagnosis layer: strategy also requires knowing which variable is actually limiting growth right now, because improving non-constraints can create motion without progress.
+- The newer Rory source adds a feedback-tempo layer:
+  - some strategic levers produce fast visible feedback while others work slowly through loyalty, service, and lived experience
+  - leaders therefore risk overfunding what is easily measured and underfunding what compounds more slowly
+  - strategy has to account for feedback speed, not just expected value
+- That same source also adds a `trial before argument` rule for some categories:
+  - when adoption flips permanently after firsthand experience, subsidized trial can be more strategic than better explanation
+  - this pushes strategy closer to onboarding design and behavioral transition management
+- The source further adds a `hidden functions` warning:
+  - cost-cutting and simplification can silently destroy status, reassurance, bonding, or serendipity
+  - strategy therefore needs a better audit of tacit value before redesigning roles, touchpoints, or workplaces
 - Grebenyuk's product branch adds a harder internal layer: strategy also means choosing which customer values the company will organize itself around, then rebuilding the product and customer experience to match them.
 - That source also argues that a revenue problem often exposes a product problem before it exposes a marketing or sales problem, which makes product architecture a strategic concern rather than only an operational one.
 - The new Realnyi Million branch adds a compression layer: before scaling, remove ballast, force one dominant growth contour through `5 единичек`, distinguish project and flow sales, and treat founder profit discipline as part of strategy rather than as an afterthought.
@@ -80,6 +94,10 @@ Business strategy is the deliberate selection of a few priorities that determine
 - That same source contributes a four-part diagnostic for strategy: systems, time, games, and empathy.
 - It also reframes customer and competitor choice as strategy, not mere sales operations, because those selections determine the future conditions and norms the business must live inside.
 - The source adds a compounding lens as well: strong strategy seeks feedback loops, network effects, and culturally shareable status or affiliation rather than relying on one-time awareness bursts.
+- The current Rory source adds an explore-versus-exploit governance layer:
+  - strategy needs different scoreboards for exploratory versus exploitative work
+  - the mistake is often not choosing one, but forcing both through the same thin-tailed logic
+  - some apparent trade-offs are false because the real move is to redesign the frame and do both at different scales or horizons
 - The newer Seth perseverance source adds a game-selection layer: strategy includes quitting low-probability lottery paths, staying through real dips only when there is scaffolding and evidence, and aligning with the gravity of systems instead of defending legacy bets for ego reasons.
 - The Steve Jobs focus source adds a subtraction layer: strategy becomes real when leadership kills good-but-misaligned work, protects portfolio coherence, and refuses to let local project logic override company-level direction.
 - The Steve Jobs MIT source adds a technology-and-operations layer: strategy improves when leaders aim technology investment at operational productivity, design integrated advantage across product and go-to-market, and exploit real technology windows over many years.
@@ -97,6 +115,8 @@ Business strategy is the deliberate selection of a few priorities that determine
 - Ries is strongest on strategy under uncertainty: define the venture by novelty plus uncertainty, then use innovation accounting so strategic bets are judged by learning rather than by mature-business optics.
 - Simon Sinek is strongest on incomplete scoreboards: a strategy's real logic is exposed by what the institution rewards, not only by what it says it values.
 - Rory Sutherland is strongest on moving constraints: strategy fails when teams optimize what is visible or fashionable instead of the real bottleneck, which may be cognitive availability as much as physical throughput.
+- The newer Rory source is strongest on tempo and tacit value: it shows that strategy can fail when leaders mistake fast feedback for high importance and when they cut explicit costs while deleting invisible benefits.
+- The current Rory source is strongest on frame-level strategy: it shows how `do both`, paradigm shifts, and separate explore/exploit governance can reveal options invisible inside finance-friendly decision frames.
 - Seth Godin is strongest on strategy as worldview: name the system, choose the time horizon, understand the game being played, and practice empathy precise enough to define who the work is not for.
 - That same Seth branch now also sharpens strategy as game choice: grit matters, but only after deciding the current path is not merely a viral fantasy or a badly chosen lottery.
 - The niche branch is strongest at market-entry strategy: find the field, narrow it, and pressure-test demand before building too much.
@@ -123,6 +143,7 @@ Business strategy is the deliberate selection of a few priorities that determine
 - The D8 source adds a governance tension: platform control may improve consistency and safety, but the branch still needs stronger evidence on when such control protects users versus when it mainly protects the platform owner.
 - The strongest open question is where the boundary lies between hygiene and true strategic differentiation: which improvements merely make a company competent, and which ones actually change market choice?
 - The Rory source sharpens a related question: how should leaders decide whether a growth problem is caused by product weakness, weak awareness, poor distribution, internal process friction, or some other hidden bottleneck?
+- The newer Rory source adds a neighboring question: how should leaders decide whether a low-measured touchpoint is strategically unimportant or merely trapped in a slow-feedback domain where the value is compounding invisibly?
 
 # Related Pages
 
@@ -135,6 +156,8 @@ Business strategy is the deliberate selection of a few priorities that determine
 - [[wiki/concepts/business/jobs-to-be-done|Jobs to Be Done]]
 - [[wiki/concepts/business/innovation-accounting|Innovation Accounting]]
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
+- [[wiki/concepts/business/paradigm-shifts|Paradigm Shifts]]
+- [[wiki/concepts/business/hidden-functions|Hidden Functions]]
 - [[wiki/concepts/business/self-disruption|Self-Disruption]]
 - [[wiki/concepts/business/vybor-nishi|Выбор ниши]]
 - [[wiki/concepts/business/podnisha|Подниша]]

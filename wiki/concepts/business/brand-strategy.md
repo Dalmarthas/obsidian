@@ -2,7 +2,7 @@
 type: concept
 title: Brand Strategy
 created: 2026-04-07
-updated: 2026-04-12
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -18,6 +18,9 @@ source_pages:
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-harry-dry-copywriting-tips.md
   - wiki/sources/2026-04-10-rory-sutherland-marketing-psychology-and-perceived-value.md
+  - wiki/sources/2026-04-13-rory-sutherland-why-logic-is-killing-your-business.md
+  - wiki/sources/2026-04-13-the-marketing-secrets-apple-and-tesla-always-use-rory-sutherland.md
+  - wiki/sources/2026-04-13-the-playbook-behind-every-great-campaign.md
   - wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025.md
   - wiki/sources/2026-04-10-simon-sinek-golden-circle-framework.md
   - wiki/sources/2026-04-11-seth-godin-challenges-creators-and-entrepreneurs-to-reject-the-average-for-the-masses.md
@@ -32,6 +35,8 @@ related:
   - wiki/concepts/business/smallest-viable-audience.md
   - wiki/concepts/business/reverse-benchmarking.md
   - wiki/concepts/business/perception-driven-value.md
+  - wiki/concepts/business/costly-signaling.md
+  - wiki/concepts/business/transaction-utility.md
   - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/business/framework-driven-action.md
   - wiki/concepts/business/brand-stewardship.md
@@ -68,6 +73,12 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - Iger adds the portfolio-level reminder that brand strategy cannot ignore long-term audience relationship, distinct brand identity, or the difference between respecting heritage and freezing it.
 - Harry Dry adds a sharper language test for strategy execution: the message should say something only this brand can say, and it should do so in terms concrete enough to picture and check.
 - Rory Sutherland adds a more psychological test: strategy can create value by changing interpretation, not only by improving feature comparison, and distinctiveness often comes from category-neglected dimensions rather than direct emulation.
+- The newer Rory `Why Logic` source adds a stronger B2B framing rule: in low-glamour or technical categories, brands still win partly through cognitive legibility, price presentation, and personality rather than by specification talk alone.
+- The latest Rory source adds a stronger credibility test: even a sound strategy can remain commercially weak unless craft, packaging, scarcity, signaling, and customer experience make the promise feel believable.
+- That same source also adds a brand-building versus performance-marketing distinction: short-run measurable channels are useful, but brand strategy is what makes all later conversion activity easier, more trusted, and more price-tolerant.
+- The newer Rory source also adds a service-allocation warning: teams often overfund acquisition because it is easier to count, even when excellent support or retention moments would create more downstream brand trust and repurchase.
+- The current Rory source adds a touchpoint-multiplier rule: call centers, frontline staff, and recovery moments can function as brand force multipliers, so strategy should allocate around `brand quakes`, not only around media impressions.
+- That same source also adds `transaction utility`: price tolerance and satisfaction depend partly on how the purchase feels in context, not only on the product's objective utility.
 - Simon Sinek adds an order-of-communication test through the [[wiki/concepts/business/golden-circle|Golden Circle]]: a strategy is stronger when it can explain the brand's belief or cause before it explains the product.
 - That source also sharpens the loyalty question: the strongest brands do not only persuade people that the offer is useful; they help the right audience feel that the offer expresses a shared point of view.
 - The Equinix Connect source makes that loyalty question more concrete in sales behavior: if the opening pitch sounds like a bundle of features any rival could also claim, the brand feels commodity-like even when its stated strategy is more ambitious.
@@ -109,6 +120,9 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - Iger is strongest on enterprise-level brand logic: preserving identity across acquisitions, balancing heritage with reinvention, and treating brand as a long-term relationship rather than a quarterly asset.
 - Harry Dry is strongest on translating strategy into lines the market can actually remember and trust: a differentiated claim is not strategically complete until it becomes specific written language.
 - Rory Sutherland is strongest on strategic asymmetry and perceived value: why framing, neglected dimensions, and psychologically meaningful distinctions can outperform obvious optimization.
+- The newer Rory `Why Logic` source is strongest on institutional blind spots: it shows how defensibility logic and B2B seriousness theater can hide the strategic value of labels, maps, defaults, and other psychologically legible brand choices.
+- The latest Rory source is strongest on brand credibility and force multiplication: it shows how story, signaling, and experience recovery turn abstract strategy into something buyers trust and remember.
+- The current Rory source is strongest on brand multiplication through service and comparison context: it ties frontline judgment, transaction feel, and high-impact recovery moments directly to willingness to pay and brand memory.
 - Simon Sinek is strongest on purpose sequencing: why-first communication explains how belief becomes emotionally legible before copy specificity or perception design does their work.
 - Steve Jobs is strongest on values dramatization under turnaround pressure: he shows how a damaged brand can be clarified by reasserting its core belief publicly and by refusing feature-led communication in favor of identity and cultural alignment.
 - The newer Steve Jobs `Get Much Simpler` source is strongest on brand revival as stewardship work: it emphasizes that great brands decay when neglected and that recovery requires active care, not only a clever slogan.
@@ -146,6 +160,8 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]]
 - [[wiki/concepts/business/reverse-benchmarking|Reverse Benchmarking]]
 - [[wiki/concepts/business/perception-driven-value|Perception-Driven Value]]
+- [[wiki/concepts/business/costly-signaling|Costly Signaling]]
+- [[wiki/concepts/business/transaction-utility|Transaction Utility]]
 - [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
@@ -158,3 +174,5 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - [[wiki/syntheses/business/rory-sutherland-marketing-framework|Rory Sutherland Marketing Framework]]
 - [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]
 - [[wiki/syntheses/business/steve-jobs-think-different-framework|Steve Jobs Think Different Framework]]
+- [[wiki/sources/2026-04-13-the-marketing-secrets-apple-and-tesla-always-use-rory-sutherland|The Marketing Secrets Apple & Tesla Always Use]]
+- [[wiki/sources/2026-04-13-the-playbook-behind-every-great-campaign|The Playbook Behind Every Great Campaign]]

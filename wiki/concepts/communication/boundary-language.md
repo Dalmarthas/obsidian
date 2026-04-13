@@ -12,6 +12,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication.md
   - wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness.md
+  - wiki/sources/2026-04-13-the-cheat-code-for-controlling-conflict.md
 related:
   - wiki/concepts/communication/assertiveness.md
   - wiki/concepts/communication/effective-communication.md
@@ -21,6 +22,7 @@ related:
   - wiki/concepts/communication/authentic-communication.md
   - wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy.md
   - wiki/syntheses/communication/jefferson-fisher-conflict-response-framework.md
+  - wiki/syntheses/communication/conflict-frame-control-framework.md
 ---
 
 # What It Is
@@ -44,6 +46,13 @@ Boundary language is concise speech that protects reality, names what is not acc
   - sometimes the right boundary is not an immediate verbal correction
   - documentation, silence, delayed response, or tactical exit can function as boundary behavior when direct speech would be unsafe or strategically foolish
   - workplace hierarchy changes what good boundary execution looks like
+- The new conflict-control source adds a frame-defense layer:
+  - boundary language should often ask for precision before engaging
+  - loaded words, binary traps, and motive questions should be interrupted rather than answered on the other person's terms
+  - some of the strongest boundary phrases are process-oriented reframes such as `What makes you say that?` or `That framing misses the issue`
+- It also adds a pre-conflict application:
+  - boundary language can be used before escalation by naming tone, scope, and what kind of conduct will not happen in the conversation
+  - this broadens the concept from in-the-moment correction to preventive framing
 
 # Source Comparisons
 
@@ -53,12 +62,14 @@ Boundary language is concise speech that protects reality, names what is not acc
 - Compared with [[wiki/concepts/communication/authentic-communication|Authentic Communication]], boundary language is a narrower use case: directness under pressure rather than authenticity across all contexts.
 - Compared with [[wiki/concepts/communication/assertiveness|Assertiveness]], boundary language is the expression layer. Assertiveness is the skill of representing yourself; boundary language is one of the clearest ways that skill sounds out loud.
 - Compared with [[wiki/concepts/communication/power-dynamics|Power Dynamics]], boundary language is usually more explicit and verbal. Greene's toxic-boss model adds the reminder that, under real asymmetry, some boundaries are behavioral rather than spoken.
+- Compared with [[wiki/syntheses/communication/conflict-frame-control-framework|Conflict Frame Control Framework]], this page remains the wording layer. The synthesis explains the ego-threat diagnosis and interaction sequence that tell you which wording strategy to use.
 
 # Tensions / Open Questions
 
 - Boundary language can become slogan-like if people memorize lines without judging context, relationship, or risk.
 - Some situations need softer repair language; others need exit, documentation, or authority escalation rather than cleaner phrasing.
 - The branch still needs stronger overlap with evidence-based work on apology, coercion, and emotionally abusive dynamics.
+- The new source sharpens a further risk: frame-savvy boundary phrases can become performative if the speaker uses them to dominate, expose, or win rather than to restore a workable process.
 
 # Related Pages
 
@@ -70,5 +81,7 @@ Boundary language is concise speech that protects reality, names what is not acc
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy|Assertiveness, Agreeableness, and Self-Advocacy]]
 - [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
+- [[wiki/syntheses/communication/conflict-frame-control-framework|Conflict Frame Control Framework]]
 - [[wiki/syntheses/communication/toxic-boss-response-framework|Toxic Boss Response Framework]]
 - [[wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication|Jefferson Fisher Fake Apologies and Manipulative Communication]]
+- [[wiki/sources/2026-04-13-the-cheat-code-for-controlling-conflict|The Cheat Code for Controlling Conflict]]

@@ -2,7 +2,7 @@
 type: concept
 title: Calibrated Questions
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -17,7 +17,9 @@ related:
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/concepts/communication/problem-finding.md
   - wiki/concepts/communication/negotiation-and-mediation.md
+  - wiki/concepts/communication/thinking-on-your-feet.md
   - wiki/syntheses/communication/chris-voss-negotiation-framework.md
+  - wiki/syntheses/communication/thinking-on-your-feet-framework.md
 ---
 
 # What It Is
@@ -38,12 +40,14 @@ Calibrated questions are open-ended `what` and `how` questions designed to make 
 - It also gives scenario-based workplace uses for overwhelmed employees, denied budgets, and stalled decisions.
 - The earlier Voss source already described calibrated questions as a main way to let the other side feel in control while still doing the work of resolution.
 - There is a nearby overlap with Pink's problem-finding branch: both prefer good diagnostic questions over premature solution-pushing, though Voss uses the method more tactically.
+- The new [[wiki/sources/2026-04-13-how-to-think-on-your-feet|How to Think On Your Feet]] source adds a lighter adjacent use: clarification questions can also stabilize the speaker by narrowing a broad prompt before answer construction begins.
 
 # Tensions / Open Questions
 
 - Calibrated questions can become manipulative if they are used with fake curiosity.
 - Not every situation should remain open-ended; some moments require a direct boundary or clear decision.
 - The method is strongest when paired with prior listening, not when used as a shortcut around rapport.
+- The newer speaking source suggests a nearby distinction the vault should preserve: some clarifying questions are not influence moves at all, but simple efforts to define the answer space accurately before responding.
 
 # Related Pages
 
@@ -51,4 +55,6 @@ Calibrated questions are open-ended `what` and `how` questions designed to make 
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/concepts/communication/problem-finding|Problem-Finding]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
+- [[wiki/concepts/communication/thinking-on-your-feet|Thinking on Your Feet]]
 - [[wiki/syntheses/communication/chris-voss-negotiation-framework|Chris Voss Negotiation Framework]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework|Thinking on Your Feet Framework]]

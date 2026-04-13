@@ -2,7 +2,7 @@
 type: concept
 title: Effective Communication
 created: 2026-04-08
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -22,12 +22,15 @@ source_pages:
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
   - wiki/sources/2026-04-10-conversation-commandments-for-better-connection.md
   - wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication.md
+  - wiki/sources/2026-04-13-the-cheat-code-for-controlling-conflict.md
+  - wiki/sources/2026-04-13-how-to-think-on-your-feet.md
 related:
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/communication/anchor-bridge-structure.md
   - wiki/concepts/communication/boundary-language.md
   - wiki/concepts/communication/conversational-curiosity.md
   - wiki/concepts/communication/charismatic-presence.md
+  - wiki/concepts/communication/thinking-on-your-feet.md
   - wiki/concepts/communication/concrete-specificity.md
   - wiki/concepts/communication/elicitation.md
   - wiki/concepts/communication/frame-control.md
@@ -76,6 +79,17 @@ Effective communication is the disciplined practice of making another person und
 - The same source also adds a cleaner charisma model for ordinary conversation: presence, warmth, and calm power can be practiced as communicative behaviors rather than treated as fixed talent.
 - The current Jefferson Fisher source adds a conflict-accountability layer: effective communication can mean refusing fake apologies, redirecting manipulative phrasing back to action-level responsibility, and using shorter boundary language instead of defensive over-explanation.
 - The same source also makes self-regulation more concrete in conflict: pauses, breathing, and fewer words are treated as part of message quality rather than as separate emotional advice.
+- The new conflict-control source adds a sharper high-conflict layer:
+  - effective communication in escalations often depends on diagnosing identity, control, and safety threats rather than arguing with surface behavior
+  - some of the best communication moves happen before conflict fully starts through pre-framing sides, scope, tone, and boundaries
+  - the page now carries a more explicit model for why `good wording` fails when the underlying threat structure is misread
+- That same source also strengthens the branch's anti-defensiveness logic:
+  - explaining under pressure, debating motives, and accepting loaded labels can all worsen communication by validating the wrong frame
+  - asking for definition, naming the move, or redirecting to shared outcomes can restore procedural clarity better than fact-dumping
+- The new `think on your feet` source adds a presentation-response layer:
+  - real-time speaking improves when the speaker becomes more present and less consumed by self-talk
+  - live answers often improve when the point comes before the support rather than after a long runway
+  - broad questions often deserve clarification first, and visible spontaneity is frequently just better anticipation
 - Across these sources, effective communication is not just self-expression. It is shaped around what helps the other person hear, think, and answer.
 
 # Source Comparisons
@@ -92,6 +106,8 @@ Effective communication is the disciplined practice of making another person und
 - The current Chase Hughes behavioral-framework source is strongest on communication as a three-layer sequence: regulate yourself, read the other person well, then choose language that fits their actual need structure.
 - The current conversation-commandments source is strongest on socially connective conversation: curiosity, warmth, playful specificity, emotionally richer prompts, and listening that sounds unmistakably alive.
 - The current Jefferson Fisher source is strongest on manipulative conflict response: diagnose the structure of deflection, keep the wording short, and make accountability more specific instead of arguing about whether your reaction is valid.
+- The new conflict-control source is strongest on live escalation diagnosis and pre-framing: it explains what kind of ego threat is active, how to stop yielding the frame, and how to move the exchange back to process and next steps.
+- The new `think on your feet` source is strongest on question-and-answer execution under ordinary business pressure: clarify the ask, lead with the point, elaborate briefly, and rely on anticipated preparation more than on verbal improvisation.
 
 # Tensions / Open Questions
 
@@ -103,6 +119,7 @@ Effective communication is the disciplined practice of making another person und
 - Communication optimized around behavioral cue-reading can also become overconfident if weakly supported signals are treated as hard data.
 - Communication optimized around need-profiling can become exploitative if identity hunger is targeted without genuine care or consent.
 - Communication optimized around visible charisma can become social theater if warmth, curiosity, and listening are performed without real regard.
+- Communication optimized around frame management can also become manipulative theater if preserving leverage displaces truth, safety, or genuine repair.
 
 # Related Pages
 
@@ -111,6 +128,7 @@ Effective communication is the disciplined practice of making another person und
 - [[wiki/concepts/communication/boundary-language|Boundary Language]]
 - [[wiki/concepts/communication/conversational-curiosity|Conversational Curiosity]]
 - [[wiki/concepts/communication/charismatic-presence|Charismatic Presence]]
+- [[wiki/concepts/communication/thinking-on-your-feet|Thinking on Your Feet]]
 - [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]]
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
@@ -120,5 +138,7 @@ Effective communication is the disciplined practice of making another person und
 - [[wiki/concepts/communication/dynamic-silence|Dynamic Silence]]
 - [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]]
 - [[wiki/concepts/communication/face-saving-de-escalation|Face-Saving De-Escalation]]
+- [[wiki/syntheses/communication/conflict-frame-control-framework|Conflict Frame Control Framework]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework|Thinking on Your Feet Framework]]
 - [[wiki/syntheses/communication/conversation-connection-framework|Conversation Connection Framework]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]

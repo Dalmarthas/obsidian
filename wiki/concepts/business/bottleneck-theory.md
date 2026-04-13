@@ -2,7 +2,7 @@
 type: concept
 title: Bottleneck Theory
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -11,6 +11,7 @@ tags:
   - systems
 source_pages:
   - wiki/sources/2026-04-10-rory-sutherland-bottleneck-theory.md
+  - wiki/sources/2026-04-13-rory-sutherland-why-logic-is-killing-your-business.md
   - wiki/sources/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity.md
   - wiki/sources/2026-04-12-elon-musks-approach-to-problem-solving.md
 related:
@@ -39,6 +40,10 @@ Bottleneck theory is the idea that a system's total performance is constrained m
 - The same source adds that bottlenecks move, so problem diagnosis must be continuous rather than static.
 - Mental availability is one of the strongest distinctive additions here: a brand can be physically obtainable yet still constrained because it is not cognitively expected or top of mind.
 - The source also argues that the wrong optimization habit is common in business: leaders polish nearby processes while ignoring the actual limiter.
+- The newer Rory source adds a broader social version of the same idea:
+  - education and hiring systems can become `opportunity bottlenecks` when they sort through the same narrow proxies repeatedly
+  - standardized credentials may therefore constrain which kinds of talent are even allowed to compete
+  - curiosity, side obsessions, and task-based trials can widen the funnel by revealing capability outside prestige filters
 - The Elon Musk problem-solving source adds a sequence correction:
   - before optimizing the bottleneck, teams should challenge the requirements around it and delete what may not need to exist
   - this reduces the risk of speeding up a constrained process that is itself overbuilt or poorly specified
@@ -54,6 +59,7 @@ Bottleneck theory is the idea that a system's total performance is constrained m
 - Compared with [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], this page is more dynamic and throughput-oriented. Framework-driven action says use a model; bottleneck theory says the model must keep updating around the current constraint.
 - Compared with [[wiki/concepts/communication/problem-finding|Problem-Finding]], the logic is more systemic and less conversational. Problem-finding asks what the real issue is; bottleneck theory asks which issue is actually limiting the whole system right now.
 - Compared with [[wiki/concepts/business/perception-driven-value|Perception-Driven Value]], bottleneck theory is less about redesigning value meaning and more about identifying whether perception itself is the limiting variable.
+- Compared with the newer Rory `Why Logic` source, the concept expands from business throughput into institutional selection: the bottleneck is not always in operations or marketing, but can also live in the way systems decide who gets considered in the first place.
 - Compared with [[wiki/concepts/business/first-principles-problem-solving|First-Principles Problem-Solving]], bottleneck theory is more diagnostic, while the Musk page is more intervention-ordered: find the constraint, but also strip and question the system before accelerating it.
 - Compared with the Marc Andreessen Elon source, Rory is stronger on abstract diagnosis and broader application, while Andreessen is stronger on how a technically deep leader can operationalize bottleneck theory as a weekly executive rhythm.
 
@@ -64,11 +70,13 @@ Bottleneck theory is the idea that a system's total performance is constrained m
 - The current branch still needs stronger contrast from more operations-heavy sources on formal theory-of-constraints practice.
 - The Elon Musk source adds a nearby risk: leaders may identify a real bottleneck and still worsen the system if they push speed or automation before challenging whether the bottlenecked process is necessary in its current form.
 - The Andreessen source adds another risk: `there is one bottleneck` can become an overconfident simplification in organizations where several constraints interact, shift politically, or require coordination rather than one-person intervention.
+- The newer Rory source adds a selection-system risk: once a bottleneck is embedded in credentials, procurement rules, or other legitimacy filters, the system may keep reproducing the same narrow winners while calling that `merit`.
 - The main open question is methodological: how should a team decide whether the bottleneck is awareness, conversion, product quality, logistics, talent, or something else hidden upstream?
 
 # Related Pages
 
 - [[wiki/sources/2026-04-10-rory-sutherland-bottleneck-theory|Rory Sutherland Bottleneck Theory]]
+- [[wiki/sources/2026-04-13-rory-sutherland-why-logic-is-killing-your-business|Rory Sutherland Why Logic Is Killing Your Business]]
 - [[wiki/sources/2026-04-12-marc-andreessen-shares-how-elon-musk-achieves-hyper-productivity|Marc Andreessen Shares How Elon Musk Achieves Hyper Productivity]]
 - [[wiki/entities/rory-sutherland|Rory Sutherland]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
