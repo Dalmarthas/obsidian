@@ -12,6 +12,7 @@ tags:
   - game-theory
 question: What reusable decision framework emerges from the current game-theory source for competitive and cooperative situations?
 basis:
+  - wiki/sources/2026-04-14-game-theory-3-rich-dad-poor-dad.md
   - wiki/sources/2026-04-13-how-decision-making-is-actually-science-game-theory-explained.md
   - wiki/sources/2026-04-13-what-actually-is-game-theory.md
   - wiki/sources/2026-04-13-game-theory-a-simple-strategy-that-will-change-your-life-forever.md
@@ -23,6 +24,7 @@ basis:
   - wiki/concepts/business/shapley-value.md
   - wiki/concepts/business/tit-for-tat.md
   - wiki/concepts/business/zero-sum-games.md
+  - wiki/concepts/business/social-mobility.md
   - wiki/concepts/communication/batna.md
 related:
   - wiki/concepts/business/business-strategy.md
@@ -89,9 +91,14 @@ The current source base yields a thirteen-part framework:
 - The Yale lecture adds the sequential-timing layer: dominance reasoning, backward induction, critical thresholds for acting, and the distinction between robust and fragile predictions.
 - The negotiation source adds the bargaining-design layer: BATNA as outside-option floor, credible commitment as strategic self-binding, signaling and screening under incomplete information, and the claim that repeated dealing makes reputation economically rational rather than merely moral.
 - The new repeated-games source deepens the ecological layer: nice, forgiving, retaliatory, and clear strategies can outperform clever exploiters over time; cooperation can spread from small clusters; and generous tit for tat can beat strict reciprocity in noisy environments.
+- The new `Rich Dad, Poor Dad` source adds a different ecological layer:
+  - some environments do not merely shape incentives inside one round
+  - they train different classes of people for different games altogether
+  - the biggest strategic variable may therefore be whether the game is open enough for mobility or already rigged toward reproduction of the current elite
 - Canonical concepts: [[wiki/concepts/business/game-theory|Game Theory]], [[wiki/concepts/business/shapley-value|Shapley Value]]
 - Added sequential-play tool: [[wiki/concepts/business/backward-induction|Backward Induction]]
 - Added subclass lens: [[wiki/concepts/business/zero-sum-games|Zero-Sum Games]]
+- Added structural-openness lens: [[wiki/concepts/business/social-mobility|Social Mobility]]
 - Added repeated-games strategy: [[wiki/concepts/business/tit-for-tat|Tit for Tat]]
 - Added negotiation anchor: [[wiki/concepts/communication/batna|BATNA]]
 
@@ -105,6 +112,7 @@ The current source base yields a thirteen-part framework:
 - Compared with the repeated-games source, the earlier game-theory sources are more static. The new source is stronger on reputation, retaliation, forgiveness, and why long-run payoff can reverse one-shot logic.
 - Compared with the newest repeated-games source, the earlier tit-for-tat material is simpler and cleaner. The new source is stronger on strategy ecology, non-zero-sum `banker` framing, and why noise can make strict reciprocity underperform more generous variants.
 - Compared with the Yale lecture, the earlier sources are stronger on static structure and repeated cooperation, while the Yale source is stronger on finite sequential timing and robustness-to-irrationality distinctions.
+- Compared with the new structural-mobility source, the rest of the branch is much more formal and incentive-local. The new source is weaker on equilibrium logic but stronger on a different strategic question: who gets trained for which game, and how institutions keep or close pathways between games.
 
 # Gaps
 
@@ -116,6 +124,7 @@ The current source base yields a thirteen-part framework:
 - The Yale lecture adds another open gap: the branch still needs stronger treatment of imperfect information, signaling, and Bayesian updating for cases where the endpoint exists but the relevant probabilities are uncertain.
 - The negotiation source reduces that gap conceptually, but not fully: it names signaling and screening clearly without giving enough real cases for calibration under deception, asymmetric power, or multi-party bargaining.
 - The vault still lacks a stronger bridge between game-theory logic and institution design for escaping bad equilibria.
+- The new source sharpens that same gap: the branch can describe games and equilibria well, but it still lacks a better institutional-design account of how open systems preserve mobility and how closed systems slide into inherited advantage, elite overproduction, and eventual reset pressure.
 
 # Related Pages
 
@@ -124,6 +133,7 @@ The current source base yields a thirteen-part framework:
 - [[wiki/concepts/business/backward-induction|Backward Induction]]
 - [[wiki/concepts/business/tit-for-tat|Tit for Tat]]
 - [[wiki/concepts/business/zero-sum-games|Zero-Sum Games]]
+- [[wiki/concepts/business/social-mobility|Social Mobility]]
 - [[wiki/concepts/communication/batna|BATNA]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
@@ -134,3 +144,4 @@ The current source base yields a thirteen-part framework:
 - [[wiki/sources/2026-04-13-game-theory-yale-university-ben-polak|Game Theory (Yale University - Ben Polak)]]
 - [[wiki/sources/2026-04-13-game-theory-and-negotiation|Game Theory and Negotiation]]
 - [[wiki/sources/2026-04-13-this-game-theory-problem-will-change-the-way-you-see-the-world|This Game Theory Problem Will Change the Way You See the World]]
+- [[wiki/sources/2026-04-14-game-theory-3-rich-dad-poor-dad|Game Theory 3 Rich Dad Poor Dad]]

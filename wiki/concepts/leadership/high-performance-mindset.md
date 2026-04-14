@@ -27,6 +27,7 @@ source_pages:
   - wiki/sources/2026-04-11-values-motivation-and-sustainable-self-improvement.md
   - wiki/sources/2026-04-11-matthew-mcconaughey-on-fame-commitment-and-meaning.md
   - wiki/sources/2026-04-11-quiet-eye-visual-attention-and-skill-performance.md
+  - wiki/sources/2026-04-14-increase-performance-and-fulfillment-at-the-same-time.md
 related:
   - wiki/concepts/productivity/future-self-prioritization.md
   - wiki/concepts/productivity/signal-to-noise-ratio.md
@@ -40,6 +41,7 @@ related:
   - wiki/concepts/leadership/feeling-lost-as-transition.md
   - wiki/concepts/leadership/mental-toughness.md
   - wiki/concepts/leadership/meaning-through-responsibility.md
+  - wiki/concepts/leadership/inner-excellence.md
   - wiki/concepts/leadership/values-driven-action.md
   - wiki/concepts/leadership/owners-mentality.md
   - wiki/concepts/health/sleep-quality.md
@@ -95,6 +97,11 @@ High-performance mindset is the psychological operating system that allows a per
   - high performance can also be driven by extreme urgency, serial immersion, and short-term `surges` against bottlenecks
   - the source makes the supporting-system requirement explicit, since surrounding teams often stabilize whatever the focal leader is not attending to
   - it also keeps the cost visible by linking intensity with weaker savoring, mood volatility, and the risk of turning pressure into a permanent identity
+- The new Jim Murphy source adds a performance-fulfillment reconciliation layer:
+  - better execution is linked to inner capacities that also improve life quality rather than only to harsher scoreboard fixation
+  - self-belief is treated as a practical performance ceiling that can be trained through visualization and modeled identity
+  - present-moment focus is sharpened through gratitude and by treating hurry as a diagnostic sign of future-obsession
+  - fear and choking are framed partly as ego overload, with service to others used as an anti-self-consciousness correction
 
 # Source Comparisons
 
@@ -117,6 +124,7 @@ High-performance mindset is the psychological operating system that allows a per
 - The Jony Ive and Larry Ellison Jobs source is strongest on obsessive finish quality: it describes performance not as raw grind alone, but as the rare capacity to turn good ideas into coherent finished systems through exhausting editorial work.
 - The quiet-eye source is strongest on attentional mechanics: elite execution includes a trainable visual steadiness that links perception, motor planning, and pressure resistance.
 - The Elon Musk source is strongest on tempo imposition and serial immersion: it shows how a leader may move across domains through fierce urgency and bottleneck surges, while also revealing the psychological and organizational price of that style.
+- The Jim Murphy source is strongest on the paradox that outcome-detachment can improve real performance: it translates belief, presence, and service into a compact anti-choking system rather than a full preparation model.
 - Together these sources suggest that elite performance needs inward regulation, outwardly demanding systems, and a physical recovery base that is strong enough to support both.
 
 # Tensions / Open Questions
@@ -134,6 +142,7 @@ High-performance mindset is the psychological operating system that allows a per
 - The signal-to-noise layer adds another caution: high-performance cultures can romanticize anti-social intensity and mistake exhausted or domineering behavior for proof of seriousness.
 - The newer Jobs-adjacent layer adds a related caution: obsessive iteration can improve quality, but copied without judgment it can become perfectionist theater, burnout, or endless polishing with no proportional gain.
 - The Elon Musk layer adds another caution: urgency can produce extraordinary throughput, but copied carelessly it can devolve into adrenaline dependence, team destabilization, and a life with too little recovery or savoring.
+- The Murphy layer adds a neighboring caution: inner-state language can become vague inspiration if it is not kept tied to skill, preparation, and realistic limits on what mindset work alone can change.
 
 # Related Pages
 
@@ -147,6 +156,7 @@ High-performance mindset is the psychological operating system that allows a per
 - [[wiki/concepts/leadership/feeling-lost-as-transition|Feeling Lost as Transition]]
 - [[wiki/concepts/leadership/mental-toughness|Mental Toughness]]
 - [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]]
+- [[wiki/concepts/leadership/inner-excellence|Inner Excellence]]
 - [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]]
 - [[wiki/concepts/leadership/owners-mentality|Owner's Mentality]]
 - [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]

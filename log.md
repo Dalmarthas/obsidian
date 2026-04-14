@@ -4493,3 +4493,47 @@ Pages touched:
 - [[wiki/concepts/leadership/meaning-through-responsibility]]
 - [[index]]
 - [[log]]
+
+## [2026-04-14 15:48] ingest | Naval Ravikant How To Go from Employee To Financially Independent
+
+Summary: Ingested a new English Naval Ravikant source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-naval-ravikant-how-to-go-from-employee-to-financially-independent]]. Created [[wiki/sources/2026-04-14-naval-ravikant-how-to-go-from-employee-to-financially-independent]] and the new concept [[wiki/concepts/business/ownership-ladder]]. Used the source to deepen [[wiki/syntheses/business/naval-ravikant-wealth-framework]] and [[wiki/entities/naval-ravikant]]. The Naval wealth branch now more clearly preserves a concrete employee-to-owner progression from selling hours to managing labor, taking asset-level risk, allocating capital, and adding code-enabled platform leverage on top.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-naval-ravikant-how-to-go-from-employee-to-financially-independent]]
+- [[wiki/sources/2026-04-14-naval-ravikant-how-to-go-from-employee-to-financially-independent]]
+- [[wiki/concepts/business/ownership-ladder]]
+- [[wiki/syntheses/business/naval-ravikant-wealth-framework]]
+- [[wiki/entities/naval-ravikant]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 20:47] ingest | Increase Performance AND Fulfillment at the Same Time
+
+Summary: Ingested a new English Jim Murphy source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-increase-performance-and-fulfillment-at-the-same-time]]. Created [[wiki/sources/2026-04-14-increase-performance-and-fulfillment-at-the-same-time]], the new concept [[wiki/concepts/leadership/inner-excellence]], and the new synthesis [[wiki/syntheses/leadership/jim-murphy-inner-excellence-framework]]. Used the source to deepen [[wiki/concepts/leadership/high-performance-mindset]] and [[wiki/concepts/leadership/meaning-through-responsibility]]. The leadership branch now more clearly captures a performance model built around self-belief, gratitude-based present focus, anti-hurry execution, failure without identity collapse, and service as an antidote to ego-driven choking.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-increase-performance-and-fulfillment-at-the-same-time]]
+- [[wiki/sources/2026-04-14-increase-performance-and-fulfillment-at-the-same-time]]
+- [[wiki/concepts/leadership/inner-excellence]]
+- [[wiki/syntheses/leadership/jim-murphy-inner-excellence-framework]]
+- [[wiki/concepts/leadership/high-performance-mindset]]
+- [[wiki/concepts/leadership/meaning-through-responsibility]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 20:55] ingest | Game Theory 3 Rich Dad Poor Dad
+
+Summary: Ingested a new English structural-success source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-game-theory-3-rich-dad-poor-dad]]. Created [[wiki/sources/2026-04-14-game-theory-3-rich-dad-poor-dad]] and the new concept [[wiki/concepts/business/social-mobility]]. Used the source to deepen [[wiki/concepts/leadership/growth-mindset]], [[wiki/concepts/leadership/locus-of-control]], and [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]. The business and leadership branches now more clearly distinguish trait-based explanations of success from structural ones by adding trust-rich versus trust-poor environments, class-conditioned parenting games, social mobility as game openness, and the risk of elites re-rigging institutions until the system becomes reset-prone.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-game-theory-3-rich-dad-poor-dad]]
+- [[wiki/sources/2026-04-14-game-theory-3-rich-dad-poor-dad]]
+- [[wiki/concepts/business/social-mobility]]
+- [[wiki/concepts/leadership/growth-mindset]]
+- [[wiki/concepts/leadership/locus-of-control]]
+- [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]
+- [[index]]
+- [[log]]

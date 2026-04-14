@@ -16,10 +16,12 @@ source_pages:
   - wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive.md
   - wiki/sources/2026-04-12-jordan-peterson-sorting-your-life.md
   - wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek.md
+  - wiki/sources/2026-04-14-increase-performance-and-fulfillment-at-the-same-time.md
 related:
   - wiki/concepts/productivity/calibrated-challenge.md
   - wiki/concepts/leadership/locus-of-control.md
   - wiki/concepts/leadership/high-performance-mindset.md
+  - wiki/concepts/leadership/inner-excellence.md
   - wiki/concepts/leadership/feeling-lost-as-transition.md
   - wiki/concepts/leadership/owners-mentality.md
   - wiki/syntheses/leadership/jordan-peterson-responsibility-framework.md
@@ -49,6 +51,9 @@ Meaning through responsibility is the claim that durable purpose often comes les
 - [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek|Were Living Through A Crisis Of Meaning Simon Sinek]] adds two more relational refinements:
   - accountability should target response, learning, and agency rather than denial that unfairness exists
   - meaning is less stable when responsibility is detached from friendship, service, and belonging, because burden without human infrastructure can harden into lonely grit rather than purpose
+- The Jim Murphy source adds a performance-side refinement:
+  - service to others is presented not only as moral orientation but as an attentional intervention that reduces ego pressure and fear
+  - meaning therefore helps performance here not only by making life heavier, but by making high-stakes action less self-protective and more generous
 
 # Source Comparisons
 
@@ -59,6 +64,7 @@ Meaning through responsibility is the claim that durable purpose often comes les
 - Compared with [[wiki/concepts/leadership/owners-mentality|Owner's Mentality]], this page is broader and more existential. Owner's mentality explains the structure of wholehearted commitment; meaning through responsibility explains why that burden can give life weight.
 - The newer Peterson source also pushes the concept toward the ordinary rather than the dramatic: responsibility is not only career-scale burden, but the repeated local behavior that determines whether a home and relationship pattern become orderly or corrosive.
 - Compared with the newer Simon source, Peterson is stronger on burden and conscience, while Sinek is stronger on the relational infrastructure that makes burden livable and meaningful instead of isolating.
+- Compared with the Jim Murphy source, this page is more duty-centered and less execution-centered. Meaning through responsibility explains why burden and service give life weight; Murphy shows how service can also improve performance by reducing self-consciousness in the moment.
 
 # Tensions / Open Questions
 
@@ -68,12 +74,14 @@ Meaning through responsibility is the claim that durable purpose often comes les
 - The vault still needs counterweights showing when dropping responsibilities is the healthy move rather than evidence of weakness.
 - The `mundane interactions` layer adds another design question: which recurring routines most strongly shape felt life quality, and how should they be audited without turning family life into over-optimization theater?
 - The newer Simon source adds another open question: when does accountability empower a person after pain, and when does it become a subtle demand to metabolize structural or interpersonal harm too privately?
+- The Murphy layer adds a related question: when does service orientation genuinely reduce ego pressure, and when does it become another performance script that the self anxiously tries to enact?
 
 # Related Pages
 
 - [[wiki/concepts/leadership/locus-of-control|Locus of Control]]
 - [[wiki/concepts/productivity/calibrated-challenge|Calibrated Challenge]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
+- [[wiki/concepts/leadership/inner-excellence|Inner Excellence]]
 - [[wiki/concepts/leadership/feeling-lost-as-transition|Feeling Lost as Transition]]
 - [[wiki/concepts/leadership/owners-mentality|Owner's Mentality]]
 - [[wiki/concepts/leadership/friendship-as-growth-pact|Friendship as Growth Pact]]

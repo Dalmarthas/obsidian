@@ -11,6 +11,7 @@ tags:
   - thinker
 source_pages:
   - wiki/sources/2026-04-13-be-wealthy-without-getting-lucky-the-almanack-of-naval-ravikant.md
+  - wiki/sources/2026-04-14-naval-ravikant-how-to-go-from-employee-to-financially-independent.md
   - wiki/sources/2026-04-14-11-rules-for-life-genius-rules.md
   - wiki/sources/2026-04-14-44-harsh-truths-about-the-game-of-life.md
   - wiki/sources/2026-04-14-the-4-secrets-to-be-great-at-anything.md
@@ -21,6 +22,7 @@ source_pages:
 related:
   - wiki/concepts/business/mimetic-desire.md
   - wiki/concepts/business/specific-knowledge.md
+  - wiki/concepts/business/ownership-ladder.md
   - wiki/concepts/business/career-capital.md
   - wiki/concepts/business/permissionless-creation.md
   - wiki/concepts/health/overthinking.md
@@ -52,6 +54,12 @@ Naval Ravikant is treated in the current vault as a business thinker whose branc
   - specific knowledge
   - accountability
   - leverage
+- The new employee-to-financial-independence source adds a more concrete structure for how those pillars stack in the world:
+  - salaried labor
+  - managed labor and deliverables
+  - project or asset ownership
+  - capital allocation across many assets
+  - code-enabled platform scale
 - It also presents his freedom-centered definition of wealth and the directive to `productize yourself`.
 - The newer source expands the branch beyond wealth:
   - many desires are copied rather than chosen
@@ -99,6 +107,7 @@ Naval Ravikant is treated in the current vault as a business thinker whose branc
 
 - [[wiki/concepts/business/mimetic-desire|Mimetic Desire]]
 - [[wiki/concepts/business/specific-knowledge.md|Specific Knowledge]]
+- [[wiki/concepts/business/ownership-ladder|Ownership Ladder]]
 - [[wiki/concepts/business/career-capital|Career Capital]]
 - [[wiki/concepts/business/permissionless-creation|Permissionless Creation]]
 - [[wiki/concepts/health/overthinking|Overthinking]]
@@ -106,6 +115,7 @@ Naval Ravikant is treated in the current vault as a business thinker whose branc
 - [[wiki/syntheses/business/naval-ravikant-life-design-framework|Naval Ravikant Life Design Framework]]
 - [[wiki/sources/2026-04-13-be-wealthy-without-getting-lucky-the-almanack-of-naval-ravikant|Be Wealthy Without Getting Lucky The Almanack of Naval Ravikant]]
 - [[wiki/sources/2026-04-14-11-rules-for-life-genius-rules|11 Rules For Life Genius Rules]]
+- [[wiki/sources/2026-04-14-naval-ravikant-how-to-go-from-employee-to-financially-independent|Naval Ravikant How To Go from Employee To Financially Independent]]
 - [[wiki/sources/2026-04-14-44-harsh-truths-about-the-game-of-life|44 Harsh Truths About The Game Of Life]]
 - [[wiki/sources/2026-04-14-the-4-secrets-to-be-great-at-anything|The 4 Secrets To Be Great At Anything]]
 - [[wiki/sources/2026-04-14-imagine-life-if-you-didnt-overthink-everything|Imagine Life If You Didn't Overthink Everything]]

@@ -12,12 +12,14 @@ tags:
   - culture
 source_pages:
   - wiki/sources/2026-04-10-carol-dweck-fixed-and-growth-mindsets.md
+  - wiki/sources/2026-04-14-game-theory-3-rich-dad-poor-dad.md
 related:
   - wiki/concepts/leadership/locus-of-control.md
   - wiki/concepts/leadership/high-performance-mindset.md
   - wiki/concepts/leadership/organizational-culture.md
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/productivity/future-self-prioritization.md
+  - wiki/concepts/business/social-mobility.md
   - wiki/syntheses/leadership/carol-dweck-growth-mindset-framework.md
 ---
 
@@ -44,6 +46,9 @@ Growth mindset is the belief that meaningful abilities can be developed through 
 - The source extends mindset beyond the individual:
   - growth cultures reward learning and experimentation
   - fixed cultures reward status protection, secrecy, and image management
+- The new structural-mobility source adds a harder boundary around the whole concept:
+  - some traits associated with growth mindset may be partly downstream of class stability, trusted promises, and environments where effort is more likely to pay off
+  - that source therefore treats mindset not as fake, but as an incomplete explanation when institutional openness and family conditions differ sharply
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]] overlaps with the persistence side of this concept, but is broader and more performance-system oriented.
 - [[wiki/concepts/leadership/organizational-culture|Organizational Culture]] overlaps with the institutional side, but is broader than mindset alone.
 
@@ -53,12 +58,14 @@ Growth mindset is the belief that meaningful abilities can be developed through 
 - Compared with [[wiki/concepts/leadership/organizational-culture|Organizational Culture]], growth mindset is more specific: it explains one key axis along which a culture can become developmental or defensive.
 - Compared with [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]], growth mindset is less about long-term choice architecture and more about what people believe ability and failure mean in the moment of challenge.
 - Compared with [[wiki/concepts/leadership/locus-of-control|Locus of Control]], growth mindset is more developmental and less causal-attributional: a person may believe skills can grow in principle yet still feel that their own actions have little leverage in a given environment.
+- Compared with [[wiki/concepts/business/social-mobility|Social Mobility]], growth mindset is much more local and psychological. Social mobility asks whether the game is open; growth mindset asks how a person responds once inside it.
 
 # Tensions / Open Questions
 
 - Growth mindset can become empty ritual if leaders praise effort while ignoring weak strategy, poor teaching, or structural constraints.
 - `False growth mindset` is a real risk when people claim the label without becoming more challenge-tolerant or feedback-capable.
 - The strongest open question is how the vault should distinguish developmentally useful pressure from growth-language that merely repackages blame.
+- The new structural source sharpens a neighboring risk: mindset language can overclaim causal power when the real limiting factor is that the ladder itself is unstable, rigged, or differentially accessible by class.
 
 # Related Pages
 
@@ -69,4 +76,5 @@ Growth mindset is the belief that meaningful abilities can be developed through 
 - [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
+- [[wiki/concepts/business/social-mobility|Social Mobility]]
 - [[wiki/syntheses/leadership/carol-dweck-growth-mindset-framework|Carol Dweck Growth Mindset Framework]]
