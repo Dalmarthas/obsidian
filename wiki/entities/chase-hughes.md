@@ -2,7 +2,7 @@
 type: entity
 title: Chase Hughes
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-14
 status: active
 tags:
   - entity
@@ -20,10 +20,12 @@ source_pages:
   - wiki/sources/2026-04-09-chase-hughes-reading-minds-influence-and-confidence.md
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
   - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
+  - wiki/sources/2026-04-14-see-their-core-shame-instantly-chase-hughes.md
 related:
   - wiki/concepts/productivity/future-self-prioritization.md
   - wiki/concepts/productivity/fear-goal-programming.md
   - wiki/concepts/productivity/behavior-journaling.md
+  - wiki/concepts/others/core-shame.md
   - wiki/concepts/others/mask-behavior.md
   - wiki/concepts/others/inversion-patterns.md
   - wiki/concepts/others/projection-as-self-signal.md
@@ -52,11 +54,11 @@ related:
 
 # Overview
 
-Chase Hughes is presented in this vault as a heuristic teacher of self-conditioning, behavioral interpretation, conflict response, high-risk influence design, and interactional confidence. His current presence in the wiki now has seven layers: a productivity branch about future-self discipline and behavior installation, an `others` branch about masks, inversion patterns, projection, and compassion-first reading of defensive behavior, a communication branch about responding to bullies through de-escalation without humiliation, a second communication branch about first-90-second influence and narrator-level installation, a third communication branch about elicitation, frame control, emotional gravity, and confidence through self-forgiveness, a broader communication umbrella about self-mastery, observation, authority, social-need profiling, and influence as a behavioral system, and now a more explicit identity-and-permission branch about PCP, negative dissociation, childhood scripts, and human connection under AI saturation.
+Chase Hughes is presented in this vault as a heuristic teacher of self-conditioning, behavioral interpretation, conflict response, high-risk influence design, and interactional confidence. His current presence in the wiki now has eight layers: a productivity branch about future-self discipline and behavior installation, an `others` branch about masks, inversion patterns, projection, and compassion-first reading of defensive behavior, a communication branch about responding to bullies through de-escalation without humiliation, a second communication branch about first-90-second influence and narrator-level installation, a third communication branch about elicitation, frame control, emotional gravity, and confidence through self-forgiveness, a broader communication umbrella about self-mastery, observation, authority, social-need profiling, and influence as a behavioral system, a more explicit identity-and-permission branch about PCP, negative dissociation, childhood scripts, and human connection under AI saturation, and now a shame-centered branch about core identity threat, insults as boundary markers, and empathy as accurate vision without contempt.
 
 # Role In This Vault
 
-Hughes opens the vault's first explicit productivity branch and now also anchors psychology-pattern, anti-bullying, influence-sequencing, confidence-through-interaction, broader behavior-reading, and identity-permission branches. Across all seven, his contribution is less about formal science than about compact heuristics for noticing and shaping invisible drivers of behavior. The productivity side is about installing better action; the mask branch is about interpreting outward persona, shame pressure, and projection; the anti-bullying branch is about interrupting hostile behavior without becoming hostile in return; the first influence branch is about how authority, attention, identity, and depth can be shaped before explicit evaluation catches up; the next branch is about elicitation, composure, frame, and self-forgiveness as interaction tools; the broader communication branch widens the picture into self-mastery, observation, behavioral profiling, social-needs diagnosis, and the attention risks of manipulative systems; and the newest branch sharpens PCP, indirect identity priming, childhood contract carryover, and the claim that genuine human connection grows more valuable in an AI-heavy environment. The communication layers remain the most ethically unstable part of his vault presence because they repeatedly approach influence through lowered resistance, identity shaping, and gut-level state change.
+Hughes opens the vault's first explicit productivity branch and now also anchors psychology-pattern, anti-bullying, influence-sequencing, confidence-through-interaction, broader behavior-reading, identity-permission, and shame-reading branches. Across all eight, his contribution is less about formal science than about compact heuristics for noticing and shaping invisible drivers of behavior. The productivity side is about installing better action; the mask branch is about interpreting outward persona, shame pressure, and projection; the anti-bullying branch is about interrupting hostile behavior without becoming hostile in return; the first influence branch is about how authority, attention, identity, and depth can be shaped before explicit evaluation catches up; the next branch is about elicitation, composure, frame, and self-forgiveness as interaction tools; the broader communication branch widens the picture into self-mastery, observation, behavioral profiling, social-needs diagnosis, and the attention risks of manipulative systems; the identity-permission branch sharpens PCP, indirect identity priming, childhood contract carryover, and the claim that genuine human connection grows more valuable in an AI-heavy environment; and the newest branch makes shame rather than generic insecurity the explicit center of many masks, insults, and rigid personas. The communication layers remain the most ethically unstable part of his vault presence because they repeatedly approach influence through lowered resistance, identity shaping, and gut-level state change.
 
 # Evidence In This Vault
 
@@ -80,6 +82,7 @@ Hughes opens the vault's first explicit productivity branch and now also anchors
 - Indirect identity tactic: [[wiki/concepts/communication/negative-dissociation|Negative Dissociation]]
 - Developmental script layer: [[wiki/concepts/others/childhood-development-triangle|Childhood Development Triangle]]
 - Repetition-of-pain model: [[wiki/concepts/others/emotional-gravity|Emotional Gravity]]
+- Shame-organizing layer: [[wiki/concepts/others/core-shame|Core Shame]]
 - Cross-domain overlap: [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - Performance overlap: [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - Distillation: [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework|Chase Hughes Goal Programming Framework]]
@@ -96,6 +99,7 @@ Hughes opens the vault's first explicit productivity branch and now also anchors
 - [[wiki/concepts/productivity/fear-goal-programming|FEAR Goal Programming]]
 - [[wiki/concepts/productivity/behavior-journaling|Behavior Journaling]]
 - [[wiki/concepts/others/mask-behavior|Mask Behavior]]
+- [[wiki/concepts/others/core-shame|Core Shame]]
 - [[wiki/concepts/others/inversion-patterns|Inversion Patterns]]
 - [[wiki/concepts/others/projection-as-self-signal|Projection as Self-Signal]]
 - [[wiki/concepts/others/orion-principle|Orion Principle]]

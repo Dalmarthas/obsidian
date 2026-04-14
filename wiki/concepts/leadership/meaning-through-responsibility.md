@@ -15,6 +15,7 @@ source_pages:
   - wiki/sources/2026-04-11-matthew-mcconaughey-on-fame-commitment-and-meaning.md
   - wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive.md
   - wiki/sources/2026-04-12-jordan-peterson-sorting-your-life.md
+  - wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek.md
 related:
   - wiki/concepts/productivity/calibrated-challenge.md
   - wiki/concepts/leadership/locus-of-control.md
@@ -45,6 +46,9 @@ Meaning through responsibility is the claim that durable purpose often comes les
 - [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life]] adds two concrete refinements:
   - endless leisure is a weak model of fulfillment compared with useful burden
   - the quality of responsibility is often expressed in mundane recurring routines such as greetings, meals, and bedtimes rather than only in major heroic acts
+- [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek|Were Living Through A Crisis Of Meaning Simon Sinek]] adds two more relational refinements:
+  - accountability should target response, learning, and agency rather than denial that unfairness exists
+  - meaning is less stable when responsibility is detached from friendship, service, and belonging, because burden without human infrastructure can harden into lonely grit rather than purpose
 
 # Source Comparisons
 
@@ -54,6 +58,7 @@ Meaning through responsibility is the claim that durable purpose often comes les
 - Compared with [[wiki/concepts/leadership/feeling-lost-as-transition|Feeling Lost as Transition]], meaning through responsibility is more duty-centered and less exploratory. Peterson emphasizes burden accepted; Manson emphasizes identity rebuilt through chosen commitment after drift.
 - Compared with [[wiki/concepts/leadership/owners-mentality|Owner's Mentality]], this page is broader and more existential. Owner's mentality explains the structure of wholehearted commitment; meaning through responsibility explains why that burden can give life weight.
 - The newer Peterson source also pushes the concept toward the ordinary rather than the dramatic: responsibility is not only career-scale burden, but the repeated local behavior that determines whether a home and relationship pattern become orderly or corrosive.
+- Compared with the newer Simon source, Peterson is stronger on burden and conscience, while Sinek is stronger on the relational infrastructure that makes burden livable and meaningful instead of isolating.
 
 # Tensions / Open Questions
 
@@ -62,6 +67,7 @@ Meaning through responsibility is the claim that durable purpose often comes les
 - The McConaughey layer adds another open question: when does faith-and-belonging enrich responsibility, and when can it slide into romanticizing endurance for its own sake?
 - The vault still needs counterweights showing when dropping responsibilities is the healthy move rather than evidence of weakness.
 - The `mundane interactions` layer adds another design question: which recurring routines most strongly shape felt life quality, and how should they be audited without turning family life into over-optimization theater?
+- The newer Simon source adds another open question: when does accountability empower a person after pain, and when does it become a subtle demand to metabolize structural or interpersonal harm too privately?
 
 # Related Pages
 
@@ -70,8 +76,10 @@ Meaning through responsibility is the claim that durable purpose often comes les
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/concepts/leadership/feeling-lost-as-transition|Feeling Lost as Transition]]
 - [[wiki/concepts/leadership/owners-mentality|Owner's Mentality]]
+- [[wiki/concepts/leadership/friendship-as-growth-pact|Friendship as Growth Pact]]
 - [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework|Jordan Peterson Responsibility Framework]]
 - [[wiki/syntheses/leadership/matthew-mcconaughey-commitment-framework|Matthew McConaughey Commitment Framework]]
 - [[wiki/sources/2026-04-11-jordan-peterson-wasting-time-and-responsibility|Jordan Peterson Wasting Time and Responsibility]]
 - [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive|Jordan Peterson Becoming Highly Efficient and Productive]]
 - [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]]
+- [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek|Were Living Through A Crisis Of Meaning Simon Sinek]]

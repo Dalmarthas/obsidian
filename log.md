@@ -4183,3 +4183,313 @@ Pages touched:
 - [[wiki/syntheses/productivity/oliver-burkeman-four-thousand-weeks-framework]]
 - [[index]]
 - [[log]]
+
+## [2026-04-13 17:38] ingest | How Decision Making is Actually Science: Game Theory Explained
+
+Summary: Ingested a new English game-theory source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-decision-making-is-actually-science-game-theory-explained]]. Created [[wiki/sources/2026-04-13-how-decision-making-is-actually-science-game-theory-explained]], the new concepts [[wiki/concepts/business/game-theory]] and [[wiki/concepts/business/shapley-value]], and the new synthesis [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]. Used the source to deepen [[wiki/concepts/business/business-strategy]], [[wiki/concepts/communication/negotiation-and-mediation]], and [[wiki/syntheses/cross-source/decision-making-under-cognitive-strain]]. The decision branch now more clearly separates cognitive failure from incentive-structure failure and adds a coalition-fairness layer through marginal-contribution logic.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-how-decision-making-is-actually-science-game-theory-explained]]
+- [[wiki/sources/2026-04-13-how-decision-making-is-actually-science-game-theory-explained]]
+- [[wiki/concepts/business/game-theory]]
+- [[wiki/concepts/business/shapley-value]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/concepts/communication/negotiation-and-mediation]]
+- [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]
+- [[wiki/syntheses/cross-source/decision-making-under-cognitive-strain]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 17:44] ingest | What Game Theory Teaches Us About War
+
+Summary: Ingested a new English Simon Sinek source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-what-game-theory-teaches-us-about-war]]. Created [[wiki/sources/2026-04-13-what-game-theory-teaches-us-about-war]] and used it to deepen [[wiki/concepts/business/game-theory]], [[wiki/concepts/leadership/infinite-game-mindset]], and [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework]]. The Sinek branch now more clearly captures finite-versus-infinite conflict mismatch, quagmire through endurance asymmetry, adversary replacement in ongoing contests, and value-first consistency as a source of strategic predictability and alliance trust.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-what-game-theory-teaches-us-about-war]]
+- [[wiki/sources/2026-04-13-what-game-theory-teaches-us-about-war]]
+- [[wiki/concepts/business/game-theory]]
+- [[wiki/concepts/leadership/infinite-game-mindset]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 18:26] ingest | What Actually Is Game Theory?
+
+Summary: Ingested a new English introductory game-theory source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-what-actually-is-game-theory]]. Created [[wiki/sources/2026-04-13-what-actually-is-game-theory]] and the new concept [[wiki/concepts/business/zero-sum-games]]. Used the source to deepen [[wiki/concepts/business/game-theory]] and [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]. The game-theory branch now more clearly captures the players-strategies-payoffs modeling lens, the limits of zero-sum framing, the distinction between dominant strategy and Nash equilibrium, and the tension between clean rational models and real human behavior.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-what-actually-is-game-theory]]
+- [[wiki/sources/2026-04-13-what-actually-is-game-theory]]
+- [[wiki/concepts/business/zero-sum-games]]
+- [[wiki/concepts/business/game-theory]]
+- [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 22:12] ingest | Game Theory: A Simple Strategy That Will Change Your Life Forever
+
+Summary: Ingested a new English repeated-games source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-game-theory-a-simple-strategy-that-will-change-your-life-forever]]. Created [[wiki/sources/2026-04-13-game-theory-a-simple-strategy-that-will-change-your-life-forever]] and the new concept [[wiki/concepts/business/tit-for-tat]]. Used the source to deepen [[wiki/concepts/business/game-theory]], [[wiki/concepts/communication/negotiation-and-mediation]], and [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]. The game-theory branch now more clearly captures one-shot versus repeated-game logic, Axelrod-style tournament evidence, and the four-part repeated-strategy profile of cooperating first, retaliating proportionally, forgiving quickly, and staying clear.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-game-theory-a-simple-strategy-that-will-change-your-life-forever]]
+- [[wiki/sources/2026-04-13-game-theory-a-simple-strategy-that-will-change-your-life-forever]]
+- [[wiki/concepts/business/tit-for-tat]]
+- [[wiki/concepts/business/game-theory]]
+- [[wiki/concepts/communication/negotiation-and-mediation]]
+- [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 22:26] ingest | Game Theory (Yale University - Ben Polak)
+
+Summary: Ingested a new English course-style game-theory source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-game-theory-yale-university-ben-polak]]. Created [[wiki/sources/2026-04-13-game-theory-yale-university-ben-polak]] and the new concept [[wiki/concepts/business/backward-induction]]. Used the source to deepen [[wiki/concepts/business/game-theory]], [[wiki/concepts/business/business-strategy]], and [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]. The game-theory branch now more clearly captures timing games, the distinction between robust dominance arguments and more fragile backward-induction logic, and proactive-bias errors where acting early feels bold but worsens the odds.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-game-theory-yale-university-ben-polak]]
+- [[wiki/sources/2026-04-13-game-theory-yale-university-ben-polak]]
+- [[wiki/concepts/business/backward-induction]]
+- [[wiki/concepts/business/game-theory]]
+- [[wiki/concepts/business/business-strategy]]
+- [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 22:40] ingest | Game Theory and Negotiation
+
+Summary: Ingested a new English negotiation-focused game-theory source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-game-theory-and-negotiation]]. Created [[wiki/sources/2026-04-13-game-theory-and-negotiation]] and the new concept [[wiki/concepts/communication/batna]]. Used the source to deepen [[wiki/concepts/business/game-theory]], [[wiki/concepts/communication/negotiation-and-mediation]], and [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]. The branch now captures outside-option logic, BATNA, signaling and screening under incomplete information, and credible commitment as a bridge between abstract game structure and live negotiation practice.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-game-theory-and-negotiation]]
+- [[wiki/sources/2026-04-13-game-theory-and-negotiation]]
+- [[wiki/concepts/communication/batna]]
+- [[wiki/concepts/business/game-theory]]
+- [[wiki/concepts/communication/negotiation-and-mediation]]
+- [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 22:47] ingest | Speed Reading by Kam Knight
+
+Summary: Ingested a new English productivity-and-learning source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-speed-reading-by-kam-knight]]. Created [[wiki/sources/2026-04-13-speed-reading-by-kam-knight]], the new concept [[wiki/concepts/productivity/speed-reading]], and the new synthesis [[wiki/syntheses/productivity/speed-reading-framework]]. Used the source to deepen [[wiki/concepts/productivity/effective-practice]] and [[wiki/syntheses/productivity/barbara-oakley-learning-framework]]. The learning branch now captures purpose-first reading, T.H.I.E.V.E.S. previewing, peripheral-vision intake, and the caution that speed only counts when comprehension survives.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-speed-reading-by-kam-knight]]
+- [[wiki/sources/2026-04-13-speed-reading-by-kam-knight]]
+- [[wiki/concepts/productivity/speed-reading]]
+- [[wiki/syntheses/productivity/speed-reading-framework]]
+- [[wiki/concepts/productivity/effective-practice]]
+- [[wiki/syntheses/productivity/barbara-oakley-learning-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 22:55] ingest | This Game Theory Problem Will Change the Way You See the World
+
+Summary: Ingested a new English repeated-games source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-this-game-theory-problem-will-change-the-way-you-see-the-world]]. Created [[wiki/sources/2026-04-13-this-game-theory-problem-will-change-the-way-you-see-the-world]] and used it to deepen [[wiki/concepts/business/tit-for-tat]], [[wiki/concepts/business/zero-sum-games]], [[wiki/concepts/business/game-theory]], and [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]. The branch now more clearly captures the four Axelrod strategy traits, cooperation as an ecological phenomenon, generous reciprocity under noise, and the claim that many domains reward total value from the environment rather than direct opponent defeat.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-this-game-theory-problem-will-change-the-way-you-see-the-world]]
+- [[wiki/sources/2026-04-13-this-game-theory-problem-will-change-the-way-you-see-the-world]]
+- [[wiki/concepts/business/tit-for-tat]]
+- [[wiki/concepts/business/zero-sum-games]]
+- [[wiki/concepts/business/game-theory]]
+- [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 23:02] ingest | Be Wealthy Without Getting Lucky The Almanack of Naval Ravikant
+
+Summary: Ingested a new English business-and-career source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-be-wealthy-without-getting-lucky-the-almanack-of-naval-ravikant]]. Created [[wiki/sources/2026-04-13-be-wealthy-without-getting-lucky-the-almanack-of-naval-ravikant]], the new entity [[wiki/entities/naval-ravikant]], the new concept [[wiki/concepts/business/specific-knowledge.md|Specific Knowledge]], and the new synthesis [[wiki/syntheses/business/naval-ravikant-wealth-framework]]. Used the source to deepen [[wiki/concepts/business/career-capital]] and [[wiki/concepts/business/permissionless-creation]]. The business branch now more clearly captures wealth as freedom, specific knowledge as anti-competition, accountability as ownership of outcomes, and leverage through code and media.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-be-wealthy-without-getting-lucky-the-almanack-of-naval-ravikant]]
+- [[wiki/sources/2026-04-13-be-wealthy-without-getting-lucky-the-almanack-of-naval-ravikant]]
+- [[wiki/entities/naval-ravikant]]
+- [[wiki/concepts/business/specific-knowledge.md|Specific Knowledge]]
+- [[wiki/syntheses/business/naval-ravikant-wealth-framework]]
+- [[wiki/concepts/business/career-capital]]
+- [[wiki/concepts/business/permissionless-creation]]
+- [[index]]
+- [[log]]
+
+## [2026-04-13 23:03] ingest | How to Think On Your Feet (Harvey Specter Edition)
+
+Summary: Ingested a new English communication source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition]]. Created [[wiki/sources/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition]] and used it to deepen [[wiki/concepts/communication/thinking-on-your-feet]], [[wiki/concepts/communication/frame-control]], and [[wiki/syntheses/communication/thinking-on-your-feet-framework]]. The communication branch now more clearly captures composure tests, expectation management under pressure, body language as cognitive time-buying, and the bounded use of playful non-literal replies in mildly adversarial settings.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition]]
+- [[wiki/sources/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition]]
+- [[wiki/concepts/communication/thinking-on-your-feet]]
+- [[wiki/concepts/communication/frame-control]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 00:41] ingest | 44 Harsh Truths About The Game Of Life
+
+Summary: Ingested a new English Naval Ravikant source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-44-harsh-truths-about-the-game-of-life]]. Created [[wiki/sources/2026-04-14-44-harsh-truths-about-the-game-of-life]], the new concept [[wiki/concepts/business/mimetic-desire]], and the new synthesis [[wiki/syntheses/business/naval-ravikant-life-design-framework]]. Used the source to deepen [[wiki/entities/naval-ravikant]], [[wiki/concepts/business/specific-knowledge]], [[wiki/concepts/business/zero-sum-games]], [[wiki/concepts/productivity/signal-to-noise-ratio]], and [[wiki/syntheses/business/naval-ravikant-wealth-framework]]. The Naval branch now more clearly captures copied desire, wealth-versus-status games, self-respect as internal reputation, time freedom, selective problem ownership, and the claim that wealth should serve life quality rather than replace it.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-44-harsh-truths-about-the-game-of-life]]
+- [[wiki/sources/2026-04-14-44-harsh-truths-about-the-game-of-life]]
+- [[wiki/concepts/business/mimetic-desire]]
+- [[wiki/syntheses/business/naval-ravikant-life-design-framework]]
+- [[wiki/entities/naval-ravikant]]
+- [[wiki/concepts/business/specific-knowledge]]
+- [[wiki/concepts/business/zero-sum-games]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio]]
+- [[wiki/syntheses/business/naval-ravikant-wealth-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 00:58] ingest | Imagine Life If You Didn't Overthink Everything
+
+Summary: Ingested a new English Naval Ravikant source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-imagine-life-if-you-didnt-overthink-everything]]. Created [[wiki/sources/2026-04-14-imagine-life-if-you-didnt-overthink-everything]] and the new concept [[wiki/concepts/health/overthinking]]. Used the source to deepen [[wiki/concepts/productivity/alive-time]], [[wiki/syntheses/business/naval-ravikant-life-design-framework]], and [[wiki/entities/naval-ravikant]]. The Naval branch now more clearly captures stress as conflicting desires, anxiety as unlabeled accumulated stress, the difference between clarifying self-observation and ego-driven rumination, wasted time as absence from the present, and the bounded use of gut judgment in hard ambiguous decisions.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-imagine-life-if-you-didnt-overthink-everything]]
+- [[wiki/sources/2026-04-14-imagine-life-if-you-didnt-overthink-everything]]
+- [[wiki/concepts/health/overthinking]]
+- [[wiki/concepts/productivity/alive-time]]
+- [[wiki/syntheses/business/naval-ravikant-life-design-framework]]
+- [[wiki/entities/naval-ravikant]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 01:16] ingest | Naval Ravikant on Happiness, Anxiety, and More
+
+Summary: Ingested a new English Naval Ravikant source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more]]. Created [[wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more]] and used it to deepen [[wiki/concepts/productivity/dopamine-regulation]], [[wiki/concepts/health/mindfulness]], [[wiki/concepts/health/overthinking]], [[wiki/entities/naval-ravikant]], [[wiki/syntheses/business/naval-ravikant-wealth-framework]], and [[wiki/syntheses/business/naval-ravikant-life-design-framework]]. The Naval branch now more clearly captures long-term games with long-term people, meditation as destructive self-examination, calm as a performance advantage, cleaner alternatives to cheap dopamine, and low-conflict self-aware relationship selection.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more]]
+- [[wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more]]
+- [[wiki/concepts/productivity/dopamine-regulation]]
+- [[wiki/concepts/health/mindfulness]]
+- [[wiki/concepts/health/overthinking]]
+- [[wiki/entities/naval-ravikant]]
+- [[wiki/syntheses/business/naval-ravikant-wealth-framework]]
+- [[wiki/syntheses/business/naval-ravikant-life-design-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 15:27] ingest | There Is Infinite Opportunity In The Modern World
+
+Summary: Ingested a new English Naval Ravikant source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-there-is-infinite-opportunity-in-the-modern-world]]. Created [[wiki/sources/2026-04-14-there-is-infinite-opportunity-in-the-modern-world]] and used it to deepen [[wiki/concepts/business/specific-knowledge]], [[wiki/concepts/productivity/signal-to-noise-ratio]], [[wiki/entities/naval-ravikant]], [[wiki/syntheses/business/naval-ravikant-wealth-framework]], and [[wiki/syntheses/business/naval-ravikant-life-design-framework]]. The Naval branch now more clearly captures explore-versus-exploit timing, premature commitment as a path error, authenticity as anti-competition, and media-fed `mimetic viruses` as copied problems rather than only copied desires.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-there-is-infinite-opportunity-in-the-modern-world]]
+- [[wiki/sources/2026-04-14-there-is-infinite-opportunity-in-the-modern-world]]
+- [[wiki/concepts/business/specific-knowledge]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio]]
+- [[wiki/entities/naval-ravikant]]
+- [[wiki/syntheses/business/naval-ravikant-wealth-framework]]
+- [[wiki/syntheses/business/naval-ravikant-life-design-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 12:47] ingest | See Their Core Shame Instantly
+
+Summary: Ingested a new English Chase Hughes source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-see-their-core-shame-instantly-chase-hughes]]. Created [[wiki/sources/2026-04-14-see-their-core-shame-instantly-chase-hughes]] and the new concept [[wiki/concepts/others/core-shame]]. Used the source to deepen [[wiki/concepts/others/mask-behavior]], [[wiki/concepts/others/projection-as-self-signal]], [[wiki/concepts/communication/face-saving-de-escalation]], [[wiki/entities/chase-hughes]], [[wiki/syntheses/others/chase-hughes-mask-and-compassion-framework]], and [[wiki/syntheses/cross-source/hidden-motives-and-social-behavior]]. The hidden-motives branch now more clearly captures shame as survival architecture, insults as identity boundary markers, four recurring judgment domains, and the ethical use of empathy as accurate vision without contempt.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-see-their-core-shame-instantly-chase-hughes]]
+- [[wiki/sources/2026-04-14-see-their-core-shame-instantly-chase-hughes]]
+- [[wiki/concepts/others/core-shame]]
+- [[wiki/concepts/others/mask-behavior]]
+- [[wiki/concepts/others/projection-as-self-signal]]
+- [[wiki/concepts/communication/face-saving-de-escalation]]
+- [[wiki/entities/chase-hughes]]
+- [[wiki/syntheses/others/chase-hughes-mask-and-compassion-framework]]
+- [[wiki/syntheses/cross-source/hidden-motives-and-social-behavior]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 15:19] ingest | Naval Ravikant on Happiness, Anxiety, and More (Second Capture)
+
+Summary: Ingested a second English capture of the same Naval Ravikant conversation from `raw/` and archived it at [[raw/inbox/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more-second-capture]]. Instead of creating a duplicate wiki source page, used the new capture to deepen [[wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more]], [[wiki/entities/naval-ravikant]], [[wiki/syntheses/business/naval-ravikant-wealth-framework]], and [[wiki/syntheses/business/naval-ravikant-life-design-framework]]. The Naval branch now more clearly captures `define enough` as a stopping rule, `10,000 iterations` over blunt hours-counting, and independence plus peer-level relationships as part of the endpoint rather than as side effects of wealth.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more-second-capture]]
+- [[wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more]]
+- [[wiki/entities/naval-ravikant]]
+- [[wiki/syntheses/business/naval-ravikant-wealth-framework]]
+- [[wiki/syntheses/business/naval-ravikant-life-design-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 15:28] ingest | These Are The 2 Paths To Happiness Naval Ravikant
+
+Summary: Ingested a new English Naval Ravikant source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant]]. Created [[wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant]] and used it to deepen [[wiki/concepts/business/mimetic-desire]], [[wiki/concepts/business/process-over-outcomes]], [[wiki/concepts/productivity/dopamine-regulation]], [[wiki/entities/naval-ravikant]], and [[wiki/syntheses/business/naval-ravikant-life-design-framework]]. The Naval branch now more clearly captures the two-path happiness model, optional suffering versus necessary effort, desire-loop reset dynamics, journey quality as part of the result, and fame as a fragile byproduct rather than a stable endpoint.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant]]
+- [[wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant]]
+- [[wiki/concepts/business/mimetic-desire]]
+- [[wiki/concepts/business/process-over-outcomes]]
+- [[wiki/concepts/productivity/dopamine-regulation]]
+- [[wiki/entities/naval-ravikant]]
+- [[wiki/syntheses/business/naval-ravikant-life-design-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 15:30] ingest | The 4 Secrets To Be Great At Anything
+
+Summary: Ingested a new English Naval Ravikant source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-the-4-secrets-to-be-great-at-anything]]. Created [[wiki/sources/2026-04-14-the-4-secrets-to-be-great-at-anything]] and used it to deepen [[wiki/concepts/business/specific-knowledge]], [[wiki/concepts/business/zone-of-genius]], [[wiki/entities/naval-ravikant]], and [[wiki/syntheses/business/naval-ravikant-life-design-framework]]. The Naval branch now more clearly captures anti-prescription greatness, goal selection as part of intelligence, assigned meaning as a practical stance, and solitude as infrastructure for self-authored direction rather than mere withdrawal.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-the-4-secrets-to-be-great-at-anything]]
+- [[wiki/sources/2026-04-14-the-4-secrets-to-be-great-at-anything]]
+- [[wiki/concepts/business/specific-knowledge]]
+- [[wiki/concepts/business/zone-of-genius]]
+- [[wiki/entities/naval-ravikant]]
+- [[wiki/syntheses/business/naval-ravikant-life-design-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 15:35] ingest | 11 Rules For Life Genius Rules
+
+Summary: Ingested a new English Naval Ravikant source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-11-rules-for-life-genius-rules]]. Created [[wiki/sources/2026-04-14-11-rules-for-life-genius-rules]] and used it to deepen [[wiki/syntheses/business/naval-ravikant-life-design-framework]], [[wiki/syntheses/business/naval-ravikant-wealth-framework]], [[wiki/concepts/productivity/signal-to-noise-ratio]], and [[wiki/entities/naval-ravikant]]. The Naval branch now more clearly captures strategic restarting, impatient action with patient result horizons, play-work fit, single-desire narrowing, reading and basics as durable edge, explicit escape from time-renting through ownership and permissionless leverage, blank-space thinking, and anti-validation independence.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-11-rules-for-life-genius-rules]]
+- [[wiki/sources/2026-04-14-11-rules-for-life-genius-rules]]
+- [[wiki/syntheses/business/naval-ravikant-life-design-framework]]
+- [[wiki/syntheses/business/naval-ravikant-wealth-framework]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio]]
+- [[wiki/entities/naval-ravikant]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 15:39] ingest | Were Living Through A Crisis Of Meaning Simon Sinek
+
+Summary: Ingested a new English Simon Sinek source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek]]. Created [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek]] and the new concept [[wiki/concepts/leadership/friendship-as-growth-pact]]. Used the source to deepen [[wiki/entities/simon-sinek]], [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework]], [[wiki/concepts/leadership/trust-based-collaboration]], and [[wiki/concepts/leadership/meaning-through-responsibility]]. The Simon branch now more clearly captures the crisis-of-meaning diagnosis, purpose versus goals, friendship as relational infrastructure, accountability without helplessness, and `sit in the mud` emotional accompaniment before advice.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek]]
+- [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek]]
+- [[wiki/concepts/leadership/friendship-as-growth-pact]]
+- [[wiki/entities/simon-sinek]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/concepts/leadership/meaning-through-responsibility]]
+- [[index]]
+- [[log]]

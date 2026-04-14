@@ -13,6 +13,7 @@ source_pages:
   - wiki/sources/2026-04-12-jordan-peterson-guide-to-leadership.md
   - wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont.md
   - wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe.md
+  - wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek.md
   - wiki/sources/2026-04-09-jurgen-klopp-coaching-legacy.md
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
@@ -78,6 +79,10 @@ Trust-based collaboration is the practice of designing work so that other people
   - trust weakens when dopamine-only scoreboards and cortisol-heavy fear dominate daily life
   - trust strengthens when leaders reward contribution, protection, and service instead of only visible wins
   - collaboration improves when internal threat is lowered so effort can be aimed outward at real external problems
+- [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek|Were Living Through A Crisis Of Meaning Simon Sinek]] adds a more intimate and emotionally timed layer:
+  - people often need presence before solutions
+  - collaboration and care improve when emotion is met with emotion before facts are introduced
+  - friendship and vulnerability become trust infrastructure rather than topics outside teamwork
 - [[wiki/sources/2026-04-12-jordan-peterson-guide-to-leadership]] adds a consent-and-story version:
   - trust-based collaboration is stronger when people understand the enterprise as a meaningful shared game
   - role acceptance should be closer to willing participation than fearful compliance
@@ -103,6 +108,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - Sinek focuses on trust inside selection logic: the question is not only how to collaborate once people are in the room, but which kinds of people should be given influence in the first place.
 - The newer Sinek source focuses on trust inside everyday climate: once people are in the room, the leader still determines whether vulnerability is punished or supported.
 - The newest `Leaders Eat Last` source focuses on trust inside incentive chemistry: leaders shape collaboration not only through speeches or feedback, but through what kinds of status, stress, and sacrifice the system repeatedly trains.
+- The newest crisis-of-meaning source focuses on trust inside emotional accompaniment: safe collaboration is not only truth-telling and mutual protection, but also the ability to remain with another person's pain without trying to fix them prematurely.
 - Peterson focuses on trust inside the game's legitimacy: people collaborate more deeply when the role structure feels narratively coherent and voluntarily maintainable rather than imposed for someone else's benefit alone.
 - The newer Peterson character source focuses on trust inside leader reliability: before the game's legitimacy can matter fully, followers still need evidence that the person speaking keeps promises and behaves predictably enough to be followed.
 
@@ -117,6 +123,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - The newest `Leaders Eat Last` layer adds an incentive-design problem: even leaders who endorse trust can still run scoreboards, layoffs, and status systems that train fear and internal competition.
 - The Peterson layer adds a voluntariness problem: collaboration may look trusting on the surface while remaining structurally coerced if people cannot realistically reject the role-story being offered.
 - The newer Peterson character layer adds a measurement problem: people often mistake likability, charisma, or rhetorical force for trustworthiness even when long-run reliability is the more important variable.
+- The newest crisis-of-meaning layer adds a care-timing problem: leaders and friends may believe they are helping when they are actually using advice to escape the discomfort of another person's grief.
 
 # Related Pages
 
@@ -130,5 +137,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - [[wiki/concepts/others/community-based-conservation|Community-Based Conservation]]
 - [[wiki/concepts/business/creative-pitching|Creative Pitching]]
 - [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/friendship-as-growth-pact|Friendship as Growth Pact]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
+- [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek|Were Living Through A Crisis Of Meaning Simon Sinek]]

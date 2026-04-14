@@ -18,6 +18,7 @@ source_pages:
   - wiki/sources/2026-04-12-why-you-need-to-put-in-10000-hours.md
   - wiki/sources/2026-04-11-quiet-eye-visual-attention-and-skill-performance.md
   - wiki/sources/2026-04-13-the-only-skill-that-matters-by-jonathan-levi.md
+  - wiki/sources/2026-04-13-speed-reading-by-kam-knight.md
 related:
   - wiki/concepts/productivity/deliberate-practice.md
   - wiki/concepts/productivity/learning-pyramid.md
@@ -26,6 +27,7 @@ related:
   - wiki/concepts/productivity/chunking.md
   - wiki/concepts/productivity/retrieval-practice.md
   - wiki/concepts/productivity/focused-and-diffuse-learning-modes.md
+  - wiki/concepts/productivity/speed-reading.md
   - wiki/concepts/creativity/negative-capability.md
   - wiki/concepts/leadership/growth-mindset.md
   - wiki/concepts/others/quiet-eye.md
@@ -61,6 +63,10 @@ Effective practice is structured repetition designed to improve performance rath
 - That same source also extends the concept into social domains by arguing that some forms of practice require live, in-the-moment reading of people and context rather than only technical drills.
 - The quiet-eye source adds a more perceptual lever inside the same idea: practice quality depends not only on what is repeated, but on whether visual attention stabilizes in a usable way during the decisive moment of action.
 - The Jonathan Levi source adds a progression test above repetition quality: effective practice is stronger when it keeps forcing the learner upward from understanding to recall, explanation, application, analysis, and creation instead of stopping at familiarity.
+- The speed-reading source adds a task-specific reading version of the same principle:
+  - intake quality improves when the reader starts with a clear purpose rather than passive exposure
+  - brief previewing can prime attention before the main effort begins
+  - higher speed is only `effective` if comprehension checks still hold after the pace increase
 
 # Source Comparisons
 
@@ -72,6 +78,7 @@ Effective practice is structured repetition designed to improve performance rath
 - Compared with [[wiki/concepts/productivity/retrieval-practice|Retrieval Practice]], effective practice is broader and more session-level. Retrieval practice names one especially valuable mechanism inside good sessions, especially when the goal is recall under pressure rather than only familiarity during practice.
 - Compared with [[wiki/concepts/productivity/learning-pyramid|Learning Pyramid]], effective practice is more about the quality of the repetitions and tasks, while the pyramid is more about what level of command those repetitions should eventually produce.
 - Compared with [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]], effective practice is stronger on how to work during the session, while Oakley's concept is stronger on the alternation between concentrated work and integration.
+- Compared with [[wiki/concepts/productivity/speed-reading|Speed Reading]], effective practice is broader. Speed reading names one task-level protocol for improving reading efficiency; effective practice names the wider quality logic that also explains why purpose, preview, and comprehension checks matter inside that protocol.
 - Compared with [[wiki/concepts/creativity/negative-capability|Negative Capability]], effective practice is tighter and more executional. Negative capability becomes more relevant when the task is no longer just skill encoding but interpretation, originality, or breakthrough thinking.
 - Compared with [[wiki/concepts/others/quiet-eye|Quiet Eye]], effective practice is broader and more session-level. Quiet eye names one specific attentional behavior that may make execution more reliable inside the session.
 
@@ -92,6 +99,7 @@ Effective practice is structured repetition designed to improve performance rath
 - [[wiki/concepts/productivity/chunking|Chunking]]
 - [[wiki/concepts/productivity/retrieval-practice|Retrieval Practice]]
 - [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]]
+- [[wiki/concepts/productivity/speed-reading|Speed Reading]]
 - [[wiki/concepts/creativity/negative-capability|Negative Capability]]
 - [[wiki/concepts/leadership/growth-mindset|Growth Mindset]]
 - [[wiki/concepts/others/quiet-eye|Quiet Eye]]

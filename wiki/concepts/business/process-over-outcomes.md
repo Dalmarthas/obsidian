@@ -12,6 +12,7 @@ tags:
   - self-management
 source_pages:
   - wiki/sources/2026-04-11-seth-godin-the-practice-and-process-over-outcomes.md
+  - wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant.md
 related:
   - wiki/concepts/business/permissionless-creation.md
   - wiki/concepts/business/creative-entrepreneurship.md
@@ -39,6 +40,10 @@ Process over outcomes is the principle that meaningful work should be organized 
 - The concept is still outcome-aware: the point is not to ignore results forever, but to avoid using volatile results as the only reason to keep working.
 - [[wiki/concepts/productivity/effective-practice|Effective Practice]] overlaps on repetition quality, but this page is broader and more existential. It covers emotional orientation to the work, not only session design.
 - [[wiki/concepts/business/permissionless-creation|Permissionless Creation]] overlaps on acting before certainty, but this page adds a more durable inner rule for why the action continues after the first public leap.
+- [[wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant|These Are The 2 Paths To Happiness Naval Ravikant]] adds a harsher life-cost version of the same idea:
+  - `miserable success` is what happens when the external outcome arrives but the process was lived in chronic anger, strain, or resentment
+  - because most of life is spent in the journey rather than at the finish line, process quality is not decorative
+  - the page also warns against treating suffering itself as proof of seriousness or progress
 
 # Source Comparisons
 
@@ -46,6 +51,7 @@ Process over outcomes is the principle that meaningful work should be organized 
 - Compared with [[wiki/concepts/business/permissionless-creation|Permissionless Creation]], this page is less about bypassing gatekeepers and more about building a sustainable posture once the work has begun.
 - Compared with [[wiki/concepts/business/creative-entrepreneurship|Creative Entrepreneurship]], this page is narrower and more behavioral. Creative entrepreneurship covers whole career design; process over outcomes covers the daily orientation that keeps that design alive.
 - Compared with [[wiki/concepts/productivity/willpower|Willpower]], this page is less about resisting temptation moment to moment and more about choosing a long-run relationship to work, feedback, and contribution.
+- Compared with the newer Naval happiness source, Seth Godin is stronger on creative practice and contribution, while Naval is stronger on the inner emotional cost of living the path badly even when the scoreboard eventually says `won`.
 
 # Tensions / Open Questions
 
@@ -63,3 +69,4 @@ Process over outcomes is the principle that meaningful work should be organized 
 - [[wiki/concepts/productivity/effective-practice|Effective Practice]]
 - [[wiki/concepts/productivity/willpower|Willpower]]
 - [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]
+- [[wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant|These Are The 2 Paths To Happiness Naval Ravikant]]

@@ -2,7 +2,7 @@
 type: concept
 title: Mindfulness
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-04-14
 status: active
 tags:
   - concept
@@ -14,6 +14,7 @@ source_pages:
   - wiki/sources/2026-04-11-ron-siegel-evidence-based-introduction-to-mindfulness.md
   - wiki/sources/2026-04-11-judson-brewer-mindfulness-and-habit-loops.md
   - wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control.md
+  - wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more.md
 related:
   - wiki/concepts/health/mindful-curiosity.md
   - wiki/concepts/health/experiential-avoidance.md
@@ -43,6 +44,10 @@ Mindfulness is present-moment awareness practiced with acceptance, nonjudgment, 
 - The same source treats mindfulness as a response to evolved negativity bias and to the mind's tendency to resist discomfort.
 - [[wiki/sources/2026-04-11-judson-brewer-mindfulness-and-habit-loops]] contributes the more behavior-change-oriented form: mindfulness as curious investigation of cravings, urges, and reward prediction.
 - [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control]] adds a willpower-oriented use case: mindfulness helps delay reaction to temptation, tolerate craving waves, and recover self-control without shame-heavy suppression.
+- [[wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more|Naval Ravikant on Happiness, Anxiety, and More]] contributes a more radical and less technique-bound framing:
+  - meditation is widened to include philosophy, journaling, long walks, therapy, and quiet sitting
+  - the aim is not merely calm but destructive honesty about contradictions, misalignment, and self-deception
+  - thought-watching is framed as skepticism toward one's own mental narratives rather than obedience to them
 
 # Source Comparisons
 
@@ -50,6 +55,7 @@ Mindfulness is present-moment awareness practiced with acceptance, nonjudgment, 
 - Compared with [[wiki/concepts/health/stress-mindset|Stress Mindset]], mindfulness is less about reinterpreting arousal and more about changing the quality of attention brought to experience.
 - Compared with [[wiki/concepts/health/experiential-avoidance|Experiential Avoidance]], mindfulness is the counter-practice while experiential avoidance is the maladaptive process being interrupted.
 - Compared with [[wiki/concepts/productivity/willpower|Willpower]], mindfulness is not the whole self-control system but one of the clearest ways to stop urges from turning immediately into behavior.
+- Compared with [[wiki/concepts/health/overthinking|Overthinking]], mindfulness is the more stable attention stance while overthinking names the loop that inward attention can either expose or accidentally feed.
 
 # Tensions / Open Questions
 
@@ -57,6 +63,7 @@ Mindfulness is present-moment awareness practiced with acceptance, nonjudgment, 
 - Mindfulness can be oversold when its benefits are detached from dose, fit, teacher quality, and the need for complementary treatment.
 - The vault still needs more material on adverse reactions, trauma sensitivity, and who may need a different entry point than direct inward attention.
 - The newer Kelly source adds another tension: mindfulness is often recruited in the service of self-control, but that can become covert self-suppression if curiosity and self-compassion drop out.
+- The Naval source adds a different tension: framing meditation as life-reorganizing truth exposure is powerful, but it risks collapsing distinct practices such as contemplative training, philosophy reading, therapy, and psychedelic work into one bucket.
 
 # Related Pages
 
@@ -73,3 +80,4 @@ Mindfulness is present-moment awareness practiced with acceptance, nonjudgment, 
 - [[wiki/sources/2026-04-11-ron-siegel-evidence-based-introduction-to-mindfulness|Ron Siegel Evidence-Based Introduction to Mindfulness]]
 - [[wiki/sources/2026-04-11-judson-brewer-mindfulness-and-habit-loops|Judson Brewer Mindfulness and Habit Loops]]
 - [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control|Kelly McGonigal Willpower and Self-Control]]
+- [[wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more|Naval Ravikant on Happiness, Anxiety, and More]]

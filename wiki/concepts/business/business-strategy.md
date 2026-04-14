@@ -34,9 +34,11 @@ related:
   - wiki/concepts/business/strategic-quitting.md
   - wiki/concepts/business/success-metrics.md
   - wiki/concepts/business/jobs-to-be-done.md
+  - wiki/concepts/business/backward-induction.md
   - wiki/concepts/business/blue-ocean-strategy.md
   - wiki/concepts/business/value-innovation.md
   - wiki/concepts/business/errc-framework.md
+  - wiki/concepts/business/game-theory.md
   - wiki/concepts/business/innovation-accounting.md
   - wiki/concepts/business/brand-stewardship.md
   - wiki/concepts/business/paradigm-shifts.md
@@ -52,6 +54,7 @@ related:
   - wiki/syntheses/business/iger-strategy-framework.md
   - wiki/syntheses/business/clayton-christensen-growth-framework.md
   - wiki/syntheses/business/blue-ocean-strategy-framework.md
+  - wiki/syntheses/business/game-theory-cooperation-and-competition-framework.md
   - wiki/syntheses/business/simon-sinek-success-metrics-framework.md
   - wiki/syntheses/business/seth-godin-strategy-framework.md
   - wiki/syntheses/business/schultz-values-driven-leadership-framework.md
@@ -83,6 +86,14 @@ Business strategy is the deliberate selection of a few priorities that determine
   - some categories are structurally unattractive because competition is too direct and too crowded
   - strategy can improve by studying non-customers rather than only current customers and rivals
   - the aim can be to create uncontested space through `value innovation` rather than to optimize the same industry value curve
+- The current game-theory source adds an interdependence layer:
+  - some strategic problems are not mainly about internal analysis quality but about payoff structures among multiple actors
+  - this clarifies why locally rational moves can still lock firms or negotiators into collectively worse outcomes
+  - it also adds a coalition-design question: when cooperation is possible, strategy may require explicit allocation logic rather than vague appeals to teamwork
+- The Yale game-theory lecture adds a timing layer:
+  - some strategic choices are mostly about when to act rather than what to do
+  - product launches, market entries, and breakaway-style moves can fail by moving too early as much as by moving in the wrong direction
+  - backward induction sharpens this by forcing leaders to reason from known endpoints rather than defaulting to proactive action for its own sake
 - That same source also adds a redesign mechanism:
   - the `eliminate-reduce-raise-create` grid forces strategy to question which features, norms, and costs are actually necessary
   - this strengthens the vault's current strategy branch by making subtraction part of category design, not just portfolio focus
@@ -125,6 +136,8 @@ Business strategy is the deliberate selection of a few priorities that determine
 - Schultz is strongest on values-aware business strategy: focus, economic fluency, and offensive self-cannibalization keep a company from drifting.
 - Christensen is strongest on growth causality: which kinds of innovation actually create new markets, why incumbents miss them, and how internal metrics can quietly reward the wrong portfolio.
 - Blue Ocean is strongest on category redesign: it shows how a firm can escape crowded comparison by rebuilding the offer around non-customer barriers, value innovation, and a different value curve.
+- The game-theory source is strongest on incentive structure: it explains the difference between individually rational, collectively desirable, and equilibrium-stable outcomes, plus the fairness problem that appears once coalitions form.
+- The Yale lecture is strongest on sequential timing logic: it shows how dominance and backward induction can separate robust waiting rules from more assumption-sensitive endpoint moves.
 - Ries is strongest on strategy under uncertainty: define the venture by novelty plus uncertainty, then use innovation accounting so strategic bets are judged by learning rather than by mature-business optics.
 - Simon Sinek is strongest on incomplete scoreboards: a strategy's real logic is exposed by what the institution rewards, not only by what it says it values.
 - Rory Sutherland is strongest on moving constraints: strategy fails when teams optimize what is visible or fashionable instead of the real bottleneck, which may be cognitive availability as much as physical throughput.
@@ -157,6 +170,8 @@ Business strategy is the deliberate selection of a few priorities that determine
 - The D8 source adds a governance tension: platform control may improve consistency and safety, but the branch still needs stronger evidence on when such control protects users versus when it mainly protects the platform owner.
 - The strongest open question is where the boundary lies between hygiene and true strategic differentiation: which improvements merely make a company competent, and which ones actually change market choice?
 - Blue Ocean sharpens a neighboring question: when does a category-creation thesis reflect real demand redesign, and when is it just a flattering story pasted onto ordinary differentiation?
+- The game-theory source sharpens a related question: when is a strategic problem best solved by choosing better, and when is it only solvable by redesigning incentives, enforcement, or allocation rules?
+- The Yale lecture sharpens a neighboring question: when is premature action mostly a courage story masking a timing mistake?
 - The Rory source sharpens a related question: how should leaders decide whether a growth problem is caused by product weakness, weak awareness, poor distribution, internal process friction, or some other hidden bottleneck?
 - The newer Rory source adds a neighboring question: how should leaders decide whether a low-measured touchpoint is strategically unimportant or merely trapped in a slow-feedback domain where the value is compounding invisibly?
 
@@ -168,10 +183,12 @@ Business strategy is the deliberate selection of a few priorities that determine
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/concepts/business/strategic-quitting|Strategic Quitting]]
 - [[wiki/concepts/business/success-metrics|Success Metrics]]
+- [[wiki/concepts/business/backward-induction|Backward Induction]]
 - [[wiki/concepts/business/jobs-to-be-done|Jobs to Be Done]]
 - [[wiki/concepts/business/blue-ocean-strategy|Blue Ocean Strategy]]
 - [[wiki/concepts/business/value-innovation|Value Innovation]]
 - [[wiki/concepts/business/errc-framework|ERRC Framework]]
+- [[wiki/concepts/business/game-theory|Game Theory]]
 - [[wiki/concepts/business/innovation-accounting|Innovation Accounting]]
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
 - [[wiki/concepts/business/paradigm-shifts|Paradigm Shifts]]
@@ -187,6 +204,7 @@ Business strategy is the deliberate selection of a few priorities that determine
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/business/clayton-christensen-growth-framework|Clayton Christensen Growth Framework]]
 - [[wiki/syntheses/business/blue-ocean-strategy-framework|Blue Ocean Strategy Framework]]
+- [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework|Game Theory Cooperation and Competition Framework]]
 - [[wiki/syntheses/business/simon-sinek-success-metrics-framework|Simon Sinek Success Metrics Framework]]
 - [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
 - [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]

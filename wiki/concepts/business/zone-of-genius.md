@@ -12,6 +12,7 @@ source_pages:
   - wiki/sources/2026-04-07-building-a-career-elaine-welteroth-masterclass-complete-summary.md
   - wiki/sources/2026-04-12-mastery-summarized-in-8-minutes-by-robert-greene.md
   - wiki/sources/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you.md
+  - wiki/sources/2026-04-14-the-4-secrets-to-be-great-at-anything.md
 related:
   - wiki/concepts/business/creative-entrepreneurship.md
   - wiki/concepts/business/career-blueprint.md
@@ -51,6 +52,10 @@ Zone of genius is the intersection of a person's passions, talents, values, and 
   - the right field still requires a craftsman mindset rather than entitlement to immediate meaning
   - satisfying work is linked to creativity, control, and impact
   - those conditions usually appear after rare skill has been built, not before
+- The newer Naval source adds a solitude-and-goal-selection layer:
+  - greatness is framed as inherently non-copyable
+  - the person has to hear their own signal clearly enough to distinguish authentic aims from `booby prizes`
+  - solitude, journaling, walking, and no-input reflection are treated as methods for recovering that signal beneath social noise
 
 # Tensions / Open Questions
 
@@ -58,6 +63,7 @@ Zone of genius is the intersection of a person's passions, talents, values, and 
 - Work that aligns with genius may still require plenty of unglamorous support tasks outside the sweet spot.
 - Greene's `life's task` language can overstate destiny if it is interpreted too literally rather than as a recurring pattern of attraction and aptitude.
 - Newport adds the opposite failure mode: treating fit as irrelevant and building leverage in any field that rewards effort may produce success without deeper sustainability.
+- The newer Naval source adds another tension: anti-prescription language can clarify originality, but if overstated it can become a flattering excuse to ignore craft, coaching, or useful structure.
 
 # Related Pages
 
@@ -69,3 +75,4 @@ Zone of genius is the intersection of a person's passions, talents, values, and 
 - [[wiki/syntheses/business/cal-newport-career-capital-framework|Cal Newport Career Capital Framework]]
 - [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]
 - [[wiki/syntheses/productivity/robert-greene-mastery-framework|Robert Greene Mastery Framework]]
+- [[wiki/sources/2026-04-14-the-4-secrets-to-be-great-at-anything|The 4 Secrets To Be Great At Anything]]

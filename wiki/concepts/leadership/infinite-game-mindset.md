@@ -2,7 +2,7 @@
 type: concept
 title: Infinite-Game Mindset
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -14,11 +14,13 @@ source_pages:
   - wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset.md
   - wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games.md
   - wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics.md
+  - wiki/sources/2026-04-13-what-game-theory-teaches-us-about-war.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/business/success-metrics.md
   - wiki/concepts/business/framework-driven-action.md
+  - wiki/concepts/business/game-theory.md
   - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/business/values-driven-companies.md
   - wiki/syntheses/business/simon-sinek-success-metrics-framework.md
@@ -53,12 +55,17 @@ An infinite-game mindset is the discipline of leading as if the real goal is to 
   - infinite-game leadership starts with responsibility for people before customers or metrics
   - goals remain useful as mile markers, but trends, ethics, and institutional health matter more than isolated wins
   - leaders should reward initiative, teamwork, and ownership even when specific outcomes fail
+- The new war source extends the same idea into geopolitics:
+  - some contests are unstable when one side plays to `win` while the other plays to endure
+  - apparent victories may only mark one actor exiting while the larger game continues with new players
+  - value-first consistency can matter strategically because allies and opponents learn what kind of actor they are dealing with over time
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/business/business-strategy|Business Strategy]], this page is less about choosing a small set of priorities and more about choosing the time horizon and moral frame inside which those priorities make sense.
 - Compared with [[wiki/concepts/business/success-metrics|Success Metrics]], this page is broader and more philosophical. Infinite-game mindset defines the horizon; success metrics asks what a scoreboard should count if it wants to match that horizon.
 - Compared with the newest Simon source, the earlier finite-games page is more conceptual, while the new one is more operational about how infinite-minded leadership should sound in feedback, hiring, daily care, and recognition.
+- Compared with the new war source, the earlier business-facing Sinek sources are cleaner and less historically specific. The war source is more provocative, more geopolitical, and stronger on quagmire, adversary replacement, and alliance trust under policy inconsistency.
 - Compared with [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]], the infinite-game mindset is a higher-order filter: it asks whether the framework is oriented toward enduring health and purpose or only toward immediate advantage.
 - Compared with [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]], this page is more strategic and temporal. Trust-based collaboration explains how people work together; the infinite-game mindset explains what kind of future the collaboration is trying to protect.
 - Compared with [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]], this page is broader than values language alone. It includes values, but also legacy, endurance, self-competition, and resistance to arbitrary win conditions.
@@ -70,6 +77,7 @@ An infinite-game mindset is the discipline of leading as if the real goal is to 
 - Some environments genuinely do require aggressive short-horizon decisions, so the challenge is integration rather than total rejection of finite tactics.
 - A cause that is too vague can become decorative language instead of an operational standard.
 - The newest Simon source adds another tension: `people first` language can become sentimental if leaders do not also define standards, accountability, and the practical structures that let care improve performance rather than replace it.
+- The war source adds a geopolitical caution: the infinite-game lens is clarifying, but it can also simplify plural conflicts into one grand narrative and understate the role of deterrence, institutional detail, and alliance complexity.
 - The main open question is how to tell whether a company's stated purpose is a real decision filter or a branding layer pasted over finite incentives.
 
 # Related Pages
@@ -80,8 +88,10 @@ An infinite-game mindset is the discipline of leading as if the real goal is to 
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/business/success-metrics|Success Metrics]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/business/game-theory|Game Theory]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
 - [[wiki/syntheses/business/simon-sinek-success-metrics-framework|Simon Sinek Success Metrics Framework]]
 - [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
+- [[wiki/sources/2026-04-13-what-game-theory-teaches-us-about-war|What Game Theory Teaches Us About War]]

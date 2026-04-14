@@ -13,6 +13,7 @@ tags:
   - preparation
 source_pages:
   - wiki/sources/2026-04-13-how-to-think-on-your-feet.md
+  - wiki/sources/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition.md
   - wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams.md
   - wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques.md
   - wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams.md
@@ -47,6 +48,12 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 - The same source adds a point-first standard: get to the main statement quickly, then support it instead of burying it inside rambling context.
 - It further adds a question-handling rule: broad prompts often deserve clarification before answer construction begins.
 - The source's strongest practical claim is that many `unexpected` questions are actually predictable if the speaker prepared for the likely follow-up categories in advance.
+- [[wiki/sources/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition|How to Think On Your Feet (Harvey Specter Edition)]] adds a narrower but useful pressure-test layer:
+  - some live prompts are partly tests of composure rather than sincere information requests
+  - expectation management matters because anticipated pressure produces less visible shock
+  - upright posture, steady eye contact, and non-rattled facial control can buy cognitive time before the verbal answer fully forms
+  - in mildly adversarial settings, a playful non-literal reply can sometimes protect composure better than a literal defensive answer
+  - the source is most useful where the social job is to stay unshaken without becoming humorless or wounded
 - [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams|Think Faster, Talk Smarter with Matt Abrahams]] strengthens the branch with a fuller six-part method covering anxiety regulation, anti-perfectionism, opportunity framing, deeper listening, reusable response structures, and outcome-focused brevity.
 - That source adds several durable named tools the branch previously lacked:
   - `maximize mediocrity` for lowering self-evaluative pressure
@@ -93,6 +100,7 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 # Source Comparisons
 
 - Compared with [[wiki/concepts/communication/effective-communication|Effective Communication]], this concept is narrower and more performance-situational. Effective communication covers the broader craft of helping people understand; thinking on your feet focuses on live-response competence under scrutiny.
+- Compared with [[wiki/sources/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition|How to Think On Your Feet (Harvey Specter Edition)]], the Kent and Abrahams sources are more clarity- and service-oriented, while the Harvey-style source is more concerned with handling composure tests, social bait, and mildly adversarial pressure without visibly folding.
 - Compared with [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]], this page is less about influencing the other person's thinking and more about structuring your own answer path. The overlap appears when clarifying a vague question before answering it.
 - Compared with [[wiki/concepts/communication/charismatic-presence|Charismatic Presence]], this concept is more cognitive and structural. Presence helps the answer land; thinking on your feet explains how to construct the answer without losing the thread. The newer Abrahams source narrows the overlap by treating presence as only one layer inside a larger response system.
 - The new body-language source narrows that gap further by showing how nonverbal steadiness supports retrieval, credibility, and audience comfort during live speaking itself, not just in broader social presence.
@@ -115,6 +123,8 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 - The new body-language source improves the branch's physical mechanics, but the vault still lacks stronger evidence on which nonverbal cues actually matter most versus merely feeling intuitive.
 - The new core-message source improves recall, but the branch still needs a cleaner map of which mnemonics are actually worth keeping as canonical versus which are just presentation wrappers for the same underlying ideas.
 - The new adrenaline source improves the branch's acceptance logic, but the vault still needs stronger evidence on where ordinary public-speaking adrenaline ends and clinically significant panic begins.
+- The Harvey-style source adds a useful pressure-test distinction, but it also sharpens a risk: the branch can be pulled toward style-first status performance unless the vault keeps clarity, ethics, and context boundaries explicit.
+- The branch still needs a cleaner boundary for when a playful non-literal answer is tactically smart versus when it becomes evasive, flippant, or unsafe.
 
 # Related Pages
 
@@ -124,6 +134,7 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/syntheses/communication/thinking-on-your-feet-framework|Thinking on Your Feet Framework]]
 - [[wiki/sources/2026-04-13-how-to-think-on-your-feet|How to Think On Your Feet]]
+- [[wiki/sources/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition|How to Think On Your Feet (Harvey Specter Edition)]]
 - [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams|Think Faster, Talk Smarter with Matt Abrahams]]
 - [[wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques|Think Fast, Talk Smart Communication Techniques]]
 - [[wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams|Speaking Up Without Freaking Out Matt Abrahams]]

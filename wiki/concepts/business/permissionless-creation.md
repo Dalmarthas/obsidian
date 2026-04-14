@@ -2,7 +2,7 @@
 type: concept
 title: Permissionless Creation
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-13
 status: active
 tags:
   - concept
@@ -21,11 +21,13 @@ related:
   - wiki/concepts/business/creative-entrepreneurship.md
   - wiki/concepts/business/career-blueprint.md
   - wiki/concepts/business/framework-driven-action.md
+  - wiki/concepts/business/specific-knowledge.md
   - wiki/concepts/business/process-over-outcomes.md
   - wiki/concepts/business/smallest-viable-audience.md
   - wiki/concepts/business/zone-of-genius.md
   - wiki/concepts/business/financial-confidence.md
   - wiki/syntheses/business/casey-neistat-permissionless-creation-framework.md
+  - wiki/syntheses/business/naval-ravikant-wealth-framework.md
   - wiki/syntheses/business/seth-godin-remarkable-marketing-framework.md
 ---
 
@@ -75,6 +77,10 @@ Permissionless creation is the practice of starting, publishing, and iterating c
 - The newer Seth layer adds a second risk: if public action is secretly powered by scoreboard craving, `permissionless` behavior can still become approval-seeking in disguise.
 - The newest Seth layer adds a third risk: the work may be bravely shipped yet still fail to spread if it does not give a connected group a reason to coordinate, identify, and share.
 - The newest Seth advice layer adds a fourth risk: anti-gatekeeper rhetoric can sound empowering while becoming reckless if it treats every institution as irrelevant rather than distinguishing outdated approval dependencies from genuinely useful support.
+- The Naval source adds a market-scaling layer:
+  - shipping without permission is not enough by itself
+  - the work gets economically stronger when it expresses genuine [[wiki/concepts/business/specific-knowledge.md|specific knowledge]]
+  - code and media can then turn permissionless output into scalable leverage rather than one-off expression only
 
 # Related Pages
 
@@ -83,9 +89,11 @@ Permissionless creation is the practice of starting, publishing, and iterating c
 - [[wiki/concepts/business/creative-entrepreneurship|Creative Entrepreneurship]]
 - [[wiki/concepts/business/career-blueprint|Career Blueprint]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
+- [[wiki/concepts/business/specific-knowledge.md|Specific Knowledge]]
 - [[wiki/concepts/business/process-over-outcomes|Process Over Outcomes]]
 - [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]]
 - [[wiki/concepts/business/zone-of-genius|Zone of Genius]]
 - [[wiki/concepts/business/financial-confidence|Financial Confidence]]
 - [[wiki/syntheses/business/casey-neistat-permissionless-creation-framework|Casey Neistat Permissionless Creation Framework]]
+- [[wiki/syntheses/business/naval-ravikant-wealth-framework|Naval Ravikant Wealth Framework]]
 - [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]

@@ -13,6 +13,7 @@ tags:
 question: What durable framework does the current vault support for responding clearly under live speaking pressure?
 basis:
   - wiki/sources/2026-04-13-how-to-think-on-your-feet.md
+  - wiki/sources/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition.md
   - wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams.md
   - wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques.md
   - wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams.md
@@ -107,6 +108,18 @@ The current branch supports a nine-part framework:
 23. Use acceptance language that lowers emergency framing.
    `And it's okay` becomes a compact intervention here, not as fake positivity but as a way to label discomfort without telling the body that discomfort equals danger.
 
+24. Anticipate that some prompts are pressure tests, not pure information requests.
+   The new Harvey-style source adds a narrower but useful distinction: sometimes the live task is partly social and regulatory before it becomes informational.
+
+25. Let body language buy time before wording catches up.
+   Upright posture, steady eye contact, and non-rattled facial control do not solve the answer, but they can keep the speaker from looking defeated while the answer is still forming.
+
+26. In mildly adversarial settings, answer the pressure without surrendering to it.
+   A fully literal reply can sometimes concede the other person's baited frame. In the right context, a light non-defensive or playful reply can show you are still present and unshaken.
+
+27. Keep this tactic on a short leash.
+   The same source is useful precisely because it is narrow. Not every question is a baited frame test, and not every environment rewards wit. The broader branch still prioritizes clarity, service, and actual substance.
+
 # Basis
 
 - Main sources: [[wiki/sources/2026-04-13-how-to-think-on-your-feet|How to Think On Your Feet]], [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams|Think Faster, Talk Smarter with Matt Abrahams]], [[wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques|Think Fast, Talk Smart Communication Techniques]], [[wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams|Speaking Up Without Freaking Out Matt Abrahams]], [[wiki/sources/2026-04-13-think-fast-talk-smart-matt-abrahams|Think Fast Talk Smart Matt Abrahams]], [[wiki/sources/2026-04-13-no-freaking-speaking-managing-public-speaking-anxiety|No Freaking Speaking Managing Public Speaking Anxiety]], [[wiki/sources/2026-04-13-effective-body-language-for-public-speaking|Effective Body Language for Public Speaking]], [[wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message|Think Faster Talk Smarter by Matt Abrahams Core Message]], [[wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words|How to Manage Adrenaline in Public Speaking 3 Magic Words]]
@@ -117,6 +130,7 @@ The current branch supports a nine-part framework:
 - Compared with [[wiki/syntheses/communication/george-stephanopoulos-communication-framework|George Stephanopoulos Communication Framework]], this synthesis is narrower and more spontaneous-speaking oriented. Stephanopoulos is stronger on interviewing, clarity, and silence under pressure; this framework is now stronger on anxiety handling, anti-perfectionism, live listening, and on-the-fly response structures.
 - Compared with [[wiki/concepts/communication/charismatic-presence|Charismatic Presence]], this framework is less about felt warmth and composure and more about retrieval, sequencing, and live answer construction.
 - Compared with [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]], this branch uses clarification as a self-stabilizing response tool rather than as a negotiation tactic.
+- Compared with the new Harvey-style source, the rest of the branch is more service- and clarity-oriented, while that source is strongest on one special case: handling mildly adversarial social pressure without visibly becoming rigid, wounded, or literal-minded.
 - Compared with the older Abrahams-adjacent source pages, the newest source is strongest on situational adaptation: it adds guidance for hostile questions, remote audiences, cross-cultural listening, humor risk, and lightly adversarial interviews.
 - Compared with the newest anxiety-focused source, the earlier Abrahams pages were stronger on spontaneous-response methodology, while this source is stronger on the underlying fear mechanics, anti-blanking support, and the ethical importance of not transmitting anxiety to the room.
 - Compared with the newest audience-context source, the earlier branch was stronger on internal regulation and response execution, while this source is stronger on message design from the outside in: audience need, expectation management, contextual adaptation, and structure choice.
@@ -132,6 +146,7 @@ The current branch supports a nine-part framework:
 - More evidence is needed on when improvisation training helps versus when it rewards stylish rambling.
 - The branch now has stronger mindset tools, but still needs more on high-conflict or adversarial environments where `yes, and` or opportunity framing may be insufficient.
 - The newest source partly addresses hostile settings, but the vault still lacks stronger evidence on when audience-comfort strategy should yield to harder confrontation or boundary enforcement.
+- The Harvey-style source improves the branch's handling of composure tests, but the vault still lacks a cleaner decision rule for when a playful non-literal response is smart, when a direct answer is better, and when the right move is explicit boundary-setting.
 - The new anxiety source improves the diagnostic layer, but the vault still lacks stronger material on clinical thresholds, trauma history, and when speaking difficulties are not well solved by ordinary skills training.
 - The audience-context source helps with adaptation, but the vault still lacks stronger guardrails for when tailoring to audience need starts diluting truth, rigor, or necessary challenge.
 - The newest diagnostic source improves intervention matching, but it still names research without enough specificity to make the evidence layer robust.
@@ -148,6 +163,7 @@ The current branch supports a nine-part framework:
 - [[wiki/concepts/communication/charismatic-presence|Charismatic Presence]]
 - [[wiki/syntheses/communication/george-stephanopoulos-communication-framework|George Stephanopoulos Communication Framework]]
 - [[wiki/sources/2026-04-13-how-to-think-on-your-feet|How to Think On Your Feet]]
+- [[wiki/sources/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition|How to Think On Your Feet (Harvey Specter Edition)]]
 - [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams|Think Faster, Talk Smarter with Matt Abrahams]]
 - [[wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques|Think Fast, Talk Smart Communication Techniques]]
 - [[wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams|Speaking Up Without Freaking Out Matt Abrahams]]

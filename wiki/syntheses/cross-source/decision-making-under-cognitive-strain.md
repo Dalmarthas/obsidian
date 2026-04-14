@@ -15,15 +15,18 @@ basis:
   - wiki/sources/2026-04-10-daniel-kahneman-two-systems-thinking.md
   - wiki/sources/2026-04-13-thinking-fast-and-slow-by-daniel-kahneman.md
   - wiki/sources/2026-04-10-daniel-levitin-stress-premortems-and-decision-hygiene.md
+  - wiki/sources/2026-04-13-how-decision-making-is-actually-science-game-theory-explained.md
   - wiki/concepts/others/two-systems-thinking.md
   - wiki/concepts/others/expert-intuition.md
   - wiki/concepts/others/mere-exposure-effect.md
   - wiki/concepts/others/status-quo-bias.md
   - wiki/concepts/others/wysiati.md
   - wiki/concepts/health/premortem.md
+  - wiki/concepts/business/game-theory.md
 related:
   - wiki/entities/daniel-kahneman.md
   - wiki/entities/daniel-levitin.md
+  - wiki/concepts/business/shapley-value.md
   - wiki/syntheses/health/daniel-levitin-decision-hygiene-framework.md
 ---
 
@@ -53,24 +56,31 @@ Together, the current Kahneman and Levitin sources produce a six-part decision m
 6. Audit familiarity, defaults, and missing data explicitly.
    The newer Kahneman source sharpens the model by naming three fast-thinking traps worth checking directly: am I trusting familiarity, defending the status quo because losses loom larger, or treating visible evidence as the whole picture?
 
+7. Ask whether the problem is inside one mind or between multiple actors.
+   The new game-theory source adds a boundary condition to the whole synthesis: some bad outcomes are not mainly failures of cognition under strain, but stable results of interdependent incentives. In those cases, better individual thinking helps less than redesigning the game, coordination rule, or fairness logic.
+
 # Basis
 
 - Kahneman contributes the architecture problem: fast cognition is powerful, necessary, and systematically bias-prone.
 - The newer Kahneman source also contributes a more operational bias-check layer through mere exposure, status quo bias, and WYSIATI.
 - Levitin contributes the procedural answer: protect judgment before crisis through premortems, externalized systems, and concrete risk questions.
+- The game-theory source contributes an interdependence warning: even unbiased, deliberate actors can still end up in bad equilibria if the payoff structure rewards defection or hides fairness assumptions.
 - Canonical concepts: [[wiki/concepts/others/two-systems-thinking|Two-Systems Thinking]], [[wiki/concepts/others/expert-intuition|Expert Intuition]], [[wiki/concepts/others/mere-exposure-effect|Mere-Exposure Effect]], [[wiki/concepts/others/status-quo-bias|Status Quo Bias]], [[wiki/concepts/others/wysiati|WYSIATI]], [[wiki/concepts/health/premortem|Premortem]]
+- Added structural complement: [[wiki/concepts/business/game-theory|Game Theory]], [[wiki/concepts/business/shapley-value|Shapley Value]]
 
 # Comparisons
 
 - Compared with [[wiki/syntheses/health/daniel-levitin-decision-hygiene-framework|Daniel Levitin Decision Hygiene Framework]], this synthesis explains more clearly why those procedures are needed: they compensate for predictable cognitive failure modes, not only for generic stress.
 - Compared with [[wiki/concepts/health/stress-mindset|Stress Mindset]], this synthesis is less about interpreting arousal constructively and more about preventing reasoning errors when arousal, confidence, or novelty distort judgment.
+- Compared with [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework|Game Theory Cooperation and Competition Framework]], this synthesis remains more psychological than strategic. One addresses how minds fail; the other addresses how incentive structures trap even competent minds.
 - Kahneman is stronger on diagnosis of judgment failure; Levitin is stronger on everyday preventive design.
 
 # Gaps
 
 - The current branch still needs stronger overlap with forecasting, checklists, aviation or surgery-style error reduction, and evidence-based debiasing methods.
+- It also now needs stronger sources on repeated games, trust, coordination mechanisms, and institutional design for escaping bad equilibria.
 - Both current sources are secondary summaries, so later ingest should test the practical claims against stronger primary material.
-- The vault still lacks a clearer model for when fast heuristics remain good enough despite imperfect evidence.
+- The vault still lacks a clearer model for when fast heuristics remain good enough despite imperfect evidence and when the real issue is not heuristics at all but strategic interdependence.
 
 # Related Pages
 
@@ -82,6 +92,10 @@ Together, the current Kahneman and Levitin sources produce a six-part decision m
 - [[wiki/concepts/others/status-quo-bias|Status Quo Bias]]
 - [[wiki/concepts/others/wysiati|WYSIATI]]
 - [[wiki/concepts/health/premortem|Premortem]]
+- [[wiki/concepts/business/game-theory|Game Theory]]
+- [[wiki/concepts/business/shapley-value|Shapley Value]]
 - [[wiki/syntheses/health/daniel-levitin-decision-hygiene-framework|Daniel Levitin Decision Hygiene Framework]]
+- [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework|Game Theory Cooperation and Competition Framework]]
 - [[wiki/sources/2026-04-10-daniel-kahneman-two-systems-thinking|Daniel Kahneman Two-Systems Thinking]]
 - [[wiki/sources/2026-04-13-thinking-fast-and-slow-by-daniel-kahneman|Thinking, Fast and Slow by Daniel Kahneman]]
+- [[wiki/sources/2026-04-13-how-decision-making-is-actually-science-game-theory-explained|How Decision Making is Actually Science: Game Theory Explained]]

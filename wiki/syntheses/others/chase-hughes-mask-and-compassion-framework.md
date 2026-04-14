@@ -2,7 +2,7 @@
 type: synthesis
 title: Chase Hughes Mask and Compassion Framework
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-14
 status: active
 tags:
   - synthesis
@@ -13,6 +13,8 @@ question: What model of masks, projection, and compassion does the current Chase
 basis:
   - wiki/sources/2026-04-09-chase-hughes-orion-principle-and-mask-behavior.md
   - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
+  - wiki/sources/2026-04-14-see-their-core-shame-instantly-chase-hughes.md
+  - wiki/concepts/others/core-shame.md
   - wiki/concepts/others/mask-behavior.md
   - wiki/concepts/others/inversion-patterns.md
   - wiki/concepts/others/projection-as-self-signal.md
@@ -30,7 +32,7 @@ What model of masks, projection, and compassion does the current Chase Hughes so
 
 # Answer
 
-The source adds a five-part behavioral-reading model:
+The source adds a seven-part behavioral-reading model:
 
 1. Start by assuming that loud persona can be armor.
    Visible traits like aggression, overhelpfulness, compulsive humor, or relentless striving may be protective performances rather than straightforward self-revelation.
@@ -50,10 +52,13 @@ The source adds a five-part behavioral-reading model:
 6. Trace the script further back.
    The newer Chase Hughes source adds a developmental origin layer: many adult masks and overreactions are framed as repeated solutions to childhood safety, belonging, and reward problems rather than as random personality noise.
 
+7. Ask what identity exposure feels unsurvivable.
+   The newest shame-centered source gives the branch a cleaner center of gravity: visible defense is organized around core shame. Repeated insults, rigid personas, and contempt words are treated as clues to the exact judgment category the person is defending against.
+
 # Basis
 
-- Main source: [[wiki/sources/2026-04-09-chase-hughes-orion-principle-and-mask-behavior|Chase Hughes Orion Principle and Mask Behavior]]
-- Canonical concepts: [[wiki/concepts/others/mask-behavior|Mask Behavior]], [[wiki/concepts/others/inversion-patterns|Inversion Patterns]], [[wiki/concepts/others/projection-as-self-signal|Projection as Self-Signal]], [[wiki/concepts/others/orion-principle|Orion Principle]]
+- Main sources: [[wiki/sources/2026-04-09-chase-hughes-orion-principle-and-mask-behavior|Chase Hughes Orion Principle and Mask Behavior]], [[wiki/sources/2026-04-14-see-their-core-shame-instantly-chase-hughes|See Their Core Shame Instantly]]
+- Canonical concepts: [[wiki/concepts/others/core-shame|Core Shame]], [[wiki/concepts/others/mask-behavior|Mask Behavior]], [[wiki/concepts/others/inversion-patterns|Inversion Patterns]], [[wiki/concepts/others/projection-as-self-signal|Projection as Self-Signal]], [[wiki/concepts/others/orion-principle|Orion Principle]]
 
 # Comparisons
 
@@ -61,19 +66,23 @@ The source adds a five-part behavioral-reading model:
 - Compared with the vault's broader self-honesty language in [[wiki/concepts/creativity/creative-integrity|Creative Integrity]], this branch is more psychologically diagnostic and more interpersonal. It asks what persona is hiding, not only whether a person is being true to their work.
 - Compared with stronger research-grounded frameworks the vault may ingest later, this branch should currently be treated as a sharp heuristic rather than settled psychology.
 - The newer Chase Hughes source makes the branch less static by adding childhood-contract logic: the mask is not only a current shield, but also an old survival bargain still running in adult form.
+- The newest source makes the branch less vague about `hurt underneath` by organizing it around shame categories, identity threat, and insults as clues to defended self-concepts.
 
 # Gaps
 
 - The branch is still built from one secondary summary rather than a richer cluster of psychology sources.
 - The vault still needs better material on shame, defense mechanisms, projection, and clinical caution.
 - The ethical line between compassionate understanding and manipulative people-reading needs stronger support from future sources.
+- The new source improves the shame layer, but it also increases the temptation to overclaim fast personality readings from sparse cues.
 
 # Related Pages
 
 - [[wiki/entities/chase-hughes|Chase Hughes]]
 - [[wiki/concepts/others/mask-behavior|Mask Behavior]]
+- [[wiki/concepts/others/core-shame|Core Shame]]
 - [[wiki/concepts/others/inversion-patterns|Inversion Patterns]]
 - [[wiki/concepts/others/projection-as-self-signal|Projection as Self-Signal]]
 - [[wiki/concepts/others/orion-principle|Orion Principle]]
 - [[wiki/syntheses/productivity/chase-hughes-goal-programming-framework|Chase Hughes Goal Programming Framework]]
 - [[wiki/sources/2026-04-09-chase-hughes-orion-principle-and-mask-behavior|Chase Hughes Orion Principle and Mask Behavior]]
+- [[wiki/sources/2026-04-14-see-their-core-shame-instantly-chase-hughes|See Their Core Shame Instantly]]
