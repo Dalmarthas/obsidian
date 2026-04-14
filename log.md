@@ -4537,3 +4537,44 @@ Pages touched:
 - [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework]]
 - [[index]]
 - [[log]]
+
+## [2026-04-14 22:23] admin | Query routing upgrade for second-brain answers
+
+Summary: Audited the vault for readiness as a question-answering second brain. Confirmed that the wiki layer already contains substantial concept and synthesis coverage, that the raw root is currently clear, and that internal linking is broadly healthy. Updated [[AGENTS]] and [[index]] so future query work now routes through compiled concept and synthesis pages before falling back to source inventory, making life and business questions easier to answer from durable pages instead of archive scans.
+
+Pages touched:
+
+- [[AGENTS]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 22:33] query | Supporting a newly promoted lead under impostor pressure
+
+Summary: Answered a practical leadership question about how to support a newly promoted team lead with impostor syndrome by compiling a new synthesis that bridges tactical empathy, growth mindset, character-based leadership, inner excellence, trust-centered leadership, and Klopp's confidence-protective coaching logic. Added a reusable page so future coaching questions can route through a durable model instead of reconstructing the advice from adjacent branches.
+
+Pages touched:
+
+- [[wiki/syntheses/leadership/supporting-a-new-team-lead-under-impostor-pressure]]
+- [[index]]
+- [[log]]
+
+## [2026-04-14 22:33] admin | Create dedicated query-answer folder
+
+Summary: Updated the schema so durable answers created from user questions now live in `wiki/queries/` instead of being mixed into `wiki/syntheses/`. Added a dedicated `Queries` section to [[index]], noted that chat responses should use Codex-compatible absolute file links, and migrated the existing impostor-pressure answer into the new query-answer folder.
+
+Pages touched:
+
+- [[AGENTS]]
+- [[index]]
+- [[wiki/queries/supporting-a-new-team-lead-under-impostor-pressure]]
+- [[log]]
+
+## [2026-04-15 00:25] query | Three-day performance crunch plan
+
+Summary: Answered a practical high-pressure work question by compiling a query page on how to handle too many important tasks across the next three days. The resulting model combines 4DX-style priority protection, GTD-style capture and next-action clarity, peak-hour defense, signal-to-noise filtering, interval-based focus, and anti-panic performance framing.
+
+Pages touched:
+
+- [[wiki/queries/three-day-performance-crunch-plan]]
+- [[index]]
+- [[log]]

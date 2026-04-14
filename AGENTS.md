@@ -79,6 +79,8 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
   - Domain syntheses mirror the same subfolders used in `wiki/concepts/`.
   - Cross-source comparison pages go in `wiki/syntheses/cross-source/`.
   - Meta/system synthesis pages for the vault itself may remain flat at the root of `wiki/syntheses/`.
+- `wiki/queries/`: durable answers created from user questions when a query should be preserved as its own page.
+  - Query pages may stay flat at the root of `wiki/queries/` unless a deeper structure is later approved.
 
 ## Domain Folder Rules
 
@@ -369,12 +371,14 @@ Expected behavior:
 
 ### Query workflow
 
-1. Read `index.md` first.
-2. Open the most relevant wiki pages.
-3. Synthesize an answer from existing wiki content.
-4. If the answer creates durable insight, file it into `wiki/syntheses/` or update existing pages.
-5. Update `index.md` if a new durable page was created.
-6. Append to `log.md` when the result materially changes the vault.
+1. Read `index.md` first, starting with its query-routing and compiled-knowledge sections.
+2. Prefer `wiki/concepts/` and `wiki/syntheses/` as the primary answer substrate.
+3. Open the most relevant wiki pages.
+4. Use `wiki/sources/` or `raw/inbox/` only when needed to verify details, preserve disagreements, or fill gaps that the compiled pages do not yet cover.
+5. Synthesize an answer from existing wiki content.
+6. If the answer creates durable insight as a preserved answer to the user's question, file it into `wiki/queries/`. If the answer instead improves reusable cross-source knowledge, update `wiki/syntheses/`, concept pages, or entity pages as appropriate.
+7. Update `index.md` if a new durable page was created.
+8. Append to `log.md` when the result materially changes the vault.
 
 ### Lint workflow
 
@@ -405,7 +409,9 @@ If a lint pass produces durable changes, record them in `log.md`.
 ## Index Rules
 
 - `index.md` is the first navigation page to read when operating on the wiki.
+- Keep a compact `Question Routing` section near the top that points to concepts and syntheses for common life, business, health, and execution questions.
 - Organize it by content type.
+- Include a `Queries` section for durable question-answer pages stored under `wiki/queries/`.
 - Each entry should have a link and a one-line description.
 - Keep it compact enough to scan quickly.
 - Update it whenever a durable page is added or materially re-scoped.
@@ -438,5 +444,6 @@ This vault starts as a general-purpose personal second brain with a research-fri
 From now on:
 
 - Treat this vault as an LLM Wiki by default.
-- Prefer durable edits over one-off chat answers when the result would be useful later.
+- When a question answer should be preserved as its own artifact, store it under `wiki/queries/` rather than mixing it into `wiki/syntheses/`.
+- In chat responses, prefer Codex-compatible absolute markdown file links to local pages rather than Obsidian wikilinks.
 - Keep the wiki navigable for a human browsing it in Obsidian.

@@ -7,6 +7,14 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[AGENTS|AGENTS]] - Operating schema for the vault, including ingest, query, lint, and maintenance rules.
 - [[log|log]] - Append-only chronological history of important operations in the vault.
 
+## Question Routing
+
+- Life direction, career design, and work choice -> Start with [[wiki/syntheses/business/naval-ravikant-life-design-framework|Naval Ravikant Life Design Framework]], [[wiki/syntheses/business/cal-newport-career-capital-framework|Cal Newport Career Capital Framework]], [[wiki/concepts/business/specific-knowledge.md|Specific Knowledge]], and [[wiki/concepts/business/ownership-ladder|Ownership Ladder]].
+- Business strategy, niche choice, and validation -> Start with [[wiki/syntheses/business/lean-startup-validation-framework|Lean Startup Validation Framework]], [[wiki/syntheses/business/blue-ocean-strategy-framework|Blue Ocean Strategy Framework]], [[wiki/syntheses/business/founder-mode-framework|Founder Mode Framework]], and [[wiki/syntheses/business/freymvork-vybora-nishi-dlya-biznesa|Фреймворк выбора ниши для бизнеса]].
+- Execution, focus, and time management -> Start with [[wiki/syntheses/productivity/david-allen-gtd-framework|David Allen GTD Framework]], [[wiki/syntheses/productivity/attention-and-focus-framework|Attention and Focus Framework]], and [[wiki/syntheses/productivity/oliver-burkeman-four-thousand-weeks-framework|Oliver Burkeman Four Thousand Weeks Framework]].
+- Communication, negotiation, and conflict -> Start with [[wiki/syntheses/communication/conflict-frame-control-framework|Conflict Frame Control Framework]], [[wiki/syntheses/business/modern-sales-systems-framework|Modern Sales Systems Framework]], and [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]].
+- Stress, self-regulation, and mental clarity -> Start with [[wiki/syntheses/health/adhd-anxiety-management-framework|ADHD Anxiety Management Framework]], [[wiki/syntheses/productivity/kelly-mcgonigal-willpower-framework|Kelly McGonigal Willpower Framework]], and [[wiki/syntheses/health/ron-siegel-mindfulness-framework|Ron Siegel Mindfulness Framework]].
+
 ## Raw Sources
 
 - [[raw/inbox/2026-04-07-llm-wiki-idea|LLM Wiki Idea]] - The original implementation brief captured as the first raw source for this vault.
@@ -1182,10 +1190,16 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/syntheses/leadership/freymvork-upravleniya-grebenyuka|Фреймворк управления Гребенюка]] - Скомпилированная русская management-модель: от роли руководителя и систем до найма, делегирования, мотивации, контроля и обновления команды.
 - [[wiki/syntheses/leadership/freymvork-realnogo-hr-grebenyuka|Фреймворк «Реального HR» Гребенюка]] - Собранная русская HR-модель по модулям 1-3: вход, фильтр, academy-layer, адаптация, удержание, гравитация команды и стратегическая работа с хроническими проблемами.
 
+## Queries
+
+- [[wiki/queries/supporting-a-new-team-lead-under-impostor-pressure|Supporting a New Team Lead Under Impostor Pressure]] - A practical preserved answer on helping a newly promoted lead reinterpret impostor pressure through empathy, developmental language, trust evidence, service, and concrete behavioral anchors.
+- [[wiki/queries/three-day-performance-crunch-plan|Three-Day Performance Crunch Plan]] - A practical operating model for surviving a 72-hour high-stakes work crunch through closed-list prioritization, protected peak hours, visible focus blocks, and anti-panic execution.
+
 ## Folder Conventions
 
 - `raw/` - Immutable source material and attachments.
 - `wiki/` - LLM-authored summaries, concepts, entities, and syntheses.
+- `wiki/queries/` - Durable answer pages created from user questions that are worth preserving.
 - `AGENTS.md` - Schema and workflow contract.
 - `index.md` - Content-oriented catalog.
 - `log.md` - Chronological operation log.
