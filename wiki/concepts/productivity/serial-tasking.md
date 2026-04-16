@@ -2,7 +2,7 @@
 type: concept
 title: Serial Tasking
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-15
 status: active
 tags:
   - concept
@@ -13,12 +13,14 @@ tags:
 source_pages:
   - wiki/sources/2026-04-12-elon-musk-on-time-management.md
   - wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity.md
+  - wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity.md
 related:
   - wiki/concepts/productivity/signal-to-noise-ratio.md
   - wiki/concepts/productivity/peak-hours.md
   - wiki/concepts/productivity/restorative-breaks.md
   - wiki/concepts/leadership/high-performance-mindset.md
   - wiki/syntheses/productivity/elon-musk-serial-focus-framework.md
+  - wiki/syntheses/productivity/anti-productivity-myths-framework.md
 ---
 
 # What It Is
@@ -47,6 +49,10 @@ Serial tasking is the practice of giving full attention to one problem or domain
 - It also adds a reset-quality rule:
   - short breaks between domains can improve the next block if they truly clear attention
   - the same breaks can become harmful if they turn into stimulation traps or public self-sabotage
+- [[wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity]] adds a cleaner anti-myth distinction:
+  - the real contrast is macro-level multi-project responsibility versus moment-level divided attention
+  - most praise of multitasking is therefore misplaced praise for sequencing or switching tolerance
+  - the page now states more explicitly that simultaneous cognition is usually the wrong model
 
 # Source Comparisons
 
@@ -61,6 +67,7 @@ Serial tasking is the practice of giving full attention to one problem or domain
 - Fast switching between serious domains may preserve attention better than multitasking, but it can still produce superficial oversight if the blocks are too short or too reactive.
 - The current source is personality-heavy, so the branch still needs stronger evidence on which jobs and temperaments actually benefit from this style.
 - The strongest unresolved question is how much clean switching is optimal before the switching cost itself becomes the dominant problem.
+- The newer habits source adds a language problem: people often call project juggling or rapid switching `multitasking`, which can hide whether the method is actually preserving depth or merely surviving fragmentation.
 
 # Related Pages
 
@@ -68,6 +75,7 @@ Serial tasking is the practice of giving full attention to one problem or domain
 - [[wiki/concepts/productivity/peak-hours|Peak Hours]]
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
+- [[wiki/syntheses/productivity/anti-productivity-myths-framework|Anti-Productivity Myths Framework]]
 - [[wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity|The Secret to Elon Musk's Productivity]]
 - [[wiki/syntheses/productivity/elon-musk-serial-focus-framework|Elon Musk Serial Focus Framework]]
 

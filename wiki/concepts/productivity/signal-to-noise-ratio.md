@@ -2,7 +2,7 @@
 type: concept
 title: Signal-to-Noise Ratio
 created: 2026-04-12
-updated: 2026-04-14
+updated: 2026-04-15
 status: active
 tags:
   - concept
@@ -18,6 +18,7 @@ source_pages:
   - wiki/sources/2026-04-14-11-rules-for-life-genius-rules.md
   - wiki/sources/2026-04-14-44-harsh-truths-about-the-game-of-life.md
   - wiki/sources/2026-04-14-there-is-infinite-opportunity-in-the-modern-world.md
+  - wiki/sources/2026-04-15-the-optimizer-productive-but-miserable.md
 related:
   - wiki/concepts/productivity/peak-hours.md
   - wiki/concepts/productivity/strategic-underachievement.md
@@ -25,6 +26,7 @@ related:
   - wiki/concepts/productivity/trusted-external-system.md
   - wiki/concepts/productivity/workflow-redesign.md
   - wiki/concepts/productivity/future-self-prioritization.md
+  - wiki/concepts/productivity/optimization-as-avoidance.md
   - wiki/concepts/productivity/samoupravlenie.md
   - wiki/concepts/business/strategic-focus.md
   - wiki/concepts/leadership/high-performance-mindset.md
@@ -85,11 +87,16 @@ Signal-to-noise ratio is the rule of protecting a very small number of mission-c
   - inspiration is perishable, so some high-signal work should be done immediately while it is alive
   - one or two empty days or large blank blocks can be necessary for original thought rather than a luxury after `real work`
   - narrowing active desires to one main aim can increase both execution clarity and peace by reducing self-generated noise
+- [[wiki/sources/2026-04-15-the-optimizer-productive-but-miserable]] adds a motive-quality warning:
+  - some people protect signal not because they have chosen what matters, but because optimization itself has become a way to avoid emptiness, shame, or mortality fear
+  - the concept is therefore most trustworthy when the protected signal serves a meaningful end rather than scorekeeping for its own sake
+  - this sharpens the difference between disciplined focus and compulsive optimization
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/productivity/peak-hours|Peak Hours]], signal-to-noise ratio answers `what deserves protection today?` while peak hours answers `when should that protected work happen?`
 - Compared with [[wiki/concepts/productivity/strategic-underachievement|Strategic Underachievement]], signal-to-noise ratio is better at naming the important few, while strategic underachievement explains how the surrounding many must often be handled with deliberately lower standards.
+- Compared with [[wiki/concepts/productivity/optimization-as-avoidance|Optimization as Avoidance]], signal-to-noise ratio is the operational filter, while optimization-as-avoidance asks whether the whole filtering stance is being driven by fear rather than by values.
 - Compared with [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]], signal-to-noise ratio is more about selection than redesign. It filters which tasks deserve concentrated effort; workflow redesign changes how the chosen task is performed.
 - Compared with the newer Naval source, the Jobs branch is more execution-intense and output-centered, while Naval is stronger on why protecting signal matters for sanity, freedom, and equanimity rather than only for throughput.
 - Compared with [[wiki/concepts/productivity/trusted-external-system|Trusted External System]], this page is more selective and day-level. Signal-to-noise ratio decides what should be foregrounded now; a trusted external system keeps everything else from cluttering attention while remaining retrievable and reviewable.
@@ -113,11 +120,13 @@ Signal-to-noise ratio is the rule of protecting a very small number of mission-c
 - The Naval source adds a neighboring risk: `default no` and anti-calendar rhetoric can protect life quality, but copied too literally they can become privilege blindness or avoidance of legitimate duty.
 - The newer opportunity source sharpens the same danger in another form: `choose your problems` is liberating for reactivity, but it can become denial if used against concrete obligations, structural hardship, or real interdependence.
 - The newest rules source adds another tension: protecting inspiration and blank time is useful, but without stronger routing rules it can become mood-driven scheduling or rationalized avoidance of slow, necessary work.
+- The optimizer source adds a quieter but broader risk: a person may identify and defend `signal` brilliantly while still building a life around avoidance, scoreboards, or fear of wasted time rather than around actual fulfillment.
 
 # Related Pages
 
 - [[wiki/concepts/productivity/peak-hours|Peak Hours]]
 - [[wiki/concepts/productivity/strategic-underachievement|Strategic Underachievement]]
+- [[wiki/concepts/productivity/optimization-as-avoidance|Optimization as Avoidance]]
 - [[wiki/concepts/productivity/trusted-external-system|Trusted External System]]
 - [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]

@@ -2,7 +2,7 @@
 type: concept
 title: Restorative Breaks
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-15
 status: active
 tags:
   - concept
@@ -18,10 +18,12 @@ source_pages:
   - wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine.md
   - wiki/sources/2026-04-12-the-secret-to-elon-musks-productivity.md
   - wiki/sources/2026-04-13-how-to-improve-your-attention-and-focus.md
+  - wiki/sources/2026-04-15-how-to-defuse-procrastination-and-be-productive.md
 related:
   - wiki/concepts/productivity/calibrated-challenge.md
   - wiki/concepts/leadership/buoyancy.md
   - wiki/concepts/productivity/dopamine-regulation.md
+  - wiki/concepts/productivity/procrastination.md
   - wiki/concepts/productivity/samoupravlenie.md
   - wiki/concepts/productivity/focused-and-diffuse-learning-modes.md
   - wiki/syntheses/productivity/daniel-pink-sustainable-productivity-framework.md
@@ -63,6 +65,7 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - The newer dopamine source sharpens the distinction between restoration and stimulation: not every pleasurable pause restores, and some quick hits actively worsen the next work block.
 - The Oakley source sharpens a different distinction: not every break is merely a pause in work, because some breaks continue the learning process indirectly through integration and recombination.
 - The Elon Musk source sharpens a different distinction: not every break is for recovery depth or diffuse insight, because some pauses are tactical resets used to switch domains cleanly without dragging residual attention forward.
+- Compared with [[wiki/concepts/productivity/procrastination|Procrastination]], restorative breaks are intentional resets that support renewed contact with the work, while procrastination often uses movement or pause to avoid renewed contact.
 - The new Huberman-Groh focus source adds an interval-attention layer:
   - breaks can preserve acetylcholine-dependent spotlighting rather than merely provide generic refreshment
   - some pauses are valuable because they let the next deep-focus bout remain high quality
@@ -71,6 +74,10 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
   - changing seats, rooms, or environments can be a productive reset rather than a full exit from the problem
   - movement can help ideas continue to process in the background
   - some `breaks` therefore restore not by stopping cognition but by changing how cognition is carried
+- [[wiki/sources/2026-04-15-how-to-defuse-procrastination-and-be-productive]] sharpens the reset logic in a narrower procrastination context:
+  - walks and room changes can break a stuck internal fight between work and distraction
+  - the practical function is not only energy recovery or diffuse insight, but clearing cramped working-memory contents
+  - this makes some breaks valuable because they widen the visible action set again
 
 # Tensions / Open Questions
 
@@ -81,12 +88,14 @@ Restorative breaks are deliberate pauses designed to renew attention, energy, an
 - The Peterson routine source adds a more tactical question: when is a short nap genuinely restorative, and when is it a sign that the broader sleep and workload system is already badly mis-sized?
 - The Elon Musk source adds a neighboring risk: a `palette cleanser` can preserve performance when it genuinely resets attention, but it can also become a new source of stimulation, distraction, or external fallout.
 - The new focus source adds another ambiguity: interval breaks may help total output, but the branch still needs a sharper line between adaptive resets and avoidance disguised as `marination`.
+- The newer procrastination source makes that boundary more explicit but does not fully solve it: a doorway reset is useful only if it widens action and leads back into meaningful work.
 
 # Related Pages
 
 - [[wiki/concepts/leadership/buoyancy|Buoyancy]]
 - [[wiki/concepts/productivity/calibrated-challenge|Calibrated Challenge]]
 - [[wiki/concepts/productivity/dopamine-regulation|Dopamine Regulation]]
+- [[wiki/concepts/productivity/procrastination|Procrastination]]
 - [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
 - [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]]
 - [[wiki/syntheses/productivity/attention-and-focus-framework|Attention and Focus Framework]]

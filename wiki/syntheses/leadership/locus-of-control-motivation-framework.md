@@ -2,7 +2,7 @@
 type: synthesis
 title: Locus of Control Motivation Framework
 created: 2026-04-10
-updated: 2026-04-11
+updated: 2026-04-15
 status: active
 tags:
   - synthesis
@@ -13,6 +13,7 @@ question: What reusable motivation model does the current locus-of-control sourc
 basis:
   - wiki/sources/2026-04-10-locus-of-control-and-sustained-motivation.md
   - wiki/sources/2026-04-11-values-motivation-and-sustainable-self-improvement.md
+  - wiki/sources/2026-04-15-how-to-always-stay-motivated.md
   - wiki/concepts/leadership/locus-of-control.md
   - wiki/concepts/leadership/growth-mindset.md
   - wiki/concepts/productivity/behavior-journaling.md
@@ -58,11 +59,13 @@ The current branch supports a six-part model:
 - Compared with [[wiki/concepts/leadership/mental-toughness|Mental Toughness]], this framework is more motivational than ordeal-oriented: it helps explain whether people stay engaged before toughness is tested under heavier pressure.
 - Compared with broader productivity advice, this framework is upstream of tactics: routines work better when the person believes action can actually move the needle.
 - The newer values-focused source sharpens a hidden weakness in the original model: people may believe action matters and still quit if their motive is socially comparative, perfectionistic, or emotionally unstable.
+- The new identity-based motivation source sharpens a second weakness: people may believe action matters and value the goal, yet still disengage because self-concept turns the task into boredom or overwhelm before effort stabilizes.
 
 # Gaps
 
 - The branch now has a better motivational-quality layer, but still rests on only two secondary summaries.
 - The source underweights cases where outcomes are genuinely constrained by systems, luck, or unequal conditions.
+- The newer identity source adds another unresolved question: how much of `low agency` is really causal pessimism, and how much is identity-based aversion misread as lack of control?
 - The vault still needs a cleaner map of how locus of control relates to self-efficacy, agency, learned helplessness, responsibility, and values-driven motivation.
 
 # Related Pages
@@ -71,5 +74,6 @@ The current branch supports a six-part model:
 - [[wiki/concepts/leadership/growth-mindset|Growth Mindset]]
 - [[wiki/concepts/leadership/mental-toughness|Mental Toughness]]
 - [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]]
+- [[wiki/concepts/leadership/identity-based-motivation|Identity-Based Motivation]]
 - [[wiki/concepts/productivity/behavior-journaling|Behavior Journaling]]
 - [[wiki/sources/2026-04-10-locus-of-control-and-sustained-motivation|Locus of Control and Sustained Motivation]]

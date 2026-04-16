@@ -4140,6 +4140,23 @@ Pages touched:
 - [[index]]
 - [[log]]
 
+## [2026-04-15 01:57] ingest | The Optimizer Productive, But Miserable
+
+Summary: Ingested a new English productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-15-the-optimizer-productive-but-miserable]]. Created [[wiki/sources/2026-04-15-the-optimizer-productive-but-miserable]], the new concept [[wiki/concepts/productivity/optimization-as-avoidance]], and the new synthesis [[wiki/syntheses/productivity/optimizer-trap-framework]]. Used the source to deepen [[wiki/concepts/productivity/strategic-underachievement]], [[wiki/concepts/productivity/signal-to-noise-ratio]], [[wiki/concepts/leadership/inner-excellence]], and [[wiki/syntheses/productivity/oliver-burkeman-four-thousand-weeks-framework]]. The anti-overwhelm branch now more clearly distinguishes structural overload from fear-driven optimization, adds three optimizer archetypes, and makes the difference between productive appearance and real fulfillment easier to see.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-15-the-optimizer-productive-but-miserable]]
+- [[wiki/sources/2026-04-15-the-optimizer-productive-but-miserable]]
+- [[wiki/concepts/productivity/optimization-as-avoidance]]
+- [[wiki/syntheses/productivity/optimizer-trap-framework]]
+- [[wiki/concepts/productivity/strategic-underachievement]]
+- [[wiki/concepts/productivity/signal-to-noise-ratio]]
+- [[wiki/concepts/leadership/inner-excellence]]
+- [[wiki/syntheses/productivity/oliver-burkeman-four-thousand-weeks-framework]]
+- [[index]]
+- [[log]]
+
 ## [2026-04-13 15:03] ingest | The 4 Fs of Flow
 
 Summary: Ingested a new English productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-13-the-4-fs-of-flow]]. Created [[wiki/sources/2026-04-13-the-4-fs-of-flow]], the new concept [[wiki/concepts/productivity/flow]], and the new synthesis [[wiki/syntheses/productivity/four-fs-of-flow-framework]]. Used the source to deepen [[wiki/concepts/productivity/calibrated-challenge]] and [[wiki/syntheses/productivity/attention-and-focus-framework]]. The productivity branch now more clearly captures flow as a designable work state, `permission timers` as a way to separate performance from critique, and the `4 percent challenge` idea as a slight-stretch heuristic rather than a precise law.
@@ -4576,5 +4593,93 @@ Summary: Answered a practical high-pressure work question by compiling a query p
 Pages touched:
 
 - [[wiki/queries/three-day-performance-crunch-plan]]
+- [[index]]
+- [[log]]
+
+## [2026-04-15 01:48] ingest | How To Defuse Procrastination And Be Productive
+
+Summary: Ingested a new English productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-15-how-to-defuse-procrastination-and-be-productive]]. Created [[wiki/sources/2026-04-15-how-to-defuse-procrastination-and-be-productive]], the new concept [[wiki/concepts/productivity/procrastination]], and the new synthesis [[wiki/syntheses/productivity/procrastination-defusing-framework]]. Used the source to deepen [[wiki/concepts/productivity/willpower]], [[wiki/concepts/productivity/restorative-breaks]], and [[wiki/syntheses/productivity/barbara-oakley-learning-framework]]. The productivity branch now more clearly captures working-memory narrowing, anti-binary action choice, `next best thing` task sizing, and doorway-style context shifts as a way to break stuck avoidance loops without reducing the whole problem to weak discipline.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-15-how-to-defuse-procrastination-and-be-productive]]
+- [[wiki/sources/2026-04-15-how-to-defuse-procrastination-and-be-productive]]
+- [[wiki/concepts/productivity/procrastination]]
+- [[wiki/syntheses/productivity/procrastination-defusing-framework]]
+- [[wiki/concepts/productivity/willpower]]
+- [[wiki/concepts/productivity/restorative-breaks]]
+- [[wiki/syntheses/productivity/barbara-oakley-learning-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-15 02:06] ingest | How To Always Stay Motivated
+
+Summary: Ingested a new English motivation source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-15-how-to-always-stay-motivated]]. Created [[wiki/sources/2026-04-15-how-to-always-stay-motivated]], the new concept [[wiki/concepts/leadership/identity-based-motivation]], the new synthesis [[wiki/syntheses/leadership/identity-based-motivation-framework]], and the new entity page [[wiki/entities/alok-kanojia]]. Used the source to deepen [[wiki/concepts/leadership/locus-of-control]], [[wiki/concepts/productivity/calibrated-challenge]], and [[wiki/syntheses/leadership/locus-of-control-motivation-framework]]. The motivation branch now more clearly distinguishes causal agency from identity-shaped task appraisal and preserves boredom and overwhelm as two self-concept-driven failures of usable effort.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-15-how-to-always-stay-motivated]]
+- [[wiki/sources/2026-04-15-how-to-always-stay-motivated]]
+- [[wiki/concepts/leadership/identity-based-motivation]]
+- [[wiki/syntheses/leadership/identity-based-motivation-framework]]
+- [[wiki/entities/alok-kanojia]]
+- [[wiki/concepts/leadership/locus-of-control]]
+- [[wiki/concepts/productivity/calibrated-challenge]]
+- [[wiki/syntheses/leadership/locus-of-control-motivation-framework]]
+- [[index]]
+- [[log]]
+
+## [2026-04-15 21:26] ingest | 5 Habits that Destroy Your Productivity
+
+Summary: Ingested a new English productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-15-5-habits-that-destroy-your-productivity]]. Created [[wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity]] and the new synthesis [[wiki/syntheses/productivity/anti-productivity-myths-framework]]. Used the source to deepen [[wiki/concepts/productivity/serial-tasking]], [[wiki/concepts/productivity/calibrated-challenge]], [[wiki/concepts/business/career-capital]], [[wiki/concepts/leadership/trust-based-collaboration]], [[wiki/syntheses/business/cal-newport-career-capital-framework]], and [[wiki/entities/alok-kanojia]]. The branch now more clearly distinguishes application from passive self-improvement, serial focus from multitasking, main-career compounding from side-hustle dilution, calibrated challenge from hustle theater, and reciprocity from self-first extraction.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-15-5-habits-that-destroy-your-productivity]]
+- [[wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity]]
+- [[wiki/syntheses/productivity/anti-productivity-myths-framework]]
+- [[wiki/concepts/productivity/serial-tasking]]
+- [[wiki/concepts/productivity/calibrated-challenge]]
+- [[wiki/concepts/business/career-capital]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/syntheses/business/cal-newport-career-capital-framework]]
+- [[wiki/entities/alok-kanojia]]
+- [[index]]
+- [[log]]
+
+## [2026-04-15 21:52] ingest | How to Become More Mentally Efficient & Conscientious
+
+Summary: Ingested a new English productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious]]. Created [[wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious]] and the new synthesis [[wiki/syntheses/productivity/conscientiousness-training-framework]]. Used the source to deepen [[wiki/concepts/productivity/conscientiousness]], [[wiki/concepts/productivity/willpower]], [[wiki/concepts/leadership/trust-based-collaboration]], [[wiki/syntheses/leadership/identity-based-motivation-framework]], [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]], and [[wiki/entities/alok-kanojia]]. The branch now more clearly models conscientiousness as partly trainable through costly prosocial action, distinguishes empathy from chosen altruism, and preserves `do it for someone else` as a possible bridge from motivation into disciplined follow-through.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious]]
+- [[wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious]]
+- [[wiki/syntheses/productivity/conscientiousness-training-framework]]
+- [[wiki/concepts/productivity/conscientiousness]]
+- [[wiki/concepts/productivity/willpower]]
+- [[wiki/concepts/leadership/trust-based-collaboration]]
+- [[wiki/syntheses/leadership/identity-based-motivation-framework]]
+- [[wiki/syntheses/productivity/jordan-peterson-self-management-framework]]
+- [[wiki/entities/alok-kanojia]]
+- [[index]]
+- [[log]]
+
+## [2026-04-15 21:57] ingest | Procrastination Holds You Back
+
+Summary: Ingested a new English productivity source from `raw/` and archived the canonical raw file at [[raw/inbox/2026-04-15-procrastination-holds-you-back]]. Created [[wiki/sources/2026-04-15-procrastination-holds-you-back]] and the new synthesis [[wiki/syntheses/productivity/mind-training-procrastination-framework]]. Used the source to deepen [[wiki/concepts/productivity/procrastination]], [[wiki/syntheses/productivity/procrastination-defusing-framework]], [[wiki/concepts/productivity/willpower]], [[wiki/concepts/health/mindfulness]], [[wiki/concepts/leadership/identity-based-motivation]], [[wiki/syntheses/leadership/identity-based-motivation-framework]], and [[wiki/entities/alok-kanojia]]. The procrastination branch now more clearly captures false inner struggle, anti-bargaining mind-training, `do the task or do nothing`, and the claim that action often improves when thoughts are treated as mind activity rather than as authoritative self-definition.
+
+Pages touched:
+
+- [[raw/inbox/2026-04-15-procrastination-holds-you-back]]
+- [[wiki/sources/2026-04-15-procrastination-holds-you-back]]
+- [[wiki/syntheses/productivity/mind-training-procrastination-framework]]
+- [[wiki/concepts/productivity/procrastination]]
+- [[wiki/syntheses/productivity/procrastination-defusing-framework]]
+- [[wiki/concepts/productivity/willpower]]
+- [[wiki/concepts/health/mindfulness]]
+- [[wiki/concepts/leadership/identity-based-motivation]]
+- [[wiki/syntheses/leadership/identity-based-motivation-framework]]
+- [[wiki/entities/alok-kanojia]]
 - [[index]]
 - [[log]]

@@ -2,7 +2,7 @@
 type: concept
 title: Trust-Based Collaboration
 created: 2026-04-07
-updated: 2026-04-12
+updated: 2026-04-15
 status: active
 tags:
   - concept
@@ -28,6 +28,8 @@ source_pages:
   - wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments.md
   - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
   - wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset.md
+  - wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity.md
+  - wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious.md
 related:
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/filmmaking/casting-and-performance-direction.md
@@ -39,6 +41,7 @@ related:
   - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/syntheses/cross-source/human-centered-change-models.md
+  - wiki/syntheses/productivity/anti-productivity-myths-framework.md
 ---
 
 # What It Is
@@ -91,6 +94,14 @@ Trust-based collaboration is the practice of designing work so that other people
   - collaboration depends not only on safety climate, but on whether leaders reliably do what they say
   - warmth and severity are less decisive than consistency because consistency lets people coordinate without constant second-guessing
   - trust weakens when people cannot predict whether the leader's stated standard will actually hold
+- [[wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity]] adds an everyday reciprocity version:
+  - a purely self-first stance can make other people reasonably stop investing in you
+  - helping others, mentoring, or passing along opportunities can build practical trust and future support
+  - this sharpens the link between prosocial behavior and opportunity flow, not only moral tone
+- [[wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious]] adds a self-training version:
+  - prosocial action is valuable not only because it helps relationships directly
+  - it may also function as a discipline-building exercise by forcing repeated restraint of immediate self-interest
+  - this gives the collaboration branch a stronger bridge into self-management rather than treating care for others as socially good but individually separate
 
 # Source Comparisons
 
@@ -111,6 +122,8 @@ Trust-based collaboration is the practice of designing work so that other people
 - The newest crisis-of-meaning source focuses on trust inside emotional accompaniment: safe collaboration is not only truth-telling and mutual protection, but also the ability to remain with another person's pain without trying to fix them prematurely.
 - Peterson focuses on trust inside the game's legitimacy: people collaborate more deeply when the role structure feels narratively coherent and voluntarily maintainable rather than imposed for someone else's benefit alone.
 - The newer Peterson character source focuses on trust inside leader reliability: before the game's legitimacy can matter fully, followers still need evidence that the person speaking keeps promises and behaves predictably enough to be followed.
+- The newer habits source focuses on trust inside ordinary reciprocity: collaboration weakens not only through fear and dishonesty, but also through a short-term extraction mindset toward other people.
+- The newer conscientiousness source focuses on trust inside chosen service: helping behavior can be socially valuable even when it is not driven by strong empathy, which sharpens the difference between prosocial action and emotional resonance.
 
 # Tensions / Open Questions
 
@@ -124,6 +137,8 @@ Trust-based collaboration is the practice of designing work so that other people
 - The Peterson layer adds a voluntariness problem: collaboration may look trusting on the surface while remaining structurally coerced if people cannot realistically reject the role-story being offered.
 - The newer Peterson character layer adds a measurement problem: people often mistake likability, charisma, or rhetorical force for trustworthiness even when long-run reliability is the more important variable.
 - The newest crisis-of-meaning layer adds a care-timing problem: leaders and friends may believe they are helping when they are actually using advice to escape the discomfort of another person's grief.
+- The newer habits source adds the opposite boundary risk: prosocial credibility is useful, but the branch still needs a sharper line between healthy generosity and becoming a boundaryless resource for everyone else.
+- The newer conscientiousness source adds a motive ambiguity: if helping others is used mainly as self-improvement training, the branch still needs to clarify when that instrumental stance preserves genuine care and when it hollows it out.
 
 # Related Pages
 
@@ -140,4 +155,5 @@ Trust-based collaboration is the practice of designing work so that other people
 - [[wiki/concepts/leadership/friendship-as-growth-pact|Friendship as Growth Pact]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
+- [[wiki/syntheses/productivity/anti-productivity-myths-framework|Anti-Productivity Myths Framework]]
 - [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek|Were Living Through A Crisis Of Meaning Simon Sinek]]

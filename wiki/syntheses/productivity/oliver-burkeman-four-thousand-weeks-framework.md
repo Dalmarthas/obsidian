@@ -2,7 +2,7 @@
 type: synthesis
 title: Oliver Burkeman Four Thousand Weeks Framework
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-15
 status: active
 tags:
   - synthesis
@@ -13,6 +13,7 @@ tags:
 question: What practical anti-overwhelm framework can be extracted from the current English `Four Thousand Weeks` source without flattening Burkeman into generic minimalism?
 basis:
   - wiki/sources/2026-04-13-four-thousand-weeks-by-oliver-burkeman.md
+  - wiki/sources/2026-04-15-the-optimizer-productive-but-miserable.md
   - wiki/concepts/productivity/strategic-underachievement.md
   - wiki/concepts/productivity/signal-to-noise-ratio.md
   - wiki/concepts/productivity/konechnost-vremeni.md
@@ -58,11 +59,13 @@ The current source base supports a six-part framework:
 - Compared with [[wiki/concepts/productivity/signal-to-noise-ratio|Signal-to-Noise Ratio]], this framework is less day-level and more existential. Signal-to-noise filters what matters now; Burkeman asks what it means to live sanely when even many worthy goals cannot all fit into one life.
 - Compared with [[wiki/concepts/productivity/konechnost-vremeni|Konechnost Vremeni]], this synthesis turns finitude from a philosophical fact into a planning method built around refusal and visible exclusion.
 - Compared with [[wiki/concepts/productivity/lovushka-effektivnosti|Lovushka Effektivnosti]], this page is broader: the trap is one diagnosis inside a larger model of limits, tradeoffs, and presence.
+- Compared with [[wiki/syntheses/productivity/optimizer-trap-framework|Optimizer Trap Framework]], this page is less psychological and more structural. Burkeman is strongest on finite commitments and refusal; the newer optimizer synthesis is strongest on why people cling to optimization as defense or scorekeeping.
 
 # Gaps
 
 - The source is still a secondary creator summary, not the book itself.
 - The model is strong on refusal and acceptance, but thinner on how collaborative people should negotiate these limits with others who are affected by the underachievement.
+- The newer optimizer source adds another unresolved layer: some people may understand finitude intellectually yet still over-optimize because the real driver is shame, avoidance, or fear of death rather than mere conceptual confusion.
 - The branch still needs sharper criteria for preserving exploration without letting exploration become a socially acceptable form of non-commitment.
 
 # Related Pages

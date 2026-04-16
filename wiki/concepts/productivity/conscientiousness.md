@@ -2,7 +2,7 @@
 type: concept
 title: Conscientiousness
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-15
 status: active
 tags:
   - concept
@@ -16,6 +16,7 @@ source_pages:
   - wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson.md
   - wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable.md
   - wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson.md
+  - wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious.md
 related:
   - wiki/concepts/productivity/future-self-prioritization.md
   - wiki/concepts/productivity/value-hierarchy.md
@@ -25,6 +26,7 @@ related:
   - wiki/concepts/leadership/high-performance-mindset.md
   - wiki/concepts/leadership/character-based-leadership.md
   - wiki/syntheses/productivity/jordan-peterson-self-management-framework.md
+  - wiki/syntheses/productivity/conscientiousness-training-framework.md
 ---
 
 # What It Is
@@ -45,6 +47,10 @@ Conscientiousness in the current vault is the tendency to be reliable, effortful
 - [[wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness]] adds a useful tension: conscientiousness can make a person more dependable and achievement-oriented, but when combined with high agreeableness it can also make exploitation easier inside institutions.
 - [[wiki/sources/2026-04-11-jordan-peterson-wasting-time-and-responsibility]] adds a moral-operational layer adjacent to the same trait: responsibility, burden acceptance, and reduced avoidance all help translate good intentions into steadier conduct.
 - [[wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson]] adds a leadership-legitimacy layer: conscientiousness is framed not only as a productivity trait, but as part of what makes a leader trustworthy enough to follow over time.
+- [[wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious]] adds a prosocial-training layer:
+  - conscientiousness is reframed less as fixed temperament and more as a trainable pattern of setting aside immediate desire
+  - chosen altruism is treated as a practical training ground because it repeatedly demands that self-serving impulses be overruled
+  - the page therefore now distinguishes trait description from trait-rehearsal method more clearly
 
 # Source Comparisons
 
@@ -54,12 +60,14 @@ Conscientiousness in the current vault is the tendency to be reliable, effortful
 - Compared with [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]], conscientiousness is less existential and more behavioral. Responsibility explains why burden may matter; conscientiousness describes the trait pattern that helps carry it consistently.
 - Compared with [[wiki/concepts/communication/assertiveness|Assertiveness]], conscientiousness is less about expressing needs and more about executing duties. The Peterson material shows they can complement each other or conflict when harmony-seeking suppresses clear self-advocacy.
 - Compared with [[wiki/concepts/leadership/character-based-leadership|Character-Based Leadership]], conscientiousness is narrower and more trait-level. Character-based leadership asks how reliability becomes trusted authority in groups; conscientiousness names one of the stable behavioral patterns underneath that authority.
+- Compared with [[wiki/syntheses/productivity/conscientiousness-training-framework|Conscientiousness Training Framework]], this page defines the trait and its importance, while the new synthesis isolates one proposed mechanism for building it through costly prosocial action.
 
 # Tensions / Open Questions
 
 - The concept can become moralistic if low conscientiousness is treated as laziness rather than as a possible effect of illness, overload, trauma, or poor environment design.
 - The current vault still needs stronger sources distinguishing industriousness from orderliness, and trait stability from trainable habit scaffolding.
-- The Peterson sources suggest conscientiousness is trainable through structure, but the vault still needs better evidence on the limits of that trainability.
+- The Peterson sources suggest conscientiousness is trainable through structure, and the newer Kanojia source suggests it may also be trainable through prosocial impulse-control rehearsal, but the vault still needs better evidence on the limits of both claims.
+- The newer source also adds a boundary question: when does altruism strengthen conscientiousness, and when does it become martyrdom, resentment, or exploitable self-erasure?
 
 # Related Pages
 
@@ -71,5 +79,6 @@ Conscientiousness in the current vault is the tendency to be reliable, effortful
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/concepts/leadership/character-based-leadership|Character-Based Leadership]]
 - [[wiki/syntheses/productivity/jordan-peterson-self-management-framework|Jordan Peterson Self-Management Framework]]
+- [[wiki/syntheses/productivity/conscientiousness-training-framework|Conscientiousness Training Framework]]
 - [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson|What To Do To Be Successful Jordan B Peterson]]
 - [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable|Being Disciplined Will Make You Unstoppable]]

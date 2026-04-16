@@ -2,7 +2,7 @@
 type: concept
 title: Career Capital
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-15
 status: active
 tags:
   - concept
@@ -13,6 +13,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you.md
   - wiki/sources/2026-04-13-be-wealthy-without-getting-lucky-the-almanack-of-naval-ravikant.md
+  - wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity.md
 related:
   - wiki/concepts/business/craftsman-mindset.md
   - wiki/concepts/business/career-blueprint.md
@@ -21,6 +22,7 @@ related:
   - wiki/concepts/productivity/deliberate-practice.md
   - wiki/syntheses/business/cal-newport-career-capital-framework.md
   - wiki/syntheses/business/naval-ravikant-wealth-framework.md
+  - wiki/syntheses/productivity/anti-productivity-myths-framework.md
 ---
 
 # What It Is
@@ -48,6 +50,10 @@ Career capital is the accumulated stock of rare and valuable ability, proof, and
   - some rare value comes not only from disciplined practice but from unusually specific combinations of background, obsession, and natural ability
   - accountability matters because career capital compounds faster when the person owns outcomes rather than only tasks
   - leverage matters because rare value becomes economically nonlinear once it can scale through code, media, capital, or systems
+- [[wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity]] adds a compounding-versus-dilution filter:
+  - extra effort does not automatically become more career capital
+  - in many cases, the better return comes from moving higher in the current tower rather than restarting in an unrelated side field
+  - the source still preserves side projects as legitimate bridges during career transition
 
 # Source Comparisons
 
@@ -55,12 +61,14 @@ Career capital is the accumulated stock of rare and valuable ability, proof, and
 - Compared with [[wiki/concepts/productivity/deliberate-practice|Deliberate Practice]], career capital is the asset produced by the work rather than the training method itself.
 - Compared with [[wiki/concepts/business/career-blueprint|Career Blueprint]], career capital is more concrete and near-term. The blueprint names the arc; career capital names what each phase should accumulate.
 - Compared with [[wiki/concepts/business/specific-knowledge.md|Specific Knowledge]], career capital is broader and more market-legible. Specific knowledge names the distinctive pattern of rare ability; career capital names the accumulated proof, trust, and negotiating power that pattern can generate over time.
+- Compared with [[wiki/syntheses/productivity/anti-productivity-myths-framework|Anti-Productivity Myths Framework]], this page isolates the career-compounding principle itself, while the synthesis places it beside attention, stress, and reciprocity corrections.
 
 # Tensions / Open Questions
 
 - A person can accumulate capital in the wrong field, so leverage alone is not sufficient evidence of good direction.
 - Over-specialization can make someone valuable in a narrow lane while reducing broader adaptability.
 - The branch still needs stronger examples of how people in low-autonomy environments can deliberately build career capital without burning out or waiting passively for permission.
+- The newer habits source adds a practical ambiguity: when is a side hustle genuine strategic diversification, and when is it just fragmentation with a moral halo?
 
 # Related Pages
 
@@ -72,3 +80,4 @@ Career capital is the accumulated stock of rare and valuable ability, proof, and
 - [[wiki/entities/cal-newport|Cal Newport]]
 - [[wiki/syntheses/business/cal-newport-career-capital-framework|Cal Newport Career Capital Framework]]
 - [[wiki/syntheses/business/naval-ravikant-wealth-framework|Naval Ravikant Wealth Framework]]
+- [[wiki/syntheses/productivity/anti-productivity-myths-framework|Anti-Productivity Myths Framework]]

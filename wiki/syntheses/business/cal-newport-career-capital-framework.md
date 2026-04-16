@@ -2,7 +2,7 @@
 type: synthesis
 title: Cal Newport Career Capital Framework
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-15
 status: active
 tags:
   - synthesis
@@ -12,6 +12,7 @@ tags:
 question: What reusable career framework emerges from the current Cal Newport source?
 basis:
   - wiki/sources/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you.md
+  - wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity.md
   - wiki/concepts/business/career-capital.md
   - wiki/concepts/business/craftsman-mindset.md
   - wiki/concepts/business/career-blueprint.md
@@ -20,6 +21,7 @@ related:
   - wiki/entities/cal-newport.md
   - wiki/concepts/business/zone-of-genius.md
   - wiki/concepts/business/process-over-outcomes.md
+  - wiki/syntheses/productivity/anti-productivity-myths-framework.md
 ---
 
 # Question
@@ -50,6 +52,8 @@ The source supports a six-part framework:
 
 The distinctive Newport layer is economic realism: career design is not just about identity or alignment, but about what scarce value is being accumulated and what that value can later buy.
 
+The newer productivity-habits source sharpens one practical filter around the same model: before adding a generic side hustle, ask whether the same effort would compound faster inside the main field. The Newport branch is therefore not anti-experiment, but it is anti-fragmentation when fragmentation delays the accumulation of rare value.
+
 # Basis
 
 - Main source: [[wiki/sources/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you|Be Rare and Valuable: So Good They Can't Ignore You]]
@@ -60,6 +64,7 @@ The distinctive Newport layer is economic realism: career design is not just abo
 - This framework currently rests on one secondary summary rather than a wider Newport source cluster.
 - The branch still needs stronger examples of how to apply the model when autonomy is low, management is weak, or the current field may be a temporary stepping stone rather than a long-term home.
 - The current evidence is also stronger on building leverage than on knowing the right moment to spend it.
+- The newer habits source adds a tactical ambiguity the branch should keep visible: sometimes a side project is a prudent bridge out of a bad lane, and sometimes it is just a socially approved way to avoid the slower compounding of mastery.
 
 # Related Pages
 
@@ -69,3 +74,4 @@ The distinctive Newport layer is economic realism: career design is not just abo
 - [[wiki/concepts/business/career-blueprint|Career Blueprint]]
 - [[wiki/concepts/business/zone-of-genius|Zone of Genius]]
 - [[wiki/concepts/productivity/deliberate-practice|Deliberate Practice]]
+- [[wiki/syntheses/productivity/anti-productivity-myths-framework|Anti-Productivity Myths Framework]]
