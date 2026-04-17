@@ -2,7 +2,7 @@
 type: concept
 title: Zone of Genius
 created: 2026-04-07
-updated: 2026-04-13
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -13,6 +13,7 @@ source_pages:
   - wiki/sources/2026-04-12-mastery-summarized-in-8-minutes-by-robert-greene.md
   - wiki/sources/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you.md
   - wiki/sources/2026-04-14-the-4-secrets-to-be-great-at-anything.md
+  - wiki/sources/2026-04-16-should-you-follow-your-passion-solved.md
 related:
   - wiki/concepts/business/creative-entrepreneurship.md
   - wiki/concepts/business/career-blueprint.md
@@ -21,6 +22,7 @@ related:
   - wiki/concepts/business/mentorship.md
   - wiki/syntheses/business/welteroth-career-framework.md
   - wiki/syntheses/business/cal-newport-career-capital-framework.md
+  - wiki/syntheses/business/passion-and-practicality-framework.md
   - wiki/syntheses/productivity/robert-greene-mastery-framework.md
 ---
 
@@ -56,6 +58,10 @@ Zone of genius is the intersection of a person's passions, talents, values, and 
   - greatness is framed as inherently non-copyable
   - the person has to hear their own signal clearly enough to distinguish authentic aims from `booby prizes`
   - solitude, journaling, walking, and no-input reflection are treated as methods for recovering that signal beneath social noise
+- [[wiki/sources/2026-04-16-should-you-follow-your-passion-solved]] adds a developmental-passion layer:
+  - passion is not only a clue to genius, but something that can strengthen after repeated exposure and competence
+  - the source also warns that even real passion can become unhealthy if it fuses completely with identity
+  - hybrid paths, adjacent roles, and protected side passions are treated as legitimate ways of discovering fit without forcing premature total commitment
 
 # Tensions / Open Questions
 
@@ -64,6 +70,7 @@ Zone of genius is the intersection of a person's passions, talents, values, and 
 - Greene's `life's task` language can overstate destiny if it is interpreted too literally rather than as a recurring pattern of attraction and aptitude.
 - Newport adds the opposite failure mode: treating fit as irrelevant and building leverage in any field that rewards effort may produce success without deeper sustainability.
 - The newer Naval source adds another tension: anti-prescription language can clarify originality, but if overstated it can become a flattering excuse to ignore craft, coaching, or useful structure.
+- The newest passion source adds a different warning: zone-of-genius language can become over-romantic if it encourages people to hunt for a fixed soulmate calling instead of developing fit through experimentation, skill, and changing life stage.
 
 # Related Pages
 
@@ -74,5 +81,6 @@ Zone of genius is the intersection of a person's passions, talents, values, and 
 - [[wiki/concepts/business/mentorship|Mentorship]]
 - [[wiki/syntheses/business/cal-newport-career-capital-framework|Cal Newport Career Capital Framework]]
 - [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/syntheses/business/passion-and-practicality-framework|Passion and Practicality Framework]]
 - [[wiki/syntheses/productivity/robert-greene-mastery-framework|Robert Greene Mastery Framework]]
 - [[wiki/sources/2026-04-14-the-4-secrets-to-be-great-at-anything|The 4 Secrets To Be Great At Anything]]

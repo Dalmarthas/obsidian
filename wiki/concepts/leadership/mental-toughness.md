@@ -2,7 +2,7 @@
 type: concept
 title: Mental Toughness
 created: 2026-04-10
-updated: 2026-04-11
+updated: 2026-04-17
 status: active
 tags:
   - concept
@@ -13,12 +13,14 @@ tags:
 source_pages:
   - wiki/sources/2026-04-10-mark-manson-mental-toughness-and-resilience.md
   - wiki/sources/2026-04-11-mark-manson-hard-learned-life-lessons.md
+  - wiki/sources/2026-04-17-how-to-become-resilient.md
 related:
   - wiki/concepts/leadership/better-problems.md
   - wiki/concepts/leadership/locus-of-control.md
   - wiki/concepts/leadership/high-performance-mindset.md
   - wiki/concepts/leadership/buoyancy.md
   - wiki/concepts/health/stress-mindset.md
+  - wiki/concepts/health/stress-inoculation.md
   - wiki/syntheses/leadership/mark-manson-resilience-framework.md
 ---
 
@@ -41,6 +43,10 @@ Mental toughness is the trainable ability to keep functioning, deciding, and act
 - The newer Manson source sharpens the behavioral courage layer through `conflict muscle`, self-prioritization, and the claim that real values are visible in what someone is willing to sacrifice.
 - That same source also reframes resilient adulthood as movement toward [[wiki/concepts/leadership/better-problems|Better Problems]] rather than the fantasy of a problem-free life.
 - The new locus-of-control source adds an earlier motivational condition: people are more likely to stay engaged long enough to need toughness when they believe their actions can still shape the outcome.
+- [[wiki/sources/2026-04-17-how-to-become-resilient|How to Become Resilient]] adds three missing layers:
+  - biological reserve matters, so toughness is easier to express when sleep, fitness, and recovery systems are not depleted
+  - humor, camaraderie, and social support help people metabolize hardship rather than merely endure it alone
+  - toughness has domain-specific costs, so becoming `the resilient one` can also produce over-functioning, hyper-independence, and relationship neglect
 
 # Source Comparisons
 
@@ -49,6 +55,7 @@ Mental toughness is the trainable ability to keep functioning, deciding, and act
 - Compared with [[wiki/concepts/health/stress-mindset|Stress Mindset]], mental toughness is more performance- and endurance-oriented, while stress mindset is more physiological and health-framed.
 - Compared with [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], this page is narrower and more pressure-specific: not excellence in general, but functioning well inside adversity.
 - Compared with [[wiki/concepts/leadership/locus-of-control|Locus of Control]], mental toughness is less about whether action is worth taking and more about staying functional after action has already led into challenge, uncertainty, or pain.
+- Compared with [[wiki/concepts/health/stress-inoculation|Stress Inoculation]], this page is broader and more trait-like. Stress inoculation is a training method; mental toughness is one of the capacities that method is meant to build.
 
 # Tensions / Open Questions
 
@@ -56,6 +63,7 @@ Mental toughness is the trainable ability to keep functioning, deciding, and act
 - A focus on mindset can overstate individual agency in environments that are structurally abusive or unsafe.
 - The branch still needs better sources on when resilience training crosses into reckless self-testing.
 - The newer Manson source improves the values layer, but the vault still needs sharper criteria for when sacrifice is noble, when it is compulsive, and when the right move is simply to leave a bad system.
+- The newer resilience source adds another warning: toughness can be overdeveloped in one domain and underdeveloped in others, so work or athletic resilience should not be mistaken for relationship or emotional resilience automatically.
 
 # Related Pages
 
@@ -64,6 +72,7 @@ Mental toughness is the trainable ability to keep functioning, deciding, and act
 - [[wiki/concepts/leadership/locus-of-control|Locus of Control]]
 - [[wiki/concepts/leadership/buoyancy|Buoyancy]]
 - [[wiki/concepts/health/stress-mindset|Stress Mindset]]
+- [[wiki/concepts/health/stress-inoculation|Stress Inoculation]]
 - [[wiki/syntheses/leadership/mark-manson-resilience-framework|Mark Manson Resilience Framework]]
 - [[wiki/sources/2026-04-10-mark-manson-mental-toughness-and-resilience|Mark Manson Mental Toughness and Resilience]]
 - [[wiki/sources/2026-04-11-mark-manson-hard-learned-life-lessons|Mark Manson Hard-Learned Life Lessons]]

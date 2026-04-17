@@ -2,7 +2,7 @@
 type: concept
 title: Assertiveness
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-17
 status: active
 tags:
   - concept
@@ -14,6 +14,7 @@ source_pages:
   - wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness.md
   - wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time.md
   - wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson.md
+  - wiki/sources/2026-04-17-being-nice-wont-save-you-in-difficult-conversations.md
 related:
   - wiki/concepts/communication/boundary-language.md
   - wiki/concepts/communication/authentic-communication.md
@@ -25,7 +26,7 @@ related:
 
 # What It Is
 
-Assertiveness is the ability to state what is true, wanted, needed, or not acceptable without collapsing into passivity, over-explanation, or aggression. In the current vault, it is not treated as dominance training. It is the skill that lets a person advocate for themselves cleanly enough that agreeableness, care, or conflict sensitivity do not turn into self-erasure. Main source: [[wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness|Jordan Peterson Excessive Agreeableness and Assertiveness]].
+Assertiveness is the ability to state what is true, wanted, needed, or not acceptable without collapsing into passivity, over-explanation, or aggression. In the current vault, it is not treated as dominance training. It is the skill that lets a person advocate for themselves cleanly enough that agreeableness, care, or conflict sensitivity do not turn into self-erasure. The branch now also makes a sharper distinction between surface niceness and deeper honesty: assertiveness is not the opposite of kindness, but one of the ways kindness stays real under pressure. Main source: [[wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness|Jordan Peterson Excessive Agreeableness and Assertiveness]].
 
 # Why It Matters
 
@@ -38,6 +39,15 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
 - The Jordan Peterson source argues that highly agreeable people often struggle to identify and communicate their own desires clearly enough to negotiate for them.
 - The same source treats assertiveness training as a practical therapeutic and developmental intervention.
 - It also argues that conflict avoided for the sake of peace often returns later as a more entrenched problem.
+- The new Jefferson Fisher source adds a sharper anti-people-pleasing distinction:
+  - `nice` can mean appearance management, harmony preservation, and saying pleasant things you do not mean
+  - `kind` is closer to honest care, which may require discomfort, refusal, or direct truth
+  - this makes assertiveness legible not as hardness, but as realism that prevents inner hollowness
+- The same source also adds a useful execution order:
+  - decide internally first
+  - stop renegotiating against your own gut-level `no`
+  - then choose brief, respectful phrasing
+  - this clarifies why many people fail at assertiveness even when they know the right sentence
 - [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson]] adds a truth-and-avoidance layer: assertiveness is not only expressing wants, but also refusing the small lies, false agreement, and dodged conversations that let `dead wood` accumulate until a much larger confrontation becomes necessary.
 - The newer Robert Greene workplace source adds a power-context caveat:
   - in coercive hierarchies, assertiveness is not always immediate blunt confrontation
@@ -48,6 +58,7 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
 
 - Compared with [[wiki/concepts/communication/boundary-language|Boundary Language]], assertiveness is broader and more upstream. Boundary language is what you say in the moment; assertiveness is the capacity that makes saying it possible.
 - Compared with [[wiki/concepts/communication/authentic-communication|Authentic Communication]], assertiveness is narrower and higher-friction. Authentic communication includes sounding real and grounded; assertiveness includes saying the harder thing when harmony would be easier.
+- The newer Fisher source narrows that gap slightly: one of the costs of false niceness is that a person no longer sounds real, so assertiveness can also function as authenticity under interpersonal pressure.
 - Compared with [[wiki/concepts/productivity/progress-against-yesterday|Progress Against Yesterday]], assertiveness is more external and interpersonal. Progress against yesterday is the internal audit loop; assertiveness is the outward act of speaking the truth that the audit reveals.
 - Compared with [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]], assertiveness is less tactical and less counterpart-focused. It is first about representing your own position honestly enough to enter negotiation at all.
 - Compared with [[wiki/concepts/communication/power-dynamics|Power Dynamics]], assertiveness is less adversarial and more self-representational. The new Greene source shows where the two overlap: under unequal power, assertiveness may need strategic timing rather than immediate directness.
@@ -58,6 +69,7 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
 - Assertiveness can be romanticized as pure honesty even when timing, context, and power still matter.
 - Some people are under-assertive; others are already aggressive and need restraint, not more permission.
 - The newest Peterson source sharpens another tension: truth-telling is useful, but the vault still needs better rules for when honesty should be direct, when it should be staged, and when power or safety constraints require a more indirect approach.
+- The new Fisher source sharpens a neighboring risk: anti-people-pleasing advice can be misused as moral permission for abruptness or ego-protective bluntness, so the branch still needs cleaner criteria for respectful firmness versus performative `brutal honesty`.
 - The vault still needs stronger evidence-grounded material on assertiveness training, conflict style, and organizational dynamics around invisible labor.
 
 # Related Pages

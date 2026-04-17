@@ -2,7 +2,7 @@
 type: concept
 title: Brand Strategy
 created: 2026-04-07
-updated: 2026-04-13
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -26,6 +26,7 @@ source_pages:
   - wiki/sources/2026-04-11-seth-godin-challenges-creators-and-entrepreneurs-to-reject-the-average-for-the-masses.md
   - wiki/sources/2026-04-11-seth-godin-magnetic-brand-that-sells-itself.md
   - wiki/sources/2026-04-11-seth-godin-everything-you-probably-dont-know-about-marketing.md
+  - wiki/sources/2026-04-16-why-this-baseball-team-has-a-4-2-million-person-waitlist-with-jesse-cole.md
 related:
   - wiki/concepts/business/advertising.md
   - wiki/concepts/business/copywriting.md
@@ -43,6 +44,7 @@ related:
   - wiki/concepts/business/positioning-as-a-service.md
   - wiki/concepts/business/ethical-consumerism.md
   - wiki/concepts/business/psychographic-targeting.md
+  - wiki/concepts/business/experience-design.md
   - wiki/syntheses/business/simon-sinek-golden-circle-framework.md
   - wiki/syntheses/business/goodby-silverstein-advertising-framework.md
   - wiki/syntheses/business/iger-strategy-framework.md
@@ -113,6 +115,9 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - That same source also sharpens price as part of strategy: price tells a story about seriousness, identity, and value, so cheapness can become strategic cowardice if it replaces better offer design.
 - The newest Seth brand-marketing source makes the mode split more behavioral: when brand work is judged by likes, clicks, or short-term response, creators and teams quietly drift toward clickbait and cheap attention instead of building trust, symbolic fit, and durable expectation.
 - That same source adds a brand-DNA test for visible value stands: a symbolic campaign strengthens the brand only when it matches the organization's long-standing identity and psychographic core, rather than copying another brand's gesture out of context.
+- The Jesse Cole source adds an embodiment rule: brand strategy becomes stronger when the promise is designed through arrival, rituals, seating equity, pricing feel, and exit memory rather than left inside slogans or campaigns.
+- That same source adds an `upper deck` truth test: a brand is not strategically coherent if premium customers get the magic while the least valued segment gets neglect.
+- It also adds a generosity rule: in extraction-heavy categories, refusing junk fees, gouging, and clutter can itself become a differentiating brand position rather than merely an operational choice.
 
 # Source Comparisons
 
@@ -133,6 +138,7 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - The newest Seth spread source is strongest on movement logic: brands spread best when they function as signals and rituals for `people like us`, not merely as offers pushed into a crowded feed.
 - The newest Seth marketing source is strongest on buyer-legibility: it turns positioning into an empathy service, clarifies the role of the first ten true fans, and frames price and promise-keeping as parts of the story rather than as separate operational afterthoughts.
 - The newest Seth brand-marketing source is strongest on scoreboard corruption and symbolic-fit judgment: it shows why the wrong metrics deform brand behavior and why even high-signal public stands work only when they fit brand history and psychographic audience reality.
+- Jesse Cole is strongest on live operational embodiment: he shows how a brand becomes believable through end-to-end experience choreography, anti-extraction pricing, and deliberate care for the least privileged customer seat.
 - Together they sharpen the split between brand strategy and [[wiki/concepts/business/brand-stewardship|Brand Stewardship]] while keeping them linked.
 
 # Tensions / Open Questions
@@ -150,6 +156,7 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - The newest Seth marketing layer adds a neighboring risk: `positioning as a service` can become self-flattering rhetoric if the offer does not actually help buyers choose better or if price signaling outruns delivered value.
 - The newest Seth brand-marketing layer adds another risk: teams may romanticize `brand` to avoid accountability, while other teams may overcorrect and let direct-response dashboards strip the brand of long-run meaning.
 - The newer Simon `Engage and Inspire` source adds a neighboring risk: teams may call a prospect `misaligned` when the real problem is that the offer still lacks enough proof, clarity, or delivery reliability.
+- The Jesse Cole layer adds two further risks: spectacle can collapse into gimmick if the core product stops mattering, and highly curated founder-led experience standards can prove fragile under scale.
 
 # Related Pages
 
@@ -167,6 +174,7 @@ Brand strategy is the clarifying layer that defines what a brand stands for, why
 - [[wiki/concepts/business/brand-stewardship|Brand Stewardship]]
 - [[wiki/concepts/business/positioning-as-a-service|Positioning as a Service]]
 - [[wiki/concepts/business/ethical-consumerism|Ethical Consumerism]]
+- [[wiki/concepts/business/experience-design|Experience Design]]
 - [[wiki/syntheses/business/goodby-silverstein-advertising-framework|Goodby Silverstein Advertising Framework]]
 - [[wiki/syntheses/business/simon-sinek-golden-circle-framework|Simon Sinek Golden Circle Framework]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]

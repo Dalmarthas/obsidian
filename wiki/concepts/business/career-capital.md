@@ -2,7 +2,7 @@
 type: concept
 title: Career Capital
 created: 2026-04-13
-updated: 2026-04-15
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -14,6 +14,7 @@ source_pages:
   - wiki/sources/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you.md
   - wiki/sources/2026-04-13-be-wealthy-without-getting-lucky-the-almanack-of-naval-ravikant.md
   - wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity.md
+  - wiki/sources/2026-04-16-should-you-follow-your-passion-solved.md
 related:
   - wiki/concepts/business/craftsman-mindset.md
   - wiki/concepts/business/career-blueprint.md
@@ -22,6 +23,7 @@ related:
   - wiki/concepts/productivity/deliberate-practice.md
   - wiki/syntheses/business/cal-newport-career-capital-framework.md
   - wiki/syntheses/business/naval-ravikant-wealth-framework.md
+  - wiki/syntheses/business/passion-and-practicality-framework.md
   - wiki/syntheses/productivity/anti-productivity-myths-framework.md
 ---
 
@@ -54,6 +56,10 @@ Career capital is the accumulated stock of rare and valuable ability, proof, and
   - extra effort does not automatically become more career capital
   - in many cases, the better return comes from moving higher in the current tower rather than restarting in an unrelated side field
   - the source still preserves side projects as legitimate bridges during career transition
+- [[wiki/sources/2026-04-16-should-you-follow-your-passion-solved]] adds a passion-development and runway layer:
+  - passion often deepens after competence rather than preceding it
+  - career capital is therefore not only the alternative to passion language, but one of the engines that can create more durable passion
+  - the source also adds a realism filter around adjacent roles, power-law fields, and financial stability as conditions that shape how capital should be built
 
 # Source Comparisons
 
@@ -62,6 +68,7 @@ Career capital is the accumulated stock of rare and valuable ability, proof, and
 - Compared with [[wiki/concepts/business/career-blueprint|Career Blueprint]], career capital is more concrete and near-term. The blueprint names the arc; career capital names what each phase should accumulate.
 - Compared with [[wiki/concepts/business/specific-knowledge.md|Specific Knowledge]], career capital is broader and more market-legible. Specific knowledge names the distinctive pattern of rare ability; career capital names the accumulated proof, trust, and negotiating power that pattern can generate over time.
 - Compared with [[wiki/syntheses/productivity/anti-productivity-myths-framework|Anti-Productivity Myths Framework]], this page isolates the career-compounding principle itself, while the synthesis places it beside attention, stress, and reciprocity corrections.
+- Compared with [[wiki/syntheses/business/passion-and-practicality-framework|Passion and Practicality Framework]], career capital is the asset-building side of the branch. The newer synthesis is more explicit about healthy passion, risk tolerance, and the difference between cheap tests and romantic leaps.
 
 # Tensions / Open Questions
 
@@ -69,6 +76,7 @@ Career capital is the accumulated stock of rare and valuable ability, proof, and
 - Over-specialization can make someone valuable in a narrow lane while reducing broader adaptability.
 - The branch still needs stronger examples of how people in low-autonomy environments can deliberately build career capital without burning out or waiting passively for permission.
 - The newer habits source adds a practical ambiguity: when is a side hustle genuine strategic diversification, and when is it just fragmentation with a moral halo?
+- The newest passion source adds a related ambiguity: when is an adjacent role a smart runway-building move, and when does it become a `shadow career` that consumes the energy needed for the real compounding path?
 
 # Related Pages
 
@@ -80,4 +88,5 @@ Career capital is the accumulated stock of rare and valuable ability, proof, and
 - [[wiki/entities/cal-newport|Cal Newport]]
 - [[wiki/syntheses/business/cal-newport-career-capital-framework|Cal Newport Career Capital Framework]]
 - [[wiki/syntheses/business/naval-ravikant-wealth-framework|Naval Ravikant Wealth Framework]]
+- [[wiki/syntheses/business/passion-and-practicality-framework|Passion and Practicality Framework]]
 - [[wiki/syntheses/productivity/anti-productivity-myths-framework|Anti-Productivity Myths Framework]]

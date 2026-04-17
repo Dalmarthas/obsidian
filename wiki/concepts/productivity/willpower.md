@@ -2,7 +2,7 @@
 type: concept
 title: Willpower
 created: 2026-04-11
-updated: 2026-04-15
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -16,6 +16,7 @@ source_pages:
   - wiki/sources/2026-04-15-how-to-defuse-procrastination-and-be-productive.md
   - wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious.md
   - wiki/sources/2026-04-15-procrastination-holds-you-back.md
+  - wiki/sources/2026-04-16-why-youre-struggling-with-discipline.md
 related:
   - wiki/concepts/productivity/conscientiousness.md
   - wiki/concepts/productivity/future-self-prioritization.md
@@ -27,6 +28,7 @@ related:
   - wiki/syntheses/productivity/kelly-mcgonigal-willpower-framework.md
   - wiki/syntheses/productivity/conscientiousness-training-framework.md
   - wiki/syntheses/productivity/mind-training-procrastination-framework.md
+  - wiki/syntheses/productivity/authentic-discipline-framework.md
 ---
 
 # What It Is
@@ -58,6 +60,10 @@ Willpower in the current vault is the capacity to protect longer-term intentions
   - some willpower struggles persist because the person treats every mental argument as authoritative
   - self-control may improve when thoughts are observed and distrusted more, not only when motivation is increased
   - this sharpens the line between training restraint and negotiating endlessly with avoidance
+- [[wiki/sources/2026-04-16-why-youre-struggling-with-discipline]] adds a motive-selection layer:
+  - discipline may fail before restraint is even tested if the future being served does not feel better than present comfort
+  - the source therefore argues that self-control becomes more durable when anchored in an internally chosen `competing interest`
+  - it also adds the bridge question `Do I want to want this?` as a way to begin change without pretending current desire is already strong
 
 # Source Comparisons
 
@@ -70,6 +76,7 @@ Willpower in the current vault is the capacity to protect longer-term intentions
 - Compared with [[wiki/concepts/health/stress-mindset|Stress Mindset]], willpower is less about interpreting arousal and more about protecting behavior under conflict between present desire and future aims.
 - Compared with [[wiki/syntheses/productivity/conscientiousness-training-framework|Conscientiousness Training Framework]], willpower is the broader moment-level self-regulation capacity, while the new synthesis proposes one specific way that capacity may be trained.
 - Compared with [[wiki/syntheses/productivity/mind-training-procrastination-framework|Mind-Training Procrastination Framework]], willpower is the broader protective capacity, while the newer synthesis focuses on one class of failures caused by over-crediting the mind's excuses, narratives, and bargaining.
+- Compared with [[wiki/syntheses/productivity/authentic-discipline-framework|Authentic Discipline Framework]], this concept remains broader and more neutral about where motives come from. The newer synthesis argues that some willpower failures are actually failures of authentic motive rather than failures of resistance capacity.
 
 # Tensions / Open Questions
 
@@ -79,6 +86,7 @@ Willpower in the current vault is the capacity to protect longer-term intentions
 - Future ingests should clarify how much `willpower failure` is actually a planning failure, a reward mismatch, a sleep deficit, or an emotional-regulation problem.
 - The newer conscientiousness source adds a further boundary problem: prosocial self-restraint may build discipline in some cases, but without limits it can also become performative goodness, resentment, or self-neglect.
 - The newest procrastination source adds a parallel risk from the other direction: distrusting the mind may be useful for escape loops, but the branch still needs a sharper distinction between cognitive defusion and blanket suppression of legitimate needs or constraints.
+- The newest discipline source adds another boundary problem: lack of authentic desire may explain some self-control failures, but future ingests should keep separating that from states where motivation is flattened by illness, burnout, grief, or structural hopelessness.
 
 # Related Pages
 
@@ -92,6 +100,7 @@ Willpower in the current vault is the capacity to protect longer-term intentions
 - [[wiki/syntheses/productivity/kelly-mcgonigal-willpower-framework|Kelly McGonigal Willpower Framework]]
 - [[wiki/syntheses/productivity/conscientiousness-training-framework|Conscientiousness Training Framework]]
 - [[wiki/syntheses/productivity/mind-training-procrastination-framework|Mind-Training Procrastination Framework]]
+- [[wiki/syntheses/productivity/authentic-discipline-framework|Authentic Discipline Framework]]
 - [[wiki/syntheses/productivity/jordan-peterson-self-management-framework|Jordan Peterson Self-Management Framework]]
 - [[wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control|Kelly McGonigal Willpower and Self-Control]]
 - [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson|What To Do To Be Successful Jordan B Peterson]]

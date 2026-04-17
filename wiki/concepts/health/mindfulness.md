@@ -2,7 +2,7 @@
 type: concept
 title: Mindfulness
 created: 2026-04-11
-updated: 2026-04-15
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -16,10 +16,12 @@ source_pages:
   - wiki/sources/2026-04-11-kelly-mcgonigal-willpower-and-self-control.md
   - wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more.md
   - wiki/sources/2026-04-15-procrastination-holds-you-back.md
+  - wiki/sources/2026-04-16-how-to-quiet-your-ego.md
 related:
   - wiki/concepts/health/mindful-curiosity.md
   - wiki/concepts/health/experiential-avoidance.md
   - wiki/concepts/health/stress-mindset.md
+  - wiki/concepts/health/quiet-ego.md
   - wiki/concepts/productivity/willpower.md
   - wiki/entities/ron-siegel.md
   - wiki/entities/judson-brewer.md
@@ -54,6 +56,10 @@ Mindfulness is present-moment awareness practiced with acceptance, nonjudgment, 
   - thoughts are treated less as content to analyze and more as mind activity to watch without negotiating
   - sitting with boredom and refusing alternate stimulation becomes a training ground for noncompliance with urges
   - this sharpens the difference between mindfulness as gentle awareness and mindfulness as behavioral defusion under pressure
+- [[wiki/sources/2026-04-16-how-to-quiet-your-ego|How to Quiet Your Ego]] adds a quieter-self layer:
+  - mindfulness is presented as a route to `detached awareness`, where thoughts and emotions are noticed without being treated as the self's essence
+  - the page now has a cleaner link between mindfulness and ego flexibility rather than mindfulness and stress reduction alone
+  - the source also adds a stronger identity payoff: mindfulness can help build a less defensive self, not only a calmer mind
 
 # Source Comparisons
 
@@ -62,6 +68,7 @@ Mindfulness is present-moment awareness practiced with acceptance, nonjudgment, 
 - Compared with [[wiki/concepts/health/experiential-avoidance|Experiential Avoidance]], mindfulness is the counter-practice while experiential avoidance is the maladaptive process being interrupted.
 - Compared with [[wiki/concepts/productivity/willpower|Willpower]], mindfulness is not the whole self-control system but one of the clearest ways to stop urges from turning immediately into behavior.
 - Compared with [[wiki/concepts/health/overthinking|Overthinking]], mindfulness is the more stable attention stance while overthinking names the loop that inward attention can either expose or accidentally feed.
+- Compared with [[wiki/concepts/health/quiet-ego|Quiet Ego]], mindfulness is narrower and more practice-centered. Mindfulness is one major route to quiet ego, but quiet ego includes broader identity flexibility, perspective-taking, and growth-mindedness.
 - Compared with [[wiki/syntheses/productivity/mind-training-procrastination-framework|Mind-Training Procrastination Framework]], this page defines the broader awareness stance, while the newer synthesis applies a more austere observer model to procrastination and action-blocks specifically.
 
 # Tensions / Open Questions
@@ -72,12 +79,14 @@ Mindfulness is present-moment awareness practiced with acceptance, nonjudgment, 
 - The newer Kelly source adds another tension: mindfulness is often recruited in the service of self-control, but that can become covert self-suppression if curiosity and self-compassion drop out.
 - The Naval source adds a different tension: framing meditation as life-reorganizing truth exposure is powerful, but it risks collapsing distinct practices such as contemplative training, philosophy reading, therapy, and psychedelic work into one bucket.
 - The newest procrastination source adds another tension from the opposite direction: if mindfulness is reframed too strongly as distrust of the mind, the branch risks losing the acceptance, kindness, and nuance that make awareness sustainable rather than adversarial.
+- The quiet-ego source adds a neighboring tension: loosening identification with thoughts can improve freedom, but the vault still needs better boundaries for when self-distancing becomes dissociation, vagueness, or anti-agency.
 
 # Related Pages
 
 - [[wiki/concepts/health/mindful-curiosity|Mindful Curiosity]]
 - [[wiki/concepts/health/experiential-avoidance|Experiential Avoidance]]
 - [[wiki/concepts/health/stress-mindset|Stress Mindset]]
+- [[wiki/concepts/health/quiet-ego|Quiet Ego]]
 - [[wiki/concepts/productivity/willpower|Willpower]]
 - [[wiki/entities/ron-siegel|Ron Siegel]]
 - [[wiki/entities/judson-brewer|Judson Brewer]]

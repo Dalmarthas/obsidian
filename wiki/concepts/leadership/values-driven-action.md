@@ -2,7 +2,7 @@
 type: concept
 title: Values-Driven Action
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -15,6 +15,7 @@ source_pages:
   - wiki/sources/2026-04-11-values-motivation-and-sustainable-self-improvement.md
   - wiki/sources/2026-04-11-matthew-mcconaughey-on-fame-commitment-and-meaning.md
   - wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable.md
+  - wiki/sources/2026-04-16-how-to-succeed-at-anything.md
 related:
   - wiki/concepts/leadership/locus-of-control.md
   - wiki/concepts/leadership/meaning-through-responsibility.md
@@ -43,6 +44,10 @@ Values-driven action is the principle of organizing difficult effort around stab
 - It also warns that `being the best` often hides insecurity and comparative status hunger rather than clarifying what the work is truly for.
 - The source adds a practical filter: in hard moments, values help ask whether progress or comfort matters more, and whether tomorrow's self is more likely to feel pride or regret.
 - It also adds an anti-avoidance rule: imperfect early application is usually more growth-producing than waiting until the self-image feels ready.
+- [[wiki/sources/2026-04-16-how-to-succeed-at-anything]] reinforces the same branch with a stronger `human element` diagnosis:
+  - success formulas can be directionally correct while still failing in practice because shame, avoidance, or prestige hunger sabotage follow-through
+  - the page now makes reinforcement more explicit: early imperfect use helps the brain experience effort as worthwhile before dropout logic takes over
+  - it also sharpens the anti-comparison rule by treating `be the best` as an especially fragile target because it has no stable endpoint
 - The Matthew McConaughey source deepens the stakes of the concept by showing values in collision with fame, money, and typecast identity. In that branch, values-driven action may require visible sacrifice and tolerated uncertainty, not just inner clarity.
 - [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable]] adds a governance layer: values do not only motivate action, they may also need to be ranked into a working hierarchy so competing drives can be organized instead of fought impulsively.
 - The newer Simon Sinek source adds a discovery-and-alignment layer:
@@ -62,6 +67,7 @@ Values-driven action is the principle of organizing difficult effort around stab
 - Compared with [[wiki/concepts/leadership/growth-mindset|Growth Mindset]], this concept is less about whether ability can improve and more about what source of motivation remains stable enough to keep improvement going.
 - Compared with [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]], this page is less about protecting a future self in general and more about choosing effort that is meaningful enough to survive discomfort in the present.
 - Compared with [[wiki/concepts/leadership/owners-mentality|Owner's Mentality]], this page is more motivationally diagnostic and less structural. Values-driven action asks why the commitment is worth it; owner's mentality asks whether the person has really entered the commitment fully.
+- Compared with [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], this page now also carries a stronger anti-fantasy correction: excellence goals fail when they are organized around comparison-heavy identity repair rather than around values concrete enough to survive ordinary imperfection.
 
 # Tensions / Open Questions
 
@@ -70,10 +76,12 @@ Values-driven action is the principle of organizing difficult effort around stab
 - The McConaughey layer adds another risk: values can become confused with romantic attachment to struggle unless the person can still tell alignment apart from egoic martyrdom.
 - The branch still needs stronger guidance for distinguishing authentic values from inherited expectations, ego defenses, or prestige addiction in disguise.
 - The newer Simon Sinek source sharpens that gap: if people use emotional reaction and friend feedback to infer a fixed `why`, the vault still needs better tests for when that pattern is illuminating versus when it hardens into a flattering story.
+- The newer Alok Kanojia source adds a neighboring ambiguity: early reinforcement through imperfect use is helpful, but the vault still needs better guidance on when applying partial skill early is wise and when it risks premature teaching, poor standards, or overexposure.
 
 # Related Pages
 
 - [[wiki/sources/2026-04-11-values-motivation-and-sustainable-self-improvement|Values, Motivation, and Sustainable Self-Improvement]]
+- [[wiki/sources/2026-04-16-how-to-succeed-at-anything|How To Succeed At Anything]]
 - [[wiki/concepts/leadership/locus-of-control|Locus of Control]]
 - [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]

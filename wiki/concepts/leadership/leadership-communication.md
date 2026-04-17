@@ -2,7 +2,7 @@
 type: concept
 title: Leadership Communication
 created: 2026-04-07
-updated: 2026-04-13
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -19,6 +19,7 @@ source_pages:
   - wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025.md
   - wiki/sources/2026-04-10-simon-sinek-golden-circle-framework.md
   - wiki/sources/2026-04-13-how-to-think-on-your-feet.md
+  - wiki/sources/2026-04-16-why-introverts-struggle-with-charisma.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/golden-circle.md
@@ -29,6 +30,7 @@ related:
   - wiki/syntheses/business/simon-sinek-golden-circle-framework.md
   - wiki/syntheses/leadership/clinton-leadership-framework.md
   - wiki/syntheses/cross-source/communication-and-influence-models.md
+  - wiki/syntheses/communication/introvert-charisma-framework.md
 ---
 
 # What It Is
@@ -69,6 +71,10 @@ Leadership communication is the art of helping people understand a situation, tr
   - leaders are often judged not only by formal speeches but by how they elaborate, clarify, and answer in live moments
   - concise point-first responses often read as stronger leadership than long contextual run-ups
   - question anticipation is part of communication readiness, not an optional polish step
+- [[wiki/sources/2026-04-16-why-introverts-struggle-with-charisma]] adds a visibility-and-presence layer:
+  - some leaders fail to register not because they lack ideas or integrity, but because social attention distorts their delivery signal
+  - eye-contact distress and self-referential embarrassment can make thoughtful people look uncertain, withdrawn, or less compelling than they are
+  - prepared answers, clearer personal direction, and repeated tolerance for being seen can therefore function as leadership communication training
 
 # Source Comparisons
 
@@ -82,6 +88,7 @@ Leadership communication is the art of helping people understand a situation, tr
 - Peterson is strongest on narrative legitimacy inside institutions: the message has to justify the game itself, not merely excite people about goals after the structure is already assumed.
 - The newer Peterson anti-`motivation` source is strongest on communication as meaning design: the leader is not just transmitting information, but removing the need for shallow motivational theater by making the work intelligible enough to want.
 - The new `think on your feet` source is strongest on room-level response competence: the leader who can clarify, answer, and stop rambling under live scrutiny preserves credibility in moments where broad vision alone is not enough.
+- The introvert-charisma source is strongest on projection bottlenecks: it explains why coherence, honesty, and direction may still fail to read as leadership if being seen itself remains highly distressing.
 
 # Tensions / Open Questions
 
@@ -91,6 +98,7 @@ Leadership communication is the art of helping people understand a situation, tr
 - In some high-friction sales or governance contexts, the leader may need to surface capability or proof early, so the practical challenge is sequencing rather than pretending institutional credibility never matters.
 - The Peterson source adds a coercion risk: a compelling story can align people more honestly, but it can also become a prettier mask for low-voluntariness if the role is not genuinely negotiable.
 - The newer Peterson source adds a material-reality tension: leaders may reject `motivation` language rhetorically while still failing to address pay, overload, and incentive design, all of which shape whether the story can be believed.
+- The introvert-charisma source adds an adaptation tension: leadership communication advice can quietly assume comfort with visibility, so the branch still needs better accommodation for temperament, neurotype, trauma history, and culturally different gaze norms.
 
 # Related Pages
 
@@ -100,6 +108,7 @@ Leadership communication is the art of helping people understand a situation, tr
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/communication/thinking-on-your-feet|Thinking on Your Feet]]
+- [[wiki/syntheses/communication/introvert-charisma-framework|Introvert Charisma Framework]]
 - [[wiki/syntheses/business/simon-sinek-golden-circle-framework|Simon Sinek Golden Circle Framework]]
 - [[wiki/syntheses/leadership/jordan-peterson-leadership-framework|Jordan Peterson Leadership Framework]]
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]

@@ -2,7 +2,7 @@
 type: concept
 title: Conscientiousness
 created: 2026-04-12
-updated: 2026-04-15
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -17,6 +17,7 @@ source_pages:
   - wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable.md
   - wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson.md
   - wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious.md
+  - wiki/sources/2026-04-16-what-high-performers-know-that-you-dont.md
 related:
   - wiki/concepts/productivity/future-self-prioritization.md
   - wiki/concepts/productivity/value-hierarchy.md
@@ -51,6 +52,9 @@ Conscientiousness in the current vault is the tendency to be reliable, effortful
   - conscientiousness is reframed less as fixed temperament and more as a trainable pattern of setting aside immediate desire
   - chosen altruism is treated as a practical training ground because it repeatedly demands that self-serving impulses be overruled
   - the page therefore now distinguishes trait description from trait-rehearsal method more clearly
+- [[wiki/sources/2026-04-16-what-high-performers-know-that-you-dont]] adds a boundary correction to that same layer:
+  - some helping behavior may train self-restraint, but repeated rescue can also cap long-term growth and preserve dependence
+  - the concept now distinguishes bounded service from compulsive usefulness more clearly
 
 # Source Comparisons
 
@@ -68,6 +72,7 @@ Conscientiousness in the current vault is the tendency to be reliable, effortful
 - The current vault still needs stronger sources distinguishing industriousness from orderliness, and trait stability from trainable habit scaffolding.
 - The Peterson sources suggest conscientiousness is trainable through structure, and the newer Kanojia source suggests it may also be trainable through prosocial impulse-control rehearsal, but the vault still needs better evidence on the limits of both claims.
 - The newer source also adds a boundary question: when does altruism strengthen conscientiousness, and when does it become martyrdom, resentment, or exploitable self-erasure?
+- The newest Alok Kanojia source sharpens that tension further by arguing that some forms of immediate compassion may undermine long-range responsibility, skill-building, or future contribution.
 
 # Related Pages
 

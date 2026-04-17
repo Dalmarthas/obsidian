@@ -2,7 +2,7 @@
 type: concept
 title: Career Blueprint
 created: 2026-04-07
-updated: 2026-04-13
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -14,6 +14,8 @@ source_pages:
   - wiki/sources/2026-04-10-casey-neistat-permissionless-creation.md
   - wiki/sources/2026-04-13-the-best-path-to-success-robert-greene.md
   - wiki/sources/2026-04-13-be-rare-and-valuable-so-good-they-cant-ignore-you.md
+  - wiki/sources/2026-04-16-should-you-follow-your-passion-solved.md
+  - wiki/sources/2026-04-16-doing-this-almost-guarantees-you-get-hired-in-a-job-interview.md
 related:
   - wiki/concepts/business/creative-entrepreneurship.md
   - wiki/concepts/business/permissionless-creation.md
@@ -25,8 +27,10 @@ related:
   - wiki/concepts/business/framework-driven-action.md
   - wiki/syntheses/business/casey-neistat-permissionless-creation-framework.md
   - wiki/syntheses/business/cal-newport-career-capital-framework.md
+  - wiki/syntheses/business/passion-and-practicality-framework.md
   - wiki/syntheses/business/steve-jobs-stanford-framework.md
   - wiki/syntheses/business/welteroth-career-framework.md
+  - wiki/syntheses/business/job-interview-storytelling-framework.md
 ---
 
 # What It Is
@@ -66,6 +70,14 @@ A career blueprint is the long-range model of where a career is trying to go, ho
   - glamorous external examples are weak evidence
   - visible fun, status, or momentum can hide dissatisfaction and strategic shallowness
   - the blueprint should therefore be guided by fit and compounding depth rather than by comparison-driven pivots
+- [[wiki/sources/2026-04-16-should-you-follow-your-passion-solved]] adds a risk-adjustment layer:
+  - a career plan should account for field structure, power-law odds, runway, and life stage rather than pretending every path has equal payoff geometry
+  - adjacent roles, hybrid job-plus-passion structures, and explicit deadlines are treated as legitimate blueprint moves rather than as signs of cowardice
+  - the source also adds a warning that some adjacent paths become `shadow careers` if they consume the energy needed for the intended arc
+- [[wiki/sources/2026-04-16-doing-this-almost-guarantees-you-get-hired-in-a-job-interview]] adds a translation layer from blueprint to hiring conversation:
+  - the candidate needs a concise narrative that turns background into a role-relevant through line
+  - an interview is partly a test of whether your past can be interpreted coherently, not just listed chronologically
+  - this sharpens the blueprint concept by implying that career logic should be narratable, not merely privately understood
 
 # Tensions / Open Questions
 
@@ -75,6 +87,8 @@ A career blueprint is the long-range model of where a career is trying to go, ho
 - Casey sharpens the first tension: blueprinting becomes self-protection if it postpones shipping work that could immediately test whether the path has real energy.
 - Greene adds a different risk: anti-fragmentation advice can harden into premature narrowing if someone has not yet explored enough to discover a real through line.
 - Newport adds a complementary risk: `build capital first` can become a trap if someone keeps compounding skill in a field that is valuable but increasingly misaligned.
+- The newest passion source adds a planning ambiguity the branch should keep: when does a deadline create healthy clarity, and when does it impose false urgency on a field whose feedback cycles are genuinely long?
+- The new interview source adds a narrower but useful tension: a coherent blueprint is valuable, but the story told about it can become too polished or opportunistic if it is optimized only for hireability rather than truth.
 
 # Related Pages
 
@@ -86,7 +100,9 @@ A career blueprint is the long-range model of where a career is trying to go, ho
 - [[wiki/concepts/business/financial-confidence|Financial Confidence]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]
 - [[wiki/syntheses/business/cal-newport-career-capital-framework|Cal Newport Career Capital Framework]]
+- [[wiki/syntheses/business/passion-and-practicality-framework|Passion and Practicality Framework]]
 - [[wiki/syntheses/business/casey-neistat-permissionless-creation-framework|Casey Neistat Permissionless Creation Framework]]
 - [[wiki/syntheses/business/steve-jobs-stanford-framework|Steve Jobs Stanford Framework]]
 - [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]]
+- [[wiki/syntheses/business/job-interview-storytelling-framework|Job Interview Storytelling Framework]]
 - [[wiki/sources/2026-04-13-the-best-path-to-success-robert-greene|The Best Path To Success - Robert Greene]]

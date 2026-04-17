@@ -2,7 +2,7 @@
 type: concept
 title: Success Metrics
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -19,6 +19,7 @@ source_pages:
   - wiki/sources/2026-04-12-seth-godin-reveals-5-secrets-for-great-brand-marketing.md
   - wiki/sources/2026-04-13-the-4-disciplines-of-execution.md
   - wiki/sources/2026-04-13-measure-what-matters-by-john-doerr.md
+  - wiki/sources/2026-04-16-why-this-baseball-team-has-a-4-2-million-person-waitlist-with-jesse-cole.md
 related:
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/business/smallest-viable-audience.md
@@ -28,6 +29,7 @@ related:
   - wiki/concepts/business/values-driven-companies.md
   - wiki/concepts/business/okrs.md
   - wiki/concepts/business/stretch-goals.md
+  - wiki/concepts/business/experience-design.md
   - wiki/syntheses/business/4dx-execution-framework.md
   - wiki/syntheses/business/john-doerr-okr-framework.md
   - wiki/syntheses/business/simon-sinek-success-metrics-framework.md
@@ -67,6 +69,13 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - That same source also adds a difficulty-calibration rule:
   - repeated 100 percent completion can signal timid targets rather than real excellence
   - some scoreboards should therefore measure stretch as well as attainment
+- The Jesse Cole source adds an inclusion metric:
+  - a better scoreboard asks whether the least prioritized customer segment still gets delight, attention, and memorable moments
+  - `upper deck stories` can reveal brand truth more honestly than average revenue per customer
+  - seat-level fairness can be a leading indicator of whether a `customers first` standard is real
+- That same source also adds an anti-extraction metric layer:
+  - maximizing fees, sponsorship clutter, or short-run monetization can improve visible numbers while quietly damaging long-run trust
+  - return travel, family tradition, and referral depth may be more strategically important than squeezing each event for more cash
 
 # Source Comparisons
 
@@ -79,6 +88,7 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - The newest Seth brand-marketing source adds a mode-discipline comparison: some scoreboards are not merely incomplete, but category mistakes, because they evaluate long-horizon brand meaning as if it were short-horizon funnel performance.
 - The 4DX source is strongest on scoreboard usability: it cares less about deep philosophical completeness than about whether a team can tell in seconds whether it is winning and what it should do next.
 - The Doerr source is strongest on metric architecture under ambition: it shows how the scoreboard can hold a stretch objective together without collapsing into either vague inspiration or raw KPI chasing.
+- Jesse Cole is strongest on lived customer-truth metrics: he reframes the scoreboard around belonging, fairness, repeat story-worthiness, and the experience of the worst seat rather than around extraction-maximizing event economics.
 
 # Tensions / Open Questions
 
@@ -91,6 +101,7 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - The main open question is how to keep success metrics rich enough to reflect reality without making them so complex that nobody can use them.
 - The 4DX source adds another tension: a simple scoreboard can create urgency and engagement, but it can also distort reality if simplification removes too much context or rewards the wrong proxy actions.
 - The Doerr source adds a neighboring tension: stretch metrics can energize growth, but if leaders use them performatively, chronic yellow and red status can become anxiety theater instead of honest adaptation.
+- The Jesse Cole layer adds a scarcity tension: waitlists and passionate fandom can signal success, but they can also hide accessibility problems or operational fragility if the organization treats demand theater as proof that the model is universally healthy.
 
 # Related Pages
 
@@ -103,6 +114,7 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
 - [[wiki/concepts/business/okrs|OKRs]]
 - [[wiki/concepts/business/stretch-goals|Stretch Goals]]
+- [[wiki/concepts/business/experience-design|Experience Design]]
 - [[wiki/syntheses/business/4dx-execution-framework|4DX Execution Framework]]
 - [[wiki/syntheses/business/john-doerr-okr-framework|John Doerr OKR Framework]]
 - [[wiki/syntheses/business/simon-sinek-success-metrics-framework|Simon Sinek Success Metrics Framework]]

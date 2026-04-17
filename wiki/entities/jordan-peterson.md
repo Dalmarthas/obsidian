@@ -2,7 +2,7 @@
 type: entity
 title: Jordan Peterson
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-16
 status: active
 tags:
   - entity
@@ -22,6 +22,7 @@ source_pages:
   - wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson.md
   - wiki/sources/2026-04-12-your-job-is-not-to-motivate-people.md
   - wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson.md
+  - wiki/sources/2026-04-16-jordan-peterson-overcoming-imposter-syndrome.md
 related:
   - wiki/concepts/communication/assertiveness.md
   - wiki/concepts/communication/boundary-language.md
@@ -42,6 +43,7 @@ related:
   - wiki/concepts/productivity/restorative-breaks.md
   - wiki/concepts/productivity/willpower.md
   - wiki/concepts/productivity/workflow-redesign.md
+  - wiki/concepts/health/imposter-syndrome.md
   - wiki/concepts/others/childhood-development-triangle.md
   - wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy.md
   - wiki/syntheses/leadership/jordan-peterson-responsibility-framework.md
@@ -65,6 +67,7 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - He now also gives that same leadership branch a sharper anti-`motivation` frame: engagement should emerge from worthwhile direction, explicit mutual benefit, and life-plan alignment rather than from managerial energy theater.
 - He now also gives the leadership branch a character-and-reliability frame: followership depends on whether a leader is trustworthy, conscientious, and consistent enough that others can organize themselves around what is promised.
 - He now also gives the productivity and communication branches a compact anti-chaos frame: daily life gets steadier when self-worth is tied to progress against yesterday rather than to status competition, and when avoided truths are surfaced before they harden into larger problems.
+- He now also gives the health-and-identity branch a status-transition frame for imposter feelings: honest beginnerhood, question-driven learning, neuroticism-sensitive exposure, and the difference between stretching into a role versus bluffing competence.
 - Across both branches, he strengthens the link between self-understanding and deliberate corrective action rather than passive self-description.
 
 # Evidence In This Vault
@@ -84,6 +87,7 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - The anti-motivation source sharpens that eighth layer: leadership communication becomes most effective when it states goal, role, and mutual benefit clearly enough that progress itself starts generating motivation.
 - The character-in-leadership source adds a ninth layer: leadership is also framed as characterological reliability, where conscientiousness, keeping one's word, and being predictably trustworthy matter more than rhetorical style by themselves.
 - The `12 Rules for Life` summary adds a tenth layer: self-management becomes a daily anti-chaos loop built from comparing today with yesterday rather than with other people, then auditing where dishonesty or avoided conversations are blocking real progress.
+- The new imposter-syndrome source adds an eleventh layer: role growth often requires honest `acting as if`, repeated exposure to feared challenge, and willingness to ask questions publicly without treating novice status as moral failure.
 
 # Related Pages
 
@@ -95,6 +99,7 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]]
 - [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]]
 - [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson|12 Rules for Life by Jordan Peterson]]
+- [[wiki/sources/2026-04-16-jordan-peterson-overcoming-imposter-syndrome|Jordan Peterson Overcoming Imposter Syndrome]]
 - [[wiki/concepts/communication/assertiveness|Assertiveness]]
 - [[wiki/concepts/communication/boundary-language|Boundary Language]]
 - [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]]
@@ -110,6 +115,7 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/concepts/productivity/willpower|Willpower]]
 - [[wiki/concepts/productivity/workflow-redesign|Workflow Redesign]]
+- [[wiki/concepts/health/imposter-syndrome|Imposter Syndrome]]
 - [[wiki/concepts/others/childhood-development-triangle|Childhood Development Triangle]]
 - [[wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy|Assertiveness, Agreeableness, and Self-Advocacy]]
 - [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework|Jordan Peterson Responsibility Framework]]

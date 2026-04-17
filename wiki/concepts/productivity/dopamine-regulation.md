@@ -2,7 +2,7 @@
 type: concept
 title: Dopamine Regulation
 created: 2026-04-10
-updated: 2026-04-14
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -15,6 +15,7 @@ source_pages:
   - wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi.md
   - wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more.md
   - wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant.md
+  - wiki/sources/2026-04-16-why-youre-struggling-with-discipline.md
 related:
   - wiki/concepts/productivity/flow.md
   - wiki/concepts/productivity/restorative-breaks.md
@@ -23,6 +24,7 @@ related:
   - wiki/concepts/productivity/samoupravlenie.md
   - wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework.md
   - wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework.md
+  - wiki/syntheses/productivity/authentic-discipline-framework.md
 ---
 
 # What It Is
@@ -52,6 +54,10 @@ Dopamine regulation in the current vault means managing the reward environment s
   - boredom can trigger wanting, striving, and a promise to be happy later
   - fulfillment is often brief before the mind resets and manufactures a new desire
   - the practical implication is that regulating reward only at the level of apps or habits is incomplete if the person keeps outsourcing peace to the next acquisition or milestone
+- [[wiki/sources/2026-04-16-why-youre-struggling-with-discipline]] adds a comparison-value layer:
+  - cheap entertainment can look rational when the future being served feels emotionally equivalent to present leisure
+  - the source therefore links reward capture not only to fast stimulation, but to failure to imagine a more meaningful competing payoff
+  - this sharpens the branch from `reduce tempting inputs` toward `create a future that wins the internal comparison`
 
 # Source Comparisons
 
@@ -61,6 +67,7 @@ Dopamine regulation in the current vault means managing the reward environment s
 - Compared with [[wiki/concepts/productivity/peak-hours|Peak Hours]], dopamine regulation focuses less on cognitive timing and more on reward timing and trigger exposure.
 - Compared with [[wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework|Mihaly Csikszentmihalyi Flow Framework]], this page is narrower and more behavior-design-oriented. The flow synthesis asks what kind of life feels vivid and fulfilling; dopamine regulation asks how the reward environment blocks entry into that kind of life.
 - Compared with the newer Naval happiness source, this page stays more local and behavioral. Dopamine regulation redesigns the reward environment; the happiness source asks the more upstream question of whether constant desire-escalation is itself the deeper trap.
+- Compared with [[wiki/syntheses/productivity/authentic-discipline-framework|Authentic Discipline Framework]], dopamine regulation is more environmental and reward-architectural. The newer synthesis is more motivationally selective and asks whether the future being pursued is internally chosen enough to compete with easy pleasure.
 
 # Tensions / Open Questions
 
@@ -69,6 +76,7 @@ Dopamine regulation in the current vault means managing the reward environment s
 - The branch still needs stronger sources that separate sound neuroscience from oversimplified online self-optimization rhetoric.
 - The newer flow source adds a caution in the other direction: critique of passive media can become too categorical if it fails to distinguish numbing default consumption from genuine rest, play, or low-demand recovery.
 - The Naval source adds another risk: `cheap dopamine` is vivid and memorable language, but it can quietly moralize reward problems that may also reflect loneliness, stress, depression, sleep debt, or lack of meaningful alternatives.
+- The newest discipline source adds a neighboring risk: if every motivation problem is interpreted as insufficiently authentic desire, reward-environment design may be underused even when the main issue is simply that the easy option has been made overwhelmingly available.
 
 # Related Pages
 
@@ -79,6 +87,7 @@ Dopamine regulation in the current vault means managing the reward environment s
 - [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
 - [[wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework|Mihaly Csikszentmihalyi Flow Framework]]
 - [[wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework|Difficult but Rewarding Behaviors Framework]]
+- [[wiki/syntheses/productivity/authentic-discipline-framework|Authentic Discipline Framework]]
 - [[wiki/sources/2026-04-10-difficult-rewarding-behaviors-and-dopamine-regulation|Difficult Rewarding Behaviors and Dopamine Regulation]]
 - [[wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi|Flow by Mihaly Csikszentmihalyi]]
 - [[wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more|Naval Ravikant on Happiness, Anxiety, and More]]

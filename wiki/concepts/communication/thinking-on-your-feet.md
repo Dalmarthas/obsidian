@@ -2,7 +2,7 @@
 type: concept
 title: Thinking on Your Feet
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 status: active
 tags:
   - concept
@@ -22,12 +22,19 @@ source_pages:
   - wiki/sources/2026-04-13-effective-body-language-for-public-speaking.md
   - wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message.md
   - wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words.md
+  - wiki/sources/2026-04-16-why-introverts-struggle-with-charisma.md
+  - wiki/sources/2026-04-16-9-habits-for-clearer-speaking-i-wish-i-knew-sooner.md
+  - wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling.md
+  - wiki/sources/2026-04-16-doing-this-almost-guarantees-you-get-hired-in-a-job-interview.md
+  - wiki/sources/2026-04-16-give-me-14-minutes-and-ill-help-you-think-and-speak-faster.md
 related:
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/calibrated-questions.md
   - wiki/concepts/communication/charismatic-presence.md
   - wiki/concepts/leadership/leadership-communication.md
   - wiki/syntheses/communication/thinking-on-your-feet-framework.md
+  - wiki/syntheses/communication/introvert-charisma-framework.md
+  - wiki/syntheses/communication/clear-speaking-habits-framework.md
 ---
 
 # What It Is
@@ -96,6 +103,28 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
   - the first surge matters less than the secondary spike caused by catastrophic self-commentary
   - `and it's okay` functions as an acceptance move that stops symptoms from being re-labeled as danger
   - the first couple of minutes of speaking become a specific downregulation window rather than a vague endurance test
+- [[wiki/sources/2026-04-16-why-introverts-struggle-with-charisma]] adds a social-entry refinement:
+  - many live-speaking failures are downstream of discomfort with eye contact and being seen
+  - prepared answers, clearer life direction, and micro exposure to eye contact can free up more bandwidth for real-time clarity
+  - simple interruption phrases and physical speak-up cues also make spontaneous contribution more trainable for quieter people
+- [[wiki/sources/2026-04-16-9-habits-for-clearer-speaking-i-wish-i-knew-sooner]] adds a message-delivery refinement:
+  - pauses, slowing key lines, and declarative sentences make the branch more explicit about how a thought should sound once retrieved
+  - `finish one thought at a time` strengthens the branch's anti-rambling logic from the cognition side rather than only from the anxiety side
+  - `CCC` and analogy use add lighter explanation scaffolds for moments when the task is not merely answering, but making the answer easy to follow
+  - the source also contributes a practical vocal layer through warm-ups, breathing, and projection as conditions for cleaner speech under load
+- [[wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling|The 3-2-1 Speaking Trick That Forces You To Stop Rambling]] adds the lightest fallback scaffold in the current branch:
+  - rambling is framed as unstructured cognitive overflow rather than pure ignorance
+  - the speaker can pick `three steps`, `two types`, or `one thing` as a fast answer container before the content is fully formed
+  - this gives the branch a true emergency-use micro-structure for meetings, interviews, and random prompts where longer frameworks are too heavy
+  - the source also sharpens signposting as a dual-purpose move that guides the listener while stabilizing the speaker's own retrieval
+- [[wiki/sources/2026-04-16-doing-this-almost-guarantees-you-get-hired-in-a-job-interview|Doing This (Almost) GUARANTEES You Get Hired In A Job Interview]] adds a useful interview-specific refinement:
+  - in some pressured speaking settings, the best `thinking on your feet` move is to avoid pure improvisation by prebuilding the highest-leverage answer
+  - `Tell me about yourself` is treated as predictable enough that strong performance should come from prepared narrative rather than reactive phrasing
+  - the source also adds a distinction between generic self-description and evidence-backed role-fit storytelling
+- [[wiki/sources/2026-04-16-give-me-14-minutes-and-ill-help-you-think-and-speak-faster|Give me 14 minutes and I'll help you think & speak faster]] adds a hardware-plus-software refinement:
+  - faster live response is partly constrained by articulation and breath mechanics, not just by mental structure
+  - the source adds measurable drills for WPM, single-breath counting, and troubleshooting whether the bottleneck is mouth movement, airflow, or knowledge depth
+  - it also reinforces that deeper understanding, not only memorized phrasing, is what makes real-time explanation faster and more flexible
 
 # Source Comparisons
 
@@ -105,9 +134,14 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 - Compared with [[wiki/concepts/communication/charismatic-presence|Charismatic Presence]], this concept is more cognitive and structural. Presence helps the answer land; thinking on your feet explains how to construct the answer without losing the thread. The newer Abrahams source narrows the overlap by treating presence as only one layer inside a larger response system.
 - The new body-language source narrows that gap further by showing how nonverbal steadiness supports retrieval, credibility, and audience comfort during live speaking itself, not just in broader social presence.
 - Compared with [[wiki/concepts/leadership/leadership-communication|Leadership Communication]], this page is more moment-level and tactical. Leadership communication explains how leaders create trust and direction over time; thinking on your feet explains how they avoid collapsing into vagueness in the live moment. The newest Abrahams source strengthens this overlap by treating audience comfort and conversational framing as part of effective live leadership presence.
+- Compared with [[wiki/syntheses/communication/introvert-charisma-framework|Introvert Charisma Framework]], this page is more answer-construction and pressure-management oriented, while the new synthesis is more about reducing the shame and visibility barriers that stop introverts from entering the exchange cleanly in the first place.
 - Compared with the earlier `Speaking Up Without Freaking Out` source, the new `No Freaking Speaking` source is less focused on symptom management and more focused on trigger diagnosis, audience visualization, and pre-speech present-orientation choices.
 - Compared with the earlier long-form `Think Faster, Talk Smarter` source, the new core-message source is less expansive but more mnemonic. It is strongest where it compresses the method into memorable cues like `3S`, `stick your landings`, and `brick not cathedral`.
 - Compared with the earlier anxiety sources, the new adrenaline source is narrower but more mechanistic: it focuses less on broad regulation and more on the moment where symptom-fear turns one wave of arousal into two.
+- Compared with [[wiki/syntheses/communication/clear-speaking-habits-framework|Clear Speaking Habits Framework]], this concept remains more pressure- and response-oriented. The newer synthesis is narrower and more concerned with speech legibility, vocal readiness, and explanation mechanics.
+- Compared with the longer Abrahams-style structures already in the branch, the new `3-2-1` source is much thinner but also faster to retrieve. Its main value is not explanatory depth, but giving the speaker a minimal finite container when there is no time to build anything more elaborate.
+- Compared with the new interview source, most of this concept is about real-time response construction once the question arrives, while that source is strongest on the opposite move: deciding which answers are so predictable that they should already be designed before the room begins.
+- Compared with the new faster-speaking source, most of this concept remains more cognitive and situational, while that source is strongest on the physical and measurable side of fluency: articulation, airflow, WPM progression, and speech-speed bottleneck diagnosis.
 
 # Tensions / Open Questions
 
@@ -125,6 +159,10 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 - The new adrenaline source improves the branch's acceptance logic, but the vault still needs stronger evidence on where ordinary public-speaking adrenaline ends and clinically significant panic begins.
 - The Harvey-style source adds a useful pressure-test distinction, but it also sharpens a risk: the branch can be pulled toward style-first status performance unless the vault keeps clarity, ethics, and context boundaries explicit.
 - The branch still needs a cleaner boundary for when a playful non-literal answer is tactically smart versus when it becomes evasive, flippant, or unsafe.
+- The new speaking-habits source adds a practical ambiguity too: very simple structures like `CCC` can reduce cognitive load, but the branch still needs better guidance on when such compression clarifies versus when it flattens necessary nuance.
+- The new `3-2-1` source makes the same compression problem sharper: an ultra-light scaffold can stop rambling, but it can also make the answer sound mechanical or simplistic if the underlying thought has not actually been sorted.
+- The new interview source adds a different tension: preparation clearly helps, but the branch still needs a cleaner line between well-prepared narrative and over-rehearsed delivery that stops sounding present.
+- The new faster-speaking source adds another boundary question: when does increased speed support thinking on your feet, and when does it merely create the impression of fluency while reducing listener comprehension?
 
 # Related Pages
 
@@ -133,6 +171,7 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 - [[wiki/concepts/communication/charismatic-presence|Charismatic Presence]]
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/syntheses/communication/thinking-on-your-feet-framework|Thinking on Your Feet Framework]]
+- [[wiki/syntheses/communication/clear-speaking-habits-framework|Clear Speaking Habits Framework]]
 - [[wiki/sources/2026-04-13-how-to-think-on-your-feet|How to Think On Your Feet]]
 - [[wiki/sources/2026-04-13-how-to-think-on-your-feet-harvey-specter-edition|How to Think On Your Feet (Harvey Specter Edition)]]
 - [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams|Think Faster, Talk Smarter with Matt Abrahams]]
@@ -143,3 +182,6 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 - [[wiki/sources/2026-04-13-effective-body-language-for-public-speaking|Effective Body Language for Public Speaking]]
 - [[wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message|Think Faster Talk Smarter by Matt Abrahams Core Message]]
 - [[wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words|How to Manage Adrenaline in Public Speaking 3 Magic Words]]
+- [[wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling|The 3-2-1 Speaking Trick That Forces You To Stop Rambling]]
+- [[wiki/sources/2026-04-16-doing-this-almost-guarantees-you-get-hired-in-a-job-interview|Doing This (Almost) GUARANTEES You Get Hired In A Job Interview]]
+- [[wiki/sources/2026-04-16-give-me-14-minutes-and-ill-help-you-think-and-speak-faster|Give me 14 minutes and I'll help you think & speak faster]]

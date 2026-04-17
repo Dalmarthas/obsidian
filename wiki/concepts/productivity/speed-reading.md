@@ -12,6 +12,7 @@ tags:
   - attention
 source_pages:
   - wiki/sources/2026-04-13-speed-reading-by-kam-knight.md
+  - wiki/sources/2026-04-16-how-to-remember-everything-you-read.md
 related:
   - wiki/concepts/productivity/effective-practice.md
   - wiki/concepts/productivity/focused-and-diffuse-learning-modes.md
@@ -19,6 +20,7 @@ related:
   - wiki/concepts/productivity/learning-pyramid.md
   - wiki/syntheses/productivity/speed-reading-framework.md
   - wiki/syntheses/productivity/attention-and-focus-framework.md
+  - wiki/syntheses/productivity/pacer-reading-and-retention-framework.md
 ---
 
 # What It Is
@@ -49,6 +51,10 @@ Speed reading is a set of methods for increasing reading pace without collapsing
   - higher pace can improve comprehension when the main problem is attention drift
   - the same claim is less trustworthy for highly technical or symbol-dense material
   - comprehension checks therefore matter more than headline speed
+- The PACER source adds a retention-side correction:
+  - faster intake is not the same as stronger memory
+  - reading speed only helps if the material is later digested with a method suited to its type
+  - one failure mode of speed reading is efficient consumption with no matching digestion
 
 # Source Comparisons
 
@@ -56,12 +62,14 @@ Speed reading is a set of methods for increasing reading pace without collapsing
 - Compared with [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]], speed reading is more executional. Oakley's concept explains how concentration and integration alternate; speed reading explains how a reader can move through text with more purpose and less fixation drag.
 - Compared with [[wiki/concepts/productivity/learning-pyramid|Learning Pyramid]], speed reading is earlier in the chain. It improves intake and engagement, but it does not by itself prove recall, explanation, or application.
 - Compared with [[wiki/syntheses/productivity/attention-and-focus-framework|Attention and Focus Framework]], speed reading is a narrower protocol for reading tasks. The focus synthesis covers general attentional state design; this concept applies that logic to text interaction.
+- Compared with the PACER source, this concept is narrower and more intake-focused. PACER is less interested in how fast you move through text and more interested in what kind of post-reading processing the text demands.
 
 # Tensions / Open Questions
 
 - Speed gains can be real while still hiding shallow retention if the reader never checks recall or application afterward.
 - The branch still needs stronger evidence on which genres benefit from higher pace and which demand deliberate slowing.
 - The source treats finger-guiding techniques as low value, but the vault still lacks a stronger contrast source on when pacing tools help reduce regressions for struggling readers.
+- The new PACER source sharpens the first tension further: a reading method can feel efficient while still failing badly if it does not force a shift from consumption to digestion.
 
 # Related Pages
 

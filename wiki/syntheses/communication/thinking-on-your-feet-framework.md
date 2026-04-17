@@ -2,7 +2,7 @@
 type: synthesis
 title: Thinking on Your Feet Framework
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 status: active
 tags:
   - synthesis
@@ -22,6 +22,7 @@ basis:
   - wiki/sources/2026-04-13-effective-body-language-for-public-speaking.md
   - wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message.md
   - wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words.md
+  - wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling.md
   - wiki/concepts/communication/thinking-on-your-feet.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/calibrated-questions.md
@@ -58,7 +59,7 @@ The current branch supports a nine-part framework:
    If the prompt is too wide, ask what specifically matters. Better question boundaries create better response boundaries.
 
 7. Use a simple structure and audience filter.
-   `What-So what-Now what`, `Problem-Solution-Benefit`, and `know-feel-do` make spontaneity more relevant, memorable, and concise. The newest Abrahams source sharpens why this works: structure absorbs part of the cognitive load of saying it so the speaker has more bandwidth left to decide what to say.
+   `What-So what-Now what`, `Problem-Solution-Benefit`, `3-2-1`, and `know-feel-do` make spontaneity more relevant, memorable, and concise. The branch is stronger now because it spans both richer frameworks and an emergency-use micro-scaffold. `3-2-1` is especially useful when the real first job is just to stop the mind from scattering: choose `three steps`, `two types`, or `one thing`, then let the container do part of the retrieval work.
 
 8. Elaborate only enough to create understanding.
    A short example, application, or anecdote can sharpen meaning, but over-elaboration quickly turns into drift.
@@ -122,7 +123,7 @@ The current branch supports a nine-part framework:
 
 # Basis
 
-- Main sources: [[wiki/sources/2026-04-13-how-to-think-on-your-feet|How to Think On Your Feet]], [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams|Think Faster, Talk Smarter with Matt Abrahams]], [[wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques|Think Fast, Talk Smart Communication Techniques]], [[wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams|Speaking Up Without Freaking Out Matt Abrahams]], [[wiki/sources/2026-04-13-think-fast-talk-smart-matt-abrahams|Think Fast Talk Smart Matt Abrahams]], [[wiki/sources/2026-04-13-no-freaking-speaking-managing-public-speaking-anxiety|No Freaking Speaking Managing Public Speaking Anxiety]], [[wiki/sources/2026-04-13-effective-body-language-for-public-speaking|Effective Body Language for Public Speaking]], [[wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message|Think Faster Talk Smarter by Matt Abrahams Core Message]], [[wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words|How to Manage Adrenaline in Public Speaking 3 Magic Words]]
+- Main sources: [[wiki/sources/2026-04-13-how-to-think-on-your-feet|How to Think On Your Feet]], [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams|Think Faster, Talk Smarter with Matt Abrahams]], [[wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques|Think Fast, Talk Smart Communication Techniques]], [[wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams|Speaking Up Without Freaking Out Matt Abrahams]], [[wiki/sources/2026-04-13-think-fast-talk-smart-matt-abrahams|Think Fast Talk Smart Matt Abrahams]], [[wiki/sources/2026-04-13-no-freaking-speaking-managing-public-speaking-anxiety|No Freaking Speaking Managing Public Speaking Anxiety]], [[wiki/sources/2026-04-13-effective-body-language-for-public-speaking|Effective Body Language for Public Speaking]], [[wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message|Think Faster Talk Smarter by Matt Abrahams Core Message]], [[wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words|How to Manage Adrenaline in Public Speaking 3 Magic Words]], [[wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling|The 3-2-1 Speaking Trick That Forces You To Stop Rambling]]
 - Canonical concepts: [[wiki/concepts/communication/thinking-on-your-feet|Thinking on Your Feet]], [[wiki/concepts/communication/effective-communication|Effective Communication]], [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]], [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 
 # Comparisons
@@ -138,6 +139,7 @@ The current branch supports a nine-part framework:
 - Compared with the new body-language source, the rest of the branch is stronger on cognition, listening, and structure, while this source is strongest on how physical delivery either stabilizes or undermines those gains in standing, seated, and online formats.
 - Compared with the new core-message source, the earlier Abrahams pages are richer and more complete, while this source is strongest on recall: it compresses anxiety, anti-perfectionism, silence control, and structure into fast-retrieval cues.
 - Compared with the new adrenaline source, the earlier anxiety pages are broader and more tool-rich, while this source is strongest on one specific failure mode: turning normal arousal into panic by resisting it.
+- Compared with the new `3-2-1` source, most of this synthesis is stronger on diagnosis, listening, and adaptation, while that source is strongest on one narrow problem: preventing cognitive sprawl when a speaker needs a usable answer shape immediately.
 
 # Gaps
 
@@ -153,6 +155,7 @@ The current branch supports a nine-part framework:
 - The new body-language source makes the branch more usable in practice, but the evidence layer still needs stronger research on what nonverbal changes materially improve comprehension and trust versus only changing impressions.
 - The new core-message source improves memorability, but the branch still needs a clearer distinction between a useful mnemonic and a genuinely distinct model.
 - The new adrenaline source strengthens the acceptance layer, but the branch still needs clearer handoff rules for when this kind of self-regulation advice is not enough.
+- The new `3-2-1` source improves fallback speed, but the branch still needs a cleaner rule for when ultra-light list structures clarify the moment and when they oversimplify a question that deserves nuance or a clarifying pause.
 
 # Related Pages
 
@@ -172,3 +175,4 @@ The current branch supports a nine-part framework:
 - [[wiki/sources/2026-04-13-effective-body-language-for-public-speaking|Effective Body Language for Public Speaking]]
 - [[wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message|Think Faster Talk Smarter by Matt Abrahams Core Message]]
 - [[wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words|How to Manage Adrenaline in Public Speaking 3 Magic Words]]
+- [[wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling|The 3-2-1 Speaking Trick That Forces You To Stop Rambling]]

@@ -2,7 +2,7 @@
 type: concept
 title: Authentic Communication
 created: 2026-04-07
-updated: 2026-04-12
+updated: 2026-04-17
 status: active
 tags:
   - concept
@@ -20,6 +20,7 @@ source_pages:
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
   - wiki/sources/2026-04-10-steve-jobs-2005-stanford-commencement.md
+  - wiki/sources/2026-04-17-being-nice-wont-save-you-in-difficult-conversations.md
 related:
   - wiki/concepts/business/mass-intimacy.md
   - wiki/concepts/leadership/leadership-communication.md
@@ -58,6 +59,10 @@ Authentic communication is the practice of speaking in a way that sounds like a 
   - authenticity starts before delivery style, in whether a person can name the recurring value they bring to others
   - trusted friends may hear that pattern more clearly than the person can state it alone
   - emotional resonance can be a useful clue that the language is touching something real, even if it is not sufficient proof by itself
+- The new Jefferson Fisher source adds a conflict-pressure version:
+  - authenticity can fail not only through branding theater or role performance, but also through chronic niceness that keeps saying socially smooth things that are not true
+  - the source argues that repeated self-silencing creates inner hollowness, making authenticity partly a boundary problem rather than only a voice or identity problem
+  - it also distinguishes surface pleasantness from deeper kindness, which broadens the vault's model of truthful communication under relational strain
 
 # Source Comparisons
 
@@ -72,6 +77,7 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - The current Chase Hughes source frames authenticity less as self-expression and more as costly human presence: something grows more real precisely because it cannot be mass-produced by manipulative systems.
 - Jobs frames authenticity as existential authorship: your time is limited, so sounding like yourself is not enough if you are still living someone else's life plan.
 - The newer Simon Sinek source frames authenticity as aligned expression: instead of repeatedly reinventing identity, the task is to discover and consistently live from the deeper contribution that is already there.
+- The newer Fisher source frames authenticity as anti-self-betrayal in live dialogue: a person can sound socially appropriate while becoming less real, so honesty under pressure deserves a place beside voice, values, and self-authorship.
 
 # Tensions / Open Questions
 
@@ -79,6 +85,7 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - Speaking naturally is not the same as speaking carelessly; the strongest sources pair authenticity with preparation, structure, and attention to impact.
 - The new Chase material adds a sharper tension: if making someone feel deeply seen can be simulated by influence technique, the vault needs a better standard for what counts as actual human connection rather than just convincing emotional mimicry.
 - The newer Simon Sinek source adds another tension: `authenticity` can become essentialist myth if people treat early life patterns or emotionally charged feedback as permanently authoritative rather than as strong but revisable clues.
+- The new Fisher source adds another tension: `just be honest` can be used as a license for tactless bluntness, even though the source itself is arguing for calm firmness rather than ego discharge.
 
 # Related Pages
 
