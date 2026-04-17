@@ -16,6 +16,7 @@ source_pages:
   - wiki/sources/2026-04-17-youre-not-responsible-for-their-emotions.md
   - wiki/sources/2026-04-17-being-nice-wont-save-you-in-difficult-conversations.md
   - wiki/sources/2026-04-17-turn-dismissiveness-around-words-that-command-respect.md
+  - wiki/sources/2026-04-17-outsmarting-narcissists-the-praise-or-provoke-trap.md
   - wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness.md
   - wiki/sources/2026-04-13-the-cheat-code-for-controlling-conflict.md
 related:
@@ -71,6 +72,11 @@ Boundary language is concise speech that protects reality, names what is not acc
   - `I get to decide that` becomes a compact authority-restoring phrase when someone says `don't take it personally`
   - `I'm sensing...` helps you refuse the label `too sensitive` while still naming what you are noticing
   - `I'm surprised you said that out loud` works as a low-volume daylighting move when the main problem is norm violation and casual disrespect
+- The new narcissistic-behavior source adds a harder asymmetry case:
+  - some interactions are organized less around misunderstanding than around control through praise demand or provocation
+  - in those settings, the strongest boundary language may become extremely flat and minimal: `Noted`, `Okay`, `Good to know`
+  - brevity plus exit can function as boundary behavior more effectively than deeper emotional explanation
+  - audience-oriented reframes can sometimes move the person faster than direct personal appeals, though often through optics rather than empathy
 - The Jordan Peterson source adds an upstream personality layer: boundary language often fails not because the wording is unknown, but because highly agreeable people have trouble tolerating the interpersonal friction required to say it.
 - The newer Greene workplace source adds a power-asymmetry layer:
   - sometimes the right boundary is not an immediate verbal correction
@@ -106,6 +112,7 @@ Boundary language is concise speech that protects reality, names what is not acc
 - The newest rude-comment source sharpens a neighboring tension: questions that extend grace and clarify intent are often best for ambiguous or moderate disrespect, but they can become over-generous if a repeated pattern has already made the intent obvious.
 - The new source sharpens a related risk on the other side: anti-people-pleasing language is useful, but boundary language can become self-righteous or theatrically blunt if `honesty` is used to excuse contempt rather than to state reality cleanly.
 - The dismissiveness source sharpens a further risk: some of Fisher's wordplay-based replies are efficient, but the branch still needs better rules for when cleverness preserves dignity versus when it turns a boundary into a status-performance move.
+- The new narcissistic-behavior source sharpens another limit: ultra-neutral boundary language may protect energy in manipulative dynamics, but the vault still needs cleaner guidance on when this becomes healthy detachment versus silent accommodation of escalating abuse.
 
 # Related Pages
 

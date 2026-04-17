@@ -12,6 +12,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-10-conversation-commandments-for-better-connection.md
   - wiki/sources/2026-04-13-how-to-win-friends-and-influence-people-by-dale-carnegie.md
+  - wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation.md
 related:
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/attunement.md
@@ -40,6 +41,10 @@ Conversational curiosity is the practice of entering a conversation with real in
   - curiosity compounds when you enter the other person's real area of pride or expertise
   - asking for advice is a particularly effective way to make curiosity feel respectful and energizing
   - curiosity can create opportunity, not just warmth, because people help those who seem sincerely interested in them
+- The new Jefferson Fisher source deepens the page from the conflict side:
+  - curiosity is not only a social warm-up but also an antidote to the `something to prove` mindset that hardens disagreement
+  - questions can `empty the pitcher` enough that the other person has room to hear something new
+  - the source also adds a depth-aware version of curiosity: do not confuse the behavior you can see with the full person you are actually talking to
 
 # Source Comparisons
 
@@ -47,6 +52,7 @@ Conversational curiosity is the practice of entering a conversation with real in
 - It also complements [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]], but with a lighter and less adversarial tone: the goal is connection and interest, not primarily leverage or resolution.
 - Compared with [[wiki/concepts/communication/effective-communication|Effective Communication]], conversational curiosity is narrower but more socially generative: it explains how conversations become engaging rather than merely clear.
 - Compared with the newer Carnegie source, the conversation-commandments source is more modern and varied, while Carnegie is more austere and principle-driven. Carnegie is strongest on the compounding social value of genuine interest and on treating curiosity as a durable relationship asset.
+- Compared with the new Fisher source, the earlier pages are stronger on socially connective conversation and rapport, while Fisher is stronger on curiosity under disagreement, identity threat, and the temptation to argue for proof rather than for understanding.
 
 # Tensions / Open Questions
 
@@ -54,6 +60,7 @@ Conversational curiosity is the practice of entering a conversation with real in
 - Frameworks like `FORD` are helpful until they make a person sound templated.
 - The branch still needs stronger material on how curiosity should adapt across cultures, status differences, and emotionally tired contexts.
 - Carnegie strengthens the page, but it also sharpens a risk: `interest in others` can be faked convincingly enough to work in the short term, which makes sincerity a real but under-specified boundary.
+- The new Fisher source adds a neighboring risk: curiosity about hidden depth can improve patience, but it can also become projection if the speaker grows too confident about the story behind the behavior.
 
 # Related Pages
 
@@ -65,3 +72,4 @@ Conversational curiosity is the practice of entering a conversation with real in
 - [[wiki/syntheses/communication/conversation-connection-framework|Conversation Connection Framework]]
 - [[wiki/sources/2026-04-10-conversation-commandments-for-better-connection|Conversation Commandments for Better Connection]]
 - [[wiki/sources/2026-04-13-how-to-win-friends-and-influence-people-by-dale-carnegie|How to Win Friends and Influence People by Dale Carnegie]]
+- [[wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation|3 Communication Truths That Will Change Every Conversation]]

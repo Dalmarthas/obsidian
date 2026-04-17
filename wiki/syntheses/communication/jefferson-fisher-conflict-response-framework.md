@@ -15,10 +15,15 @@ basis:
   - wiki/sources/2026-04-17-how-to-respond-when-someone-belittles-you-confidence-tips.md
   - wiki/sources/2026-04-17-how-to-handle-defensiveness-in-communication.md
   - wiki/sources/2026-04-17-turn-dismissiveness-around-words-that-command-respect.md
+  - wiki/sources/2026-04-17-outsmarting-narcissists-the-praise-or-provoke-trap.md
   - wiki/sources/2026-04-17-being-nice-wont-save-you-in-difficult-conversations.md
   - wiki/sources/2026-04-17-responding-to-rude-comments-without-losing-your-cool.md
   - wiki/sources/2026-04-17-phrases-you-must-use-to-sound-confident-and-undisturbed-during-conflict.md
   - wiki/sources/2026-04-17-youre-not-responsible-for-their-emotions.md
+  - wiki/sources/2026-04-17-3-courtroom-tricks-that-work-in-everyday-conversations.md
+  - wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation.md
+  - wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication.md
+  - wiki/sources/2026-04-17-best-argument-responses-top-3-ways-to-stay-calm-and-assertive.md
   - wiki/concepts/communication/boundary-language.md
   - wiki/concepts/communication/intention-and-impact.md
   - wiki/concepts/communication/effective-communication.md
@@ -35,7 +40,7 @@ What reusable conflict-response model does the current Jefferson Fisher source a
 
 # Answer
 
-The source base now adds a twenty-nine-part model:
+The source base now adds a forty-six-part model:
 
 1. Diagnose the apology structure before reacting.
    Many bad apologies are really deflection scripts: they relocate the issue to your feelings, to ambiguity, or to circumstances.
@@ -124,6 +129,57 @@ The source base now adds a twenty-nine-part model:
 29. Daylight the norm violation without overexplaining.
    Phrases such as `I'm surprised you said that out loud` can expose casual disrespect while keeping your tone composed and your reply brief.
 
+30. Treat some manipulative people as running a praise-or-provoke game.
+   If admiration is not available, provocation may be used to create emotional supply and control, so the win condition shifts from repair to non-participation.
+
+31. Use flat neutral micro-responses when accountability is not realistically available.
+   `Noted`, `Okay`, or `Good to know` can preserve energy and reduce twistability better than heartfelt explanation in rigged interactions.
+
+32. Limit contact depth as well as content.
+   In some dynamics, the strongest move is brief contact, neutral response, and exit rather than staying for a long clarifying talk.
+
+33. Redirect image-driven people through the audience lever.
+   If the person is highly optics-sensitive, references to colleagues, juries, friends, or `what others would think` can change behavior faster than personal appeals, even if only superficially.
+
+34. Replace cancellation words with bridge words when you need both truth and connection.
+   `And` often preserves acknowledgment plus disagreement better than `but`, which can make the first clause sound like a disposable preface.
+
+35. Move from disputed details to shared higher-order concern when the exchange gets stuck in `micro` combat.
+   Agreeing that something is `worth discussing` or `a fair concern` can create enough breathable space to keep talking without conceding the actual point.
+
+36. Slow the pace so the line does not snap.
+   Clear enunciation, pauses, and less verbal rush can keep a hard conversation from turning into reactive mutual escalation.
+
+37. Replace the win-condition with understanding the knot.
+   Treating conflict as something to unravel rather than a battle to win protects trust better and keeps both people aimed at the real problem.
+
+38. Enter disagreement with something to learn, not something to prove.
+   Questions about how the other person arrived at their view can open more movement than proof-heavy pressure, especially when beliefs are tied to identity.
+
+39. Assume the visible person is only the surface layer.
+   Depth-aware empathy can interrupt snap judgments about tone, delay, bluntness, or attitude and create a more humane starting point for the conversation.
+
+40. Replace reflexive apology with gratitude when no real wrongdoing occurred.
+   In low-stakes friction, gratitude can preserve respect without making you sound like an inconvenience for merely taking up space.
+
+41. Remove self-downplaying disclaimers before you contribute.
+   Openers like `this might be a dumb question` or `I hate to bother you` weaken your position before the real sentence begins.
+
+42. Let `no` stay whole unless context truly requires more.
+   Overexplaining a refusal often signals that the decision is still negotiable and can dilute the boundary you are trying to hold.
+
+43. Agree at the macro level before fighting at the detail level.
+   `I agree this is worth discussing` can reduce threat without forcing false agreement on the actual claim or accusation.
+
+44. Use learner-mode reflections to lower the other person's need to prove.
+   `I've learned...` signals movement and understanding, which can keep someone from repeating themselves more forcefully.
+
+45. Reinforce usefulness when someone gives information that helps the conversation move.
+   `That's helpful to know` often lowers pressure because it places the other person in a contributor role rather than a combat role.
+
+46. Validate felt experience without conceding the full story.
+   `I can understand why you'd feel that way` can preserve emotional dignity while leaving facts, blame, and next steps open for clearer discussion.
+
 # Basis
 
 - Main source: [[wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication|Jefferson Fisher Fake Apologies and Manipulative Communication]]
@@ -133,7 +189,11 @@ The source base now adds a twenty-nine-part model:
 - Supporting source: [[wiki/sources/2026-04-17-responding-to-rude-comments-without-losing-your-cool|Responding To Rude Comments Without Losing Your Cool]]
 - Supporting source: [[wiki/sources/2026-04-17-how-to-handle-defensiveness-in-communication|How to Handle Defensiveness in Communication]]
 - Supporting source: [[wiki/sources/2026-04-17-turn-dismissiveness-around-words-that-command-respect|Turn Dismissiveness Around Words that Command Respect]]
+- Supporting source: [[wiki/sources/2026-04-17-outsmarting-narcissists-the-praise-or-provoke-trap|Outsmarting Narcissists The Praise or Provoke Trap]]
 - Supporting source: [[wiki/sources/2026-04-17-being-nice-wont-save-you-in-difficult-conversations|Being Nice Won't Save You in Difficult Conversations]]
+- Supporting source: [[wiki/sources/2026-04-17-3-courtroom-tricks-that-work-in-everyday-conversations|3 Courtroom Tricks That Work in Everyday Conversations]]
+- Supporting source: [[wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation|3 Communication Truths That Will Change Every Conversation]]
+- Supporting source: [[wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication|How to Sound Assertive Tips for Confident Communication]]
 - Canonical concepts: [[wiki/concepts/communication/boundary-language|Boundary Language]], [[wiki/concepts/communication/intention-and-impact|Intention and Impact]], [[wiki/concepts/communication/effective-communication|Effective Communication]], [[wiki/concepts/communication/face-saving-de-escalation|Face-Saving De-Escalation]], [[wiki/concepts/communication/frame-control|Frame Control]]
 
 # Comparisons
@@ -146,6 +206,10 @@ The source base now adds a twenty-nine-part model:
 - Compared with [[wiki/syntheses/communication/toxic-boss-response-framework|Toxic Boss Response Framework]], Fisher's newer material is more usable for public slights and ordinary contempt displays, but less structurally aware about when hierarchy should push you toward documentation, HR process, or exit.
 - Compared with [[wiki/concepts/communication/dynamic-silence|Dynamic Silence]], Fisher's version is less about eliciting more disclosure and more about signaling non-participation in disrespect while keeping composure.
 - Compared with [[wiki/concepts/communication/face-saving-de-escalation|Face-Saving De-Escalation]], the new defensiveness source is less about preserving public dignity after aggression and more about preventing ego-threat language from hardening the conversation in the first place.
+- Compared with the rest of Fisher's sharper manipulation branch, the new courtroom-tricks source is less about boundaries against bad actors and more about keeping ordinary disagreement from becoming adversarial in the first place.
+- Compared with the rest of Fisher's procedural branch, the new communication-truths source is more foundational than tactical: it explains the mindset beneath the techniques by reframing conflict goals, learning posture, and interpretation of the other person's surface behavior.
+- Compared with the rest of Fisher's conflict branch, the new assertiveness source is less about managing other people's bad behavior and more about removing the speaker's own language habits that pre-weaken boundaries and contribution.
+- Compared with the rest of Fisher's conflict branch, the new argument-responses source is less about correcting manipulation after it appears and more about preventing ordinary disagreement from hardening into defensiveness at all.
 
 # Gaps
 
@@ -159,6 +223,11 @@ The source base now adds a twenty-nine-part model:
 - The new defensiveness source adds a further balance problem: low-defensiveness phrasing can improve collaboration, but the vault still needs clearer criteria for when collaborative wording should give way to direct correction, consequence, or firm boundary enforcement.
 - The newest `nice versus kind` source adds a style-and-ethics tension: anti-people-pleasing advice is useful, but the branch still needs cleaner guardrails for when concise honesty remains humane versus when it becomes righteousness, abruptness, or unnecessary disclosure.
 - The new dismissiveness source adds another unresolved balance problem: witty or wordplay-based replies can be efficient and self-respecting, but the vault still needs cleaner criteria for when they help repair the norm versus when they mainly score a social point.
+- The new narcissistic-behavior source adds a more serious limit: some of its best tools work precisely because the interaction is not assumed to be repairable, so the branch still needs clearer boundaries between strategic functioning, chronic manipulation, and situations that should move immediately toward documentation, therapy, HR, or exit.
+- The new courtroom-tricks source adds a softer but still important limit: bridge language and macro-level agreement can preserve dialogue, but the vault still needs clearer rules for when these moves become a detour around naming the real issue or making a real decision.
+- The new communication-truths source adds an interpretation limit too: looking beneath surface behavior can improve compassion and reduce premature judgment, but the branch still needs clearer rules for when empathetic reinterpretation helps and when it becomes speculative excuse-making.
+- The new assertiveness source adds a relational limit as well: shorter apologies, less hedging, and cleaner refusals can be healthier, but the branch still needs clearer criteria for when brevity is steady versus when it reads as abrupt, especially across status and cultural differences.
+- The new argument-responses source adds a softer but real limit: macro-level agreement, learner-mode wording, and `helpful to know` acknowledgments can reduce heat, but if overused they can also sound placating, overly tactical, or evasive when the conversation needs an actual position or decision.
 
 # Related Pages
 
@@ -172,7 +241,12 @@ The source base now adds a twenty-nine-part model:
 - [[wiki/sources/2026-04-17-how-to-respond-when-someone-belittles-you-confidence-tips|How to Respond When Someone Belittles You Confidence Tips]]
 - [[wiki/sources/2026-04-17-how-to-handle-defensiveness-in-communication|How to Handle Defensiveness in Communication]]
 - [[wiki/sources/2026-04-17-turn-dismissiveness-around-words-that-command-respect|Turn Dismissiveness Around Words that Command Respect]]
+- [[wiki/sources/2026-04-17-outsmarting-narcissists-the-praise-or-provoke-trap|Outsmarting Narcissists The Praise or Provoke Trap]]
 - [[wiki/sources/2026-04-17-being-nice-wont-save-you-in-difficult-conversations|Being Nice Won't Save You in Difficult Conversations]]
 - [[wiki/sources/2026-04-17-responding-to-rude-comments-without-losing-your-cool|Responding To Rude Comments Without Losing Your Cool]]
 - [[wiki/sources/2026-04-17-phrases-you-must-use-to-sound-confident-and-undisturbed-during-conflict|Phrases You Must Use to Sound Confident and Undisturbed During Conflict]]
 - [[wiki/sources/2026-04-17-youre-not-responsible-for-their-emotions|You're Not Responsible for Their Emotions]]
+- [[wiki/sources/2026-04-17-3-courtroom-tricks-that-work-in-everyday-conversations|3 Courtroom Tricks That Work in Everyday Conversations]]
+- [[wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation|3 Communication Truths That Will Change Every Conversation]]
+- [[wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication|How to Sound Assertive Tips for Confident Communication]]
+- [[wiki/sources/2026-04-17-best-argument-responses-top-3-ways-to-stay-calm-and-assertive|Best Argument Responses Top 3 Ways to Stay Calm and Assertive]]

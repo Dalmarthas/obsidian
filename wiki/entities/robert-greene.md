@@ -2,7 +2,7 @@
 type: entity
 title: Robert Greene
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-17
 status: active
 tags:
   - entity
@@ -21,6 +21,7 @@ source_pages:
   - wiki/sources/2026-04-13-master-psychology-to-win-any-competition.md
   - wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect.md
   - wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time.md
+  - wiki/sources/2026-04-17-why-nice-people-lose-power-and-how-to-fix-it.md
 related:
   - wiki/concepts/communication/power-dynamics.md
   - wiki/concepts/communication/persuasion.md
@@ -42,7 +43,7 @@ related:
 
 # Overview
 
-Robert Greene enters this vault as a three-branch thinker: interpreter of irrationality, analyst of strategic power, and theorist of long-horizon mastery. In the current source base, his role is not narrow self-help. He now spans hidden motives, adversarial social strategy, and the apprenticeship-to-originality path behind high-level creative achievement, with explicit layers on qualified hours, mentorship, social intelligence, situational people-reading, anti-fragmentation focus, active use of time itself as training, reputation as compound leverage, cultivated uniqueness, and adversity metabolized into development.
+Robert Greene enters this vault as a three-branch thinker: interpreter of irrationality, analyst of strategic power, and theorist of long-horizon mastery. In the current source base, his role is not narrow self-help. He now spans hidden motives, adversarial social strategy, and the apprenticeship-to-originality path behind high-level creative achievement, with explicit layers on qualified hours, mentorship, social intelligence, situational people-reading, anti-fragmentation focus, active use of time itself as training, reputation as compound leverage, cultivated uniqueness, adversity metabolized into development, and a newer claim that many `nice` failures are really failures of political literacy and self-command.
 
 # Role In This Vault
 
@@ -59,6 +60,10 @@ Robert Greene enters this vault as a three-branch thinker: interpreter of irrati
   - toxic authority is treated as partly psychological theater
   - internal distance and option preservation are practical forms of self-protection
   - strategic calm is separated from moral endorsement of abuse
+- The newest Greene source adds another bridge:
+  - power is treated as morally neutral before it is treated as strategic
+  - self-love and emotional recovery are positioned as defenses against manipulation rather than as separate self-esteem topics
+  - political realism is framed as a corrective to naivete, not as an excuse for cruelty
 
 # Evidence In This Vault
 
@@ -81,6 +86,11 @@ Robert Greene enters this vault as a three-branch thinker: interpreter of irrati
   - bosses can gain leverage by triggering fear, shame, and emotional overreaction
   - seeing the superior as script-driven rather than godlike can restore presence of mind
   - having alternatives changes not only outcomes but the felt psychology of the interaction
+- The newest `nice people lose power` source widens the same branch again:
+  - powerlessness is treated as psychologically corrosive, not just strategically inconvenient
+  - influence is said to work best through other people's self-interest rather than through unfiltered self-expression
+  - manipulative charm, envy, and moral asymmetry are treated as early warning signs that naive people often miss
+  - genuine self-love is presented as a stabilizer that reduces how deeply attacks and doubts can penetrate
 - The mastery branch sources shift away from hidden motive and power toward excellence: apprenticeship, negative capability, active imagination, serious play, focused vehicle choice, alive time, and self-critique are presented as conditions for originality rather than just for influence.
 
 # Related Pages
@@ -89,6 +99,7 @@ Robert Greene enters this vault as a three-branch thinker: interpreter of irrati
 - [[wiki/sources/2026-04-13-master-psychology-to-win-any-competition|Master Psychology to Win Any Competition]]
 - [[wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect|The Path To Power: Ambition, Status, Strength & Respect]]
 - [[wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time|How to DEFEAT Your BOSS Every Time]]
+- [[wiki/sources/2026-04-17-why-nice-people-lose-power-and-how-to-fix-it|Why Nice People Lose Power & How To Fix It]]
 - [[wiki/concepts/communication/power-dynamics|Power Dynamics]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]
 - [[wiki/concepts/communication/reputation|Reputation]]

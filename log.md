@@ -5090,3 +5090,114 @@ Summary:
 - Ingested a new Jefferson Fisher source on sounding more confident in professional communication through delivery choices rather than personality change.
 - Added a dedicated source page so the note's durable value remains visible as `breath first` silence, anti-filler cleanup, uptalk reduction, stronger replacement phrases for `Does that make sense?`, and a confident structure for answering unknowns.
 - Updated Effective Communication, Interactional Authority, and the Jefferson Fisher entity so the communication branch now captures professional-delivery confidence as a reusable pattern alongside the existing conflict-focused Fisher material.
+## [2026-04-17 11:44] ingest | Outsmarting Narcissists The Praise or Provoke Trap
+
+Pages touched:
+- [[raw/inbox/2026-04-17-outsmarting-narcissists-the-praise-or-provoke-trap|Outsmarting Narcissists The Praise or Provoke Trap]]
+- [[wiki/sources/2026-04-17-outsmarting-narcissists-the-praise-or-provoke-trap|Outsmarting Narcissists The Praise or Provoke Trap]]
+- [[wiki/concepts/communication/boundary-language|Boundary Language]]
+- [[wiki/syntheses/communication/toxic-boss-response-framework|Toxic Boss Response Framework]]
+- [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
+- [[wiki/entities/jefferson-fisher|Jefferson Fisher]]
+- [[index|index]]
+
+Summary:
+- Ingested a new Jefferson Fisher source on dealing with strong narcissistic behaviors by recognizing the interaction as a rigged `praise or provoke` game rather than as a normal repairable conflict.
+- Added a dedicated source page so the note's durable value remains visible as flat neutral replies, brief-contact strategy, optics-sensitive `audience` reframing, and the distinction between functioning under unavoidable contact and trying to fix the person.
+- Updated Boundary Language, Toxic Boss Response Framework, the Jefferson Fisher synthesis, and the Jefferson Fisher entity so the communication branch now captures a clearer no-win-manipulation model for high-control personalities and constrained-contact situations.
+
+## [2026-04-17 11:52] ingest | 3 Courtroom Tricks That Work in Everyday Conversations
+
+Pages touched:
+- [[raw/inbox/2026-04-17-3-courtroom-tricks-that-work-in-everyday-conversations|3 Courtroom Tricks That Work in Everyday Conversations]]
+- [[wiki/sources/2026-04-17-3-courtroom-tricks-that-work-in-everyday-conversations|3 Courtroom Tricks That Work in Everyday Conversations]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/communication/interactional-authority|Interactional Authority]]
+- [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
+- [[wiki/entities/jefferson-fisher|Jefferson Fisher]]
+- [[index|index]]
+
+Summary:
+- Ingested a new Jefferson Fisher source that translates courtroom-tested communication habits into ordinary disagreement and repair.
+- Added a dedicated source page so the note's durable value remains visible as the `but` versus `and` distinction, moving from detail-level fighting to higher-order shared concerns, and slow deliberate delivery as a way to preserve connection.
+- Updated Effective Communication, Interactional Authority, the Jefferson Fisher synthesis, and the Jefferson Fisher entity so the communication branch now captures bridge wording and macro-level de-escalation rather than only conflict defense, manipulation handling, and professional confidence mechanics.
+
+## [2026-04-17 11:58] ingest | 3 Communication Truths That Will Change Every Conversation
+
+Pages touched:
+- [[raw/inbox/2026-04-17-3-communication-truths-that-will-change-every-conversation|3 Communication Truths That Will Change Every Conversation]]
+- [[wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation|3 Communication Truths That Will Change Every Conversation]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/communication/conversational-curiosity|Conversational Curiosity]]
+- [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
+- [[wiki/entities/jefferson-fisher|Jefferson Fisher]]
+- [[index|index]]
+
+Summary:
+- Ingested a new Jefferson Fisher source focused less on tactical wording and more on the core philosophy beneath his communication advice.
+- Added a dedicated source page so the note's durable value remains visible as `unravel the knot` instead of `win the argument`, `something to learn` instead of `something to prove`, the `full pitcher` metaphor, and the claim that the visible person is not the whole person.
+- Updated Effective Communication, Conversational Curiosity, the Jefferson Fisher synthesis, and the Jefferson Fisher entity so the branch now captures Fisher's deeper learner-mode and depth-aware-empathy layer rather than only his conflict-response tactics.
+
+## [2026-04-17 12:02] ingest | How to Sound Assertive Tips for Confident Communication
+
+Pages touched:
+- [[raw/inbox/2026-04-17-how-to-sound-assertive-tips-for-confident-communication|How to Sound Assertive Tips for Confident Communication]]
+- [[wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication|How to Sound Assertive Tips for Confident Communication]]
+- [[wiki/concepts/communication/assertiveness|Assertiveness]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
+- [[wiki/entities/jefferson-fisher|Jefferson Fisher]]
+- [[index|index]]
+
+Summary:
+- Ingested a new Jefferson Fisher source focused on assertive language cleanup in ordinary professional and interpersonal communication.
+- Added a dedicated source page so the note's durable value remains visible as gratitude over unnecessary apology, removing self-undermining disclaimers, additive contribution phrasing, and `no` as a complete sentence.
+- Updated Assertiveness, Effective Communication, the Jefferson Fisher synthesis, and the Jefferson Fisher entity so the branch now captures self-minimizing language habits as a practical assertiveness problem rather than only a confidence or niceness issue.
+
+## [2026-04-17 12:06] ingest | Erin McGoff How to be Instantly More Confident at Work
+
+Pages touched:
+- [[raw/inbox/2026-04-17-erin-mcgoff-how-to-be-instantly-more-confident-at-work|Erin McGoff How to be Instantly More Confident at Work]]
+- [[wiki/sources/2026-04-17-erin-mcgoff-how-to-be-instantly-more-confident-at-work|Erin McGoff How to be Instantly More Confident at Work]]
+- [[wiki/entities/erin-mcgoff|Erin McGoff]]
+- [[wiki/syntheses/business/erin-mcgoff-workplace-confidence-framework|Erin McGoff Workplace Confidence Framework]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/syntheses/business/job-interview-storytelling-framework|Job Interview Storytelling Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a new Erin McGoff and Jefferson Fisher workplace-confidence source broad enough that its main value needed to be compiled into a dedicated business synthesis rather than left in a source page.
+- Added a source page and a new Erin McGoff entity so the vault now has a stable home for her career-oriented communication material.
+- Created [[wiki/syntheses/business/erin-mcgoff-workplace-confidence-framework|Erin McGoff Workplace Confidence Framework]] and updated Effective Communication plus Job Interview Storytelling Framework so the branch now captures self-talk as confidence substrate, the `10/90 rule` for weakness questions, issue-behind-the-issue framing, graceful quitting, and collaborative raise conversations.
+
+## [2026-04-17 12:04] ingest | Why Nice People Lose Power & How To Fix It
+
+Pages touched:
+- [[raw/inbox/2026-04-17-why-nice-people-lose-power-and-how-to-fix-it|Why Nice People Lose Power & How To Fix It]]
+- [[wiki/sources/2026-04-17-why-nice-people-lose-power-and-how-to-fix-it|Why Nice People Lose Power & How To Fix It]]
+- [[wiki/concepts/communication/power-dynamics|Power Dynamics]]
+- [[wiki/syntheses/communication/robert-greene-power-framework|Robert Greene Power Framework]]
+- [[wiki/syntheses/communication/assertiveness-agreeableness-and-self-advocacy|Assertiveness, Agreeableness, and Self-Advocacy]]
+- [[wiki/entities/robert-greene|Robert Greene]]
+- [[index|index]]
+
+Summary:
+- Ingested a new Robert Greene source focused on why politically naive `nice` behavior loses power in real social and workplace environments.
+- Added a dedicated source page so the note's durable value remains visible as power as neutral self-mastery, influence through self-interest, ethical asymmetry, early character-reading, and self-love as a defense against manipulation.
+- Updated Power Dynamics, Robert Greene Power Framework, Assertiveness, Agreeableness, and Self-Advocacy, plus the Robert Greene entity so the communication branch now captures the difference between under-assertiveness as a trait problem and `niceness` as a political-literacy problem.
+
+## [2026-04-17 12:09] ingest | Best Argument Responses Top 3 Ways to Stay Calm and Assertive
+
+Pages touched:
+- [[raw/inbox/2026-04-17-best-argument-responses-top-3-ways-to-stay-calm-and-assertive|Best Argument Responses Top 3 Ways to Stay Calm and Assertive]]
+- [[wiki/sources/2026-04-17-best-argument-responses-top-3-ways-to-stay-calm-and-assertive|Best Argument Responses Top 3 Ways to Stay Calm and Assertive]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/communication/face-saving-de-escalation|Face-Saving De-Escalation]]
+- [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
+- [[wiki/entities/jefferson-fisher|Jefferson Fisher]]
+- [[index|index]]
+
+Summary:
+- Ingested a new Jefferson Fisher source focused on preventing defensiveness in ordinary arguments and workplace friction before the conversation locks up.
+- Added a dedicated source page so the note's durable value remains visible as macro-level agreement, learner-mode reflection, `helpful to know` acknowledgment, and emotional validation without full factual concession.
+- Updated Effective Communication, Face-Saving De-Escalation, the Jefferson Fisher synthesis, and the Jefferson Fisher entity so the communication branch now captures acknowledgment structure as a distinct de-escalation tool rather than only trigger-avoidance, boundary language, or conflict philosophy.

@@ -13,6 +13,7 @@ source_pages:
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
   - wiki/sources/2026-04-17-phrases-you-must-use-to-sound-confident-and-undisturbed-during-conflict.md
   - wiki/sources/2026-04-17-respond-with-confidence-tips-to-improve-your-communication-skills.md
+  - wiki/sources/2026-04-17-3-courtroom-tricks-that-work-in-everyday-conversations.md
 related:
   - wiki/concepts/communication/frame-control.md
   - wiki/concepts/communication/effective-communication.md
@@ -46,6 +47,10 @@ Interactional authority is the felt sense of groundedness, comfort, and credibil
   - uptalk and reassurance-seeking questions can make settled statements sound like bids for permission
   - trimming `just` and comfort words increases the sense that the speaker means what they are saying
   - even uncertainty can preserve authority if it is framed through experience plus clear next actions rather than visible fluster
+- The new courtroom-tricks source adds a tension-specific extension:
+  - deliberate enunciation and slower pace make seriousness audible without relying on loudness
+  - authority here comes from holding the line of connection under pressure rather than jerking the conversation into a faster fight
+  - the source also implies that wording such as `and` can support authority by sounding less defensive and more able to hold complexity
 
 # Source Comparisons
 
@@ -54,6 +59,7 @@ Interactional authority is the felt sense of groundedness, comfort, and credibil
 - Compared with [[wiki/concepts/communication/effective-communication|Effective Communication]], it is not the content of the message but the state from which the message is delivered.
 - The new Fisher source narrows that gap slightly: some authority cues are not only inner state but trainable speech habits such as silence tolerance, sentence landing, and reduced verbal apology.
 - Compared with [[wiki/concepts/communication/assertiveness|Assertiveness]], interactional authority is less about saying the hard thing and more about how the hard thing is embodied. The newer Fisher source is useful precisely because it shows the two working together.
+- Compared with [[wiki/concepts/communication/face-saving-de-escalation|Face-Saving De-Escalation]], interactional authority is less about protecting the other person's dignity and more about sounding unhurried enough that the conversation does not drag you into panic or overreaction.
 
 # Tensions / Open Questions
 
@@ -62,6 +68,7 @@ Interactional authority is the felt sense of groundedness, comfort, and credibil
 - The branch still needs stronger comparison with evidence-based work on presence, emotional regulation, and nonverbal communication.
 - The Fisher source adds another boundary: authority can help de-escalation, but if overperformed it may read as cold, superior, or scripted rather than grounded.
 - The newer Fisher source adds a related caution in professional settings: sounding confident is useful, but if delivery advice becomes over-applied, the result can be clipped or artificial rather than calm and credible.
+- The new courtroom-tricks source adds a performance caution too: exaggerated slowness or over-enunciation can project contrivance instead of grounded authority if the delivery stops matching the relationship or the moment.
 
 # Related Pages
 
@@ -73,3 +80,4 @@ Interactional authority is the felt sense of groundedness, comfort, and credibil
 - [[wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence|Chase Hughes Behavioral Framework for Influence]]
 - [[wiki/sources/2026-04-17-phrases-you-must-use-to-sound-confident-and-undisturbed-during-conflict|Phrases You Must Use to Sound Confident and Undisturbed During Conflict]]
 - [[wiki/sources/2026-04-17-respond-with-confidence-tips-to-improve-your-communication-skills|Respond with Confidence Tips to Improve Your Communication Skills]]
+- [[wiki/sources/2026-04-17-3-courtroom-tricks-that-work-in-everyday-conversations|3 Courtroom Tricks That Work in Everyday Conversations]]

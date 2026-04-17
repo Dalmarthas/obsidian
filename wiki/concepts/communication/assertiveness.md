@@ -15,6 +15,7 @@ source_pages:
   - wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time.md
   - wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson.md
   - wiki/sources/2026-04-17-being-nice-wont-save-you-in-difficult-conversations.md
+  - wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication.md
 related:
   - wiki/concepts/communication/boundary-language.md
   - wiki/concepts/communication/authentic-communication.md
@@ -48,6 +49,11 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
   - stop renegotiating against your own gut-level `no`
   - then choose brief, respectful phrasing
   - this clarifies why many people fail at assertiveness even when they know the right sentence
+- The new Jefferson Fisher assertiveness source adds a language-hygiene layer:
+  - repeated low-stakes apologies can function as self-erasure rather than as real accountability
+  - replacing reflexive `sorry` with gratitude can preserve courtesy while sounding less like you are apologizing for existing
+  - self-downplaying openers such as `this might be a dumb question` weaken your contribution before it arrives
+  - `no` as a complete sentence sharpens the branch's boundary logic by treating overexplanation as a common way people reopen decisions they already made
 - [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson]] adds a truth-and-avoidance layer: assertiveness is not only expressing wants, but also refusing the small lies, false agreement, and dodged conversations that let `dead wood` accumulate until a much larger confrontation becomes necessary.
 - The newer Robert Greene workplace source adds a power-context caveat:
   - in coercive hierarchies, assertiveness is not always immediate blunt confrontation
@@ -63,6 +69,7 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
 - Compared with [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]], assertiveness is less tactical and less counterpart-focused. It is first about representing your own position honestly enough to enter negotiation at all.
 - Compared with [[wiki/concepts/communication/power-dynamics|Power Dynamics]], assertiveness is less adversarial and more self-representational. The new Greene source shows where the two overlap: under unequal power, assertiveness may need strategic timing rather than immediate directness.
 - Compared with [[wiki/concepts/others/childhood-development-triangle|Childhood Development Triangle]], assertiveness is a present-tense skill while the triangle is a developmental explanation for why that skill may feel dangerous.
+- Compared with the new Fisher source, the Peterson branch is stronger on developmental roots and long-run cost of excessive agreeableness, while Fisher is stronger on everyday verbal habits that make assertiveness audible in real time.
 
 # Tensions / Open Questions
 
@@ -70,6 +77,7 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
 - Some people are under-assertive; others are already aggressive and need restraint, not more permission.
 - The newest Peterson source sharpens another tension: truth-telling is useful, but the vault still needs better rules for when honesty should be direct, when it should be staged, and when power or safety constraints require a more indirect approach.
 - The new Fisher source sharpens a neighboring risk: anti-people-pleasing advice can be misused as moral permission for abruptness or ego-protective bluntness, so the branch still needs cleaner criteria for respectful firmness versus performative `brutal honesty`.
+- The new Fisher assertiveness source adds a calibration risk too: less apology and less hedging can sound healthier, but the branch still needs clearer rules for how to preserve warmth, uncertainty, and cultural fit without sliding back into self-minimization.
 - The vault still needs stronger evidence-grounded material on assertiveness training, conflict style, and organizational dynamics around invisible labor.
 
 # Related Pages
@@ -84,3 +92,4 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
 - [[wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness|Jordan Peterson Excessive Agreeableness and Assertiveness]]
 - [[wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time|How to DEFEAT Your BOSS Every Time]]
 - [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson|12 Rules for Life by Jordan Peterson]]
+- [[wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication|How to Sound Assertive Tips for Confident Communication]]

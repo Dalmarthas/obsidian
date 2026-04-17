@@ -13,6 +13,7 @@ tags:
 question: What reusable framework does the current source add for performing better in job interviews?
 basis:
   - wiki/sources/2026-04-16-doing-this-almost-guarantees-you-get-hired-in-a-job-interview.md
+  - wiki/sources/2026-04-17-erin-mcgoff-how-to-be-instantly-more-confident-at-work.md
   - wiki/concepts/business/career-blueprint.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/thinking-on-your-feet.md
@@ -48,6 +49,9 @@ The source adds a six-part interview model:
 6. Use rapport to improve the room, not to perform for its own sake.
    Light humor, warmth, and human detail are useful when they relax the room and make the interaction more conversational. They become counterproductive when they feel like stagecraft detached from fit.
 
+7. Use weakness questions to display self-awareness, not flawlessness.
+   Erin McGoff's `10/90 rule` reframes `What's your greatest weakness?` into a maturity test: briefly name a non-fatal weakness, then spend most of the answer on how you are addressing it.
+
 Together these moves turn the interview from reactive Q and A into prepared narrative positioning.
 
 # Basis
@@ -60,10 +64,12 @@ Together these moves turn the interview from reactive Q and A into prepared narr
 - Compared with [[wiki/syntheses/business/welteroth-career-framework|Welteroth Career Framework]], this synthesis is far narrower and more tactical. Welteroth is about career architecture over time; this page is about converting identity and relevance into a single interview performance.
 - Compared with [[wiki/syntheses/business/cal-newport-career-capital-framework|Cal Newport Career Capital Framework]], this page is less about becoming valuable and more about making value legible under hiring pressure.
 - Compared with [[wiki/syntheses/communication/thinking-on-your-feet-framework|Thinking on Your Feet Framework]], this synthesis relies more on pre-built stories than on live improvisation. It treats the best interview spontaneity as prepared narrative delivered conversationally.
+- Compared with the new Erin McGoff source, this page is stronger on opening-positioning and narrative framing, while McGoff is stronger on the hidden evaluation logic behind interview questions and on answering weakness questions without cliché or self-sabotage.
 
 # Gaps
 
 - The source is strongest on the opening question and weaker on technical, case, or panel interview formats.
+- The Erin McGoff source improves the weakness-question branch, but the vault still needs stronger material on salary-history traps, panel dynamics, and skeptical follow-up after a polished self-awareness answer.
 - More evidence is needed on how this method should change across conservative cultures, senior roles, and highly regulated industries.
 - The branch still needs a clearer model for handling skeptical follow-up questions after a polished story lands.
 

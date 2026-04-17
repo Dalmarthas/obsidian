@@ -2,7 +2,7 @@
 type: concept
 title: Power Dynamics
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-17
 status: active
 tags:
   - concept
@@ -14,6 +14,7 @@ source_pages:
   - wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power.md
   - wiki/sources/2026-04-13-master-psychology-to-win-any-competition.md
   - wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect.md
+  - wiki/sources/2026-04-17-why-nice-people-lose-power-and-how-to-fix-it.md
 related:
   - wiki/concepts/communication/persuasion.md
   - wiki/concepts/communication/frame-control.md
@@ -49,6 +50,18 @@ Power dynamics is the branch of communication concerned not just with clarity or
   - toxic superiors often maintain power through emotional capture as much as through formal rank
   - internal depersonalization and authority deflation can reduce that leverage
   - preserving external options is itself a way of shifting the power balance
+- The newest Greene conversation broadens the branch in three more directions:
+  - power is framed first as neutral self-mastery rather than as domination, which makes emotional self-command part of the power field rather than only a personality virtue
+  - chronic powerlessness is treated as psychologically deforming, so the stakes of underdeveloped agency are higher than simple career frustration
+  - political failure often comes from assuming symmetrical ethics, symmetrical motives, or goodwill that is not actually present
+- The same source also sharpens how communication fits inside power:
+  - influence rises when you frame messages through the other person's self-interest rather than through your own raw need
+  - saying less remains useful not only for secrecy but for reducing visible insecurity and emotional leakage
+  - appearance management and seeing through appearances are treated as twin skills rather than separate topics
+- A further addition is earlier character judgment:
+  - envy, passive aggression, and manipulative charm are presented as signals that matter before overt betrayal
+  - this makes power dynamics partly a discernment problem, not only a response problem
+  - self-love and inner stability matter because insecure people are easier to destabilize and control
 - Its end-state ideal is `formlessness`: staying adaptive enough that others cannot stabilize a fixed response to you.
 
 # Source Comparisons
@@ -56,6 +69,7 @@ Power dynamics is the branch of communication concerned not just with clarity or
 - Compared with [[wiki/concepts/communication/persuasion|Persuasion]], power dynamics is more adversarial and less interested in mutual understanding. Persuasion in the vault usually assumes movement through empathy, clarity, or self-authored action; power dynamics assumes contested leverage.
 - Compared with [[wiki/concepts/communication/frame-control|Frame Control]], this page is broader and more political. Frame control is about meaning inside the interaction; power dynamics also includes dependence, status exposure, reputation, and strategic visibility.
 - Compared with [[wiki/concepts/communication/interactional-authority|Interactional Authority]], power dynamics is less about grounded presence and more about how the whole field is arranged before and during contact.
+- Compared with [[wiki/concepts/communication/assertiveness|Assertiveness]], power dynamics is less about clean self-representation and more about the political environment in which self-representation lands. The newest Greene source sharpens that some `nice` failures are not wording failures but failures to read self-interest, appearances, and ethical asymmetry.
 - Compared with [[wiki/concepts/leadership/leadership-communication|Leadership Communication]], the contrast is ethical as well as strategic: leadership communication in this vault generally aims at trust and legibility, while power dynamics highlights how influence can also operate through opacity, pressure, and controlled asymmetry.
 
 # Tensions / Open Questions
@@ -71,10 +85,12 @@ Power dynamics is the branch of communication concerned not just with clarity or
 - [[wiki/sources/2026-04-13-master-psychology-to-win-any-competition|Master Psychology to Win Any Competition]]
 - [[wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect|The Path To Power: Ambition, Status, Strength & Respect]]
 - [[wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time|How to DEFEAT Your BOSS Every Time]]
+- [[wiki/sources/2026-04-17-why-nice-people-lose-power-and-how-to-fix-it|Why Nice People Lose Power & How To Fix It]]
 - [[wiki/entities/robert-greene|Robert Greene]]
 - [[wiki/concepts/communication/persuasion|Persuasion]]
 - [[wiki/concepts/communication/frame-control|Frame Control]]
 - [[wiki/concepts/communication/interactional-authority|Interactional Authority]]
+- [[wiki/concepts/communication/assertiveness|Assertiveness]]
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 - [[wiki/syntheses/communication/robert-greene-power-framework|Robert Greene Power Framework]]

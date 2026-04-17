@@ -39,6 +39,11 @@ source_pages:
   - wiki/sources/2026-04-16-give-me-14-minutes-and-ill-help-you-think-and-speak-faster.md
   - wiki/sources/2026-04-17-how-to-handle-defensiveness-in-communication.md
   - wiki/sources/2026-04-17-respond-with-confidence-tips-to-improve-your-communication-skills.md
+  - wiki/sources/2026-04-17-3-courtroom-tricks-that-work-in-everyday-conversations.md
+  - wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation.md
+  - wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication.md
+  - wiki/sources/2026-04-17-best-argument-responses-top-3-ways-to-stay-calm-and-assertive.md
+  - wiki/sources/2026-04-17-erin-mcgoff-how-to-be-instantly-more-confident-at-work.md
 related:
   - wiki/concepts/communication/authentic-communication.md
   - wiki/concepts/communication/anchor-bridge-structure.md
@@ -174,6 +179,27 @@ Effective communication is the disciplined practice of making another person und
   - uptalk, `just`, and reassurance-seeking closers such as `Does that make sense?` can unintentionally weaken authority even when the content is solid
   - better replacements such as `What are your thoughts?` preserve collaboration without sounding apologetic
   - uncertainty can still be communicated confidently through pause, relevant experience, and clear next steps
+- The new courtroom-tricks source strengthens the branch from the bridging-and-pacing side:
+  - `and` can preserve acknowledgment and disagreement better than `but`, which often makes the first clause feel erased
+  - broad agreement that something is `worth discussing` or `a fair concern` can de-escalate faster than detail-by-detail combat
+  - slower enunciation and calmer pace are treated as part of communication quality because they help keep connection intact under tension
+- The new communication-truths source strengthens the branch from the goal-and-posture side:
+  - effective communication degrades when the speaker is trying to `win` rather than trying to understand the knot inside the disagreement
+  - curiosity and depth-aware questions can create more movement than proof-seeking when beliefs are identity-loaded
+  - the source also sharpens a humane interpretation rule: the visible behavior is not the whole person, so better communication often starts by resisting surface-level certainty
+- The new assertiveness source strengthens the branch from the self-undermining-language side:
+  - reflexive apology, self-downplaying disclaimers, and overexplained refusals can weaken how clearly a message lands before the main point even starts
+  - gratitude can replace low-stakes apology when the real goal is respect rather than self-minimization
+  - additive phrasing and cleaner `no` language make contribution and boundary-setting more legible in ordinary professional conversation
+- The new argument-responses source strengthens the branch from the acknowledgment-and-defensiveness side:
+  - macro-level agreement can keep a tense conversation open even when detail-level disagreement remains
+  - `I've learned...` makes visible understanding part of the conversation rather than leaving the other person to infer it
+  - `That's helpful to know` gives the other person a contribution role that often lowers the need to push harder
+  - emotional validation such as `I can understand why you'd feel that way` is clarified as agreement with experience, not necessarily with blame or conclusions
+- The new Erin McGoff workplace-confidence source strengthens the branch from the professional-interpretation side:
+  - many work conversations improve when the speaker answers the hidden decision criterion beneath the explicit question
+  - confidence is treated as partly internal voice quality, not only external delivery polish
+  - raise, quitting, and passive-aggression conversations all work better when framed through the other side's constraints rather than only through self-expression
 - Across these sources, effective communication is not just self-expression. It is shaped around what helps the other person hear, think, and answer.
 
 # Source Comparisons
@@ -203,6 +229,9 @@ Effective communication is the disciplined practice of making another person und
 - The new faster-speaking source is strongest on speech mechanics under load: it adds drills, metrics, and breath-control logic that the broader branch mostly treated as heuristics before.
 - The new Jefferson Fisher defensiveness source is strongest on trigger-aware phrasing in ordinary conflict and leadership settings: it focuses less on influence or disclosure and more on how sentence structure itself can either provoke resistance or preserve cooperation.
 - The new Jefferson Fisher confidence source is strongest on professional delivery hygiene: it is less about conflict than the other Fisher material and more about what silence, sentence endings, and trimmed wording do to perceived steadiness in meetings or high-stakes answers.
+- The new courtroom-tricks source is strongest on everyday conflict bridging: it is less diagnostic than the defensiveness source and less boundary-heavy than the manipulation sources, but stronger on preserving connection while still disagreeing.
+- The new communication-truths source is strongest on Fisher's philosophy beneath the tactics: it is less procedural than the other Fisher material, but stronger on explaining why curiosity, patience, and identity-aware empathy matter before phrasing choices do.
+- The new argument-responses source is strongest on anti-defensiveness acknowledgment: it is less boundary-heavy than Fisher's sharper material, but stronger on how agreement, learning, and usefulness language can preserve dialogue in ordinary arguments and workplace friction.
 
 # Tensions / Open Questions
 
@@ -222,6 +251,9 @@ Effective communication is the disciplined practice of making another person und
 - The new faster-speaking source adds a speed caution too: faster delivery can look skillful while still reducing understanding if the listener's processing speed, context, or stakes require more space.
 - The new Jefferson Fisher source adds a softness caution: communication optimized to reduce defensiveness can drift into over-accommodation if the speaker preserves comfort but fails to preserve clarity, consequence, or honest accountability.
 - The new Fisher confidence source adds a polish caution too: communication optimized to sound confident can still become over-managed if natural warmth, nuance, or listener processing needs are sacrificed for a stronger impression.
+- The new courtroom-tricks source adds a repair caution: broadening the conversation and smoothing phrasing can lower heat, but they can also become sophisticated avoidance if the real disagreement never gets named clearly.
+- The new communication-truths source adds an empathy caution: assuming hidden depth can improve restraint and compassion, but it can also become amateur mind-reading or under-accountability if it turns every bad behavior into a story that excuses it.
+- The new argument-responses source adds an acknowledgment caution: validation and `helpful to know` language can preserve dialogue, but they can also sound managerial, placating, or strategically scripted if sincerity is weak or if substantive disagreement is delayed too long.
 
 # Related Pages
 

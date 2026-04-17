@@ -2,7 +2,7 @@
 type: synthesis
 title: Robert Greene Power Framework
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-17
 status: active
 tags:
   - synthesis
@@ -16,6 +16,7 @@ basis:
   - wiki/sources/2026-04-13-master-psychology-to-win-any-competition.md
   - wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect.md
   - wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time.md
+  - wiki/sources/2026-04-17-why-nice-people-lose-power-and-how-to-fix-it.md
   - wiki/concepts/communication/reputation.md
   - wiki/concepts/communication/power-dynamics.md
   - wiki/concepts/communication/persuasion.md
@@ -68,6 +69,17 @@ The current source base now supports an eleven-part model:
 11. Stay adaptive enough to avoid entrapment.
    `Formlessness` is the closing principle: rigid identities, routines, and public patterns make a person easier to predict and contain.
 
+The newest Greene conversation does not overturn that model, but it clarifies four parts of it:
+
+- Power should be understood first as neutral self-command.
+  The branch now starts less with domination and more with influence over your own reactions, timing, and psychological stability. Social power without that base is treated as brittle.
+- Strategic communication runs through self-interest.
+  Greene sharpens that many people confuse self-expression with influence. The more durable move is to frame speech through the other person's incentives, fears, and current needs.
+- Ethical asymmetry is part of the field.
+  `Nice` people often lose not because they are too kind, but because they wrongly assume similar motives and constraints in others. The defensive lesson is earlier character-reading, not moral surrender.
+- Self-love is a power-protecting asset.
+  A stable sense of worth makes criticism, envy, and manipulation less identity-disorganizing, so inner anchoring now sits closer to the power branch than before.
+
 # Basis
 
 - Main sources: [[wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power|Robert Greene The 48 Laws of Power]], [[wiki/sources/2026-04-13-master-psychology-to-win-any-competition|Master Psychology to Win Any Competition]], [[wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect|The Path To Power: Ambition, Status, Strength & Respect]], [[wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time|How to DEFEAT Your BOSS Every Time]]
@@ -84,6 +96,10 @@ The current source base now supports an eleven-part model:
 - The toxic-boss source adds a more defensive workplace reading:
   - power can operate by shrinking your sense of options and hijacking your nervous system
   - the first win is often regaining inner distance before attempting any outward move
+- The newest `nice people lose power` source sharpens the same branch further:
+  - strategic naivete can look moral from the inside while functioning as self-exposure in the real world
+  - appearance management and seeing through appearances are twin tasks, not separate ones
+  - envy and manipulative charm deserve earlier detection because they reshape the field before open conflict begins
 - The most useful vault-level reading may be mixed:
   - as an offensive model, Greene is ethically risky
   - as a defensive model, he sharpens awareness of manipulation, reputational games, digital-footprint traps, and hidden option control
@@ -104,6 +120,7 @@ The current source base now supports an eleven-part model:
 - [[wiki/concepts/communication/interactional-authority|Interactional Authority]]
 - [[wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect|The Path To Power: Ambition, Status, Strength & Respect]]
 - [[wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time|How to DEFEAT Your BOSS Every Time]]
+- [[wiki/sources/2026-04-17-why-nice-people-lose-power-and-how-to-fix-it|Why Nice People Lose Power & How To Fix It]]
 - [[wiki/syntheses/communication/toxic-boss-response-framework|Toxic Boss Response Framework]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
 - [[wiki/syntheses/cross-source/hidden-motives-and-social-behavior|Hidden Motives and Social Behavior]]
