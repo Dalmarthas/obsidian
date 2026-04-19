@@ -2,7 +2,7 @@
 type: concept
 title: Leadership vs. Management
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-19
 status: active
 tags:
   - concept
@@ -12,6 +12,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-12-seth-godin-leadership-vs-management-what-it-means-to-make-a-difference.md
   - wiki/sources/2026-04-13-founder-mode-a-summary-of-paul-grahams-viral-essay.md
+  - wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/business-strategy.md
@@ -48,6 +49,10 @@ Leadership versus management is the distinction between optimizing a known syste
   - some leaders should spend less time optimizing rapport and more time reviewing real work, giving difficult feedback, and coaching toward stronger output
   - this reframes part of `management` as work-adjacent coaching rather than as pure administrative supervision
   - it also warns that popularity systems can reward social smoothness over actual result production
+- The new Maxwell-Lencioni-Ramsey source adds a talent-and-motive complication:
+  - great specialist performance does not imply desire or giftedness for leadership
+  - some promotions are anti-promotions because they move people out of contribution modes where they are strongest
+  - reproducing others, such as by training a replacement, is presented as better evidence of leadership potential than personal excellence alone
 
 # Source Comparisons
 
@@ -55,6 +60,7 @@ Leadership versus management is the distinction between optimizing a known syste
 - Compared with [[wiki/concepts/business/business-strategy|Business Strategy]], this page is less about allocation and market choice and more about the human mode required when strategy enters uncertainty.
 - Compared with [[wiki/concepts/business/process-over-outcomes|Process Over Outcomes]], this page is less about emotional steadiness in creative work and more about institutional responsibility, cultural enrollment, and action without formal authority.
 - Compared with [[wiki/concepts/business/founder-mode|Founder Mode]], this page is broader and more abstract. Founder mode is one concrete answer to how leadership behaves when scaling pressure tempts a company into generic management distance.
+- Compared with the new Maxwell-Lencioni-Ramsey source, Seth Godin is stronger on system change and enrollment under uncertainty, while the new source is stronger on role fit, promotion discipline, and the moral costs of putting the wrong people into leadership seats.
 
 # Tensions / Open Questions
 
@@ -63,6 +69,7 @@ Leadership versus management is the distinction between optimizing a known syste
 - The branch also needs stronger counterweight from sources that defend excellent management as a competitive advantage in its own right, not merely as a lower form of leadership.
 - The founder-mode source also raises a sharper ambiguity: when does detail-level founder involvement count as real leadership, and when is it just status-protective interference dressed up as quality control?
 - The newer essay-summary source adds a related ambiguity: when does results-over-popularity discipline create growth, and when does it merely legitimize abrasive leadership that burns trust faster than it builds capability?
+- The new source adds a parallel ambiguity: role-fit realism is useful, but the vault still needs better rules for distinguishing accurate non-promotion from prematurely boxing people into static views of their talent.
 
 # Related Pages
 
@@ -76,3 +83,4 @@ Leadership versus management is the distinction between optimizing a known syste
 - [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/syntheses/leadership/seth-godin-leadership-framework|Seth Godin Leadership Framework]]
+- [[wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]]

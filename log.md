@@ -1,4 +1,4 @@
-﻿# Log
+# Log
 
 Append-only record of durable operations in this vault.
 
@@ -5201,3 +5201,19 @@ Summary:
 - Ingested a new Jefferson Fisher source focused on preventing defensiveness in ordinary arguments and workplace friction before the conversation locks up.
 - Added a dedicated source page so the note's durable value remains visible as macro-level agreement, learner-mode reflection, `helpful to know` acknowledgment, and emotional validation without full factual concession.
 - Updated Effective Communication, Face-Saving De-Escalation, the Jefferson Fisher synthesis, and the Jefferson Fisher entity so the communication branch now captures acknowledgment structure as a distinct de-escalation tool rather than only trigger-avoidance, boundary language, or conflict philosophy.
+
+## [2026-04-19 21:43] ingest | Over 100 Years of Leadership Advice in 97 Minutes
+
+Pages touched:
+- [[raw/inbox/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]]
+- [[wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]]
+- [[wiki/concepts/leadership/character-based-leadership|Character-Based Leadership]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/leadership-vs-management|Leadership vs. Management]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
+- [[index|index]]
+
+Summary:
+- Ingested a new leadership source built around John Maxwell, Patrick Lencioni, and Dave Ramsey on service, trust, communication clarity, role fit, and grounded definitions of success.
+- Added a dedicated source page so the note's durable value remains visible as leadership-versus-specialist fit, the `like me / help me / trust me` follower sequence, truth-and-grace communication, `good miss` versus excuse-bound failure, and private integrity as a leadership test.
+- Updated Character-Based Leadership, Trust-Based Collaboration, Leadership vs. Management, and Leadership Communication so the leadership branch now captures anti-default-promotion logic, trust sequencing, the moral case for clarity, and approval-independence as a condition of honest leadership.

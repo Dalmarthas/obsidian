@@ -2,7 +2,7 @@
 type: concept
 title: Leadership Communication
 created: 2026-04-07
-updated: 2026-04-16
+updated: 2026-04-19
 status: active
 tags:
   - concept
@@ -20,6 +20,7 @@ source_pages:
   - wiki/sources/2026-04-10-simon-sinek-golden-circle-framework.md
   - wiki/sources/2026-04-13-how-to-think-on-your-feet.md
   - wiki/sources/2026-04-16-why-introverts-struggle-with-charisma.md
+  - wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/golden-circle.md
@@ -75,6 +76,14 @@ Leadership communication is the art of helping people understand a situation, tr
   - some leaders fail to register not because they lack ideas or integrity, but because social attention distorts their delivery signal
   - eye-contact distress and self-referential embarrassment can make thoughtful people look uncertain, withdrawn, or less compelling than they are
   - prepared answers, clearer personal direction, and repeated tolerance for being seen can therefore function as leadership communication training
+- The new Maxwell-Lencioni-Ramsey source adds a message-design-and-clarity layer:
+  - leaders should know what they want people to see, know, feel, and do
+  - a leader's `big message` is not just a single talk, but the repeated human signal others learn to expect from them
+  - false encouragement is treated as communication failure because it comforts people with an unrealistic path
+- The same source also sharpens the relationship between candor and care:
+  - `to be unclear is to be unkind` adds a stronger moral case for directness
+  - truth and grace are treated as co-required rather than optional stylistic balances
+  - vulnerability is distinguished from emotional dumping, which helps separate honest communication from reactive discharge
 
 # Source Comparisons
 
@@ -89,6 +98,7 @@ Leadership communication is the art of helping people understand a situation, tr
 - The newer Peterson anti-`motivation` source is strongest on communication as meaning design: the leader is not just transmitting information, but removing the need for shallow motivational theater by making the work intelligible enough to want.
 - The new `think on your feet` source is strongest on room-level response competence: the leader who can clarify, answer, and stop rambling under live scrutiny preserves credibility in moments where broad vision alone is not enough.
 - The introvert-charisma source is strongest on projection bottlenecks: it explains why coherence, honesty, and direction may still fail to read as leadership if being seen itself remains highly distressing.
+- The new Maxwell-Lencioni-Ramsey source is strongest on leader-message architecture under moral responsibility: it cares less about rhetorical flair than about whether the message is clear, realistic, repeatable, and kind enough to tell the truth.
 
 # Tensions / Open Questions
 
@@ -99,6 +109,7 @@ Leadership communication is the art of helping people understand a situation, tr
 - The Peterson source adds a coercion risk: a compelling story can align people more honestly, but it can also become a prettier mask for low-voluntariness if the role is not genuinely negotiable.
 - The newer Peterson source adds a material-reality tension: leaders may reject `motivation` language rhetorically while still failing to address pay, overload, and incentive design, all of which shape whether the story can be believed.
 - The introvert-charisma source adds an adaptation tension: leadership communication advice can quietly assume comfort with visibility, so the branch still needs better accommodation for temperament, neurotype, trauma history, and culturally different gaze norms.
+- The new source adds a further realism tension: clear, values-laden messaging is useful, but the vault still needs better rules for how to tell hard truths about limits or fit without foreclosing development too early.
 
 # Related Pages
 
@@ -114,3 +125,4 @@ Leadership communication is the art of helping people understand a situation, tr
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
 - [[wiki/sources/2026-04-12-your-job-is-not-to-motivate-people|Your Job Is Not To Motivate People]]
+- [[wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]]

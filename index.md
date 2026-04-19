@@ -17,6 +17,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 ## Raw Sources
 
+- [[raw/inbox/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]] - Leadership conversation summary on talent-role fit, servant leadership, trust built through liking-helping-trusting, truth-and-grace hard conversations, and grounded success through private integrity rather than public status.
 - [[raw/inbox/2026-04-17-best-argument-responses-top-3-ways-to-stay-calm-and-assertive|Best Argument Responses Top 3 Ways to Stay Calm and Assertive]] - Jefferson Fisher summary on preventing defensiveness through macro-level agreement, learner-mode reflection, helpfulness acknowledgment, and emotional validation without full factual concession.
 - [[raw/inbox/2026-04-17-why-nice-people-lose-power-and-how-to-fix-it|Why Nice People Lose Power & How To Fix It]] - Robert Greene summary on power as neutral self-mastery, political naivete versus strategic awareness, self-interest-based communication, ethical asymmetry, and self-love as a defense against manipulation.
 - [[raw/inbox/2026-04-17-outsmarting-narcissists-the-praise-or-provoke-trap|Outsmarting Narcissists The Praise or Provoke Trap]] - Jefferson Fisher summary on narcissistic `praise or provoke` dynamics, neutral one-word responses, tight interaction limits, and audience-based reframing when avoidance is not realistic.

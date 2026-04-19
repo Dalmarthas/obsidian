@@ -2,7 +2,7 @@
 type: concept
 title: Trust-Based Collaboration
 created: 2026-04-07
-updated: 2026-04-15
+updated: 2026-04-19
 status: active
 tags:
   - concept
@@ -30,6 +30,7 @@ source_pages:
   - wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset.md
   - wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity.md
   - wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious.md
+  - wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes.md
 related:
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/filmmaking/casting-and-performance-direction.md
@@ -102,6 +103,14 @@ Trust-based collaboration is the practice of designing work so that other people
   - prosocial action is valuable not only because it helps relationships directly
   - it may also function as a discipline-building exercise by forcing repeated restraint of immediate self-interest
   - this gives the collaboration branch a stronger bridge into self-management rather than treating care for others as socially good but individually separate
+- The new Maxwell-Lencioni-Ramsey source adds a follower-psychology version:
+  - trust tends to arrive after people feel liked and helped, not before
+  - new leaders initially borrow credibility through words, but behavior replaces rhetoric quickly
+  - visible goodwill and practical help are therefore not soft extras; they are preconditions for deeper trust
+- The same source also sharpens a hard-truth condition:
+  - collaboration weakens when leaders avoid clarity to preserve comfort
+  - `to be unclear is to be unkind` adds the reminder that trust is damaged by evasive kindness as well as by harshness
+  - direct feedback works best when delivered calmly enough that it still reads as service rather than emotional discharge
 
 # Source Comparisons
 
@@ -124,6 +133,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - The newer Peterson character source focuses on trust inside leader reliability: before the game's legitimacy can matter fully, followers still need evidence that the person speaking keeps promises and behaves predictably enough to be followed.
 - The newer habits source focuses on trust inside ordinary reciprocity: collaboration weakens not only through fear and dishonesty, but also through a short-term extraction mindset toward other people.
 - The newer conscientiousness source focuses on trust inside chosen service: helping behavior can be socially valuable even when it is not driven by strong empathy, which sharpens the difference between prosocial action and emotional resonance.
+- The new Maxwell-Lencioni-Ramsey source focuses on trust inside leadership sequence: goodwill, help, and trust are not interchangeable, and leaders may need to earn them in that order.
 
 # Tensions / Open Questions
 
@@ -139,6 +149,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - The newest crisis-of-meaning layer adds a care-timing problem: leaders and friends may believe they are helping when they are actually using advice to escape the discomfort of another person's grief.
 - The newer habits source adds the opposite boundary risk: prosocial credibility is useful, but the branch still needs a sharper line between healthy generosity and becoming a boundaryless resource for everyone else.
 - The newer conscientiousness source adds a motive ambiguity: if helping others is used mainly as self-improvement training, the branch still needs to clarify when that instrumental stance preserves genuine care and when it hollows it out.
+- The new source adds a hiring and healing ambiguity too: it may be wise to notice when someone cannot trust anyone, but the vault still needs better rules for distinguishing prudent role fit from overconfident amateur diagnosis.
 
 # Related Pages
 
@@ -157,3 +168,4 @@ Trust-based collaboration is the practice of designing work so that other people
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 - [[wiki/syntheses/productivity/anti-productivity-myths-framework|Anti-Productivity Myths Framework]]
 - [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek|Were Living Through A Crisis Of Meaning Simon Sinek]]
+- [[wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]]
