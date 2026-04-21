@@ -2,7 +2,7 @@
 type: synthesis
 title: Jordan Peterson Self-Management Framework
 created: 2026-04-12
-updated: 2026-04-15
+updated: 2026-04-21
 status: active
 tags:
   - synthesis
@@ -19,6 +19,7 @@ basis:
   - wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson.md
   - wiki/sources/2026-04-12-jordan-peterson-sorting-your-life.md
   - wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious.md
+  - wiki/sources/2026-04-21-jordan-peterson-on-goals-scheduling-negotiating-and-friendship.md
   - wiki/concepts/productivity/calibrated-challenge.md
   - wiki/concepts/productivity/conscientiousness.md
   - wiki/concepts/productivity/environmental-order.md
@@ -39,7 +40,7 @@ What reusable self-management framework do the current Jordan Peterson productiv
 
 # Answer
 
-The Peterson productivity branch now adds a twelve-part self-management framework:
+The Peterson productivity branch now adds a fifteen-part self-management framework:
 
 1. Stabilize physiology before demanding discipline.
    Treat food, sleep, wake regularity, and exercise as operating conditions for cognition rather than as optional lifestyle extras.
@@ -77,6 +78,15 @@ The Peterson productivity branch now adds a twelve-part self-management framewor
 12. Measure progress locally and tell the truth early.
    Use yesterday's self rather than social comparison as the baseline, then audit where dishonesty, false agreement, or avoided conversations are preventing real forward movement.
 
+13. Design the best realistically repeatable day.
+   The new goals-and-scheduling source makes the schedule less punitive: the question is what tomorrow could look like if it balanced responsibility, restoration, and genuine reward well enough to be repeatable without digging a deeper hole.
+
+14. Treat schedule adherence as a negotiated metric.
+   Instead of demanding perfection, measure approximate adherence and aim for a small improvement, such as moving from 50% to 51%, so the system becomes an upward spiral rather than another self-attack mechanism.
+
+15. Price time to make drift visible.
+   The hourly-rate heuristic is not exact economics, but it makes habitual time loss concrete enough to challenge the fantasy that wasted hours are harmless.
+
 # Basis
 
 - Main sources: [[wiki/sources/2026-04-12-what-to-do-to-be-successful-jordan-b-peterson|What To Do To Be Successful Jordan B Peterson]], [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive|Jordan Peterson Becoming Highly Efficient and Productive]], [[wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable|Being Disciplined Will Make You Unstoppable]], [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]], [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]], [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson|12 Rules for Life by Jordan Peterson]]
@@ -93,6 +103,7 @@ The Peterson productivity branch now adds a twelve-part self-management framewor
 - The sorting-your-life source adds a local-environment layer: when abstraction is too big, order the room and the routine-level social moments first, because those mundane repetitions often dominate the lived feel of a life.
 - The `12 Rules for Life` summary adds a day-to-day anti-comparison loop that the earlier productivity pages only implied: motivation stabilizes when the scoreboard is `better than yesterday` rather than `better than other people`, and course correction becomes more honest when avoided truths are surfaced quickly.
 - The newer conscientiousness source adds a non-Peterson but compatible training hypothesis: some self-governance may be built not only by structure and value hierarchy, but also by repeated prosocial acts that rehearse setting aside immediate self-interest.
+- The newest goals-and-scheduling source returns the branch to its most practical center: vision has to become a negotiated day design, or it stays motivational rhetoric.
 
 # Gaps
 
@@ -104,6 +115,7 @@ The Peterson productivity branch now adds a twelve-part self-management framewor
 - The routine source adds two more open questions: how general the `three hours of intense work` ceiling really is, and how to distinguish real workflow redesign from endless optimization tinkering.
 - The newest source adds another open question: which local environmental and interpersonal routines are most reliable as first repair points when life feels chaotic?
 - The `12 Rules for Life` summary adds one more gap: the vault still lacks stronger sources on when self-scoring improves follow-through versus when it becomes compulsive self-monitoring.
+- The newest source adds another adaptation gap: the schedule-as-best-day model is useful, but the branch needs clearer variants for people whose work hours, caregiving duties, health, or executive-function limits sharply constrain the day.
 
 # Related Pages
 
@@ -124,3 +136,4 @@ The Peterson productivity branch now adds a twelve-part self-management framewor
 - [[wiki/sources/2026-04-12-jordan-peterson-daily-productivity-routine|Jordan Peterson Daily Productivity Routine]]
 - [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]]
 - [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson|12 Rules for Life by Jordan Peterson]]
+- [[wiki/sources/2026-04-21-jordan-peterson-on-goals-scheduling-negotiating-and-friendship|Jordan Peterson on Goals, Scheduling, Negotiating & Friendship]]

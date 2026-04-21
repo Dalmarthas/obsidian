@@ -2,7 +2,7 @@
 type: concept
 title: Trust-Based Collaboration
 created: 2026-04-07
-updated: 2026-04-19
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -31,6 +31,8 @@ source_pages:
   - wiki/sources/2026-04-15-5-habits-that-destroy-your-productivity.md
   - wiki/sources/2026-04-15-how-to-become-more-mentally-efficient-and-conscientious.md
   - wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes.md
+  - wiki/sources/2026-04-21-trusting-teams-the-5-practices.md
+  - wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work.md
 related:
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/filmmaking/casting-and-performance-direction.md
@@ -43,6 +45,7 @@ related:
   - wiki/concepts/communication/tactical-empathy.md
   - wiki/syntheses/cross-source/human-centered-change-models.md
   - wiki/syntheses/productivity/anti-productivity-myths-framework.md
+  - wiki/syntheses/leadership/ted-lasso-leadership-framework.md
 ---
 
 # What It Is
@@ -111,6 +114,15 @@ Trust-based collaboration is the practice of designing work so that other people
   - collaboration weakens when leaders avoid clarity to preserve comfort
   - `to be unclear is to be unkind` adds the reminder that trust is damaged by evasive kindness as well as by harshness
   - direct feedback works best when delivered calmly enough that it still reads as service rather than emotional discharge
+- The new `Trusting Teams` source sharpens the environment version:
+  - trust-based collaboration is present when people can safely say `I made a mistake`, `I don't know`, or `I need help`
+  - the Noah/Four Seasons example shows the same person becoming more generous and effective when managers ask what support is needed instead of patrolling for mistakes
+  - fear-based collaboration produces concealment, rigid rule enforcement, and self-protection that eventually surface as operational or customer-service failures
+  - trust maintenance behaves like fitness: small repeated leadership habits matter more than occasional culture events
+- The Ted Lasso source adds a credit-and-visibility version:
+  - trust grows when low-status contributors are treated as real members of the team
+  - people contribute more when leaders invite ideas, make contributors own them, and then give them the stage and credit
+  - suggestion boxes and blind-spot circles make trust practical by giving people channels to tell leaders what they do not already see
 
 # Source Comparisons
 
@@ -134,6 +146,8 @@ Trust-based collaboration is the practice of designing work so that other people
 - The newer habits source focuses on trust inside ordinary reciprocity: collaboration weakens not only through fear and dishonesty, but also through a short-term extraction mindset toward other people.
 - The newer conscientiousness source focuses on trust inside chosen service: helping behavior can be socially valuable even when it is not driven by strong empathy, which sharpens the difference between prosocial action and emotional resonance.
 - The new Maxwell-Lencioni-Ramsey source focuses on trust inside leadership sequence: goodwill, help, and trust are not interchangeable, and leaders may need to earn them in that order.
+- The new `Trusting Teams` source focuses on trust inside daily leadership environment: before trust can become a selection criterion or a noble value, the actual workplace has to make vulnerability survivable.
+- The Ted Lasso source focuses on trust inside small recognition and ownership moments: a leader builds collaboration by noticing ignored people, sharing credit, and creating low-friction ways for truthful feedback to reach power.
 
 # Tensions / Open Questions
 
@@ -150,6 +164,8 @@ Trust-based collaboration is the practice of designing work so that other people
 - The newer habits source adds the opposite boundary risk: prosocial credibility is useful, but the branch still needs a sharper line between healthy generosity and becoming a boundaryless resource for everyone else.
 - The newer conscientiousness source adds a motive ambiguity: if helping others is used mainly as self-improvement training, the branch still needs to clarify when that instrumental stance preserves genuine care and when it hollows it out.
 - The new source adds a hiring and healing ambiguity too: it may be wise to notice when someone cannot trust anyone, but the vault still needs better rules for distinguishing prudent role fit from overconfident amateur diagnosis.
+- The new `Trusting Teams` source adds an accountability ambiguity: psychological safety is necessary for truth-telling, but the branch still needs clearer operating rules for costly mistakes, chronic underperformance, and regulated environments where judgment must coexist with procedure.
+- The Ted Lasso source adds a credit-allocation ambiguity: giving others the stage builds ownership, but leaders still need to keep accountability legible so distributed credit does not become fuzzy responsibility.
 
 # Related Pages
 
@@ -169,3 +185,6 @@ Trust-based collaboration is the practice of designing work so that other people
 - [[wiki/syntheses/productivity/anti-productivity-myths-framework|Anti-Productivity Myths Framework]]
 - [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek|Were Living Through A Crisis Of Meaning Simon Sinek]]
 - [[wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]]
+- [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
+- [[wiki/syntheses/leadership/ted-lasso-leadership-framework|Ted Lasso Leadership Framework]]
+- [[wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work|Ted Lasso Leadership Lessons That Work]]

@@ -2,7 +2,7 @@
 type: synthesis
 title: Simon Sinek Trust-Centered Leadership Framework
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - synthesis
@@ -15,6 +15,7 @@ basis:
   - wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe.md
   - wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset.md
   - wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments.md
+  - wiki/sources/2026-04-21-trusting-teams-the-5-practices.md
   - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
   - wiki/concepts/leadership/trust-performance-matrix.md
   - wiki/concepts/leadership/trust-based-collaboration.md
@@ -30,7 +31,7 @@ What reusable leadership framework does the Simon Sinek source add to the vault?
 
 # Answer
 
-The current source base supports a fifteen-part model:
+The current source base supports a seventeen-part model:
 
 1. Evaluate people on trust as well as output.
    Performance matters, but trustworthiness is a separate leadership variable that changes team safety and cohesion.
@@ -77,9 +78,15 @@ The current source base supports a fifteen-part model:
 15. Treat leadership as behavior, not rank.
    Formal authority does not guarantee leadership; people at any level become leaders when they consistently care for those to their left and right.
 
+16. Diagnose fear through hiding behavior.
+   When people conceal mistakes, rigidly follow rules to avoid blame, or keep their heads down, the first diagnostic should be the environment leaders have built, not only the individual's character.
+
+17. Maintain trust like fitness.
+   Trusting teams are built through repeated small practices: asking what people need, making help-seeking safe, running learning-oriented postmortems, and responding to vulnerability with support. One-off events cannot substitute for the daily lifestyle of leadership.
+
 # Basis
 
-- Main sources: [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection|Simon Sinek Trust and Team Selection]], [[wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments|Simon Sinek Trusting Teams and Leadership Environments]]
+- Main sources: [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection|Simon Sinek Trust and Team Selection]], [[wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments|Simon Sinek Trusting Teams and Leadership Environments]], [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
 - Canonical concepts: [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]], [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]], [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 
 # Comparisons
@@ -102,15 +109,20 @@ The current source base supports a fifteen-part model:
   - reward systems and status structures can quietly undermine trust even when the rhetoric sounds humane
   - internal safety matters partly because it keeps effort aimed at external problems instead of internal defense
   - the chemistry framing gives the branch a more explicit explanation for why fear-based cultures get more selfish and short-term under pressure
+- The new `Trusting Teams` source sharpens the earlier environment source:
+  - the Noah example shows the same person performing differently under different management climates
+  - the United/Virgin contrast makes rule rigidity a possible fear signal
+  - the fitness analogy turns trust-building from a value into a maintenance practice
 
 # Gaps
 
-- This framework now rests on two secondary summaries rather than a broader Simon Sinek branch.
+- This framework rests on secondary summaries rather than primary transcripts, direct implementation data, or measured culture-change studies.
 - The branch is strong on diagnosis and principle but still lighter on implementation detail for trust measurement and fear-reduction routines.
 - The branch is now stronger on vulnerable leadership and feedback practice, but it still needs better evidence on how to scale these behaviors in large systems without turning them into scripted performance.
 - The branch is now stronger on safety and sacrificial leadership, but it still needs sharper guidance on when people-first coaching should give way to firm removal, restructuring, or other hard boundary decisions.
 - The newest source makes the neurochemical explanation more vivid, but the vault still needs stronger support for how literally to treat those biology claims versus using them as memorable heuristics for incentive design.
 - The vault still needs more business-side examples where trust-first promotion logic and leader-built safety were applied well or badly.
+- The new `Trusting Teams` source is vivid on service anecdotes, but the vault still needs better tools for measuring trust, concealment, and judgment quality before a crisis exposes them.
 
 # Related Pages
 
@@ -119,3 +131,4 @@ The current source base supports a fifteen-part model:
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]
+- [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]

@@ -17,6 +17,7 @@ source_pages:
   - wiki/sources/2026-04-11-seth-godin-this-is-strategy.md
   - wiki/sources/2026-04-11-seth-godin-magnetic-brand-that-sells-itself.md
   - wiki/sources/2026-04-12-seth-godin-reveals-5-secrets-for-great-brand-marketing.md
+  - wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus.md
   - wiki/sources/2026-04-13-the-4-disciplines-of-execution.md
   - wiki/sources/2026-04-13-measure-what-matters-by-john-doerr.md
   - wiki/sources/2026-04-16-why-this-baseball-team-has-a-4-2-million-person-waitlist-with-jesse-cole.md
@@ -34,6 +35,7 @@ related:
   - wiki/syntheses/business/john-doerr-okr-framework.md
   - wiki/syntheses/business/simon-sinek-success-metrics-framework.md
   - wiki/syntheses/business/seth-godin-strategy-framework.md
+  - wiki/syntheses/business/seth-godin-practice-framework.md
 ---
 
 # What It Is
@@ -76,6 +78,10 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - That same source also adds an anti-extraction metric layer:
   - maximizing fees, sponsorship clutter, or short-run monetization can improve visible numbers while quietly damaging long-run trust
   - return travel, family tradition, and referral depth may be more strategically important than squeezing each event for more cash
+- The new Godin Impact Theory source adds an anti-infinite-hole layer:
+  - fame, bestseller status, billionaire rankings, follower counts, and generic applause can become scoreboards with no satisfying endpoint
+  - better creator metrics include showing up, making new mistakes, improving taste, helping a chosen audience, and receiving useful feedback from people whose judgment matters
+  - the metric should be judged partly by whether it pushes the maker toward generous art or toward hack behavior
 
 # Source Comparisons
 
@@ -89,6 +95,7 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - The 4DX source is strongest on scoreboard usability: it cares less about deep philosophical completeness than about whether a team can tell in seconds whether it is winning and what it should do next.
 - The Doerr source is strongest on metric architecture under ambition: it shows how the scoreboard can hold a stretch objective together without collapsing into either vague inspiration or raw KPI chasing.
 - Jesse Cole is strongest on lived customer-truth metrics: he reframes the scoreboard around belonging, fairness, repeat story-worthiness, and the experience of the worst seat rather than around extraction-maximizing event economics.
+- The new Godin Impact Theory source is strongest on creator-scoreboard hygiene: it asks whether the metric keeps the practice alive and useful or turns the maker bitter, status-hungry, and formulaic.
 
 # Tensions / Open Questions
 
@@ -102,6 +109,7 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - The 4DX source adds another tension: a simple scoreboard can create urgency and engagement, but it can also distort reality if simplification removes too much context or rewards the wrong proxy actions.
 - The Doerr source adds a neighboring tension: stretch metrics can energize growth, but if leaders use them performatively, chronic yellow and red status can become anxiety theater instead of honest adaptation.
 - The Jesse Cole layer adds a scarcity tension: waitlists and passionate fandom can signal success, but they can also hide accessibility problems or operational fragility if the organization treats demand theater as proof that the model is universally healthy.
+- The new Godin layer adds a rejection tension: ignoring mass reaction can protect practice, but it can also let a creator dismiss legitimate market evidence as mere noise.
 
 # Related Pages
 
@@ -119,3 +127,5 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - [[wiki/syntheses/business/john-doerr-okr-framework|John Doerr OKR Framework]]
 - [[wiki/syntheses/business/simon-sinek-success-metrics-framework|Simon Sinek Success Metrics Framework]]
 - [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
+- [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]]
+- [[wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus|Why You've Been Lied to About Where to Put Your Time, Energy, and Focus]]

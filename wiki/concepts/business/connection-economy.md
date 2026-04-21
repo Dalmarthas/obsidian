@@ -2,7 +2,7 @@
 type: concept
 title: Connection Economy
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -12,6 +12,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-12-how-to-build-an-audience-that-buys.md
   - wiki/sources/2026-04-12-seth-godin-how-to-get-your-ideas-to-spread.md
+  - wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017.md
 related:
   - wiki/concepts/business/smallest-viable-audience.md
   - wiki/concepts/business/psychographic-targeting.md
@@ -48,6 +49,8 @@ Connection economy is the market logic in which value is created less by mass pr
   - status and affiliation are not side effects but part of why ideas travel
   - `spread` is therefore partly a design problem, not only a messaging problem
 - That same source also adds a platform warning: networked tools can help ideas travel, but they can also trap creators into serving the platform's metrics rather than building a customer base that actually buys and tells others.
+- The Craft & Commerce source adds a permission-depth test: connection is weak if the audience merely receives the work, and stronger when people would notice and miss the creator, product, or message if it stopped appearing.
+- It also adds a sharper network-effect rule: users spread the work when their own lives improve if others join, believe, use, or coordinate around it.
 
 # Source Comparisons
 
@@ -55,17 +58,20 @@ Connection economy is the market logic in which value is created less by mass pr
 - Compared with [[wiki/concepts/business/brand-strategy|Brand Strategy]], this page is more about the market environment and spread mechanics than about promise, positioning, or meaning architecture.
 - Compared with [[wiki/concepts/business/permissionless-creation|Permissionless Creation]], this page is less about the creator's courage to start and more about the connected social system that determines whether the work can coordinate a tribe once it exists.
 - Compared with the newest Seth audience-building source, the earlier spread source is more abstract and network-structural, while the new one is more product-and-scene-oriented about how word of mouth actually gets triggered in lived social situations.
+- Compared with the Craft & Commerce source, the earlier spread source is more about how ideas travel through tribes, while Craft & Commerce is more explicit about the shift from scarcity and interruption to abundance, permission, and customer-benefiting network effects.
 
 # Tensions / Open Questions
 
 - Connection density can be a real advantage, but not every category lends itself to visible tribes, rituals, or shareable identity.
 - The same tools that enable relevance and permission can also enable manipulative over-personalization if marketers stop respecting consent and dignity.
 - The newest Seth layer adds another risk: creators may mistake platform-native visibility for connection-economy strength even when the audience is not buying, not returning, and not telling friends outside the feed.
+- The Craft & Commerce layer adds a trust risk: treating permission as a marketing asset can become extractive if the creator stops honoring why people gave attention in the first place.
 - The main open question is how to tell when a business should be designed around connection-economy dynamics and when it mainly wins through utility, trustworthiness, and quiet reliability.
 
 # Related Pages
 
 - [[wiki/sources/2026-04-12-seth-godin-how-to-get-your-ideas-to-spread|Seth Godin How to Get Your Ideas to Spread]]
+- [[wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017|Your Job is to Make Art - Seth Godin at ConvertKit Craft & Commerce 2017]]
 - [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]]
 - [[wiki/concepts/business/psychographic-targeting|Psychographic Targeting]]
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]]

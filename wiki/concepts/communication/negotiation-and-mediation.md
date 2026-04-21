@@ -2,7 +2,7 @@
 type: concept
 title: Negotiation and Mediation
 created: 2026-04-07
-updated: 2026-04-13
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -15,6 +15,7 @@ source_pages:
   - wiki/sources/2026-04-08-chris-voss-negotiation-masterclass-master-summary.md
   - wiki/sources/2026-04-08-chris-voss-workplace-negotiation-masterclass-complete-summary.md
   - wiki/sources/2026-04-13-game-theory-and-negotiation.md
+  - wiki/sources/2026-04-21-jordan-peterson-on-goals-scheduling-negotiating-and-friendship.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/leadership/leadership-communication.md
@@ -32,6 +33,7 @@ related:
   - wiki/syntheses/communication/chris-voss-negotiation-framework.md
   - wiki/syntheses/business/game-theory-cooperation-and-competition-framework.md
   - wiki/syntheses/cross-source/communication-and-influence-models.md
+  - wiki/syntheses/leadership/jordan-peterson-responsibility-framework.md
 ---
 
 # What It Is
@@ -70,6 +72,11 @@ Negotiation and mediation are the practices of moving parties with different int
   - ask whether the negotiation is one-shot or repeated, because reputation changes what `rational` behavior looks like
   - treat signaling, screening, and credible commitment as ways to manage incomplete information rather than as mere psychological tricks
   - use payoff modeling to test whether the conflict is actually distributive or whether differing preferences create room for integrative trades
+- The new Peterson goals-and-negotiation source adds a resentment diagnostic:
+  - resentment often means something important has not been articulated
+  - a minimally acceptable agreement should not leave either side resentful and miserable
+  - in long-term relationships, the better target is genuine willingness or enthusiasm rather than bare non-resentment
+  - self-negotiation follows the same pattern: a schedule or demand that leaves the person resentful will usually be sabotaged later
 
 # Source Comparisons
 
@@ -79,6 +86,7 @@ Negotiation and mediation are the practices of moving parties with different int
 - The game-theory source is strongest on incentive geometry: it explains why some bargaining failures are built into the payoff structure and why some fairness fights are really disputes about contribution measurement.
 - The repeated-games source is strongest on ongoing counterpart management: it shows how cooperation and enforcement can be paired without becoming naive or permanently punitive.
 - The new negotiation-game-theory source is strongest on bridge concepts between structure and practice: outside options, credible commitment, incomplete information, signaling, and package design as information-revealing tools.
+- Peterson is strongest on resentment as an early-warning signal and on negotiation as an agreement one must be able to inhabit without covert sabotage.
 - Both treat respect as tactically useful rather than merely morally nice.
 
 # Tensions / Open Questions
@@ -90,6 +98,7 @@ Negotiation and mediation are the practices of moving parties with different int
 - The game-theory addition raises a neighboring tension: contribution-based fairness can be analytically cleaner than equal split while still feeling socially illegitimate in cases involving care, leave, or temporarily invisible work.
 - The repeated-games addition raises another tension: immediate reciprocity can stabilize trust, but in noisy or asymmetric settings it can also misread mistakes as malice and trigger unnecessary retaliation loops.
 - The new source adds another tension: strategic signaling and self-binding can improve clarity, but they can also become manipulative theater if they are not grounded in genuine constraints and honest willingness to follow through.
+- The Peterson layer adds a further caution: resentment is useful data, but it is not proof of correctness; it may reveal an unspoken legitimate concern or an expectation that needs revision.
 
 # Related Pages
 
@@ -110,3 +119,4 @@ Negotiation and mediation are the practices of moving parties with different int
 - [[wiki/syntheses/business/game-theory-cooperation-and-competition-framework|Game Theory Cooperation and Competition Framework]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
 - [[wiki/sources/2026-04-13-game-theory-and-negotiation|Game Theory and Negotiation]]
+- [[wiki/sources/2026-04-21-jordan-peterson-on-goals-scheduling-negotiating-and-friendship|Jordan Peterson on Goals, Scheduling, Negotiating & Friendship]]

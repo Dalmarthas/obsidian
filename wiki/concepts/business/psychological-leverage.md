@@ -2,7 +2,7 @@
 type: concept
 title: Psychological Leverage
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -15,7 +15,9 @@ source_pages:
   - wiki/sources/2026-04-13-how-your-brain-gets-tricked-by-clever-marketing.md
   - wiki/sources/2026-04-13-rory-sutherland-on-the-magic-of-original-thinking.md
   - wiki/sources/2026-04-13-the-lost-genius-of-irrationality-rory-sutherland.md
+  - wiki/sources/2026-04-21-how-casinos-are-able-to-predict-human-behavior.md
 related:
+  - wiki/concepts/health/scarcity-loop.md
   - wiki/concepts/business/perception-driven-value.md
   - wiki/concepts/business/psychological-arbitrage.md
   - wiki/concepts/business/social-heuristics.md
@@ -47,6 +49,10 @@ Psychological leverage is the practice of improving outcomes by changing how peo
 - That source also broadens the concept's human-drivers layer by foregrounding status, certainty, autonomy, relatedness, and fairness as powerful but weakly measured variables in service design and pricing.
 - [[wiki/sources/2026-04-13-the-lost-genius-of-irrationality-rory-sutherland|The Lost Genius of Irrationality Rory Sutherland]] adds a collective-behavior layer: many interventions work because they become simple, named, socially visible heuristics rather than because each person continuously calculates the optimal move.
 - That source also sharpens the distinction between numeric guidance and binary rules, arguing that visible, shared scripts often outperform precise recommendations when self-control and imitation matter.
+- [[wiki/sources/2026-04-21-how-casinos-are-able-to-predict-human-behavior|How Casinos Are Able to Predict Human Behavior]] adds a darker behavioral-engineering layer:
+  - opportunity, unpredictable reward, and quick repeatability can be designed into products to intensify engagement
+  - casino, social-media, betting, dating, gig-work, and fintech examples show that psychological leverage can become a cross-industry extraction system
+  - the same design intelligence that can reduce uncertainty or improve experience can also exploit uncertainty and scarcity
 
 # Source Comparisons
 
@@ -57,16 +63,19 @@ Psychological leverage is the practice of improving outcomes by changing how peo
 - Compared with [[wiki/concepts/leadership/locus-of-control|Locus of Control]], this concept is more design-oriented than motivational. Locus of control explains why agency beliefs matter inside a person; psychological leverage explains how systems, environments, and interfaces can create or remove that felt agency.
 - Compared with [[wiki/concepts/productivity/chunking|Chunking]], this concept uses milestones as behavioral design rather than as a memory mechanism. The overlap is real, but the causal emphasis differs.
 - Compared with [[wiki/concepts/business/business-strategy|Business Strategy]], psychological leverage is not the whole strategy. It is one recurring source of asymmetric gain inside a broader allocation and tradeoff system.
+- Compared with [[wiki/concepts/health/scarcity-loop|Scarcity Loop]], psychological leverage is broader. Scarcity loops are one ethically risky subset where the design uses variable reward and fast repetition to shape behavior.
 
 # Tensions / Open Questions
 
 - The same techniques can clarify reality or manipulate it.
 - Psychological leverage should not become an excuse to neglect genuine product, service, or policy failures.
 - The vault still needs more sources showing when psychological design fails because the underlying reality is too poor to rescue through framing.
+- The scarcity-loop source adds a stronger ethics problem: psychological leverage can be profitable precisely when it weakens user agency, so business usefulness and human welfare can diverge.
 
 # Related Pages
 
 - [[wiki/concepts/business/perception-driven-value|Perception-Driven Value]]
+- [[wiki/concepts/health/scarcity-loop|Scarcity Loop]]
 - [[wiki/concepts/business/psychological-arbitrage|Psychological Arbitrage]]
 - [[wiki/concepts/business/social-heuristics|Social Heuristics]]
 - [[wiki/concepts/business/experience-goods|Experience Goods]]
@@ -78,3 +87,4 @@ Psychological leverage is the practice of improving outcomes by changing how peo
 - [[wiki/sources/2026-04-13-rory-sutherland-perspective-is-everything|Rory Sutherland Perspective is Everything]]
 - [[wiki/sources/2026-04-13-how-your-brain-gets-tricked-by-clever-marketing|How Your Brain Gets Tricked By Clever Marketing]]
 - [[wiki/sources/2026-04-13-rory-sutherland-on-the-magic-of-original-thinking|Rory Sutherland on the Magic of Original Thinking]]
+- [[wiki/sources/2026-04-21-how-casinos-are-able-to-predict-human-behavior|How Casinos Are Able to Predict Human Behavior]]

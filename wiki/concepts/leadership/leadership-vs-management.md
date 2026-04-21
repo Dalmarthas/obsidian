@@ -2,7 +2,7 @@
 type: concept
 title: Leadership vs. Management
 created: 2026-04-12
-updated: 2026-04-19
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -13,6 +13,7 @@ source_pages:
   - wiki/sources/2026-04-12-seth-godin-leadership-vs-management-what-it-means-to-make-a-difference.md
   - wiki/sources/2026-04-13-founder-mode-a-summary-of-paul-grahams-viral-essay.md
   - wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes.md
+  - wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/business-strategy.md
@@ -53,6 +54,10 @@ Leadership versus management is the distinction between optimizing a known syste
   - great specialist performance does not imply desire or giftedness for leadership
   - some promotions are anti-promotions because they move people out of contribution modes where they are strongest
   - reproducing others, such as by training a replacement, is presented as better evidence of leadership potential than personal excellence alone
+- The Craft & Commerce source adds an art/plumbing distinction:
+  - management is closer to plumbing when it repeats known moves reliably
+  - leadership is closer to art when it asks people to follow an unproven change
+  - being prepared is useful, but waiting to feel ready can become avoidance because uncertainty is intrinsic to the work
 
 # Source Comparisons
 
@@ -61,6 +66,7 @@ Leadership versus management is the distinction between optimizing a known syste
 - Compared with [[wiki/concepts/business/process-over-outcomes|Process Over Outcomes]], this page is less about emotional steadiness in creative work and more about institutional responsibility, cultural enrollment, and action without formal authority.
 - Compared with [[wiki/concepts/business/founder-mode|Founder Mode]], this page is broader and more abstract. Founder mode is one concrete answer to how leadership behaves when scaling pressure tempts a company into generic management distance.
 - Compared with the new Maxwell-Lencioni-Ramsey source, Seth Godin is stronger on system change and enrollment under uncertainty, while the new source is stronger on role fit, promotion discipline, and the moral costs of putting the wrong people into leadership seats.
+- Compared with the Craft & Commerce source, the earlier leadership-vs-management source is more explicit about organizational roles, while Craft & Commerce is more explicit about the emotional cost of acting before certainty and accepting shipwreck risk.
 
 # Tensions / Open Questions
 
@@ -70,6 +76,7 @@ Leadership versus management is the distinction between optimizing a known syste
 - The founder-mode source also raises a sharper ambiguity: when does detail-level founder involvement count as real leadership, and when is it just status-protective interference dressed up as quality control?
 - The newer essay-summary source adds a related ambiguity: when does results-over-popularity discipline create growth, and when does it merely legitimize abrasive leadership that burns trust faster than it builds capability?
 - The new source adds a parallel ambiguity: role-fit realism is useful, but the vault still needs better rules for distinguishing accurate non-promotion from prematurely boxing people into static views of their talent.
+- The Craft & Commerce source adds another ambiguity: organizations need artful leadership when the map is missing, but they also need excellent plumbing when reliability, safety, and scale are the central job.
 
 # Related Pages
 
@@ -84,3 +91,4 @@ Leadership versus management is the distinction between optimizing a known syste
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/syntheses/leadership/seth-godin-leadership-framework|Seth Godin Leadership Framework]]
 - [[wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]]
+- [[wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017|Your Job is to Make Art - Seth Godin at ConvertKit Craft & Commerce 2017]]

@@ -2,7 +2,7 @@
 type: synthesis
 title: Seth Godin Remarkable Marketing Framework
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - synthesis
@@ -22,6 +22,8 @@ basis:
   - wiki/sources/2026-04-11-seth-godin-magnetic-brand-that-sells-itself.md
   - wiki/sources/2026-04-11-seth-godin-everything-you-probably-dont-know-about-marketing.md
   - wiki/sources/2026-04-12-seth-godin-how-to-get-your-ideas-to-spread.md
+  - wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus.md
+  - wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017.md
   - wiki/concepts/business/smallest-viable-audience.md
   - wiki/concepts/business/brand-strategy.md
   - wiki/concepts/business/connection-economy.md
@@ -30,8 +32,10 @@ basis:
   - wiki/concepts/business/positioning-as-a-service.md
   - wiki/concepts/business/psychographic-targeting.md
   - wiki/concepts/business/strategic-quitting.md
+  - wiki/concepts/creativity/art-making.md
 related:
   - wiki/entities/seth-godin.md
+  - wiki/syntheses/business/seth-godin-practice-framework.md
   - wiki/syntheses/business/seth-godin-strategy-framework.md
   - wiki/syntheses/business/goodby-silverstein-advertising-framework.md
   - wiki/syntheses/business/casey-neistat-permissionless-creation-framework.md
@@ -44,7 +48,7 @@ What reusable business framework does the Seth Godin branch add to the vault?
 
 # Answer
 
-The current Seth Godin branch now supports a twenty-seven-part model:
+The current Seth Godin branch now supports a thirty-three-part model:
 
 1. Reject average positioning.
    In digital markets, sameness drives comparison and price pressure rather than loyalty.
@@ -127,7 +131,25 @@ The current Seth Godin branch now supports a twenty-seven-part model:
 27. Refuse platform-defined success.
    Views and algorithmic reach can enrich the platform while leaving the maker with weak economics, so the real test is whether the right people buy, return, and tell others.
 
-The distinctive Godin layer is that niche strategy, generosity, cultural change, creator self-management, systems-and-time-horizon thinking, trust-and-referral brand logic, metric-discipline, psychographic empathy, worldview alignment, marketer responsibility, and tribe-based connection dynamics are treated as one system rather than as separate marketing, ethics, leadership, and mindset topics.
+28. Put practice before validation.
+   The newest Impact Theory source makes the creator-operating layer more explicit: streaks, repeated shipping, and new mistakes are not merely preparation for output; they are the output the maker can actually control.
+
+29. Curate criticism before obeying it.
+   Godin's feedback rule is not `ignore everyone`. It is to choose whose judgment can make the work better, then refuse generic reaction from the wrong audience or from scoreboards that push the maker toward hack behavior.
+
+30. Make art, not only content.
+   The Craft & Commerce source defines art as generous human work that might not work and changes a specific audience; this makes `art` a business and leadership posture, not only a fine-art category.
+
+31. Escape the art/plumbing trap.
+   Competence, copying, and spec execution are useful but increasingly replaceable when they can be written down, outsourced, or price-compared. Scarcer value comes from taste, judgment, risk, and original connection.
+
+32. Test permission by absence.
+   The source sharpens permission beyond subscription or reach: if people would not notice when the work stops showing up, the creator has distribution but not deep permission.
+
+33. Design for customer-benefiting network effects.
+   Work spreads more naturally when a user's life improves if others join, use, believe, or coordinate around it.
+
+The distinctive Godin layer is that niche strategy, generosity, cultural change, creator self-management, systems-and-time-horizon thinking, trust-and-referral brand logic, metric-discipline, psychographic empathy, worldview alignment, marketer responsibility, tribe-based connection dynamics, practice design, art-as-risk, and permission-depth are treated as one system rather than as separate marketing, ethics, leadership, creativity, and mindset topics.
 
 # Basis
 
@@ -140,7 +162,9 @@ The distinctive Godin layer is that niche strategy, generosity, cultural change,
 - Compared with [[wiki/syntheses/business/simon-sinek-golden-circle-framework|Simon Sinek Golden Circle Framework]], Godin is less focused on articulating belief in a clean why-how-what structure and more focused on audience selection, remarkability, and permission.
 - Compared with [[wiki/syntheses/business/casey-neistat-permissionless-creation-framework|Casey Neistat Permissionless Creation Framework]], Godin is less creator-tactical and more strategic about audience design, meaning, and the cultural mechanics of adoption.
 - Compared with [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]], this page remains the stronger summary of Godin's marketing and creator branch, while the newer synthesis is the stronger summary of his systems-time-games-empathy strategy layer.
+- Compared with [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]], this page is more market-facing, while the practice page is more maker-facing: how to organize time, energy, focus, feedback, identity, and metrics so the work keeps improving.
 - Compared with the vault's productivity-side practice material, Godin is less technical about rehearsal structure and more focused on the moral and strategic posture that keeps creators making useful work despite delayed rewards.
+- Compared with [[wiki/concepts/creativity/art-making|Art Making]], the Craft & Commerce source broadens art from material or visual practice into a market-facing act of generous risk; the risk is not enough by itself unless it changes someone.
 
 # Gaps
 
@@ -151,7 +175,9 @@ The distinctive Godin layer is that niche strategy, generosity, cultural change,
 - The branch is now stronger on `onlyness` and word-of-mouth tests, but it still needs better boundaries for when talk-worthiness becomes gimmickry or when narrow focus becomes overfitted identity theater.
 - The branch is now stronger on separating brand work from direct-response dashboards, but it still needs more concrete operating examples of how small teams should measure brand progress without falling into either vanity metrics or hand-wavy vagueness.
 - The branch is now stronger on designing spread conditions and on distrusting platform-native metrics, but it still needs sharper evidence on which categories genuinely require visible social triggers and which can build a buying audience through quieter trust loops.
+- The newest source strengthens the practice layer, but the branch still needs sharper rules for when a creator should stop practicing and confront weak audience pull, weak economics, or poor strategic fit.
 - The branch still needs stronger counterweight from sources that defend standardization, scale clarity, or mass-market breadth under specific conditions.
+- The Craft & Commerce layer adds a new boundary problem: `make art` can become self-congratulation unless it remains tied to a real audience, a meaningful change, and honest evidence that the work would be missed.
 
 # Related Pages
 
@@ -162,4 +188,8 @@ The distinctive Godin layer is that niche strategy, generosity, cultural change,
 - [[wiki/concepts/business/process-over-outcomes|Process Over Outcomes]]
 - [[wiki/concepts/business/positioning-as-a-service|Positioning as a Service]]
 - [[wiki/concepts/business/strategic-quitting|Strategic Quitting]]
+- [[wiki/concepts/creativity/art-making|Art Making]]
+- [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]]
 - [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
+- [[wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus|Why You've Been Lied to About Where to Put Your Time, Energy, and Focus]]
+- [[wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017|Your Job is to Make Art - Seth Godin at ConvertKit Craft & Commerce 2017]]

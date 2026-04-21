@@ -2,7 +2,7 @@
 type: concept
 title: Emotional Intelligence
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-20
 status: active
 tags:
   - concept
@@ -13,6 +13,7 @@ source_pages:
   - wiki/sources/2026-04-10-daniel-goleman-social-intelligence-at-google.md
   - wiki/sources/2026-04-10-robert-greene-the-laws-of-human-nature.md
   - wiki/sources/2026-04-12-mastery-summarized-in-8-minutes-by-robert-greene.md
+  - wiki/sources/2026-04-20-are-you-an-ideal-team-player.md
 related:
   - wiki/concepts/communication/attunement.md
   - wiki/concepts/leadership/high-performance-mindset.md
@@ -51,6 +52,13 @@ Emotional intelligence is the ability to notice, interpret, regulate, and use em
 - The newer Greene mastery source adds a compounding claim:
   - technical ability without social intelligence often creates friction, stalled advancement, and self-sabotage
   - empathy and observational attention can be trained deliberately rather than treated as fixed personality
+- The new Patrick Lencioni source adds a team-virtue framing:
+  - `smart` is explicitly defined as people-smart rather than intellectually smart
+  - the emotionally unaware but well-intentioned teammate still creates serious cleanup costs
+  - emotional intelligence therefore matters not only for leaders, but for ordinary team membership and collaboration quality
+- The same source also adds a practical development loop:
+  - people-smart behavior can be improved by asking others whether you stepped on toes
+  - emotional intelligence becomes more observable when tied to interpersonal aftermath rather than self-description alone
 - [[wiki/concepts/communication/attunement|Attunement]] overlaps with the interpersonal side of this concept, but is narrower and more tactical.
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]] overlaps with the self-regulation side, but is broader and more performance-system oriented.
 - [[wiki/concepts/health/stress-mindset|Stress Mindset]] overlaps with the interpretation of arousal and emotional state, but is centered more on stress appraisal than on broader leadership or relational competence.
@@ -58,6 +66,7 @@ Emotional intelligence is the ability to notice, interpret, regulate, and use em
 # Source Comparisons
 
 - Compared with [[wiki/concepts/communication/attunement|Attunement]], emotional intelligence includes both self-mastery and social skill, not just perspective-taking.
+- Compared with Lencioni's team-player model, Goleman is stronger on the broader architecture of regulation and social intelligence, while Lencioni is stronger on how missing people-smarts shows up as everyday team drag.
 - Compared with [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]], emotional intelligence is less about ambition, standards, and repeated excellence, and more about the regulation and relational substrate that makes clear performance possible.
 - Compared with [[wiki/concepts/health/stress-mindset|Stress Mindset]], emotional intelligence is broader and more leadership-facing, while stress mindset is more specific to how pressure is interpreted and metabolized.
 - Compared with [[wiki/concepts/others/shadow-integration|Shadow Integration]], emotional intelligence is less about confronting disowned inner material and more about noticing, regulating, and skillfully working with emotion in real time.
@@ -67,6 +76,7 @@ Emotional intelligence is the ability to notice, interpret, regulate, and use em
 - Emotional intelligence can be confused with polished agreeableness, even when the person is strategically manipulative.
 - Neuroscience language can create false confidence if simplified too aggressively.
 - The strongest open question is how to preserve the real value of emotional intelligence without turning it into a prestige label for socially smoother people.
+- The new source sharpens a related confusion: `people-smart` behavior is valuable, but the vault still needs to distinguish emotional intelligence from socially polished self-advancement of the `skillful politician` variety.
 
 # Related Pages
 
@@ -78,3 +88,4 @@ Emotional intelligence is the ability to notice, interpret, regulate, and use em
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/health/stress-mindset|Stress Mindset]]
 - [[wiki/syntheses/leadership/daniel-goleman-emotional-intelligence-framework|Daniel Goleman Emotional Intelligence Framework]]
+- [[wiki/sources/2026-04-20-are-you-an-ideal-team-player|Are you an ideal team player?]]

@@ -2,7 +2,7 @@
 type: concept
 title: Authentic Communication
 created: 2026-04-07
-updated: 2026-04-17
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -21,10 +21,14 @@ source_pages:
   - wiki/sources/2026-04-09-chase-hughes-influence-identity-and-human-connection.md
   - wiki/sources/2026-04-10-steve-jobs-2005-stanford-commencement.md
   - wiki/sources/2026-04-17-being-nice-wont-save-you-in-difficult-conversations.md
+  - wiki/sources/2026-04-21-how-to-become-a-master-storyteller.md
+  - wiki/sources/2026-04-21-storyworthy-by-matthew-dicks-core-message.md
 related:
   - wiki/concepts/business/mass-intimacy.md
   - wiki/concepts/leadership/leadership-communication.md
   - wiki/concepts/communication/effective-communication.md
+  - wiki/syntheses/filmmaking/short-form-storytelling-framework.md
+  - wiki/syntheses/filmmaking/matthew-dicks-personal-storytelling-framework.md
   - wiki/concepts/business/creative-entrepreneurship.md
   - wiki/concepts/others/conservation.md
   - wiki/syntheses/cross-source/human-centered-change-models.md
@@ -63,6 +67,14 @@ Authentic communication is the practice of speaking in a way that sounds like a 
   - authenticity can fail not only through branding theater or role performance, but also through chronic niceness that keeps saying socially smooth things that are not true
   - the source argues that repeated self-silencing creates inner hollowness, making authenticity partly a boundary problem rather than only a voice or identity problem
   - it also distinguishes surface pleasantness from deeper kindness, which broadens the vault's model of truthful communication under relational strain
+- The current short-form storytelling source adds a creator-delivery version:
+  - conversational tone improves when the speaker imagines one close friend rather than a faceless audience
+  - early stiffness is treated as reps-dependent rather than as a moral failure or fixed personality trait
+  - direct-to-camera communication can feel less like a pitch when the speaker writes and delivers as if sending a voice note to a real person
+- The Matthew Dicks source adds a vulnerability-through-structure version:
+  - a personal story connects when it reveals a real five-second change in belief, feeling, identity, or self-understanding
+  - vulnerability lands better when the audience has first felt the before/after contrast and suspense
+  - the method distinguishes meaningful personal truth from a safe anecdote that merely reports events
 
 # Source Comparisons
 
@@ -78,6 +90,8 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - Jobs frames authenticity as existential authorship: your time is limited, so sounding like yourself is not enough if you are still living someone else's life plan.
 - The newer Simon Sinek source frames authenticity as aligned expression: instead of repeatedly reinventing identity, the task is to discover and consistently live from the deeper contribution that is already there.
 - The newer Fisher source frames authenticity as anti-self-betrayal in live dialogue: a person can sound socially appropriate while becoming less real, so honesty under pressure deserves a place beside voice, values, and self-authorship.
+- The current short-form source frames authenticity as perceived conversational presence: the content may still be scripted and strategic, but it should feel addressed to a person rather than performed at a market segment.
+- Dicks frames authenticity as vulnerable transformation: the story becomes trustworthy when the speaker exposes a real shift rather than hiding behind a polished lesson.
 
 # Tensions / Open Questions
 
@@ -86,6 +100,8 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - The new Chase material adds a sharper tension: if making someone feel deeply seen can be simulated by influence technique, the vault needs a better standard for what counts as actual human connection rather than just convincing emotional mimicry.
 - The newer Simon Sinek source adds another tension: `authenticity` can become essentialist myth if people treat early life patterns or emotionally charged feedback as permanently authoritative rather than as strong but revisable clues.
 - The new Fisher source adds another tension: `just be honest` can be used as a license for tactless bluntness, even though the source itself is arguing for calm firmness rather than ego discharge.
+- The short-form source adds a performance tension: conversational tone can be manufactured as a retention tactic, so authenticity still depends on truth, evidence, and audience respect rather than warmth alone.
+- The Dicks source adds a vulnerability tension: personal exposure can deepen trust, but it can also become oversharing or emotional manipulation if the reveal is not calibrated to the audience and purpose.
 
 # Related Pages
 
@@ -94,5 +110,7 @@ Authentic communication is the practice of speaking in a way that sounds like a 
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/communication/intention-and-impact|Intention and Impact]]
 - [[wiki/concepts/leadership/head-and-heart-harmony|Head and Heart Harmony]]
+- [[wiki/syntheses/filmmaking/short-form-storytelling-framework|Short-Form Storytelling Framework]]
+- [[wiki/syntheses/filmmaking/matthew-dicks-personal-storytelling-framework|Matthew Dicks Personal Storytelling Framework]]
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]

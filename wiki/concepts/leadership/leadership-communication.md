@@ -2,7 +2,7 @@
 type: concept
 title: Leadership Communication
 created: 2026-04-07
-updated: 2026-04-19
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -21,6 +21,7 @@ source_pages:
   - wiki/sources/2026-04-13-how-to-think-on-your-feet.md
   - wiki/sources/2026-04-16-why-introverts-struggle-with-charisma.md
   - wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes.md
+  - wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work.md
 related:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/golden-circle.md
@@ -32,6 +33,7 @@ related:
   - wiki/syntheses/leadership/clinton-leadership-framework.md
   - wiki/syntheses/cross-source/communication-and-influence-models.md
   - wiki/syntheses/communication/introvert-charisma-framework.md
+  - wiki/syntheses/leadership/ted-lasso-leadership-framework.md
 ---
 
 # What It Is
@@ -84,6 +86,10 @@ Leadership communication is the art of helping people understand a situation, tr
   - `to be unclear is to be unkind` adds a stronger moral case for directness
   - truth and grace are treated as co-required rather than optional stylistic balances
   - vulnerability is distinguished from emotional dumping, which helps separate honest communication from reactive discharge
+- The Ted Lasso source adds a personal-stakes translation layer:
+  - persuasion improves when a leader speaks in terms of what the listener wants, not only what the leader or team wants
+  - purpose language becomes credible when paired with truthful diagnosis of the current problem
+  - praise communicates culture when it names useful behavior visibly rather than offering generic approval
 
 # Source Comparisons
 
@@ -99,6 +105,7 @@ Leadership communication is the art of helping people understand a situation, tr
 - The new `think on your feet` source is strongest on room-level response competence: the leader who can clarify, answer, and stop rambling under live scrutiny preserves credibility in moments where broad vision alone is not enough.
 - The introvert-charisma source is strongest on projection bottlenecks: it explains why coherence, honesty, and direction may still fail to read as leadership if being seen itself remains highly distressing.
 - The new Maxwell-Lencioni-Ramsey source is strongest on leader-message architecture under moral responsibility: it cares less about rhetorical flair than about whether the message is clear, realistic, repeatable, and kind enough to tell the truth.
+- The Ted Lasso source is strongest on motivating communication at close range: connect the team need to the person's ambition, give people public ownership of their ideas, and make optimism believable by admitting present failure.
 
 # Tensions / Open Questions
 
@@ -110,6 +117,7 @@ Leadership communication is the art of helping people understand a situation, tr
 - The newer Peterson source adds a material-reality tension: leaders may reject `motivation` language rhetorically while still failing to address pay, overload, and incentive design, all of which shape whether the story can be believed.
 - The introvert-charisma source adds an adaptation tension: leadership communication advice can quietly assume comfort with visibility, so the branch still needs better accommodation for temperament, neurotype, trauma history, and culturally different gaze norms.
 - The new source adds a further realism tension: clear, values-laden messaging is useful, but the vault still needs better rules for how to tell hard truths about limits or fit without foreclosing development too early.
+- The Ted Lasso source adds a purpose-framing tension: reframing someone's current path as too small can create urgency, but it can also become manipulative if the leader uses purpose language to diminish rather than invite.
 
 # Related Pages
 
@@ -120,9 +128,11 @@ Leadership communication is the art of helping people understand a situation, tr
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/communication/thinking-on-your-feet|Thinking on Your Feet]]
 - [[wiki/syntheses/communication/introvert-charisma-framework|Introvert Charisma Framework]]
+- [[wiki/syntheses/leadership/ted-lasso-leadership-framework|Ted Lasso Leadership Framework]]
 - [[wiki/syntheses/business/simon-sinek-golden-circle-framework|Simon Sinek Golden Circle Framework]]
 - [[wiki/syntheses/leadership/jordan-peterson-leadership-framework|Jordan Peterson Leadership Framework]]
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
 - [[wiki/sources/2026-04-12-your-job-is-not-to-motivate-people|Your Job Is Not To Motivate People]]
 - [[wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]]
+- [[wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work|Ted Lasso Leadership Lessons That Work]]

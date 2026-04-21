@@ -2,7 +2,7 @@
 type: concept
 title: Few-Shot Prompting
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-21
 status: active
 tags:
   - ai
@@ -12,6 +12,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-09-riceco-prompt-framework
   - wiki/sources/2026-04-09-jeremy-utley-ai-creativity-and-productivity
+  - wiki/sources/2026-04-21-the-5-step-playbook-for-10x-your-ai-productivity
 related:
   - wiki/concepts/ai/prompt-engineering
   - wiki/concepts/ai/riceco-prompt-framework
@@ -35,12 +36,15 @@ Examples often communicate expectations more precisely than abstract instruction
 - The source explicitly frames examples as a way to anchor responses more closely to the user's intent.
 - It also implies that examples become more valuable as tasks require higher stylistic or structural precision.
 - [[wiki/sources/2026-04-09-jeremy-utley-ai-creativity-and-productivity]] reinforces the same point and makes few-shot prompting one of its named core productivity techniques, especially when the goal is richer creativity or better custom logic.
+- [[wiki/sources/2026-04-21-the-5-step-playbook-for-10x-your-ai-productivity]] adds a concrete practice: collect the user's "greatest hits" in a domain and use those as positive examples.
+- The newer source also recommends using a bad example plus an explanation of what makes it bad when the user needs to encode failure modes, not only positive style.
 
 # Tensions / Open Questions
 
 - The branch still needs better sources on when examples help versus when they overconstrain or bias the output.
 - Future sources may justify separating style imitation, schema anchoring, and reasoning exemplars.
 - The branch still needs more explicit guidance on when examples improve quality versus when they merely anchor the model too narrowly.
+- Bad examples can clarify quality criteria, but they can also pollute the prompt if the user does not clearly label what should be avoided.
 
 # Related Pages
 

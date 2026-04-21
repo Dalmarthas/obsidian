@@ -2,7 +2,7 @@
 type: concept
 title: Permissionless Creation
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -16,6 +16,8 @@ source_pages:
   - wiki/sources/2026-04-11-seth-godin-challenges-creators-and-entrepreneurs-to-reject-the-average-for-the-masses.md
   - wiki/sources/2026-04-11-seth-godin-the-practice-and-process-over-outcomes.md
   - wiki/sources/2026-04-12-seth-godin-how-to-get-your-ideas-to-spread.md
+  - wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus.md
+  - wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017.md
 related:
   - wiki/concepts/business/connection-economy.md
   - wiki/concepts/business/creative-entrepreneurship.md
@@ -29,6 +31,7 @@ related:
   - wiki/syntheses/business/casey-neistat-permissionless-creation-framework.md
   - wiki/syntheses/business/naval-ravikant-wealth-framework.md
   - wiki/syntheses/business/seth-godin-remarkable-marketing-framework.md
+  - wiki/syntheses/business/seth-godin-practice-framework.md
 ---
 
 # What It Is
@@ -55,6 +58,14 @@ Permissionless creation is the practice of starting, publishing, and iterating c
 - The newer Seth spread source adds a leadership rule: publishing without permission matters more when the work is trying to enroll a tribe, earn permission over time, and coordinate connected people around a change rather than simply attracting one-off clicks.
 - The newest Seth advice source adds a deeper anti-gatekeeper frame: permissionless creation often begins when a person stops waiting to be picked by institutions, prominent people, or legacy media and treats self-authored movement as the only reliable starting point.
 - That same source adds a psychological warning: resentment, victim narratives, and rescue fantasies can preserve passivity even when tools and opportunities to begin already exist.
+- The new Godin Impact Theory source adds a `put it on the hook` version:
+  - shipping work is a generous offer to a specific audience rather than a plea for universal approval
+  - the work must be allowed to maybe not work, or the maker will freeze before public learning begins
+  - keeping a day job while building a distinctive side practice can make permissionless creation economically safer without making it less serious
+- The Craft & Commerce source adds a prepared-versus-ready version:
+  - creators can be prepared with skill, insight, and tools, but will not feel fully ready when the work is genuinely uncertain
+  - the ship/shipwreck metaphor makes failure a built-in cost of invention, not a sign that the creator should wait
+  - `art` becomes the permissionless act of making generous work that might not work, not merely publishing anything without approval
 
 # Source Comparisons
 
@@ -65,7 +76,9 @@ Permissionless creation is the practice of starting, publishing, and iterating c
 - Compared with [[wiki/concepts/business/financial-confidence|Financial Confidence]], permissionless creation is more aggressive about action under uncertainty, while financial confidence is more concerned with making that uncertainty survivable.
 - Compared with [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]], this page is more about the courage to ship, while that page is more about choosing who the shipping is for.
 - Compared with [[wiki/concepts/business/process-over-outcomes|Process Over Outcomes]], this page is more public and tactical. Process over outcomes explains the inner posture that keeps the shipping going when the response is slow, mixed, or absent.
+- Compared with [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]], this page is the public-entry concept, while the practice framework explains the deeper rhythm of repeated shipping, feedback filtering, taste, and identity change.
 - Compared with [[wiki/concepts/business/connection-economy|Connection Economy]], this page is more maker-centered. Permissionless creation focuses on the creator's willingness to act; connection economy focuses on the network conditions that let the work spread once it exists.
+- Compared with [[wiki/concepts/creativity/art-making|Art Making]], this page is about bypassing approval and entering public iteration, while Godin's art frame explains why the work must include risk, generosity, and connection rather than only visible independence.
 
 # Tensions / Open Questions
 
@@ -77,6 +90,8 @@ Permissionless creation is the practice of starting, publishing, and iterating c
 - The newer Seth layer adds a second risk: if public action is secretly powered by scoreboard craving, `permissionless` behavior can still become approval-seeking in disguise.
 - The newest Seth layer adds a third risk: the work may be bravely shipped yet still fail to spread if it does not give a connected group a reason to coordinate, identify, and share.
 - The newest Seth advice layer adds a fourth risk: anti-gatekeeper rhetoric can sound empowering while becoming reckless if it treats every institution as irrelevant rather than distinguishing outdated approval dependencies from genuinely useful support.
+- The new Impact Theory layer adds a fifth risk: public shipping can become performative if the creator is chasing visible streaks, applause, or status rather than doing generous work for a defined audience.
+- The Craft & Commerce layer adds a sixth risk: calling the work `art` can become self-protective if the creator uses risk and originality language to avoid the harder test of whether the work changes anyone.
 - The Naval source adds a market-scaling layer:
   - shipping without permission is not enough by itself
   - the work gets economically stronger when it expresses genuine [[wiki/concepts/business/specific-knowledge.md|specific knowledge]]
@@ -97,3 +112,6 @@ Permissionless creation is the practice of starting, publishing, and iterating c
 - [[wiki/syntheses/business/casey-neistat-permissionless-creation-framework|Casey Neistat Permissionless Creation Framework]]
 - [[wiki/syntheses/business/naval-ravikant-wealth-framework|Naval Ravikant Wealth Framework]]
 - [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]
+- [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]]
+- [[wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus|Why You've Been Lied to About Where to Put Your Time, Energy, and Focus]]
+- [[wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017|Your Job is to Make Art - Seth Godin at ConvertKit Craft & Commerce 2017]]

@@ -2,7 +2,7 @@
 type: concept
 title: Leadership
 created: 2026-04-07
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -25,6 +25,8 @@ source_pages:
   - wiki/sources/2026-04-08-axelrod-rove-political-campaign-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
+  - wiki/sources/2026-04-21-trusting-teams-the-5-practices.md
+  - wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work.md
 related:
   - wiki/concepts/leadership/leadership-vs-management.md
   - wiki/concepts/leadership/infinite-game-mindset.md
@@ -51,6 +53,7 @@ related:
   - wiki/syntheses/leadership/jurgen-klopp-leadership-framework.md
   - wiki/syntheses/leadership/simon-sinek-infinite-game-framework.md
   - wiki/syntheses/leadership/seth-godin-leadership-framework.md
+  - wiki/syntheses/leadership/ted-lasso-leadership-framework.md
   - wiki/syntheses/business/iger-strategy-framework.md
   - wiki/syntheses/cross-source/high-performance-leadership-models.md
 ---
@@ -89,6 +92,8 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - The newest `Leaders Eat Last` source adds a biological and incentive-design version: leadership quality is partly visible in whether the system over-rewards dopamine-style chasing of targets and status or supports trust, belonging, and outward-focused cooperation by lowering fear inside the institution.
 - The Jordan Peterson leadership source adds a narrative-and-consent version: leadership begins with an ethical destination, becomes legible through story, and works best when the organizational game is arranged so people can voluntarily accept their role in it rather than merely comply.
 - The newer Peterson character source adds a characterological version: leadership quality depends less on warmth or rank than on whether the leader is conscientious, trustworthy, and reliable enough that other people can orient themselves around what is said.
+- The new Sinek `Trusting Teams` source adds a care-for-the-people version: leadership is not squeezing more output from people, but creating an environment where the people responsible for results can work at their natural best and tell the truth before small problems become large failures.
+- The new Ted Lasso source adds a case-based coaching version: leadership becomes visible in names remembered, credit shared, feedback sought, individual motives understood, and optimism kept credible by naming what is broken.
 
 # Source Comparisons
 
@@ -108,6 +113,8 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Seth Godin is strongest on leadership as responsibility under uncertainty: the central question is not who has the title, but who is willing to own direction, invite volunteers, and proceed without a complete map.
 - Peterson is strongest on leadership as ethical destination plus shared story: before systems, incentives, or team chemistry, the leader has to know what game is worth playing and why anyone should freely join it.
 - The newer Peterson character source is strongest on leadership as durable reliability: before style, charisma, or even motivation tactics, people need to know whether the leader's words can be trusted across time.
+- The new Sinek `Trusting Teams` source is strongest on leadership as environment maintenance: daily check-ins, support, and safety signals matter more than occasional leadership events because culture is built through repeated experience.
+- The Ted Lasso source is strongest on leadership as humane performance translation: it turns abstract trust and culture principles into everyday behaviors such as noticing invisible contributors, aligning personal ambition with team play, and making quieter people own visible contribution.
 - Both reject leadership as theater. Each favors clarity, candor, and responsibility over performative certainty.
 
 # Tensions / Open Questions
@@ -125,6 +132,8 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - The newest `Leaders Eat Last` source adds an evidence tension: the biological framing is clarifying and memorable, but the vault should be careful not to treat metaphorical chemistry language as more empirically settled than the summary justifies.
 - The Peterson source adds a consent tension: organizations often speak as if participation is voluntary while relying on economic dependence, hierarchy, and mission language that may weaken the reality of free acceptance.
 - The newer Peterson character source adds a style tension: a reliable hard-edged leader may outperform an unreliable warm one, but the vault still needs better criteria for when harsh consistency becomes culturally damaging enough to negate its coordinating value.
+- The new Sinek source adds an evidence tension: the model is compelling and practical, but the source relies on narrative comparisons more than measured causality, so it should be treated as a leadership heuristic rather than a fully quantified law.
+- The Ted Lasso source adds a transfer tension: fictional coaching examples are memorable, but the vault should treat them as behavior patterns to test rather than proof that warmth, visibility, and optimism solve deeper structural problems.
 
 # Related Pages
 
@@ -153,8 +162,11 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - [[wiki/syntheses/leadership/jurgen-klopp-leadership-framework|Jurgen Klopp Leadership Framework]]
 - [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
 - [[wiki/syntheses/leadership/seth-godin-leadership-framework|Seth Godin Leadership Framework]]
+- [[wiki/syntheses/leadership/ted-lasso-leadership-framework|Ted Lasso Leadership Framework]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]
+- [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
+- [[wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work|Ted Lasso Leadership Lessons That Work]]
 
 
 

@@ -2,7 +2,7 @@
 type: entity
 title: Jeremy Utley
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-21
 status: active
 tags:
   - ai
@@ -10,11 +10,14 @@ tags:
   - productivity
 source_pages:
   - wiki/sources/2026-04-09-jeremy-utley-ai-creativity-and-productivity
+  - wiki/sources/2026-04-21-the-5-step-playbook-for-10x-your-ai-productivity
 related:
   - wiki/concepts/ai/prompt-engineering
   - wiki/concepts/ai/context-engineering
   - wiki/concepts/ai/reverse-prompting
   - wiki/concepts/ai/few-shot-prompting
+  - wiki/concepts/ai/ai-critical-thinking-partner
+  - wiki/concepts/ai/ai-roleplay-simulation
   - wiki/syntheses/ai/jeremy-utley-ai-collaboration-framework
   - wiki/syntheses/ai/prompt-design-workflow
 ---
@@ -25,13 +28,14 @@ Jeremy Utley appears in this vault as an AI creativity and productivity teacher 
 
 # Role In This Vault
 
-His role is to deepen the AI branch from static prompt structure toward live collaboration: context-rich setup, clarifying-question loops, role assignment, roleplaying, critique, and iterative refinement.
+His role is to deepen the AI branch from static prompt structure toward live collaboration: context-rich setup, clarifying-question loops, role assignment, roleplaying, critique, iterative refinement, and using AI to preserve rather than replace critical thinking.
 
 # Evidence In This Vault
 
 - [[wiki/sources/2026-04-09-jeremy-utley-ai-creativity-and-productivity]] frames AI use as coaching an eager intern rather than issuing machine-style commands.
 - The same source introduces context engineering and reverse prompting as practical upgrades over shallow prompt phrasing.
 - It also positions role assignment, few-shot prompting, and critique loops as repeatable ways to get more originality and usefulness from AI systems.
+- [[wiki/sources/2026-04-21-the-5-step-playbook-for-10x-your-ai-productivity]] adds sharper treatment of AI's agreeable failure mode, critical-thinking scaffolding, and conversation roleplay as a rehearsal simulator.
 
 # Related Pages
 
@@ -39,5 +43,7 @@ His role is to deepen the AI branch from static prompt structure toward live col
 - [[wiki/concepts/ai/context-engineering|Context Engineering]]
 - [[wiki/concepts/ai/reverse-prompting|Reverse Prompting]]
 - [[wiki/concepts/ai/few-shot-prompting|Few-Shot Prompting]]
+- [[wiki/concepts/ai/ai-critical-thinking-partner|AI Critical Thinking Partner]]
+- [[wiki/concepts/ai/ai-roleplay-simulation|AI Roleplay Simulation]]
 - [[wiki/syntheses/ai/jeremy-utley-ai-collaboration-framework|Jeremy Utley AI Collaboration Framework]]
 - [[wiki/syntheses/ai/prompt-design-workflow|Prompt Design Workflow]]

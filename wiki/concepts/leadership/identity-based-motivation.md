@@ -2,7 +2,7 @@
 type: concept
 title: Identity-Based Motivation
 created: 2026-04-15
-updated: 2026-04-16
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -17,6 +17,7 @@ source_pages:
   - wiki/sources/2026-04-16-imposter-syndrome-is-holding-you-back-in-life.md
   - wiki/sources/2026-04-16-how-you-keep-yourself-suffering.md
   - wiki/sources/2026-04-16-how-to-quiet-your-ego.md
+  - wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus.md
 related:
   - wiki/concepts/leadership/locus-of-control.md
   - wiki/concepts/leadership/values-driven-action.md
@@ -29,6 +30,7 @@ related:
   - wiki/syntheses/leadership/locus-of-control-motivation-framework.md
   - wiki/syntheses/productivity/mind-training-procrastination-framework.md
   - wiki/syntheses/health/involvement-over-identity-suffering-framework.md
+  - wiki/syntheses/business/seth-godin-practice-framework.md
 ---
 
 # What It Is
@@ -71,6 +73,11 @@ Identity-based motivation is the idea that effort is shaped not only by goals or
   - identity-based motivation is now easier to distinguish from a healthier `quiet ego`
   - the issue is not merely that tasks activate self-story, but that some self-stories cannot update without feeling annihilated
   - detached awareness and growth-mindedness therefore become upstream tools for making identity less tyrannical in the first place
+- The new Seth Godin Impact Theory source adds a behavior-first creator layer:
+  - people do not need to wait until they feel like a writer, runner, artist, or entrepreneur
+  - repeated behavior creates evidence that lets the self-story update
+  - passion is framed as a story chosen around committed work rather than a pre-existing essence that must be discovered before action
+  - this makes identity a lagging narrative shaped by practice, not only a cause of motivation
 
 # Source Comparisons
 
@@ -81,6 +88,7 @@ Identity-based motivation is the idea that effort is shaped not only by goals or
 - Compared with [[wiki/concepts/health/overthinking|Overthinking]], identity-based motivation is less about repetitive thought loops in general and more about the specific self-beliefs that distort engagement with tasks.
 - Compared with [[wiki/concepts/health/imposter-syndrome|Imposter Syndrome]], this page is broader and more upstream. Identity-based motivation explains how self-story shapes effort generally; imposter syndrome is one specialized pattern where achievement itself fails to update the self-story.
 - Compared with [[wiki/concepts/health/quiet-ego|Quiet Ego]], this page is more situational and task-facing. Quiet ego describes the healthier structure of selfhood; identity-based motivation describes how whichever self-story is active changes the felt possibility of action.
+- Compared with [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]], this page explains the identity mechanism, while the Godin page turns it into a creator operating model: act, ship, receive useful feedback, and let identity catch up.
 - Compared with [[wiki/syntheses/productivity/mind-training-procrastination-framework|Mind-Training Procrastination Framework]], this page is broader and more appraisal-focused. Identity-based motivation explains how self-story shapes effort; the newer synthesis explains one way to stop treating that self-story as sovereign in the moment of action.
 - Compared with [[wiki/syntheses/health/involvement-over-identity-suffering-framework|Involvement Over Identity-Suffering Framework]], this concept is narrower and more performance-adjacent. The newer synthesis follows identity beyond motivation into depression, overachievement, and defended suffering.
 
@@ -93,6 +101,7 @@ Identity-based motivation is the idea that effort is shaped not only by goals or
 - The newest procrastination source adds a further ambiguity: cognitive distance from the mind can improve flexibility, but the branch still needs better limits for when such distance becomes too adversarial, dissociated, or globally distrustful.
 - The newest imposter source adds a parallel question after success rather than before action: what lets evidence of competence actually become self-trust instead of being dismissed as luck, façade, or misperception?
 - The newest suffering source adds a role-level ambiguity: loosening identity can improve freedom, but the branch still needs stronger guidance for when social roles should be kept, renegotiated, grieved, or exited rather than merely observed more lightly.
+- The Godin source adds an agency ambiguity: passion-as-choice is useful against waiting and passivity, but it can become simplistic if it ignores temperament, resources, health, and real fit.
 
 # Related Pages
 
@@ -107,5 +116,7 @@ Identity-based motivation is the idea that effort is shaped not only by goals or
 - [[wiki/syntheses/leadership/locus-of-control-motivation-framework|Locus of Control Motivation Framework]]
 - [[wiki/syntheses/productivity/mind-training-procrastination-framework|Mind-Training Procrastination Framework]]
 - [[wiki/syntheses/health/involvement-over-identity-suffering-framework|Involvement Over Identity-Suffering Framework]]
+- [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]]
 - [[wiki/sources/2026-04-15-how-to-always-stay-motivated|How To Always Stay Motivated]]
 - [[wiki/sources/2026-04-16-imposter-syndrome-is-holding-you-back-in-life|Imposter Syndrome Is Holding You Back In Life]]
+- [[wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus|Why You've Been Lied to About Where to Put Your Time, Energy, and Focus]]

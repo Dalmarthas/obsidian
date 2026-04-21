@@ -2,7 +2,7 @@
 type: synthesis
 title: High-Performance Leadership Models
 created: 2026-04-08
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - synthesis
@@ -18,6 +18,7 @@ basis:
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
   - wiki/sources/2026-04-07-bill-clinton-leadership-masterclass-master-summary.md
   - wiki/sources/2026-04-08-bob-iger-disney-leadership-masterclass-complete-summary.md
+  - wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work.md
   - wiki/concepts/leadership/high-performance-mindset.md
   - wiki/concepts/leadership/high-performance-team-culture.md
   - wiki/concepts/leadership/emotional-intelligence.md
@@ -27,6 +28,7 @@ related:
   - wiki/syntheses/leadership/daniel-goleman-emotional-intelligence-framework.md
   - wiki/syntheses/leadership/geno-auriemma-team-leadership-framework.md
   - wiki/syntheses/leadership/jurgen-klopp-leadership-framework.md
+  - wiki/syntheses/leadership/ted-lasso-leadership-framework.md
   - wiki/syntheses/leadership/lewis-hamilton-performance-framework.md
   - wiki/syntheses/leadership/clinton-leadership-framework.md
   - wiki/syntheses/business/iger-strategy-framework.md
@@ -38,7 +40,7 @@ What shared model of high-performance leadership appears across Geno Auriemma, L
 
 # Answer
 
-The current source base supports an eight-part model:
+The current source base supports a nine-part model:
 
 1. Set standards that are clear and demanding.
    High-performance systems work when people know exactly what excellence requires and cannot hide behind vague ambition.
@@ -64,9 +66,12 @@ The current source base supports an eight-part model:
 8. Distinguish optimization from change leadership.
    The newer Seth Godin source adds a useful diagnostic: some moments demand strong management of a known system, but others require leadership that accepts responsibility, invites volunteers, and moves without a complete map.
 
+9. Convert human recognition into contribution.
+   The Ted Lasso source adds a case-based layer: high-performance leaders make overlooked people feel like members, align individual ambition with collective behavior, expose themselves to feedback, and give contributors visible ownership instead of treating culture as mood alone.
+
 The shared meta-lesson is that high performance is not only intensity. It is structured ambition that survives pressure because it combines demanding preparation, fast learning, emotional steadiness, collective trust, usable emotional intelligence, and the judgment to know when process optimization is no longer enough.
 
-Klopp sharpens that shared model by adding a stronger belonging layer: teams can sustain demanding performance longer when people feel culturally connected, individually understood, and part of something worth inheriting.
+Klopp sharpens that shared model by adding a stronger belonging layer: teams can sustain demanding performance longer when people feel culturally connected, individually understood, and part of something worth inheriting. Ted Lasso sharpens the same broad model at the micro-behavior level: names, credit, praise, feedback channels, and grounded optimism become performance infrastructure when they change how people participate.
 
 # Basis
 
@@ -82,6 +87,7 @@ Klopp sharpens that shared model by adding a stronger belonging layer: teams can
 - Iger is strongest on decisive prioritization and the translation of leadership into repeated institutional choices.
 - Goleman is strongest on the emotional substrate that supports all of the above: self-awareness, inhibition of reactivity, rapport, and competence models that look past credential signals toward interpersonal and regulatory skill.
 - Godin is strongest on the management-leadership boundary: excellence, responsibility, and enrollment matter most when a team is facing change rather than merely running a stable playbook.
+- Ted Lasso is strongest on humane activation: everyday recognition, motive alignment, credit-sharing, and reality-based optimism make the high-performance model easier to practice in ordinary team interactions.
 
 # Gaps
 
@@ -91,12 +97,14 @@ Klopp sharpens that shared model by adding a stronger belonging layer: teams can
 - Klopp helps with belonging and continuity, but the vault still needs stronger contrast from quieter, lower-intensity leadership cultures.
 - Godin helps distinguish leadership from management, but the vault still needs stronger material on how excellent operators blend both modes inside one institution.
 - The vault still relies on secondary summaries rather than primary transcripts or broader empirical evidence.
+- The new Ted Lasso layer is also fictional and case-based, so its value is heuristic: it offers memorable leadership behaviors, not outcome proof.
 
 # Related Pages
 
 - [[wiki/syntheses/leadership/geno-auriemma-team-leadership-framework|Geno Auriemma Team Leadership Framework]]
 - [[wiki/syntheses/leadership/daniel-goleman-emotional-intelligence-framework|Daniel Goleman Emotional Intelligence Framework]]
 - [[wiki/syntheses/leadership/jurgen-klopp-leadership-framework|Jurgen Klopp Leadership Framework]]
+- [[wiki/syntheses/leadership/ted-lasso-leadership-framework|Ted Lasso Leadership Framework]]
 - [[wiki/syntheses/leadership/lewis-hamilton-performance-framework|Lewis Hamilton Performance Framework]]
 - [[wiki/syntheses/leadership/clinton-leadership-framework|Clinton Leadership Framework]]
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]

@@ -2,7 +2,7 @@
 type: concept
 title: Values-Driven Action
 created: 2026-04-11
-updated: 2026-04-16
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -16,6 +16,7 @@ source_pages:
   - wiki/sources/2026-04-11-matthew-mcconaughey-on-fame-commitment-and-meaning.md
   - wiki/sources/2026-04-12-being-disciplined-will-make-you-unstoppable.md
   - wiki/sources/2026-04-16-how-to-succeed-at-anything.md
+  - wiki/sources/2026-04-21-jordan-peterson-secrets-to-life-and-relationships.md
 related:
   - wiki/concepts/leadership/locus-of-control.md
   - wiki/concepts/leadership/meaning-through-responsibility.md
@@ -54,6 +55,7 @@ Values-driven action is the principle of organizing difficult effort around stab
   - values-driven action may begin with naming the one recurring contribution or `why` that runs through multiple life domains
   - authenticity then means choosing contexts that allow that contribution to be expressed more often and more fully
   - trusted others can sometimes identify that contribution more clearly than self-description can
+- The latest Peterson source adds a more explicitly ethical orientation: values-driven action can be framed as aiming at the highest good one can currently conceive while making two commitments, love and truth, that constrain how the pursuit is conducted.
 - [[wiki/concepts/leadership/locus-of-control|Locus of Control]] overlaps because both concepts strengthen action, but values-driven action is more about why the effort is worth suffering for, not only whether effort changes outcomes.
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]] overlaps because both favor longer horizons over present comfort, but this page is more meaning-centered and less decision-architectural.
 
@@ -77,10 +79,10 @@ Values-driven action is the principle of organizing difficult effort around stab
 - The branch still needs stronger guidance for distinguishing authentic values from inherited expectations, ego defenses, or prestige addiction in disguise.
 - The newer Simon Sinek source sharpens that gap: if people use emotional reaction and friend feedback to infer a fixed `why`, the vault still needs better tests for when that pattern is illuminating versus when it hardens into a flattering story.
 - The newer Alok Kanojia source adds a neighboring ambiguity: early reinforcement through imperfect use is helpful, but the vault still needs better guidance on when applying partial skill early is wise and when it risks premature teaching, poor standards, or overexposure.
-
 # Related Pages
 
 - [[wiki/sources/2026-04-11-values-motivation-and-sustainable-self-improvement|Values, Motivation, and Sustainable Self-Improvement]]
+- [[wiki/sources/2026-04-21-jordan-peterson-secrets-to-life-and-relationships|Jordan Peterson Secrets to Life and Relationships]]
 - [[wiki/sources/2026-04-16-how-to-succeed-at-anything|How To Succeed At Anything]]
 - [[wiki/concepts/leadership/locus-of-control|Locus of Control]]
 - [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]]

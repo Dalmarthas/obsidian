@@ -2,7 +2,7 @@
 type: entity
 title: Johnny Harris
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-21
 status: active
 tags:
   - entity
@@ -11,6 +11,7 @@ tags:
   - video
 source_pages:
   - wiki/sources/2026-04-09-johnny-harris-explainer-storytelling-formula.md
+  - wiki/sources/2026-04-21-why-every-johnny-harris-video-goes-viral.md
 related:
   - wiki/concepts/communication/anchor-bridge-structure.md
   - wiki/concepts/communication/effective-communication.md
@@ -22,7 +23,7 @@ related:
 
 # Overview
 
-Johnny Harris is presented in this vault as a knowledge-communication creator whose branch centers on visual-first explanation, anchor-bridge pacing, curiosity-before-context sequencing, and research-backed explainer design.
+Johnny Harris is presented in this vault as a knowledge-communication creator whose branch centers on visual-first explanation, anchor-bridge pacing, curiosity-before-context sequencing, research-backed explainer design, and timeline rhythm.
 
 # Role In This Vault
 
@@ -36,6 +37,7 @@ Harris gives the vault a concrete model for explainers and educational storytell
 - Audience overlap: [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
 - Visual overlap: [[wiki/concepts/creativity/visual-literacy|Visual Literacy]]
 - Distillation: [[wiki/syntheses/communication/johnny-harris-explainer-framework|Johnny Harris Explainer Framework]]
+- Editing diagnostic: audit the timeline for long context blocks and restore movement through concrete anchors, callbacks, and short bridges.
 
 # Related Pages
 
@@ -46,3 +48,4 @@ Harris gives the vault a concrete model for explainers and educational storytell
 - [[wiki/concepts/creativity/visual-literacy|Visual Literacy]]
 - [[wiki/syntheses/communication/johnny-harris-explainer-framework|Johnny Harris Explainer Framework]]
 - [[wiki/sources/2026-04-09-johnny-harris-explainer-storytelling-formula|Johnny Harris Explainer Storytelling Formula]]
+- [[wiki/sources/2026-04-21-why-every-johnny-harris-video-goes-viral|Why Every Johnny Harris Video Goes Viral]]

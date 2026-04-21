@@ -2,7 +2,7 @@
 type: concept
 title: Meaning Through Responsibility
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -17,6 +17,7 @@ source_pages:
   - wiki/sources/2026-04-12-jordan-peterson-sorting-your-life.md
   - wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek.md
   - wiki/sources/2026-04-14-increase-performance-and-fulfillment-at-the-same-time.md
+  - wiki/sources/2026-04-21-jordan-peterson-secrets-to-life-and-relationships.md
 related:
   - wiki/concepts/productivity/calibrated-challenge.md
   - wiki/concepts/leadership/locus-of-control.md
@@ -54,6 +55,10 @@ Meaning through responsibility is the claim that durable purpose often comes les
 - The Jim Murphy source adds a performance-side refinement:
   - service to others is presented not only as moral orientation but as an attentional intervention that reduces ego pressure and fear
   - meaning therefore helps performance here not only by making life heavier, but by making high-stakes action less self-protective and more generous
+- [[wiki/sources/2026-04-21-jordan-peterson-secrets-to-life-and-relationships|Jordan Peterson Secrets to Life and Relationships]] adds a meaning-calibration layer:
+  - meaning becomes more trustworthy when the person first commits to love, truth, and the highest good they can currently conceive
+  - responsibility is treated as a voluntarily chosen game rather than only an imposed duty
+  - unavoidable suffering is not denied, but transformed by engagement in problems worth solving for self and others
 
 # Source Comparisons
 
@@ -75,6 +80,7 @@ Meaning through responsibility is the claim that durable purpose often comes les
 - The `mundane interactions` layer adds another design question: which recurring routines most strongly shape felt life quality, and how should they be audited without turning family life into over-optimization theater?
 - The newer Simon source adds another open question: when does accountability empower a person after pain, and when does it become a subtle demand to metabolize structural or interpersonal harm too privately?
 - The Murphy layer adds a related question: when does service orientation genuinely reduce ego pressure, and when does it become another performance script that the self anxiously tries to enact?
+- The latest Peterson layer adds another ambiguity: meaning can be a useful compass, but the vault still needs stronger tests for distinguishing calibrated meaning from obsession, ideology, or self-flattering certainty.
 
 # Related Pages
 
@@ -91,3 +97,4 @@ Meaning through responsibility is the claim that durable purpose often comes les
 - [[wiki/sources/2026-04-12-jordan-peterson-becoming-highly-efficient-and-productive|Jordan Peterson Becoming Highly Efficient and Productive]]
 - [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]]
 - [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek|Were Living Through A Crisis Of Meaning Simon Sinek]]
+- [[wiki/sources/2026-04-21-jordan-peterson-secrets-to-life-and-relationships|Jordan Peterson Secrets to Life and Relationships]]

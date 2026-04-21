@@ -2,7 +2,7 @@
 type: concept
 title: Character-Driven Storytelling
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -32,6 +32,7 @@ source_pages:
   - wiki/sources/2026-04-09-vince-gilligan-on-writing-breaking-bad.md
   - wiki/sources/2026-04-09-christopher-nolan-on-the-dark-knight.md
   - wiki/sources/2026-04-09-studio-script-reader-strengths-and-weaknesses.md
+  - wiki/sources/2026-04-21-storyworthy-by-matthew-dicks-core-message.md
 related:
   - wiki/concepts/filmmaking/acting-craft.md
   - wiki/concepts/filmmaking/character-interviews.md
@@ -51,6 +52,7 @@ related:
   - wiki/entities/succession.md
   - wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework.md
   - wiki/syntheses/filmmaking/succession-writing-framework.md
+  - wiki/syntheses/filmmaking/matthew-dicks-personal-storytelling-framework.md
 ---
 
 # What It Is
@@ -94,6 +96,8 @@ Character-driven storytelling is the idea that story movement should arise from 
 - It also sharpens a villain-design rule: a worldview-driven antagonist can reveal the hero best by forcing impossible-seeming value conflicts rather than by merely obstructing goals.
 - The current image-derived studio-reader source adds a first-read practicality check:
   protagonists need enough specificity and pressure-bearing capacity to carry the story, and antagonists need enough force and originality that the conflict does not collapse into stock friction.
+- The Matthew Dicks source adds a personal-storytelling version of character change:
+  the protagonist of the story may simply be the speaker, but the same rule holds: the story becomes meaningful when the audience can locate the speaker's before-state, the pressured experience, and the moment that changes self-understanding.
 
 # Source Comparisons
 
@@ -120,6 +124,7 @@ Character-driven storytelling is the idea that story movement should arise from 
 - The current Nolan source is strongest on moral-paradox characterization: heroes, antiheroes, and villains become more durable when the story forces their philosophy, not only their competence, into collision.
 - The current studio-reader source is strongest on first-pass dramatic usability:
   can the lead sustain attention, and can the opposing force create enough sweat that the reader believes the story has real pressure?
+- The Matthew Dicks source is strongest on autobiographical compression: character is revealed through the speaker's own five-second realization rather than through a full fictional arc.
 
 # Tensions / Open Questions
 
@@ -138,6 +143,7 @@ Character-driven storytelling is the idea that story movement should arise from 
 - The current Vince Gilligan source sharpens another tension: following character psychology can deepen the plot, but if the writer mistakes mere consistency for escalation, the story can become believable without becoming dramatically strong.
 - The current Nolan source sharpens another tension: philosophically charged characters can deepen the film, but they can also flatten into symbolic chess pieces if the script stops grounding them in believable emotional behavior.
 - The current `29 mistakes` source sharpens another tension: writers can think they have built a deep protagonist because the backstory feels painful or meaningful, while the actual pages still hide the character from vulnerability, conflict, and visible desire.
+- The Dicks source sharpens the mirror-image tension for personal stories: speakers can recount an event with colorful detail while never revealing what changed inside them.
 
 # Related Pages
 
@@ -159,3 +165,4 @@ Character-driven storytelling is the idea that story movement should arise from 
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
 - [[wiki/entities/succession|Succession]]
 - [[wiki/syntheses/filmmaking/succession-writing-framework|Succession Writing Framework]]
+- [[wiki/syntheses/filmmaking/matthew-dicks-personal-storytelling-framework|Matthew Dicks Personal Storytelling Framework]]

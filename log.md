@@ -5217,3 +5217,284 @@ Summary:
 - Ingested a new leadership source built around John Maxwell, Patrick Lencioni, and Dave Ramsey on service, trust, communication clarity, role fit, and grounded definitions of success.
 - Added a dedicated source page so the note's durable value remains visible as leadership-versus-specialist fit, the `like me / help me / trust me` follower sequence, truth-and-grace communication, `good miss` versus excuse-bound failure, and private integrity as a leadership test.
 - Updated Character-Based Leadership, Trust-Based Collaboration, Leadership vs. Management, and Leadership Communication so the leadership branch now captures anti-default-promotion logic, trust sequencing, the moral case for clarity, and approval-independence as a condition of honest leadership.
+
+## [2026-04-21 14:41] ingest | How Casinos Are Able to Predict Human Behavior
+
+Pages touched:
+- [[raw/inbox/2026-04-21-how-casinos-are-able-to-predict-human-behavior|How Casinos Are Able to Predict Human Behavior]]
+- [[wiki/sources/2026-04-21-how-casinos-are-able-to-predict-human-behavior|How Casinos Are Able to Predict Human Behavior]]
+- [[wiki/concepts/health/scarcity-loop|Scarcity Loop]]
+- [[wiki/concepts/health/reward-based-habit-loops|Reward-Based Habit Loops]]
+- [[wiki/concepts/productivity/dopamine-regulation|Dopamine Regulation]]
+- [[wiki/concepts/business/psychological-leverage|Psychological Leverage]]
+- [[wiki/syntheses/productivity/difficult-but-rewarding-behaviors-framework|Difficult but Rewarding Behaviors Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a behavioral-design source explaining casino and app engagement through the scarcity loop: opportunity, unpredictable reward, and quick repeatability.
+- Added a dedicated source page and a new Scarcity Loop concept under health so the mechanism is available beyond the casino example.
+- Updated reward-based habit loops, dopamine regulation, psychological leverage, and the difficult-but-rewarding-behaviors framework so the vault now distinguishes generic fast-reward language from engineered variable-reward loops and emphasizes friction plus environmental richness as interventions.
+
+## [2026-04-21 14:37] ingest | Trusting Teams The 5 Practices
+
+Pages touched:
+- [[raw/inbox/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
+- [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework|Simon Sinek Trust-Centered Leadership Framework]]
+- [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[index|index]]
+
+Summary:
+- Ingested a reinforcing Simon Sinek source on trusting teams, vulnerability safety, fear-based cultures, same-person/different-culture service behavior, and leadership as daily trust-maintenance practice.
+- Added a dedicated source page so the Noah/Four Seasons versus Caesars example, United/Virgin contrast, and leadership-fitness analogy remain visible rather than being folded invisibly into the older Sinek trust source.
+- Updated the trust, culture, team-performance, leadership, Sinek entity, and Sinek trust-framework pages so the leadership branch now treats hidden mistakes, rigid rule enforcement, and head-down compliance as environmental fear signals.
+
+## [2026-04-21 14:35] ingest | Why Every Johnny Harris Video Goes Viral
+
+Pages touched:
+- [[raw/inbox/2026-04-21-why-every-johnny-harris-video-goes-viral|Why Every Johnny Harris Video Goes Viral]]
+- [[wiki/sources/2026-04-21-why-every-johnny-harris-video-goes-viral|Why Every Johnny Harris Video Goes Viral]]
+- [[wiki/concepts/communication/anchor-bridge-structure|Anchor-Bridge Structure]]
+- [[wiki/syntheses/communication/johnny-harris-explainer-framework|Johnny Harris Explainer Framework]]
+- [[wiki/entities/johnny-harris|Johnny Harris]]
+- [[index|index]]
+
+Summary:
+- Ingested a reinforcing Johnny Harris analysis that overlaps with the older explainer-storytelling source but adds the `experience it, understand it` shorthand, the timeline labeling audit, the musical rhythm metaphor, and recurring visual anchors as callbacks.
+- Added a dedicated source page so the new note's operational editor-facing value is preserved rather than folded invisibly into the older source.
+- Updated the Anchor-Bridge Structure concept, Johnny Harris entity, and Johnny Harris Explainer Framework so the branch now captures visual-anchor density, short contextual bridges, rhythm diagnosis, and the caveat that vivid anchors can mislead when they are not representative.
+
+## [2026-04-20 21:43] ingest | Are you an ideal team player?
+
+Pages touched:
+- [[raw/inbox/2026-04-20-are-you-an-ideal-team-player|Are you an ideal team player?]]
+- [[wiki/sources/2026-04-20-are-you-an-ideal-team-player|Are you an ideal team player?]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/emotional-intelligence|Emotional Intelligence]]
+- [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]]
+- [[index|index]]
+
+Summary:
+- Ingested the first of the two new Patrick Lencioni raw entries and left the second raw file untouched for the next pass.
+- Added a dedicated source page so the note's durable value remains visible as the `humble / hungry / smart` team-player model, the `accidental mess maker`, `lovable slacker`, and `skillful politician` profiles, and the self-ranking plus coaching exercise for team development.
+- Updated High-Performance Team Culture, Emotional Intelligence, and Trust-Performance Matrix so the leadership branch now captures team-player composition, people-smarts as everyday coordination skill, and a sharper subtype view of trust-versus-output tradeoffs.
+
+## [2026-04-20 21:43] ingest | The Ideal Team Player by Patrick Lencioni
+
+Pages touched:
+- [[raw/inbox/2026-04-20-the-ideal-team-player-by-patrick-lencioni|The Ideal Team Player by Patrick Lencioni]]
+- [[wiki/sources/2026-04-20-the-ideal-team-player-by-patrick-lencioni|The Ideal Team Player by Patrick Lencioni]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]]
+- [[index|index]]
+
+Summary:
+- Ingested the second Patrick Lencioni raw entry as a reinforcing but still distinct companion to the first `ideal team player` source.
+- Added a dedicated source page so the note's durable value remains visible as the model's origin story, the rule to coach the missing virtue rather than label the person, and the idea that steady expectations often produce either development or self-selection out.
+- Updated High-Performance Team Culture and Trust-Performance Matrix so the leadership branch now captures virtue language as an operating system for reviews and coaching, not only as a one-time diagnostic or hiring filter.
+
+## [2026-04-21 14:19] ingest | The 5 Step Playbook for 10x Your AI Productivity
+
+Pages touched:
+- [[raw/inbox/2026-04-21-the-5-step-playbook-for-10x-your-ai-productivity|The 5 Step Playbook for 10x Your AI Productivity]]
+- [[wiki/sources/2026-04-21-the-5-step-playbook-for-10x-your-ai-productivity|The 5 Step Playbook for 10x Your AI Productivity]]
+- [[wiki/concepts/ai/ai-critical-thinking-partner|AI Critical Thinking Partner]]
+- [[wiki/concepts/ai/ai-roleplay-simulation|AI Roleplay Simulation]]
+- [[wiki/concepts/ai/context-engineering|Context Engineering]]
+- [[wiki/concepts/ai/few-shot-prompting|Few-Shot Prompting]]
+- [[wiki/concepts/ai/reverse-prompting|Reverse Prompting]]
+- [[wiki/concepts/ai/prompt-engineering|Prompt Engineering]]
+- [[wiki/concepts/ai/human-machine-collaboration|Human-Machine Collaboration]]
+- [[wiki/syntheses/ai/jeremy-utley-ai-collaboration-framework|Jeremy Utley AI Collaboration Framework]]
+- [[wiki/syntheses/ai/prompt-design-workflow|Prompt Design Workflow]]
+- [[wiki/entities/jeremy-utley|Jeremy Utley]]
+- [[index|index]]
+
+Summary:
+- Ingested a richer Jeremy Utley AI productivity source that overlaps with the older 2026-04-09 Utley note but adds clearer reusable structure.
+- Added a dedicated source page plus two new AI concept pages for AI as a critical-thinking partner and AI roleplay simulation.
+- Updated the existing Utley synthesis, prompt workflow, prompting concepts, human-machine collaboration, and Jeremy Utley entity so the AI branch now captures the yes-man failure mode, human-colleague context test, few-shot greatest-hits library, roleplay conversation simulator, and current caveat around chain-of-thought-style prompting.
+
+## [2026-04-21 14:27] ingest | How To Become A Master Storyteller
+
+Pages touched:
+- [[raw/inbox/2026-04-21-how-to-become-a-master-storyteller|How To Become A Master Storyteller]]
+- [[wiki/sources/2026-04-21-how-to-become-a-master-storyteller|How To Become A Master Storyteller]]
+- [[wiki/syntheses/filmmaking/short-form-storytelling-framework|Short-Form Storytelling Framework]]
+- [[wiki/concepts/filmmaking/story-lenses|Story Lenses]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/concepts/filmmaking/visual-storytelling-first|Visual Storytelling First]]
+- [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
+- [[wiki/syntheses/communication/johnny-harris-explainer-framework|Johnny Harris Explainer Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a new short-form storytelling source organized around dance, rhythm, tone, direction, story lenses, and hooks.
+- Added a dedicated source page, a new Story Lenses concept, and a Short-Form Storytelling Framework synthesis so the source's platform-specific craft model is accessible beyond the raw note.
+- Updated Story Propulsion, Dialogue as Music, Visual Storytelling First, Authentic Communication, and the Johnny Harris Explainer Framework so the filmmaking and communication branches now capture context/conflict loops, the `but` / `therefore` test, sentence-rhythm diagnostics, one-person conversational tone, ending-first direction, distinctive angles, and visual-first hooks.
+
+## [2026-04-21 15:05] ingest | The 48 Laws of Power in Under 30 Minutes
+
+Pages touched:
+- [[raw/inbox/2026-04-21-the-48-laws-of-power-in-under-30-minutes|The 48 Laws of Power in Under 30 Minutes]]
+- [[wiki/sources/2026-04-21-the-48-laws-of-power-in-under-30-minutes|The 48 Laws of Power in Under 30 Minutes]]
+- [[wiki/concepts/communication/power-dynamics|Power Dynamics]]
+- [[wiki/syntheses/communication/robert-greene-power-framework|Robert Greene Power Framework]]
+- [[wiki/entities/robert-greene|Robert Greene]]
+- [[index|index]]
+
+Summary:
+- Ingested a rapid Robert Greene summary that heavily overlaps with the existing Greene power branch but adds a clearer cluster map of the 48 laws.
+- Added a dedicated source page so the note remains discoverable as a tactical grouping of perception, relationship leverage, concealment, option control, timing, conformity, and fantasy/belief tactics.
+- Updated Power Dynamics, Robert Greene Power Framework, and the Robert Greene entity so the branch now makes the laws' internal contradictions and belief-management layer more explicit.
+
+## [2026-04-21 15:12] ingest | STORYWORTHY by Matthew Dicks Core Message
+
+Pages touched:
+- [[raw/inbox/2026-04-21-storyworthy-by-matthew-dicks-core-message|STORYWORTHY by Matthew Dicks Core Message]]
+- [[wiki/sources/2026-04-21-storyworthy-by-matthew-dicks-core-message|STORYWORTHY by Matthew Dicks Core Message]]
+- [[wiki/entities/matthew-dicks|Matthew Dicks]]
+- [[wiki/syntheses/filmmaking/matthew-dicks-personal-storytelling-framework|Matthew Dicks Personal Storytelling Framework]]
+- [[wiki/concepts/filmmaking/transformation-in-storytelling|Transformation in Storytelling]]
+- [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
+- [[index|index]]
+
+Summary:
+- Ingested a Matthew Dicks source centered on the `five-second moment` as the core of powerful personal storytelling.
+- Added a dedicated source page, a new Matthew Dicks entity, and a personal-storytelling framework synthesis.
+- Updated transformation, propulsion, character-driven storytelling, and authentic communication so the branch now captures before/after contrast, action-first openings, misdirection, delayed reveals, and vulnerability as structured connection.
+
+## [2026-04-21 15:18] ingest | THE 48 LAWS OF POWER by Robert Greene Core Message
+
+Pages touched:
+- [[raw/inbox/2026-04-21-the-48-laws-of-power-by-robert-greene-core-message|THE 48 LAWS OF POWER by Robert Greene Core Message]]
+- [[wiki/sources/2026-04-21-the-48-laws-of-power-by-robert-greene-core-message|THE 48 LAWS OF POWER by Robert Greene Core Message]]
+- [[wiki/concepts/communication/power-dynamics|Power Dynamics]]
+- [[wiki/syntheses/communication/robert-greene-power-framework|Robert Greene Power Framework]]
+- [[wiki/entities/robert-greene|Robert Greene]]
+- [[index|index]]
+
+Summary:
+- Ingested a reinforcing 48 Laws source that compresses Greene's power model into three meta-laws: say little, be audacious, and be formless.
+- Added a dedicated source page so this compact mental model remains visible rather than being absorbed into the prior 48 Laws source pages.
+- Updated Power Dynamics, Robert Greene Power Framework, and the Robert Greene entity so the branch now captures strategic silence, status-making audacity, formless adaptation, and the `iron hand inside a velvet glove` caveat around visible power hunger.
+
+## [2026-04-21 15:20] ingest | Ted Lasso Leadership Lessons That Work
+
+Pages touched:
+- [[raw/inbox/2026-04-21-ted-lasso-leadership-lessons-that-work|Ted Lasso Leadership Lessons That Work]]
+- [[wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work|Ted Lasso Leadership Lessons That Work]]
+- [[wiki/entities/ted-lasso|Ted Lasso]]
+- [[wiki/syntheses/leadership/ted-lasso-leadership-framework|Ted Lasso Leadership Framework]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/leadership/individualized-leadership|Individualized Leadership]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
+- [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]
+- [[index|index]]
+
+Summary:
+- Ingested a case-based leadership source using Ted Lasso to model recognition across status, self-interest-to-team alignment, distributed credit, blind-spot feedback, individualized motivation, and grounded optimism.
+- Added a dedicated source page, Ted Lasso entity page, and reusable leadership synthesis.
+- Updated core leadership concept pages and the high-performance leadership cross-source synthesis so the new source strengthens the compiled model rather than remaining isolated.
+
+## [2026-04-21 15:23] ingest | Why You've Been Lied to About Where to Put Your Time, Energy, and Focus
+
+Pages touched:
+- [[raw/inbox/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus|Why You've Been Lied to About Where to Put Your Time, Energy, and Focus]]
+- [[wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus|Why You've Been Lied to About Where to Put Your Time, Energy, and Focus]]
+- [[wiki/entities/seth-godin|Seth Godin]]
+- [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]
+- [[wiki/concepts/business/process-over-outcomes|Process Over Outcomes]]
+- [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]]
+- [[wiki/concepts/business/success-metrics|Success Metrics]]
+- [[wiki/concepts/business/permissionless-creation|Permissionless Creation]]
+- [[wiki/concepts/leadership/identity-based-motivation|Identity-Based Motivation]]
+- [[index|index]]
+
+Summary:
+- Ingested a Seth Godin Impact Theory source centered on practice as the controllable output, audience-specific intention, generous shipping, behavior-first identity, chosen passion, taste-building, curated feedback, and anti-vanity metrics.
+- Added a dedicated source page and a new Seth Godin Practice Framework synthesis.
+- Updated the existing Godin branch and related concepts so the new source strengthens process-over-outcomes, smallest viable audience, success metrics, permissionless creation, and identity-based motivation rather than remaining isolated.
+
+## [2026-04-21 15:28] ingest | Your Job is to Make Art - Seth Godin at ConvertKit Craft & Commerce 2017
+
+Pages touched:
+- [[raw/inbox/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017|Your Job is to Make Art - Seth Godin at ConvertKit Craft & Commerce 2017]]
+- [[wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017|Your Job is to Make Art - Seth Godin at ConvertKit Craft & Commerce 2017]]
+- [[wiki/entities/seth-godin|Seth Godin]]
+- [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]
+- [[wiki/syntheses/leadership/seth-godin-leadership-framework|Seth Godin Leadership Framework]]
+- [[wiki/concepts/business/connection-economy|Connection Economy]]
+- [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]]
+- [[wiki/concepts/business/permissionless-creation|Permissionless Creation]]
+- [[wiki/concepts/creativity/art-making|Art Making]]
+- [[wiki/concepts/leadership/leadership-vs-management|Leadership vs. Management]]
+- [[index|index]]
+
+Summary:
+- Ingested a Seth Godin Craft & Commerce source defining art as generous human work that might not work and tying that posture to audience choice, permission, tribe identity, and leadership under uncertainty.
+- Added a dedicated source page and moved the normalized raw source into `raw/inbox/`.
+- Updated the existing Godin branch and related concept pages so the source strengthens art/plumbing, prepared-versus-ready action, shipwreck-aware experimentation, permission as being missed, and customer-benefiting network effects rather than remaining isolated.
+
+## [2026-04-21 15:38] ingest | Jordan Peterson on Goals, Scheduling, Negotiating & Friendship
+
+Pages touched:
+- [[raw/inbox/2026-04-21-jordan-peterson-on-goals-scheduling-negotiating-and-friendship|Jordan Peterson on Goals, Scheduling, Negotiating & Friendship]]
+- [[wiki/sources/2026-04-21-jordan-peterson-on-goals-scheduling-negotiating-and-friendship|Jordan Peterson on Goals, Scheduling, Negotiating & Friendship]]
+- [[wiki/entities/jordan-peterson|Jordan Peterson]]
+- [[wiki/syntheses/productivity/jordan-peterson-self-management-framework|Jordan Peterson Self-Management Framework]]
+- [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework|Jordan Peterson Responsibility Framework]]
+- [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
+- [[wiki/concepts/leadership/friendship-as-growth-pact|Friendship as Growth Pact]]
+- [[index|index]]
+
+Summary:
+- Ingested a Jordan Peterson source connecting life vision, best-day schedule design, self-negotiation, incremental schedule adherence, time valuation, resentment-aware negotiation, competent networks, and friendship tests.
+- Added a dedicated source page and moved the normalized raw source into `raw/inbox/`.
+- Updated the Peterson branch and related communication/friendship pages so the new material strengthens negotiated self-management, resentment as an articulation signal, and friendship as a relationship that can hold both bad news and success.
+
+## [2026-04-21 15:40] ingest | Jordan Peterson Secrets to Life and Relationships
+
+Pages touched:
+- [[raw/inbox/2026-04-21-jordan-peterson-secrets-to-life-and-relationships|Jordan Peterson Secrets to Life and Relationships]]
+- [[wiki/sources/2026-04-21-jordan-peterson-secrets-to-life-and-relationships|Jordan Peterson Secrets to Life and Relationships]]
+- [[wiki/entities/jordan-peterson|Jordan Peterson]]
+- [[wiki/syntheses/leadership/jordan-peterson-responsibility-framework|Jordan Peterson Responsibility Framework]]
+- [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]]
+- [[wiki/concepts/leadership/owners-mentality|Owner's Mentality]]
+- [[wiki/concepts/leadership/better-problems|Better Problems]]
+- [[wiki/concepts/leadership/values-driven-action|Values-Driven Action]]
+- [[index|index]]
+
+Summary:
+- Ingested a Jordan Peterson source centered on meaning as calibration, love and truth commitments, voluntary acceptance of suffering, responsibility as chosen game, all-in commitment, individual integrity, and unrealized human potential.
+- Added a dedicated source page and moved the normalized raw source into `raw/inbox/`.
+- Updated the Peterson branch and related meaning/commitment pages so the source strengthens highest-good orientation, all-in games, and the caveat that commitment requires safeguards against coercion, abuse, or sunk-cost rigidity.
+
+## [2026-04-21 15:53] ingest | Jordan Belfort Straight Line Strategy
+
+Pages touched:
+- [[raw/inbox/2026-04-21-jordan-belfort-straight-line-strategy|Jordan Belfort Straight Line Strategy]]
+- [[wiki/sources/2026-04-21-jordan-belfort-straight-line-strategy|Jordan Belfort Straight Line Strategy]]
+- [[wiki/entities/jordan-belfort|Jordan Belfort]]
+- [[wiki/concepts/business/sales-conversation-control|Sales Conversation Control]]
+- [[wiki/syntheses/business/jordan-belfort-straight-line-sales-framework|Jordan Belfort Straight Line Sales Framework]]
+- [[wiki/syntheses/business/modern-sales-systems-framework|Modern Sales Systems Framework]]
+- [[wiki/concepts/business/sales-operations|Sales Operations]]
+- [[wiki/concepts/communication/persuasion|Persuasion]]
+- [[index|index]]
+
+Summary:
+- Ingested a Jordan Belfort sales source centered on Straight Line selling, certainty transfer, first-four-second authority, conversation control, tonality, body language, state management, scripting, and objection reframing.
+- Added a dedicated source page, Belfort entity page, call-level sales synthesis, and Sales Conversation Control concept.
+- Updated the broader sales and persuasion branches so the source strengthens live-call mechanics while preserving the ethical caveat that `no` can mean poor fit or legitimate refusal, not only unresolved uncertainty.

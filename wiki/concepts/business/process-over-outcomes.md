@@ -2,7 +2,7 @@
 type: concept
 title: Process Over Outcomes
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -12,6 +12,7 @@ tags:
   - self-management
 source_pages:
   - wiki/sources/2026-04-11-seth-godin-the-practice-and-process-over-outcomes.md
+  - wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus.md
   - wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant.md
 related:
   - wiki/concepts/business/permissionless-creation.md
@@ -20,6 +21,7 @@ related:
   - wiki/concepts/productivity/effective-practice.md
   - wiki/concepts/productivity/willpower.md
   - wiki/syntheses/business/seth-godin-remarkable-marketing-framework.md
+  - wiki/syntheses/business/seth-godin-practice-framework.md
 ---
 
 # What It Is
@@ -38,6 +40,11 @@ Process over outcomes is the principle that meaningful work should be organized 
 - That same source adds an identity rule: people become the kind of person they repeatedly act like, so behavior precedes self-story.
 - It also adds a feedback rule: input is valuable when it comes from intended audiences, peers, or trusted critics rather than from undifferentiated mass reaction.
 - The concept is still outcome-aware: the point is not to ignore results forever, but to avoid using volatile results as the only reason to keep working.
+- The new Godin Impact Theory source makes the concept more concrete:
+  - the practice is treated as the controllable output, not merely the path to some future output
+  - streaks make showing up less dependent on inspiration or confidence
+  - the three intention questions keep the practice attached to a real audience and change
+  - new mistakes and curated feedback turn repetition into learning rather than comfort ritual
 - [[wiki/concepts/productivity/effective-practice|Effective Practice]] overlaps on repetition quality, but this page is broader and more existential. It covers emotional orientation to the work, not only session design.
 - [[wiki/concepts/business/permissionless-creation|Permissionless Creation]] overlaps on acting before certainty, but this page adds a more durable inner rule for why the action continues after the first public leap.
 - [[wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant|These Are The 2 Paths To Happiness Naval Ravikant]] adds a harsher life-cost version of the same idea:
@@ -52,12 +59,14 @@ Process over outcomes is the principle that meaningful work should be organized 
 - Compared with [[wiki/concepts/business/creative-entrepreneurship|Creative Entrepreneurship]], this page is narrower and more behavioral. Creative entrepreneurship covers whole career design; process over outcomes covers the daily orientation that keeps that design alive.
 - Compared with [[wiki/concepts/productivity/willpower|Willpower]], this page is less about resisting temptation moment to moment and more about choosing a long-run relationship to work, feedback, and contribution.
 - Compared with the newer Naval happiness source, Seth Godin is stronger on creative practice and contribution, while Naval is stronger on the inner emotional cost of living the path badly even when the scoreboard eventually says `won`.
+- Compared with [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]], this page is the reusable concept, while the synthesis is the richer Godin-specific operating model around streaks, audience, identity, taste, and filtered criticism.
 
 # Tensions / Open Questions
 
 - Process language can become escapist if it is used to avoid the harder question of whether the work is useful, wanted, or economically viable.
 - Selective feedback protects originality, but it can also become a shield against correction if the filter is chosen dishonestly.
 - The branch still needs stronger cross-source evidence on when process orientation should yield to sharper market tests, pruning, or strategic pivots.
+- The newest Godin layer adds a further risk: a streak can become identity-protective busywork if the maker stops asking whether the intended audience is actually changing.
 
 # Related Pages
 
@@ -69,4 +78,6 @@ Process over outcomes is the principle that meaningful work should be organized 
 - [[wiki/concepts/productivity/effective-practice|Effective Practice]]
 - [[wiki/concepts/productivity/willpower|Willpower]]
 - [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]
+- [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]]
 - [[wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant|These Are The 2 Paths To Happiness Naval Ravikant]]
+- [[wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus|Why You've Been Lied to About Where to Put Your Time, Energy, and Focus]]

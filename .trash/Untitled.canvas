@@ -1,0 +1,19 @@
+{
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	},
+	"nodes":[
+		{
+			"id":"872594b8e392763f",
+			"type":"text",
+			"text":"What to do\n\n- ",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-320,
+			"width":240,
+			"height":260
+		}
+	],
+	"edges":[]
+}

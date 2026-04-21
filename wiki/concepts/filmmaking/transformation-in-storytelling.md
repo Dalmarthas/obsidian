@@ -2,7 +2,7 @@
 type: concept
 title: Transformation in Storytelling
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -12,6 +12,7 @@ tags:
 source_pages:
   - wiki/sources/2026-04-09-storytelling-core-elements-and-writing-process.md
   - wiki/sources/2026-04-09-vince-gilligan-on-writing-breaking-bad.md
+  - wiki/sources/2026-04-21-storyworthy-by-matthew-dicks-core-message.md
 related:
   - wiki/concepts/filmmaking/character-driven-storytelling.md
   - wiki/concepts/filmmaking/psychology-driven-plot.md
@@ -20,6 +21,7 @@ related:
   - wiki/concepts/filmmaking/premise-testing.md
   - wiki/concepts/filmmaking/narrative-voice-and-perspective.md
   - wiki/syntheses/filmmaking/screenplay-starting-checklist.md
+  - wiki/syntheses/filmmaking/matthew-dicks-personal-storytelling-framework.md
 ---
 
 # What It Is
@@ -39,6 +41,8 @@ Transformation in storytelling is the idea that story matters because something 
 - The source also stresses emotional truth, suggesting that transformation lands when the character journey feels psychologically and morally believable rather than mechanically imposed.
 - The current Vince Gilligan source deepens this with a television anti-stasis model: the protagonist's value as a long-form engine can come from genuinely becoming someone else over time instead of returning each episode to baseline.
 - It also sharpens a darker transformation pattern: change may move not toward healing but toward moral corrosion, ego exposure, and self-delusion.
+- The Matthew Dicks source adds a personal-storytelling version: transformation can be compressed into a `five-second moment`, a brief realization that lets the audience understand who the speaker was before and what changed afterward.
+- That source makes contrast operational: a story should be built from the gap between `I once thought/felt/was this` and `now I think/feel/am this`.
 
 # Tensions / Open Questions
 
@@ -46,6 +50,7 @@ Transformation in storytelling is the idea that story matters because something 
 - Writers can overstate transformation and end up forcing false `lessons` onto characters.
 - The vault still needs stronger primary-source grounding for different types of transformation across film, television, and fiction.
 - A transformation-heavy series can also become reductive if each escalation only darkens the character without adding fresh contradiction, cost, or self-understanding.
+- The five-second-moment model can over-clean gradual or collective change if every story is forced into one crisp realization.
 
 # Related Pages
 
@@ -56,3 +61,4 @@ Transformation in storytelling is the idea that story matters because something 
 - [[wiki/concepts/filmmaking/premise-testing|Premise Testing]]
 - [[wiki/concepts/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
 - [[wiki/syntheses/filmmaking/screenplay-starting-checklist|Screenplay Starting Checklist]]
+- [[wiki/syntheses/filmmaking/matthew-dicks-personal-storytelling-framework|Matthew Dicks Personal Storytelling Framework]]

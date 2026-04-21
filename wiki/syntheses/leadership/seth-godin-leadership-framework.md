@@ -2,7 +2,7 @@
 type: synthesis
 title: Seth Godin Leadership Framework
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - synthesis
@@ -14,6 +14,7 @@ basis:
   - wiki/sources/2026-04-12-seth-godin-some-of-the-best-advice-ive-received.md
   - wiki/sources/2026-04-12-purple-cow-how-to-be-remarkable-and-the-secrets-of-marketing.md
   - wiki/sources/2026-04-12-seth-godin-leadership-vs-management-what-it-means-to-make-a-difference.md
+  - wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017.md
   - wiki/concepts/leadership/leadership-vs-management.md
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/business-strategy.md
@@ -30,7 +31,7 @@ What reusable leadership framework does Seth Godin's `Leadership vs. Management`
 
 # Answer
 
-The source base now contributes an eleven-part leadership model:
+The source base now contributes a fourteen-part leadership model:
 
 1. Distinguish change leadership from system management.
    Management keeps a known system reliable; leadership matters most when the map is missing or broken.
@@ -65,7 +66,16 @@ The source base now contributes an eleven-part leadership model:
 11. Stop waiting to be picked.
    The newer advice source adds a more personal leadership threshold: agency begins when people stop waiting for institutions, gatekeepers, or famous allies to rescue them and instead own the next move available to them.
 
-In the vault, this matters because it gives the Seth Godin branch a clearer leadership layer. Earlier Seth pages were strongest on audience choice, tribes, permission, strategy, and creator posture. The newer advice source extends that layer into personal agency under rejection, tying Seth's leadership model not only to responsibility and uncertainty but also to the refusal to build a life around rescue fantasies.
+12. Distinguish being prepared from feeling ready.
+   The Craft & Commerce source adds that leaders can build skill, insight, and tools, but cannot wait for uncertainty to disappear before acting.
+
+13. Accept shipwreck risk.
+   The same act that invents the ship also invents the shipwreck; leadership cannot demand innovation while eliminating every possibility of failure.
+
+14. Make art instead of plumbing when change is required.
+   In Godin's language, art is generous human work that might not work; plumbing is repeatable execution. Leadership is required when repeatability is not enough.
+
+In the vault, this matters because it gives the Seth Godin branch a clearer leadership layer. Earlier Seth pages were strongest on audience choice, tribes, permission, strategy, and creator posture. The newer advice and Craft & Commerce sources extend that layer into personal agency under rejection, artful risk under uncertainty, and the refusal to build a life or organization around rescue fantasies.
 
 # Basis
 
@@ -77,6 +87,7 @@ In the vault, this matters because it gives the Seth Godin branch a clearer lead
 - Compared with [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]], this page is less about systems, time horizons, and audience choice and more about the human stance required once uncertainty becomes real.
 - The newest advice source deepens that stance further: before someone can lead change outwardly, they often have to stop narrating themselves as someone who can only move once chosen.
 - The newer `Purple Cow` source strengthens that stance by making uncertainty less abstract: leaders should surf changing waves, not pretend they are still optimizing a stable course.
+- The Craft & Commerce source makes the risk cost more explicit: leaders cannot get the ship without the shipwreck, and cannot do original work while waiting to feel fully ready.
 - Compared with [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]], Godin is less institutional and trust-environment-focused and more explicit about responsibility without authority, enrollment, and the difference between spec-level management and change leadership.
 - Compared with [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]], Godin is less performance-system-specific and more diagnostic about when command, optimization, and certainty-seeking quietly become the wrong operating mode.
 
@@ -87,6 +98,7 @@ In the vault, this matters because it gives the Seth Godin branch a clearer lead
 - The branch is now stronger on adaptive metaphors and technological redesign, but it still needs stronger guidance on how far surfing logic should reach before institutions need firmer standardization again.
 - The branch is now stronger on self-picking and anti-rescue agency, but it still needs better boundaries for when `no one is coming` is a useful lever and when it becomes emotionally simplistic or organizationally naive.
 - The branch would benefit from more material on how to integrate excellent management with leadership rather than treating them as rival identities.
+- The Craft & Commerce source also sharpens a terminology risk: calling work `art` can excuse avoidable disorder unless the work is genuinely generous, useful, and change-making for a real audience.
 
 # Related Pages
 
@@ -97,3 +109,4 @@ In the vault, this matters because it gives the Seth Godin branch a clearer lead
 - [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
 - [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]
+- [[wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017|Your Job is to Make Art - Seth Godin at ConvertKit Craft & Commerce 2017]]

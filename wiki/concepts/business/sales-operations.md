@@ -2,7 +2,7 @@
 type: concept
 title: Sales Operations
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -12,11 +12,14 @@ tags:
   - systems
 source_pages:
   - wiki/sources/2026-04-13-the-ultimate-sales-training-for-2026.md
+  - wiki/sources/2026-04-21-jordan-belfort-straight-line-strategy.md
 related:
   - wiki/concepts/business/business-systems.md
   - wiki/concepts/business/operational-productivity.md
   - wiki/concepts/business/bottleneck-theory.md
+  - wiki/concepts/business/sales-conversation-control.md
   - wiki/syntheses/business/modern-sales-systems-framework.md
+  - wiki/syntheses/business/jordan-belfort-straight-line-sales-framework.md
   - wiki/syntheses/business/scalable-business-systems-framework.md
 ---
 
@@ -44,12 +47,16 @@ Sales operations is the part of a sales system that determines whether the right
 - The source also adds a reporting and incentive layer:
   - cash collected and show rates matter more than rep storytelling
   - staffing and throughput can be hidden constraints behind apparently weak conversion
+- [[wiki/sources/2026-04-21-jordan-belfort-straight-line-strategy|Jordan Belfort Straight Line Strategy]] adds a training-content layer to sales operations:
+  - scripts, opening authority, objection handling, tonal control, and state management can be standardized and practiced
+  - the sales system therefore needs call review and coaching not only for process compliance, but for live certainty-building behavior
 
 # Source Comparisons
 
 - Compared with [[wiki/concepts/business/business-systems|Business Systems]], sales operations is narrower and funnel-specific. Business systems covers the whole machine; sales operations focuses on how demand is captured, routed, converted, and handed off.
 - Compared with [[wiki/concepts/business/operational-productivity|Operational Productivity]], sales operations is less about mission-critical production technology and more about the live conversion engine around revenue generation.
 - Compared with [[wiki/concepts/business/bottleneck-theory|Bottleneck Theory]], sales operations is one concrete field where bottleneck logic becomes highly visible through response lags, low show rates, weak handoffs, or uneven lead distribution.
+- Compared with [[wiki/concepts/business/sales-conversation-control|Sales Conversation Control]], this page is the infrastructure around the call. Conversation control is what the rep does inside the live interaction.
 
 # Tensions / Open Questions
 
@@ -62,6 +69,9 @@ Sales operations is the part of a sales system that determines whether the right
 - [[wiki/concepts/business/business-systems|Business Systems]]
 - [[wiki/concepts/business/operational-productivity|Operational Productivity]]
 - [[wiki/concepts/business/bottleneck-theory|Bottleneck Theory]]
+- [[wiki/concepts/business/sales-conversation-control|Sales Conversation Control]]
 - [[wiki/syntheses/business/modern-sales-systems-framework|Modern Sales Systems Framework]]
+- [[wiki/syntheses/business/jordan-belfort-straight-line-sales-framework|Jordan Belfort Straight Line Sales Framework]]
 - [[wiki/syntheses/business/scalable-business-systems-framework|Scalable Business Systems Framework]]
 - [[wiki/sources/2026-04-13-the-ultimate-sales-training-for-2026|The Ultimate Sales Training for 2026]]
+- [[wiki/sources/2026-04-21-jordan-belfort-straight-line-strategy|Jordan Belfort Straight Line Strategy]]

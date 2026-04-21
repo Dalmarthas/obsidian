@@ -2,7 +2,7 @@
 type: concept
 title: Dopamine Regulation
 created: 2026-04-10
-updated: 2026-04-16
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -16,7 +16,9 @@ source_pages:
   - wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more.md
   - wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant.md
   - wiki/sources/2026-04-16-why-youre-struggling-with-discipline.md
+  - wiki/sources/2026-04-21-how-casinos-are-able-to-predict-human-behavior.md
 related:
+  - wiki/concepts/health/scarcity-loop.md
   - wiki/concepts/productivity/flow.md
   - wiki/concepts/productivity/restorative-breaks.md
   - wiki/concepts/productivity/peak-hours.md
@@ -58,6 +60,10 @@ Dopamine regulation in the current vault means managing the reward environment s
   - cheap entertainment can look rational when the future being served feels emotionally equivalent to present leisure
   - the source therefore links reward capture not only to fast stimulation, but to failure to imagine a more meaningful competing payoff
   - this sharpens the branch from `reduce tempting inputs` toward `create a future that wins the internal comparison`
+- [[wiki/sources/2026-04-21-how-casinos-are-able-to-predict-human-behavior|How Casinos Are Able to Predict Human Behavior]] adds a scarcity-loop layer:
+  - fast reward capture is strongest when opportunity, unpredictable payoff, and instant repeatability combine
+  - the key intervention is not only reducing stimulation, but slowing repeatability and changing the environment that makes the loop dominant
+  - the pigeon-environment example reinforces that a richer life context can reduce attraction to variable reward schedules
 
 # Source Comparisons
 
@@ -68,6 +74,7 @@ Dopamine regulation in the current vault means managing the reward environment s
 - Compared with [[wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework|Mihaly Csikszentmihalyi Flow Framework]], this page is narrower and more behavior-design-oriented. The flow synthesis asks what kind of life feels vivid and fulfilling; dopamine regulation asks how the reward environment blocks entry into that kind of life.
 - Compared with the newer Naval happiness source, this page stays more local and behavioral. Dopamine regulation redesigns the reward environment; the happiness source asks the more upstream question of whether constant desire-escalation is itself the deeper trap.
 - Compared with [[wiki/syntheses/productivity/authentic-discipline-framework|Authentic Discipline Framework]], dopamine regulation is more environmental and reward-architectural. The newer synthesis is more motivationally selective and asks whether the future being pursued is internally chosen enough to compete with easy pleasure.
+- Compared with [[wiki/concepts/health/scarcity-loop|Scarcity Loop]], dopamine regulation is broader and more self-regulatory. Scarcity loop names one especially capture-prone reward architecture.
 
 # Tensions / Open Questions
 
@@ -77,12 +84,14 @@ Dopamine regulation in the current vault means managing the reward environment s
 - The newer flow source adds a caution in the other direction: critique of passive media can become too categorical if it fails to distinguish numbing default consumption from genuine rest, play, or low-demand recovery.
 - The Naval source adds another risk: `cheap dopamine` is vivid and memorable language, but it can quietly moralize reward problems that may also reflect loneliness, stress, depression, sleep debt, or lack of meaningful alternatives.
 - The newest discipline source adds a neighboring risk: if every motivation problem is interpreted as insufficiently authentic desire, reward-environment design may be underused even when the main issue is simply that the easy option has been made overwhelmingly available.
+- The scarcity-loop source adds a design-asymmetry risk: when products are optimized for repeat behavior, personal discipline is competing against an engineered reinforcement schedule, not only against laziness or weak priorities.
 
 # Related Pages
 
 - [[wiki/concepts/productivity/restorative-breaks|Restorative Breaks]]
 - [[wiki/concepts/productivity/peak-hours|Peak Hours]]
 - [[wiki/concepts/productivity/future-self-prioritization|Future-Self Prioritization]]
+- [[wiki/concepts/health/scarcity-loop|Scarcity Loop]]
 - [[wiki/concepts/productivity/flow|Flow]]
 - [[wiki/concepts/productivity/samoupravlenie|Samoupravlenie]]
 - [[wiki/syntheses/productivity/mihaly-csikszentmihalyi-flow-framework|Mihaly Csikszentmihalyi Flow Framework]]
@@ -92,3 +101,4 @@ Dopamine regulation in the current vault means managing the reward environment s
 - [[wiki/sources/2026-04-13-flow-by-mihaly-csikszentmihalyi|Flow by Mihaly Csikszentmihalyi]]
 - [[wiki/sources/2026-04-14-naval-ravikant-on-happiness-anxiety-and-more|Naval Ravikant on Happiness, Anxiety, and More]]
 - [[wiki/sources/2026-04-14-these-are-the-2-paths-to-happiness-naval-ravikant|These Are The 2 Paths To Happiness Naval Ravikant]]
+- [[wiki/sources/2026-04-21-how-casinos-are-able-to-predict-human-behavior|How Casinos Are Able to Predict Human Behavior]]

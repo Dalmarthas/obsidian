@@ -2,7 +2,7 @@
 type: entity
 title: Seth Godin
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - entity
@@ -23,6 +23,8 @@ source_pages:
   - wiki/sources/2026-04-11-seth-godin-magnetic-brand-that-sells-itself.md
   - wiki/sources/2026-04-11-seth-godin-everything-you-probably-dont-know-about-marketing.md
   - wiki/sources/2026-04-12-seth-godin-how-to-get-your-ideas-to-spread.md
+  - wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus.md
+  - wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017.md
 related:
   - wiki/concepts/business/smallest-viable-audience.md
   - wiki/concepts/business/business-strategy.md
@@ -35,10 +37,12 @@ related:
   - wiki/concepts/business/process-over-outcomes.md
   - wiki/concepts/business/positioning-as-a-service.md
   - wiki/concepts/business/strategic-quitting.md
+  - wiki/concepts/creativity/art-making.md
   - wiki/concepts/ai/human-machine-collaboration.md
   - wiki/concepts/leadership/leadership-vs-management.md
   - wiki/syntheses/business/seth-godin-remarkable-marketing-framework.md
   - wiki/syntheses/business/seth-godin-strategy-framework.md
+  - wiki/syntheses/business/seth-godin-practice-framework.md
   - wiki/syntheses/leadership/seth-godin-leadership-framework.md
 ---
 
@@ -63,6 +67,8 @@ Seth Godin currently enters the vault as a business, marketing, and leadership t
 - He now also sharpens the cross-branch adaptation layer through `onlyness`, surfing-style leadership under change, and AI adoption framed as redesign rather than model defense.
 - He now also sharpens the agency layer by attacking gatekeeper dependence, rescue fantasies, and victim identity as traps that keep capable people from self-authored movement.
 - He now also sharpens the spread-design layer by treating word of mouth as something built through worldview fit, visible social cues, and customer-benefiting talk triggers rather than as a lucky byproduct of attention.
+- He now also sharpens the practice layer through the Impact Theory source: streaks, intention questions, `on the hook` generosity, behavior-first identity, chosen passion, taste-building through new mistakes, and curated feedback become one operating system for deciding where time, energy, and focus should go.
+- He now also sharpens the art-and-leadership layer through the Craft & Commerce source: `art` means generous human work that might not work, `plumbing` means reproducible competence, and leadership means enrolling people into uncertain change before readiness fully arrives.
 
 # Evidence In This Vault
 
@@ -85,6 +91,18 @@ Seth Godin currently enters the vault as a business, marketing, and leadership t
 - The newer `Purple Cow` conversation deepens the branch by reasserting remarkability as customer-visible word of mouth, linking leadership to `surfing not golf`, and treating AI as electricity-level leverage that must be learned hands-on.
 - The newest advice source adds a more personal agency frame: stop waiting to be picked, stop expecting rescue from institutions or famous people, and treat self-directed action as the only dependable answer to rejection-heavy environments.
 - The newest audience-building source compresses much of the branch into a five-step marketing sequence and adds two practical refinements: design visible social situations that make customer-to-customer spread natural, and do not confuse platform attention with an audience that actually buys.
+- The newest Impact Theory source deepens the maker-facing side of the branch:
+  - the practice itself becomes the controllable output
+  - the work should answer who it is for, what it is for, and what change it seeks
+  - passion and identity are treated as downstream of repeated behavior
+  - feedback should be curated through aligned people rather than drawn from generic mass reaction
+  - status holes such as bestseller lists, fame, and rankings are treated as dangerous scoreboards because they can produce bitterness and hack behavior
+- The Craft & Commerce source deepens the branch's creator-leadership side:
+  - abundance and filtering make average mass work more vulnerable to price sorting
+  - real permission is tested by whether people miss the work when it is absent
+  - `people like us do things like this` names the identity logic behind tribes and spread
+  - the prepared-versus-ready distinction explains why uncertainty cannot be waited away
+  - the ship/shipwreck metaphor frames failure risk as inseparable from invention
 
 # Related Pages
 
@@ -99,8 +117,12 @@ Seth Godin currently enters the vault as a business, marketing, and leadership t
 - [[wiki/concepts/business/process-over-outcomes|Process Over Outcomes]]
 - [[wiki/concepts/business/positioning-as-a-service|Positioning as a Service]]
 - [[wiki/concepts/business/strategic-quitting|Strategic Quitting]]
+- [[wiki/concepts/creativity/art-making|Art Making]]
 - [[wiki/concepts/ai/human-machine-collaboration|Human-Machine Collaboration]]
 - [[wiki/concepts/leadership/leadership-vs-management|Leadership vs. Management]]
 - [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]
 - [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
+- [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]]
 - [[wiki/syntheses/leadership/seth-godin-leadership-framework|Seth Godin Leadership Framework]]
+- [[wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus|Why You've Been Lied to About Where to Put Your Time, Energy, and Focus]]
+- [[wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017|Your Job is to Make Art - Seth Godin at ConvertKit Craft & Commerce 2017]]

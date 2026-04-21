@@ -2,7 +2,7 @@
 type: concept
 title: Smallest Viable Audience
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -16,6 +16,8 @@ source_pages:
   - wiki/sources/2026-04-11-seth-godin-the-practice-and-process-over-outcomes.md
   - wiki/sources/2026-04-11-seth-godin-this-is-strategy.md
   - wiki/sources/2026-04-11-seth-godin-everything-you-probably-dont-know-about-marketing.md
+  - wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus.md
+  - wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017.md
 related:
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/business/brand-strategy.md
@@ -27,6 +29,7 @@ related:
   - wiki/concepts/business/success-metrics.md
   - wiki/syntheses/business/seth-godin-remarkable-marketing-framework.md
   - wiki/syntheses/business/seth-godin-strategy-framework.md
+  - wiki/syntheses/business/seth-godin-practice-framework.md
 ---
 
 # What It Is
@@ -63,6 +66,14 @@ Smallest viable audience is the strategy of aiming first at the smallest group o
   - pick a group small enough to understand in worldview terms rather than only in market-segment abstractions
   - match the story to what that group already believes, fears, and desires
   - design the product and surrounding cues so the right customers naturally talk about it to one another
+- The new Impact Theory source adds a practice-intention layer:
+  - `who is it for?` is not only a marketing question but a discipline question
+  - `what is it for?` and `what change do I seek?` keep the smallest viable audience from becoming a vague niche label
+  - wrong-audience feedback should often be ignored because it can pull the maker away from the people the work is actually for
+- The Craft & Commerce source adds an edge-selection layer:
+  - the broad middle often does not believe it has the problem yet
+  - early adopters and `weird` edge groups are more likely to care, adopt, and talk
+  - the goal is to become the `only one` for a specific group so price sorting no longer defines the choice
 
 # Tensions / Open Questions
 
@@ -73,6 +84,8 @@ Smallest viable audience is the strategy of aiming first at the smallest group o
 - The branch still needs stronger evidence on how and when a smallest viable audience can expand without dissolving the original distinctiveness.
 - The newest Seth source adds a related tension: even a well-chosen small audience may not be economically useful if the people who care cannot or will not fund the work enough to sustain quality.
 - The newest Seth audience-building layer adds another tension: a narrowly chosen audience can still fail if the work fits the group's identity but lacks enough practical value or social visibility to trigger real buying and sharing behavior.
+- The newest Impact Theory layer adds a feedback tension: excluding wrong-audience criticism is necessary, but it can become denial if the maker defines the `right audience` only as people who already praise the work.
+- The Craft & Commerce layer adds an economic tension: edge specificity can escape commodity comparison, but only if the work creates enough real change that the chosen people value it beyond identity signaling.
 
 # Related Pages
 
@@ -85,3 +98,6 @@ Smallest viable audience is the strategy of aiming first at the smallest group o
 - [[wiki/concepts/business/psychographic-targeting|Psychographic Targeting]]
 - [[wiki/syntheses/business/seth-godin-remarkable-marketing-framework|Seth Godin Remarkable Marketing Framework]]
 - [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
+- [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]]
+- [[wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus|Why You've Been Lied to About Where to Put Your Time, Energy, and Focus]]
+- [[wiki/sources/2026-04-21-your-job-is-to-make-art-seth-godin-craft-commerce-2017|Your Job is to Make Art - Seth Godin at ConvertKit Craft & Commerce 2017]]

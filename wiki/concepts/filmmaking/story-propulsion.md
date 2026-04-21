@@ -2,7 +2,7 @@
 type: concept
 title: Story Propulsion
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -23,6 +23,8 @@ source_pages:
   - wiki/sources/2026-04-09-eric-edson-screenplay-structure-and-hero-goal-sequence.md
   - wiki/sources/2026-04-09-vince-gilligan-on-writing-breaking-bad.md
   - wiki/sources/2026-04-09-studio-script-reader-strengths-and-weaknesses.md
+  - wiki/sources/2026-04-21-how-to-become-a-master-storyteller.md
+  - wiki/sources/2026-04-21-storyworthy-by-matthew-dicks-core-message.md
 related:
   - wiki/concepts/filmmaking/arena-vs-story.md
   - wiki/concepts/filmmaking/hero-goal-sequence.md
@@ -34,9 +36,12 @@ related:
   - wiki/concepts/filmmaking/screenwriting.md
   - wiki/concepts/filmmaking/screenplay-diagnostics.md
   - wiki/concepts/filmmaking/fiction-writing.md
+  - wiki/concepts/filmmaking/story-lenses.md
   - wiki/concepts/filmmaking/television-pilot-writing.md
   - wiki/concepts/filmmaking/thriller-writing.md
   - wiki/syntheses/cross-source/writing-craft-overlaps.md
+  - wiki/syntheses/filmmaking/short-form-storytelling-framework.md
+  - wiki/syntheses/filmmaking/matthew-dicks-personal-storytelling-framework.md
 ---
 
 # What It Is
@@ -76,6 +81,13 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
   readers reward scripts whose openings hook, whose twists feel earned, and whose third acts converge cleanly into gripping payoff.
 - The same source also sharpens several anti-propulsion warnings in one list:
   late starts, passive heroes, weak escalation, repetition, coincidence, stitched-together plotting, and anti-climactic endings all make the script feel like it is not truly progressing.
+- The current short-form storytelling source adds a retention-scale version: strong beats should alternate context and conflict, and transitions should pass the `but` / `therefore` test rather than merely chaining events with `and then`.
+- It also reframes open loops as micro-propulsion: conflict opens curiosity, context partially resolves it, and a new complication keeps the viewer leaning forward.
+- The Matthew Dicks source adds a personal-storytelling suspense pattern:
+  - start in action instead of backstory
+  - state a plan or assumption that will later fail
+  - plant breadcrumbs that make the audience predict
+  - slow down just before the realization so the payoff has time to gather emotional charge
 - Across the sources, the reader or audience should feel guided rather than inert or confused.
 
 # Source Comparisons
@@ -94,6 +106,8 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - The current `29 mistakes` source works at the failure-pattern scale, focusing on how scripts flatten when goal clarity, stakes, and escalation are not being actively checked draft by draft.
 - The current Max Landis source works at the read-experience scale, focusing on whether the page feels alive, sparse, and consistently headed somewhere rather than merely formatted like a script.
 - The current studio-reader source works at the professional-first-read scale, focusing on whether the script signals movement, control, and payoff strongly enough that a reader keeps trusting the journey.
+- The current short-form source works at the retention and beat-logic scale, focusing on rapid context/conflict alternation, looped endings, and causal transitions.
+- The Matthew Dicks source works at the personal-reveal scale, focusing on misdirection, delayed revelation, and the suspense created by waiting for a vulnerable realization.
 - All of them agree that momentum is not accidental, but they locate the main control point in different places: outline, scene construction, suspense rhythm, series engine, chapter design, transformation logic, anti-boredom diagnosis, psychology-driven consequence, diagnostic revision, or the form of the telling itself.
 
 # Tensions / Open Questions
@@ -106,6 +120,8 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - Propulsion can also fail upstream if the writer falls in love with a world, concept, or atmosphere that never becomes a real dramatic engine.
 - The current Vince Gilligan source sharpens another failure mode: propulsion can look active on the surface while feeling fake if the characters are only being pushed through writer-designed obstacles instead of generating consequences from their own flaws and motives.
 - The current `29 mistakes` source sharpens another failure mode: a script may be busy enough to seem alive while still feeling inert because the writer has not verified that setup, external goal, stakes, and surprise are compounding together.
+- The short-form source adds another tension: retention mechanics can improve propulsion, but they can also over-reward constant hooks if the story never earns deeper payoff.
+- Dicks adds the opposite risk: too much delay before a reveal can feel indulgent if the details do not heighten anticipation or deepen the final realization.
 
 # Related Pages
 
@@ -117,7 +133,10 @@ Story propulsion is the set of techniques that keep a reader or viewer moving fo
 - [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
 - [[wiki/concepts/filmmaking/screenplay-diagnostics|Screenplay Diagnostics]]
 - [[wiki/concepts/filmmaking/transformation-in-storytelling|Transformation in Storytelling]]
+- [[wiki/concepts/filmmaking/story-lenses|Story Lenses]]
 - [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
 - [[wiki/concepts/filmmaking/television-pilot-writing|Television Pilot Writing]]
 - [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/syntheses/filmmaking/short-form-storytelling-framework|Short-Form Storytelling Framework]]
+- [[wiki/syntheses/filmmaking/matthew-dicks-personal-storytelling-framework|Matthew Dicks Personal Storytelling Framework]]
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]

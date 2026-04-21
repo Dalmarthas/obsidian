@@ -2,7 +2,7 @@
 type: entity
 title: Jordan Peterson
 created: 2026-04-10
-updated: 2026-04-16
+updated: 2026-04-21
 status: active
 tags:
   - entity
@@ -23,6 +23,8 @@ source_pages:
   - wiki/sources/2026-04-12-your-job-is-not-to-motivate-people.md
   - wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson.md
   - wiki/sources/2026-04-16-jordan-peterson-overcoming-imposter-syndrome.md
+  - wiki/sources/2026-04-21-jordan-peterson-on-goals-scheduling-negotiating-and-friendship.md
+  - wiki/sources/2026-04-21-jordan-peterson-secrets-to-life-and-relationships.md
 related:
   - wiki/concepts/communication/assertiveness.md
   - wiki/concepts/communication/boundary-language.md
@@ -34,6 +36,8 @@ related:
   - wiki/concepts/leadership/leadership-communication.md
   - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/leadership/voluntary-cooperation.md
+  - wiki/concepts/leadership/friendship-as-growth-pact.md
+  - wiki/concepts/communication/negotiation-and-mediation.md
   - wiki/concepts/productivity/calibrated-challenge.md
   - wiki/concepts/productivity/conscientiousness.md
   - wiki/concepts/productivity/environmental-order.md
@@ -52,7 +56,7 @@ related:
 
 # Overview
 
-Jordan Peterson enters this vault here as a source on under-assertiveness, responsibility-heavy self-development, and meaning-driven self-management. In the current source base, his contributions now split across ten layers: a personality-level warning that excessive agreeableness can turn care and harmony-seeking into exploitation, an existential claim that meaning grows through voluntarily accepted burden rather than avoidance, a productivity model that links conscientiousness, valued goals, and negotiated schedules, a sustainability layer about calibrated challenge, planned recovery, and optimizing for a decades-long career rather than a sprint, an internal-governance layer where discipline is framed as ordering competing drives under a higher value hierarchy, a routine-design layer that ties wake regularity, fueling, naps, and workflow redesign to usable daily output, an environment-first layer where local order and recurring mundane interactions are treated as leverage points for larger life repair, a leadership-design layer where ethical destination, narrative alignment, and voluntary cooperation are treated as the real core of organizational leadership, a characterological leadership layer where trustworthiness and reliability matter more than style alone, and a compact anti-chaos layer built around progress against yesterday plus truth-telling as daily self-correction.
+Jordan Peterson enters this vault here as a source on under-assertiveness, responsibility-heavy self-development, and meaning-driven self-management. In the current source base, his contributions now split across thirteen layers: a personality-level warning that excessive agreeableness can turn care and harmony-seeking into exploitation, an existential claim that meaning grows through voluntarily accepted burden rather than avoidance, a productivity model that links conscientiousness, valued goals, and negotiated schedules, a sustainability layer about calibrated challenge, planned recovery, and optimizing for a decades-long career rather than a sprint, an internal-governance layer where discipline is framed as ordering competing drives under a higher value hierarchy, a routine-design layer that ties wake regularity, fueling, naps, and workflow redesign to usable daily output, an environment-first layer where local order and recurring mundane interactions are treated as leverage points for larger life repair, a leadership-design layer where ethical destination, narrative alignment, and voluntary cooperation are treated as the real core of organizational leadership, a characterological leadership layer where trustworthiness and reliability matter more than style alone, a compact anti-chaos layer built around progress against yesterday plus truth-telling as daily self-correction, a status-transition layer for imposter feelings, a relational layer where negotiation, friendship, and competent networks become part of self-management infrastructure, and a meaning-calibration layer where love, truth, highest-good orientation, voluntary suffering, and all-in commitment become the deeper substrate underneath responsibility.
 
 # Role In This Vault
 
@@ -68,6 +72,8 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - He now also gives the leadership branch a character-and-reliability frame: followership depends on whether a leader is trustworthy, conscientious, and consistent enough that others can organize themselves around what is promised.
 - He now also gives the productivity and communication branches a compact anti-chaos frame: daily life gets steadier when self-worth is tied to progress against yesterday rather than to status competition, and when avoided truths are surfaced before they harden into larger problems.
 - He now also gives the health-and-identity branch a status-transition frame for imposter feelings: honest beginnerhood, question-driven learning, neuroticism-sensitive exposure, and the difference between stretching into a role versus bluffing competence.
+- He now also gives the productivity, communication, and friendship branches a negotiated-life frame: design a livable day, measure schedule adherence incrementally, treat resentment as a signal to articulate, and choose relationships that can handle both bad news and success.
+- He now also gives the leadership branch a meaning-calibration frame: orient toward the highest good one can currently conceive, commit to love and truth, choose responsibility voluntarily, and treat serious commitments as games that may only reveal their value when entered fully.
 - Across both branches, he strengthens the link between self-understanding and deliberate corrective action rather than passive self-description.
 
 # Evidence In This Vault
@@ -88,6 +94,18 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - The character-in-leadership source adds a ninth layer: leadership is also framed as characterological reliability, where conscientiousness, keeping one's word, and being predictably trustworthy matter more than rhetorical style by themselves.
 - The `12 Rules for Life` summary adds a tenth layer: self-management becomes a daily anti-chaos loop built from comparing today with yesterday rather than with other people, then auditing where dishonesty or avoided conversations are blocking real progress.
 - The new imposter-syndrome source adds an eleventh layer: role growth often requires honest `acting as if`, repeated exposure to feared challenge, and willingness to ask questions publicly without treating novice status as moral failure.
+- The new goals-and-friendship source adds a twelfth layer:
+  - scheduling should construct the best realistically repeatable day rather than a punitive prison
+  - self-management works better as negotiation with oneself than as self-contempt or self-command alone
+  - time valuation makes drift concrete enough to challenge
+  - resentment signals that something important has not been articulated
+  - real friendship can hold both bad news and good news without dismissal, envy, or derailment
+- The new secrets-to-life-and-relationships source adds a thirteenth layer:
+  - meaning is treated as a compass that requires love, truth, and highest-good orientation to become trustworthy
+  - responsibility is presented as a chosen game rather than only an imposed moral burden
+  - unavoidable suffering is transformed by voluntary engagement in problems worth solving
+  - marriage and other serious commitments are framed as all-in games whose developmental rewards are weakened by constant exit posture
+  - individual integrity is treated as a lever that scales outward into family, community, and institutional order
 
 # Related Pages
 
@@ -100,12 +118,16 @@ Jordan Peterson enters this vault here as a source on under-assertiveness, respo
 - [[wiki/sources/2026-04-12-jordan-peterson-sorting-your-life|Jordan Peterson Sorting Your Life]]
 - [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson|12 Rules for Life by Jordan Peterson]]
 - [[wiki/sources/2026-04-16-jordan-peterson-overcoming-imposter-syndrome|Jordan Peterson Overcoming Imposter Syndrome]]
+- [[wiki/sources/2026-04-21-jordan-peterson-on-goals-scheduling-negotiating-and-friendship|Jordan Peterson on Goals, Scheduling, Negotiating & Friendship]]
+- [[wiki/sources/2026-04-21-jordan-peterson-secrets-to-life-and-relationships|Jordan Peterson Secrets to Life and Relationships]]
 - [[wiki/concepts/communication/assertiveness|Assertiveness]]
 - [[wiki/concepts/communication/boundary-language|Boundary Language]]
 - [[wiki/concepts/leadership/meaning-through-responsibility|Meaning Through Responsibility]]
 - [[wiki/concepts/leadership/locus-of-control|Locus of Control]]
 - [[wiki/concepts/leadership/high-performance-mindset|High-Performance Mindset]]
 - [[wiki/concepts/leadership/character-based-leadership|Character-Based Leadership]]
+- [[wiki/concepts/leadership/friendship-as-growth-pact|Friendship as Growth Pact]]
+- [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
 - [[wiki/concepts/productivity/calibrated-challenge|Calibrated Challenge]]
 - [[wiki/concepts/productivity/conscientiousness|Conscientiousness]]
 - [[wiki/concepts/productivity/environmental-order|Environmental Order]]

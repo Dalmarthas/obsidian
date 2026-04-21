@@ -2,7 +2,7 @@
 type: entity
 title: Robert Greene
 created: 2026-04-10
-updated: 2026-04-17
+updated: 2026-04-21
 status: active
 tags:
   - entity
@@ -12,6 +12,8 @@ tags:
   - leadership
 source_pages:
   - wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power.md
+  - wiki/sources/2026-04-21-the-48-laws-of-power-in-under-30-minutes.md
+  - wiki/sources/2026-04-21-the-48-laws-of-power-by-robert-greene-core-message.md
   - wiki/sources/2026-04-10-robert-greene-the-laws-of-human-nature.md
   - wiki/sources/2026-04-11-robert-greene-presentation-at-google-mastery.md
   - wiki/sources/2026-04-12-why-you-need-to-put-in-10000-hours.md
@@ -64,6 +66,15 @@ Robert Greene enters this vault as a three-branch thinker: interpreter of irrati
   - power is treated as morally neutral before it is treated as strategic
   - self-love and emotional recovery are positioned as defenses against manipulation rather than as separate self-esteem topics
   - political realism is framed as a corrective to naivete, not as an excuse for cruelty
+- The newest compressed 48-laws walkthrough mainly strengthens the power branch's internal map:
+  - it separates perception, relationship leverage, option control, timing, social conformity, and fantasy/belief into distinct tactical clusters
+  - it makes the internal contradictions of the laws more visible, especially standing out versus blending in and boldness versus patience
+  - it reinforces that Greene is most useful in this vault as both a strategist to understand and a manipulation pattern-library to handle carefully
+- The newest core-message source adds a more compact memory handle for the same power branch:
+  - speak less to project control and gather information
+  - act audaciously to alter status perception
+  - stay formless so others cannot predict, attack, or negotiate against a fixed pattern
+  - hide overt power hunger behind velvet-glove cooperation
 
 # Evidence In This Vault
 
@@ -71,6 +82,8 @@ Robert Greene enters this vault as a three-branch thinker: interpreter of irrati
 - It frames the `shadow` as repressed material that leaks into action under stress.
 - It also argues that culture and generational mood shape beliefs and behavior through imitation, contagion, and social codes.
 - The newer power source pivots from diagnosis to strategic action: reputation, concealment, dependence, spectacle, and controlled unpredictability are treated as ways people gain or defend influence.
+- The latest short-form 48-laws source adds a cleaner grouping of those moves into perception, dependence, concealment, timing, conformity, and belief-management clusters.
+- The latest core-message source compresses those clusters into silence, audacity, formlessness, and subtlety around visible ambition.
 - That source also makes the ethical tension much sharper by framing many relationships as competitive fields rather than trust-based systems.
 - The additional power-adjacent source sharpens the same branch further:
   - reputation can intimidate or attract before direct evidence appears
@@ -96,6 +109,8 @@ Robert Greene enters this vault as a three-branch thinker: interpreter of irrati
 # Related Pages
 
 - [[wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power|Robert Greene The 48 Laws of Power]]
+- [[wiki/sources/2026-04-21-the-48-laws-of-power-in-under-30-minutes|The 48 Laws of Power in Under 30 Minutes]]
+- [[wiki/sources/2026-04-21-the-48-laws-of-power-by-robert-greene-core-message|THE 48 LAWS OF POWER by Robert Greene Core Message]]
 - [[wiki/sources/2026-04-13-master-psychology-to-win-any-competition|Master Psychology to Win Any Competition]]
 - [[wiki/sources/2026-04-13-the-path-to-power-ambition-status-strength-and-respect|The Path To Power: Ambition, Status, Strength & Respect]]
 - [[wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time|How to DEFEAT Your BOSS Every Time]]

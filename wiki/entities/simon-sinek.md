@@ -2,7 +2,7 @@
 type: entity
 title: Simon Sinek
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - entity
@@ -21,6 +21,7 @@ source_pages:
   - wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025.md
   - wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games.md
   - wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments.md
+  - wiki/sources/2026-04-21-trusting-teams-the-5-practices.md
   - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
   - wiki/sources/2026-04-10-simon-sinek-golden-circle-framework.md
   - wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics.md
@@ -60,6 +61,7 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
 - He now also deepens the moral-protective layer through the `circle of safety`: leadership exists to make people feel protected enough to trust, cooperate, and sacrifice for one another under pressure.
 - The new `Leaders Eat Last` source deepens the branch again by tying trust and sacrifice to incentive design: target-chasing, status hunger, and fear can be trained by the system just as surely as loyalty and mutual protection can.
 - He now also adds a broader meaning-and-friendship layer: purpose is not the same as goals, accountability is a route out of helplessness, and human flourishing depends on relationships where people grow, grieve, and tell the truth together.
+- The new `Trusting Teams` capture reinforces the trust branch with more concrete service examples: Noah's different behavior across two employers, United as a fear-and-rule-rigidity warning, Virgin as the contrasting trust-based service claim, and leadership as a daily fitness practice.
 
 # Evidence In This Vault
 
@@ -87,6 +89,10 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
   - purpose should be separated from goals so achievement does not become the whole self
   - friendship is treated as growth infrastructure rather than leisure garnish
   - emotional presence and `sitting in the mud` are presented as necessary counterparts to advice and optimization
+- The new `Trusting Teams` capture adds a practical environment test:
+  - ask whether people can safely admit mistakes, ask for help, and use judgment
+  - look for fear signals such as keeping heads down, policing rules to avoid punishment, and hiding trouble
+  - treat customer-service breakdowns as possible symptoms of internal leadership conditions
 
 # Related Pages
 
@@ -99,6 +105,7 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
 - [[wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe|Why good leaders make you feel safe]]
 - [[wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games|Simon Sinek Finite vs Infinite Games]]
 - [[wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments|Simon Sinek Trusting Teams and Leadership Environments]]
+- [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
 - [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection|Simon Sinek Trust and Team Selection]]
 - [[wiki/sources/2026-04-10-simon-sinek-golden-circle-framework|Simon Sinek Golden Circle Framework]]
 - [[wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics|Simon Sinek Incomplete Success Metrics]]

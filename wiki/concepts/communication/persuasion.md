@@ -2,7 +2,7 @@
 type: concept
 title: Persuasion
 created: 2026-04-08
-updated: 2026-04-13
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -22,6 +22,7 @@ source_pages:
   - wiki/sources/2026-04-09-chase-hughes-behavioral-framework-for-influence.md
   - wiki/sources/2026-04-10-robert-greene-the-48-laws-of-power.md
   - wiki/sources/2026-04-13-how-to-win-friends-and-influence-people-by-dale-carnegie.md
+  - wiki/sources/2026-04-21-jordan-belfort-straight-line-strategy.md
 related:
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/concrete-specificity.md
@@ -38,7 +39,10 @@ related:
   - wiki/concepts/communication/timing-and-sequencing.md
   - wiki/concepts/communication/political-campaigns.md
   - wiki/entities/dale-carnegie.md
+  - wiki/entities/jordan-belfort.md
+  - wiki/concepts/business/sales-conversation-control.md
   - wiki/syntheses/communication/daniel-pink-persuasion-framework.md
+  - wiki/syntheses/business/jordan-belfort-straight-line-sales-framework.md
   - wiki/syntheses/cross-source/communication-and-influence-models.md
 ---
 
@@ -71,6 +75,11 @@ Persuasion is the practice of moving people toward action, understanding, or cha
   - persuasion can begin with making the other person feel important, appreciated, and genuinely interesting
   - asking about the other person's interests and giving deserved recognition can open cooperation more effectively than direct pressure
   - influence here is relational and long-horizon rather than sharp-edged or tactical
+- The Jordan Belfort Straight Line source adds a sales-specific persuasion layer:
+  - persuasion is framed as the transfer of emotional certainty
+  - the conversation is kept on a controlled line from opening to close
+  - first-impression authority, tonality, body language, and state management become part of the persuasive mechanism
+  - many objections are treated as unresolved uncertainty rather than final rejection
 
 # Source Comparisons
 
@@ -85,6 +94,7 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - The current Chase Hughes behavioral-framework source is strongest on persuasion as identity and need alignment: read the hunger beneath the language, then speak in a way that makes the outcome feel consistent with who the person already is.
 - The Robert Greene source is strongest on persuasion's adversarial edge: it cares less about felt understanding than about perceived rank, reputational force, strategic silence, and designing dependence.
 - The Carnegie source is strongest on humane goodwill as influence: it is less advanced on structure and conflict, but clearer about why sincere interest and appreciation can move people without overt force.
+- The Belfort source is strongest on scripted sales momentum and certainty transfer. It is more useful for understanding high-pressure commercial persuasion than for modeling humane influence, and it needs stronger ethical boundaries than Pink, Carnegie, or Voss.
 
 # Tensions / Open Questions
 
@@ -97,6 +107,7 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - The branch is now stronger on written influence than before, but it still needs more direct-response, long-form sales, and mass-media propaganda sources.
 - Axelrod and Rove widen the branch into mass political persuasion, but also surface the risk that highly effective campaign techniques can outrun democratic trust if ethics are under-specified.
 - Carnegie strengthens the humane side of the branch, but also raises an old boundary problem: when does appreciation remain honest encouragement, and when does it become manipulative approval-seeking?
+- Belfort sharpens the branch's commercial-pressure problem: if `no` is always translated as `not certain yet`, persuasion can ignore autonomy and fit under the banner of persistence.
 
 # Related Pages
 
@@ -111,5 +122,8 @@ Persuasion is the practice of moving people toward action, understanding, or cha
 - [[wiki/concepts/communication/timing-and-sequencing|Timing and Sequencing]]
 - [[wiki/concepts/communication/political-campaigns|Political Campaigns]]
 - [[wiki/entities/dale-carnegie|Dale Carnegie]]
+- [[wiki/entities/jordan-belfort|Jordan Belfort]]
+- [[wiki/concepts/business/sales-conversation-control|Sales Conversation Control]]
 - [[wiki/syntheses/communication/daniel-pink-persuasion-framework|Daniel Pink Persuasion Framework]]
+- [[wiki/syntheses/business/jordan-belfort-straight-line-sales-framework|Jordan Belfort Straight Line Sales Framework]]
 - [[wiki/syntheses/cross-source/communication-and-influence-models|Communication and Influence Models]]
