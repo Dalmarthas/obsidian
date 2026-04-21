@@ -2,7 +2,7 @@
 type: synthesis
 title: Jefferson Fisher Conflict Response Framework
 created: 2026-04-10
-updated: 2026-04-17
+updated: 2026-04-21
 status: active
 tags:
   - synthesis
@@ -11,6 +11,7 @@ tags:
   - boundaries
 question: What reusable conflict-response model does the current Jefferson Fisher source add to the vault?
 basis:
+  - wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this.md
   - wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication.md
   - wiki/sources/2026-04-17-how-to-respond-when-someone-belittles-you-confidence-tips.md
   - wiki/sources/2026-04-17-how-to-handle-defensiveness-in-communication.md
@@ -180,6 +181,15 @@ The source base now adds a forty-six-part model:
 46. Validate felt experience without conceding the full story.
    `I can understand why you'd feel that way` can preserve emotional dignity while leaving facts, blame, and next steps open for clearer discussion.
 
+47. Replace absolutes with precise frequency and moment language.
+   `Always` and `never` often send the other person into exception-finding and identity defense. `Lately`, `often`, `in this situation`, or `when X happens` keeps the issue specific enough to discuss.
+
+48. Stop explaining once the point is clear.
+   Overexplaining can signal insecurity and reopen a boundary or concern that would have landed better in one or two calm sentences.
+
+49. Script the first sentence of difficult conversations.
+   The opening seconds set the emotional frame. A calm shared-purpose opener can buy more attention than starting with blame, sarcasm, or scattered backstory.
+
 # Basis
 
 - Main source: [[wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication|Jefferson Fisher Fake Apologies and Manipulative Communication]]
@@ -194,6 +204,7 @@ The source base now adds a forty-six-part model:
 - Supporting source: [[wiki/sources/2026-04-17-3-courtroom-tricks-that-work-in-everyday-conversations|3 Courtroom Tricks That Work in Everyday Conversations]]
 - Supporting source: [[wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation|3 Communication Truths That Will Change Every Conversation]]
 - Supporting source: [[wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication|How to Sound Assertive Tips for Confident Communication]]
+- Supporting source: [[wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this|You're Losing Respect Every Time You Say This]]
 - Canonical concepts: [[wiki/concepts/communication/boundary-language|Boundary Language]], [[wiki/concepts/communication/intention-and-impact|Intention and Impact]], [[wiki/concepts/communication/effective-communication|Effective Communication]], [[wiki/concepts/communication/face-saving-de-escalation|Face-Saving De-Escalation]], [[wiki/concepts/communication/frame-control|Frame Control]]
 
 # Comparisons
@@ -210,6 +221,7 @@ The source base now adds a forty-six-part model:
 - Compared with the rest of Fisher's procedural branch, the new communication-truths source is more foundational than tactical: it explains the mindset beneath the techniques by reframing conflict goals, learning posture, and interpretation of the other person's surface behavior.
 - Compared with the rest of Fisher's conflict branch, the new assertiveness source is less about managing other people's bad behavior and more about removing the speaker's own language habits that pre-weaken boundaries and contribution.
 - Compared with the rest of Fisher's conflict branch, the new argument-responses source is less about correcting manipulation after it appears and more about preventing ordinary disagreement from hardening into defensiveness at all.
+- Compared with the rest of Fisher's conflict branch, the respect-language source is less about boundary replies and more about the upstream habits that make people defensive before the real conversation starts: global accusations, long justifications, and poor opening frames.
 
 # Gaps
 
@@ -228,6 +240,7 @@ The source base now adds a forty-six-part model:
 - The new communication-truths source adds an interpretation limit too: looking beneath surface behavior can improve compassion and reduce premature judgment, but the branch still needs clearer rules for when empathetic reinterpretation helps and when it becomes speculative excuse-making.
 - The new assertiveness source adds a relational limit as well: shorter apologies, less hedging, and cleaner refusals can be healthier, but the branch still needs clearer criteria for when brevity is steady versus when it reads as abrupt, especially across status and cultural differences.
 - The new argument-responses source adds a softer but real limit: macro-level agreement, learner-mode wording, and `helpful to know` acknowledgments can reduce heat, but if overused they can also sound placating, overly tactical, or evasive when the conversation needs an actual position or decision.
+- The respect-language source adds a precision limit: avoiding absolutes improves hearability, but some repeated harms still need clear pattern language and possibly documentation rather than endlessly softened phrasing.
 
 # Related Pages
 
@@ -250,3 +263,4 @@ The source base now adds a forty-six-part model:
 - [[wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation|3 Communication Truths That Will Change Every Conversation]]
 - [[wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication|How to Sound Assertive Tips for Confident Communication]]
 - [[wiki/sources/2026-04-17-best-argument-responses-top-3-ways-to-stay-calm-and-assertive|Best Argument Responses Top 3 Ways to Stay Calm and Assertive]]
+- [[wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this|You're Losing Respect Every Time You Say This]]

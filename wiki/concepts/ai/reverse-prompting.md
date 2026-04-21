@@ -12,10 +12,13 @@ tags:
 source_pages:
   - wiki/sources/2026-04-09-jeremy-utley-ai-creativity-and-productivity
   - wiki/sources/2026-04-21-the-5-step-playbook-for-10x-your-ai-productivity
+  - wiki/sources/2026-04-21-how-to-master-ai-powered-creativity-in-just-13-minutes-jeremy-utley
+  - wiki/sources/2026-04-21-jeremy-utley-ai-ignites-human-creativity
 related:
   - wiki/entities/jeremy-utley
   - wiki/concepts/ai/prompt-engineering
   - wiki/concepts/ai/context-engineering
+  - wiki/concepts/ai/ai-powered-creativity
   - wiki/concepts/ai/large-language-models
   - wiki/syntheses/ai/jeremy-utley-ai-collaboration-framework
   - wiki/syntheses/ai/prompt-design-workflow
@@ -36,18 +39,24 @@ It changes the interaction from blind completion to collaborative elicitation. T
 - It also positions reverse prompting as part of a broader coaching stance rather than as a one-off trick.
 - [[wiki/sources/2026-04-21-the-5-step-playbook-for-10x-your-ai-productivity]] sharpens the failure mode: without explicit permission to ask questions, the model may invent missing details or produce a plausible answer against unstated assumptions.
 - The newer source frames the first back-and-forth as scoping rather than delay; the cost of questions is meant to reduce later hallucination and rework.
+- [[wiki/sources/2026-04-21-how-to-master-ai-powered-creativity-in-just-13-minutes-jeremy-utley]] extends reverse prompting from task clarification into workflow discovery: the model can interview the user about responsibilities, KPIs, objectives, and dreaded tasks before proposing where AI belongs.
+- [[wiki/sources/2026-04-21-jeremy-utley-ai-ignites-human-creativity]] adds the simpler conversational habit: routinely ask AI to question, coach, teach, or interview the user so the interaction becomes co-discovery rather than answer retrieval.
 
 # Tensions / Open Questions
 
 - The branch still needs better sources on when clarifying questions help versus when they create too much friction.
 - Future sources may justify splitting clarification-first prompting from multi-step elicitation workflows or agent-style planning.
 - Reverse prompting is less useful when the task is intentionally exploratory and the user wants divergent possibilities before narrowing requirements.
+- The newest Utley source suggests another tension: if the interview becomes too broad, the user may collect interesting suggestions without choosing a concrete workflow to prototype.
+- Reverse prompting can also become a delay tactic if the user keeps expanding context instead of moving to generation, feedback, or decision.
 
 # Related Pages
 
 - [[wiki/entities/jeremy-utley|Jeremy Utley]]
 - [[wiki/concepts/ai/prompt-engineering|Prompt Engineering]]
 - [[wiki/concepts/ai/context-engineering|Context Engineering]]
+- [[wiki/concepts/ai/ai-powered-creativity|AI-Powered Creativity]]
 - [[wiki/concepts/ai/large-language-models|Large Language Models]]
 - [[wiki/syntheses/ai/jeremy-utley-ai-collaboration-framework|Jeremy Utley AI Collaboration Framework]]
 - [[wiki/syntheses/ai/prompt-design-workflow|Prompt Design Workflow]]
+- [[wiki/sources/2026-04-21-jeremy-utley-ai-ignites-human-creativity|Jeremy Utley - AI Ignites Human Creativity]]

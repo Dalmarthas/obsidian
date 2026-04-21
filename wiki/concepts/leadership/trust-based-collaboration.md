@@ -9,6 +9,7 @@ tags:
   - collaboration
   - trust
 source_pages:
+  - wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century.md
   - wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson.md
   - wiki/sources/2026-04-12-jordan-peterson-guide-to-leadership.md
   - wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont.md
@@ -123,6 +124,10 @@ Trust-based collaboration is the practice of designing work so that other people
   - trust grows when low-status contributors are treated as real members of the team
   - people contribute more when leaders invite ideas, make contributors own them, and then give them the stage and credit
   - suggestion boxes and blind-spot circles make trust practical by giving people channels to tell leaders what they do not already see
+- The Sinek 21st-century overview adds a courage-net version:
+  - people show courage more readily when they believe others will protect, support, or reciprocate
+  - trust is therefore built before crisis through ordinary consistency, not only by demanding bravery in crisis
+  - over-control weakens trust by stripping local agency and increasing stress
 
 # Source Comparisons
 
@@ -148,6 +153,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - The new Maxwell-Lencioni-Ramsey source focuses on trust inside leadership sequence: goodwill, help, and trust are not interchangeable, and leaders may need to earn them in that order.
 - The new `Trusting Teams` source focuses on trust inside daily leadership environment: before trust can become a selection criterion or a noble value, the actual workplace has to make vulnerability survivable.
 - The Ted Lasso source focuses on trust inside small recognition and ownership moments: a leader builds collaboration by noticing ignored people, sharing credit, and creating low-friction ways for truthful feedback to reach power.
+- The Sinek 21st-century overview focuses on trust as the social infrastructure for courage: the net must exist before people are asked to make principled moves under pressure.
 
 # Tensions / Open Questions
 
@@ -166,6 +172,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - The new source adds a hiring and healing ambiguity too: it may be wise to notice when someone cannot trust anyone, but the vault still needs better rules for distinguishing prudent role fit from overconfident amateur diagnosis.
 - The new `Trusting Teams` source adds an accountability ambiguity: psychological safety is necessary for truth-telling, but the branch still needs clearer operating rules for costly mistakes, chronic underperformance, and regulated environments where judgment must coexist with procedure.
 - The Ted Lasso source adds a credit-allocation ambiguity: giving others the stage builds ownership, but leaders still need to keep accountability legible so distributed credit does not become fuzzy responsibility.
+- The Sinek overview adds a loyalty-pressure ambiguity: a strong trust net can support courage, but it can also create group pressure if people are expected to take risks for the collective without real consent or protection.
 
 # Related Pages
 
@@ -186,5 +193,6 @@ Trust-based collaboration is the practice of designing work so that other people
 - [[wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek|Were Living Through A Crisis Of Meaning Simon Sinek]]
 - [[wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]]
 - [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
+- [[wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century|The Infinite Game - How to Lead in the 21st Century]]
 - [[wiki/syntheses/leadership/ted-lasso-leadership-framework|Ted Lasso Leadership Framework]]
 - [[wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work|Ted Lasso Leadership Lessons That Work]]

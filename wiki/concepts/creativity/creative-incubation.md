@@ -2,7 +2,7 @@
 type: concept
 title: Creative Incubation
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -16,7 +16,9 @@ source_pages:
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-simon-rich-comedy-premise-generation.md
   - wiki/sources/2026-04-09-glenn-gers-six-essential-story-questions.md
+  - wiki/sources/2026-04-21-the-habit-that-built-every-genius
 related:
+  - wiki/concepts/creativity/creative-white-space
   - wiki/concepts/creativity/idea-development.md
   - wiki/concepts/filmmaking/protect-the-process.md
   - wiki/concepts/filmmaking/writing-process-and-revision.md
@@ -36,6 +38,7 @@ Creative incubation is the phase where a problem, scene, premise, or project kee
 - It helps distinguish `push harder` problems from `change the mode` problems.
 - It gives the vault a reusable concept for the space between idea capture and decisive re-entry.
 - It sharpens a real creative tension: incubation can be necessary, but it still has to end in a return to the work.
+- It now has a clearer calendar-design layer: some incubation requires protected white space rather than merely hoping insight appears between obligations.
 
 # Evidence In This Vault
 
@@ -45,6 +48,8 @@ Creative incubation is the phase where a problem, scene, premise, or project kee
 - Rushdie treats false starts, recurring fragments, and waiting for the right entry point as normal parts of long-form creation rather than as evidence of failure.
 - Simon Rich adds a more active anti-block version: generate many playful premises so scarcity and pressure do not freeze the pipeline.
 - Gers adds a lighter re-entry model: rough placeholders and repeated story questions can keep the process moving when full drafting pressure would lock it up.
+- [[wiki/sources/2026-04-21-the-habit-that-built-every-genius]] adds Utley's white-space version of incubation: leave important problems open, protect unstructured time, and let background processing work through walking, sleeping, wandering, and delayed closure.
+- The source connects this to ambiguity tolerance and the Zeigarnik effect, while still implying that unresolved problems need prior engagement and later return.
 
 # Source Comparisons
 
@@ -54,6 +59,7 @@ Creative incubation is the phase where a problem, scene, premise, or project kee
 - Rushdie is strongest on patience with incomplete emergence: sometimes the right book or scene appears only after false starts and delayed recognition.
 - Simon Rich is strongest on preventing blockage upstream through abundance, play, and premise volume rather than waiting for one perfect idea.
 - Gers is strongest on gentle re-entry: the writer can return through questions and rough notes instead of demanding a polished scene immediately.
+- Utley is strongest on white space as schedule architecture: creative people need room in the calendar to sit with open problems instead of converging too early.
 
 # Tensions / Open Questions
 
@@ -61,10 +67,12 @@ Creative incubation is the phase where a problem, scene, premise, or project kee
 - Too much project rotation can protect energy, but it can also fragment commitment.
 - Some deadlines require partial brute force, so incubation cannot become a total rejection of discipline.
 - The vault still needs more primary-source evidence on how professionals decide when incubation has stopped helping.
+- Utley's white-space frame adds a workplace tension: what looks like unused time to a manager may be the condition under which non-obvious solutions form.
 
 # Related Pages
 
 - [[wiki/concepts/creativity/idea-development|Idea Development]]
+- [[wiki/concepts/creativity/creative-white-space|Creative White Space]]
 - [[wiki/concepts/filmmaking/protect-the-process|Protect the Process]]
 - [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/concepts/filmmaking/premise-generation|Premise Generation]]

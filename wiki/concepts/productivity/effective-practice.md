@@ -2,7 +2,7 @@
 type: concept
 title: Effective Practice
 created: 2026-04-11
-updated: 2026-04-13
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -19,7 +19,10 @@ source_pages:
   - wiki/sources/2026-04-11-quiet-eye-visual-attention-and-skill-performance.md
   - wiki/sources/2026-04-13-the-only-skill-that-matters-by-jonathan-levi.md
   - wiki/sources/2026-04-13-speed-reading-by-kam-knight.md
+  - wiki/sources/2026-04-21-how-to-be-a-creative-thinker-carnegie-mellon-university-po-shen-loh
+  - wiki/sources/2026-04-21-the-only-trait-for-success-in-the-ai-era-how-to-build-it-po-shen-loh
 related:
+  - wiki/concepts/ai/ai-era-thoughtfulness
   - wiki/concepts/productivity/deliberate-practice.md
   - wiki/concepts/productivity/learning-pyramid.md
   - wiki/concepts/productivity/rapid-skill-acquisition.md
@@ -31,6 +34,7 @@ related:
   - wiki/concepts/creativity/negative-capability.md
   - wiki/concepts/leadership/growth-mindset.md
   - wiki/concepts/others/quiet-eye.md
+  - wiki/concepts/creativity/creative-problem-solving
   - wiki/syntheses/productivity/josh-kaufman-rapid-skill-acquisition-framework.md
   - wiki/syntheses/productivity/barbara-oakley-learning-framework.md
   - wiki/syntheses/productivity/retrieval-practice-under-pressure-framework.md
@@ -67,6 +71,14 @@ Effective practice is structured repetition designed to improve performance rath
   - intake quality improves when the reader starts with a clear purpose rather than passive exposure
   - brief previewing can prime attention before the main effort begins
   - higher speed is only `effective` if comprehension checks still hold after the pace increase
+- [[wiki/sources/2026-04-21-how-to-be-a-creative-thinker-carnegie-mellon-university-po-shen-loh]] adds a novelty-preservation caveat:
+  - repetition should build enough fluency to reason, but not replace unfamiliar problem-solving with a catalog of rehearsed tricks
+  - creative practice needs problems the learner has not already pattern-matched
+  - AI-era practice should include evaluating and correcting generated answers, not only producing answers from scratch
+- [[wiki/sources/2026-04-21-the-only-trait-for-success-in-the-ai-era-how-to-build-it-po-shen-loh]] adds a mental-fitness caveat:
+  - writing, reading, and reasoning tasks are often practice reps, not just outputs to obtain
+  - using AI to skip those reps during learning can weaken the very judgment later needed to supervise AI
+  - healthier AI use in learning starts with the user's own attempt, then uses AI for critique, missing perspectives, or source discovery
 
 # Source Comparisons
 
@@ -81,17 +93,22 @@ Effective practice is structured repetition designed to improve performance rath
 - Compared with [[wiki/concepts/productivity/speed-reading|Speed Reading]], effective practice is broader. Speed reading names one task-level protocol for improving reading efficiency; effective practice names the wider quality logic that also explains why purpose, preview, and comprehension checks matter inside that protocol.
 - Compared with [[wiki/concepts/creativity/negative-capability|Negative Capability]], effective practice is tighter and more executional. Negative capability becomes more relevant when the task is no longer just skill encoding but interpretation, originality, or breakthrough thinking.
 - Compared with [[wiki/concepts/others/quiet-eye|Quiet Eye]], effective practice is broader and more session-level. Quiet eye names one specific attentional behavior that may make execution more reliable inside the session.
+- Compared with [[wiki/concepts/creativity/creative-problem-solving|Creative Problem Solving]], effective practice is broader as a learning-quality standard, while creative problem solving emphasizes novelty, reframing, and method-finding under uncertainty.
+- Compared with [[wiki/concepts/ai/ai-era-thoughtfulness|AI-Era Thoughtfulness]], effective practice names the training logic, while thoughtfulness names one AI-era capacity that training should protect.
 
 # Tensions / Open Questions
 
 - The current branch still needs stronger evidence on how much physical-skill research transfers to symbolic or creative work.
 - `Practice quality` can become a vague cliche unless the vault keeps naming concrete levers such as attention, error correction, pacing, and break structure.
 - The branch now distinguishes more clearly between effective practice and deliberate practice, but it still needs stronger evidence on when the shift from general improvement to elite refinement actually happens.
+- Loh adds a dosage problem: too little repetition leaves learners without primitives, but too much pattern drilling can crowd out the flexible transfer that practice is supposed to produce.
+- The newer Loh source adds a tool-use problem: the same AI action can be helpful in production and harmful in practice, depending on whether the goal is output or cognitive training.
 
 # Related Pages
 
 - [[wiki/sources/2026-04-11-effective-practice-and-skill-learning|Effective Practice and Skill Learning]]
 - [[wiki/sources/2026-04-12-why-you-need-to-put-in-10000-hours|Why You Need To Put In 10,000 Hours]]
+- [[wiki/concepts/ai/ai-era-thoughtfulness|AI-Era Thoughtfulness]]
 - [[wiki/concepts/productivity/deliberate-practice|Deliberate Practice]]
 - [[wiki/concepts/productivity/learning-pyramid|Learning Pyramid]]
 - [[wiki/concepts/productivity/rapid-skill-acquisition|Rapid Skill Acquisition]]
@@ -103,6 +120,7 @@ Effective practice is structured repetition designed to improve performance rath
 - [[wiki/concepts/creativity/negative-capability|Negative Capability]]
 - [[wiki/concepts/leadership/growth-mindset|Growth Mindset]]
 - [[wiki/concepts/others/quiet-eye|Quiet Eye]]
+- [[wiki/concepts/creativity/creative-problem-solving|Creative Problem Solving]]
 - [[wiki/syntheses/productivity/josh-kaufman-rapid-skill-acquisition-framework|Josh Kaufman Rapid Skill Acquisition Framework]]
 - [[wiki/syntheses/productivity/barbara-oakley-learning-framework|Barbara Oakley Learning Framework]]
 - [[wiki/syntheses/productivity/retrieval-practice-under-pressure-framework|Retrieval Practice Under Pressure Framework]]

@@ -2,7 +2,7 @@
 type: concept
 title: Success Metrics
 created: 2026-04-10
-updated: 2026-04-16
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -11,6 +11,10 @@ tags:
   - leadership
   - metrics
 source_pages:
+  - wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek.md
+  - wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success.md
+  - wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong.md
+  - wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek.md
   - wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics.md
   - wiki/sources/2026-04-10-eric-ries-core-concepts-of-the-lean-startup-methodology.md
   - wiki/sources/2026-04-10-clayton-christensen-sustainable-growth-and-jobs-to-be-done.md
@@ -22,6 +26,7 @@ source_pages:
   - wiki/sources/2026-04-13-measure-what-matters-by-john-doerr.md
   - wiki/sources/2026-04-16-why-this-baseball-team-has-a-4-2-million-person-waitlist-with-jesse-cole.md
 related:
+  - wiki/concepts/leadership/courage-to-lead.md
   - wiki/concepts/business/business-strategy.md
   - wiki/concepts/business/smallest-viable-audience.md
   - wiki/concepts/leadership/infinite-game-mindset.md
@@ -82,6 +87,22 @@ Success metrics are the measures a person, team, or organization uses to decide 
   - fame, bestseller status, billionaire rankings, follower counts, and generic applause can become scoreboards with no satisfying endpoint
   - better creator metrics include showing up, making new mistakes, improving taste, helping a chosen audience, and receiving useful feedback from people whose judgment matters
   - the metric should be judged partly by whether it pushes the maker toward generous art or toward hack behavior
+- The Sinek `Courage to Lead` source adds an ethics-over-scoreboard layer:
+  - legal compliance and profit can be insufficient measures of leadership quality
+  - layoffs or rank-and-yank systems may hit projections while destroying trust and psychological safety
+  - a better scoreboard must make visible whether values, human protection, and long-term cause alignment survive financial pressure
+- The Sinek Inc. source adds an arbitrary-horizon warning:
+  - yearly and quarterly targets often follow reporting convenience rather than the true structure of the game
+  - "number one" rankings can hide the chosen metric and timeframe that produced the claim
+  - wins should be communicated as cause-advancing milestones rather than as proof that the organization has permanently won
+- The Sinek life-success source adds a momentum-over-endpoint layer:
+  - success is not only the completion of a visible goal
+  - a stronger measure is whether the work, idea, or movement has enough usefulness and transferability to continue beyond the originator
+  - TED-scale visibility is treated as a lagging result of repeated message practice, not the core success metric
+- The Sinek full-speech source adds a dials-over-absolutes layer:
+  - goals and metrics are useful, but they should be adjusted when hitting them would compromise quality, training, culture, or customer experience
+  - trend direction matters more than a single data snapshot
+  - trust, psychological safety, and engagement belong on leadership scorecards beside financial output
 
 # Source Comparisons
 
@@ -96,6 +117,10 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - The Doerr source is strongest on metric architecture under ambition: it shows how the scoreboard can hold a stretch objective together without collapsing into either vague inspiration or raw KPI chasing.
 - Jesse Cole is strongest on lived customer-truth metrics: he reframes the scoreboard around belonging, fairness, repeat story-worthiness, and the experience of the worst seat rather than around extraction-maximizing event economics.
 - The new Godin Impact Theory source is strongest on creator-scoreboard hygiene: it asks whether the metric keeps the practice alive and useful or turns the maker bitter, status-hungry, and formulaic.
+- The Sinek Courage source is strongest on courage-sensitive metrics: it asks whether leaders are allowed to make costly values-aligned choices or whether the scoreboard silently forces finite behavior.
+- The Sinek Inc. source is strongest on scoreboard ontology: it asks whether the game has a real finish line before letting a metric pretend to define winning.
+- The Sinek life-success source is strongest on personal legacy metrics: it asks whether impact keeps moving through other people rather than ending at recognition, fame, or a single achieved platform.
+- The Sinek full-speech source is strongest on metric adjustability: it asks whether a goal still serves the cause and the system, or whether it has become a rigid target that damages the conditions of future performance.
 
 # Tensions / Open Questions
 
@@ -110,9 +135,14 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - The Doerr source adds a neighboring tension: stretch metrics can energize growth, but if leaders use them performatively, chronic yellow and red status can become anxiety theater instead of honest adaptation.
 - The Jesse Cole layer adds a scarcity tension: waitlists and passionate fandom can signal success, but they can also hide accessibility problems or operational fragility if the organization treats demand theater as proof that the model is universally healthy.
 - The new Godin layer adds a rejection tension: ignoring mass reaction can protect practice, but it can also let a creator dismiss legitimate market evidence as mere noise.
+- The Courage to Lead layer adds a governance tension: metrics can include trust and ethics, but unless boards and incentive systems actually reward them, the richer scoreboard remains decorative.
+- The Inc. layer adds a precision tension: calling quarterly or annual targets arbitrary does not remove the need for operating cadence, so the hard design problem is making finite review cycles serve an infinite purpose.
+- The life-success layer adds an attribution tension: when an idea spreads organically, it can be hard to distinguish durable usefulness from lucky timing, platform effects, or network advantages.
+- The full-speech layer adds a managerial-abuse tension: adjustable goals protect quality when used honestly, but can become excuses unless teams define what evidence justifies changing the dial.
 
 # Related Pages
 
+- [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]]
 - [[wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics|Simon Sinek Incomplete Success Metrics]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
 - [[wiki/concepts/business/smallest-viable-audience|Smallest Viable Audience]]
@@ -129,3 +159,7 @@ Success metrics are the measures a person, team, or organization uses to decide 
 - [[wiki/syntheses/business/seth-godin-strategy-framework|Seth Godin Strategy Framework]]
 - [[wiki/syntheses/business/seth-godin-practice-framework|Seth Godin Practice Framework]]
 - [[wiki/sources/2026-04-21-why-youve-been-lied-to-about-where-to-put-your-time-energy-and-focus|Why You've Been Lied to About Where to Put Your Time, Energy, and Focus]]
+- [[wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
+- [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
+- [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]

@@ -2,7 +2,7 @@
 type: concept
 title: Thinking on Your Feet
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -27,7 +27,9 @@ source_pages:
   - wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling.md
   - wiki/sources/2026-04-16-doing-this-almost-guarantees-you-get-hired-in-a-job-interview.md
   - wiki/sources/2026-04-16-give-me-14-minutes-and-ill-help-you-think-and-speak-faster.md
+  - wiki/sources/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams
 related:
+  - wiki/entities/matt-abrahams
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/calibrated-questions.md
   - wiki/concepts/communication/charismatic-presence.md
@@ -125,6 +127,12 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
   - faster live response is partly constrained by articulation and breath mechanics, not just by mental structure
   - the source adds measurable drills for WPM, single-breath counting, and troubleshooting whether the bottleneck is mouth movement, airflow, or knowledge depth
   - it also reinforces that deeper understanding, not only memorized phrasing, is what makes real-time explanation faster and more flexible
+- [[wiki/sources/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams]] extends the branch beyond presentations into everyday impromptu situations:
+  - rule-of-lung breathing uses longer exhales than inhales to downshift arousal before answering
+  - `maximize mediocrity` is sharpened as a bandwidth-preservation move, not a substantive quality ceiling
+  - the speaker can audit default conversational heuristics and deliberately replace weak small-talk, apology, empathy, or Q&A reflexes
+  - `brick not cathedral` becomes a contribution rule: add the next useful piece instead of trying to create a perfect answer
+  - mistakes become `miss-takes`, which can be revised without turning the moment into shame
 
 # Source Comparisons
 
@@ -142,6 +150,7 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 - Compared with the longer Abrahams-style structures already in the branch, the new `3-2-1` source is much thinner but also faster to retrieve. Its main value is not explanatory depth, but giving the speaker a minimal finite container when there is no time to build anything more elaborate.
 - Compared with the new interview source, most of this concept is about real-time response construction once the question arrives, while that source is strongest on the opposite move: deciding which answers are so predictable that they should already be designed before the room begins.
 - Compared with the new faster-speaking source, most of this concept remains more cognitive and situational, while that source is strongest on the physical and measurable side of fluency: articulation, airflow, WPM progression, and speech-speed bottleneck diagnosis.
+- Compared with the newest Abrahams source, the older branch is stronger on public-speaking formats and formal structures, while the new source is stronger on ordinary spontaneous communication: small talk, feedback, apologies, empathy, and low-stakes practice.
 
 # Tensions / Open Questions
 
@@ -163,10 +172,12 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 - The new `3-2-1` source makes the same compression problem sharper: an ultra-light scaffold can stop rambling, but it can also make the answer sound mechanical or simplistic if the underlying thought has not actually been sorted.
 - The new interview source adds a different tension: preparation clearly helps, but the branch still needs a cleaner line between well-prepared narrative and over-rehearsed delivery that stops sounding present.
 - The new faster-speaking source adds another boundary question: when does increased speed support thinking on your feet, and when does it merely create the impression of fluency while reducing listener comprehension?
+- The newest Abrahams source adds a heuristic risk: replacing automatic lines with better ones can still sound templated unless the speaker practices them enough to make them responsive rather than performative.
 
 # Related Pages
 
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/entities/matt-abrahams|Matt Abrahams]]
 - [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]]
 - [[wiki/concepts/communication/charismatic-presence|Charismatic Presence]]
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
@@ -185,3 +196,4 @@ Thinking on your feet is the ability to respond clearly in real time when speaki
 - [[wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling|The 3-2-1 Speaking Trick That Forces You To Stop Rambling]]
 - [[wiki/sources/2026-04-16-doing-this-almost-guarantees-you-get-hired-in-a-job-interview|Doing This (Almost) GUARANTEES You Get Hired In A Job Interview]]
 - [[wiki/sources/2026-04-16-give-me-14-minutes-and-ill-help-you-think-and-speak-faster|Give me 14 minutes and I'll help you think & speak faster]]
+- [[wiki/sources/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams|Beyond Public Speaking - Elevate Your Impromptu Speaking Skills with Matt Abrahams]]

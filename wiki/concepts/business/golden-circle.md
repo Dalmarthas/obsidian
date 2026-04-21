@@ -2,7 +2,7 @@
 type: concept
 title: Golden Circle
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -11,13 +11,16 @@ tags:
   - communication
   - purpose
 source_pages:
+  - wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success.md
   - wiki/sources/2026-04-12-authenticity-starts-with-knowing-your-why.md
   - wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why.md
   - wiki/sources/2026-04-12-how-great-leaders-inspire-action.md
   - wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025.md
   - wiki/sources/2026-04-10-simon-sinek-golden-circle-framework.md
   - wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games.md
+  - wiki/sources/2026-04-21-just-cause-the-5-practices-simon-sinek
 related:
+  - wiki/concepts/leadership/just-cause
   - wiki/concepts/business/brand-strategy.md
   - wiki/concepts/business/values-driven-companies.md
   - wiki/concepts/business/framework-driven-action.md
@@ -66,6 +69,15 @@ The Golden Circle is Simon Sinek's inside-out framework for explaining leadershi
   - the hardest part of `why` is often articulation, not absence
   - trusted friends can help reveal recurring impact patterns more clearly than solitary self-description
   - the model therefore applies not only to messaging outward, but to discovering the contribution one is trying to communicate in the first place
+- [[wiki/sources/2026-04-21-just-cause-the-5-practices-simon-sinek]] adds a cause-substance layer:
+  - a strong `why` should point toward an ideal future state rather than only a product promise
+  - the product is a vehicle for the cause, not the cause itself
+  - Apple is framed as powerful because the personal computer advanced a deeper individual-empowerment cause
+- [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success]] adds an origin-and-testing layer:
+  - the Golden Circle began as an observed pattern in admired organizations, not as a fully formed public philosophy
+  - it first worked as a practical communication structure for client presentations
+  - Sinek later tested it across companies, sectors, government, and military contexts while acknowledging that it might fail somewhere
+  - his own `why` made the framework personally energizing rather than merely useful
 
 # Source Comparisons
 
@@ -77,6 +89,8 @@ The Golden Circle is Simon Sinek's inside-out framework for explaining leadershi
 - Compared with enterprise sales orthodoxy, the concept is deliberately corrective: credibility information may still matter, but it should support relationship rather than substitute for it.
 - Compared with [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]], the Golden Circle is more external and rhetorical. Values-driven companies asks whether the organization really lives its beliefs; the Golden Circle asks whether those beliefs are explicit enough to organize loyalty.
 - Compared with [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]], this page is more communicative and audience-facing. Infinite-game mindset is about strategic time horizon; the Golden Circle is about making purpose emotionally legible.
+- Compared with [[wiki/concepts/leadership/just-cause|Just Cause]], this page is the communication sequence. Just Cause is the content test for whether the `why` is substantial enough to guide sacrifice and long-term commitment.
+- Compared with the life-success source, the older Golden Circle materials are more public-facing, while the new source is stronger on origin, personal alignment, and idea validation through repeated use.
 
 # Tensions / Open Questions
 
@@ -87,13 +101,18 @@ The Golden Circle is Simon Sinek's inside-out framework for explaining leadershi
 - The newer TED summary reinforces a second caution: vivid examples like Apple, MLK, and the Wright brothers make the model memorable, but they do not by themselves prove a universal causal rule.
 - The newer `Engage and Inspire` summary adds a business-practice tension: refusing misaligned clients may improve long-term fit and referrals, but it can also be misapplied by founders who still lack product proof, cash buffer, or judgment about what counts as real fit.
 - The newer `Authenticity Starts With Knowing Your WHY` summary adds an identity tension: a stable-core model can clarify authenticity, but it can also overstate how fixed adult purpose really is.
+- The life-success source strengthens that concern by saying people have one underlying `why` formed early in life. This is useful as a discovery prompt but should not be treated as settled psychology without stronger support.
 - The main open question is how to audit whether a stated `why` survives contact with product design, hiring, incentives, and crisis behavior.
+- The Just Cause source sharpens the audit question: would the `why` still matter if current products disappeared, and would aligned people reasonably sacrifice for it without being exploited?
+- Another open question is how to turn Sinek's living-room `why` conversations into a repeatable method without making personal purpose feel formulaic.
 
 # Related Pages
 
 - [[wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025|Simon Sinek at Equinix Connect 2025]]
 - [[wiki/sources/2026-04-10-simon-sinek-golden-circle-framework|Simon Sinek Golden Circle Framework]]
+- [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
 - [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/concepts/leadership/just-cause|Just Cause]]
 - [[wiki/concepts/business/brand-strategy|Brand Strategy]]
 - [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]

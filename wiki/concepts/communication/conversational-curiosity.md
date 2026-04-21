@@ -2,7 +2,7 @@
 type: concept
 title: Conversational Curiosity
 created: 2026-04-10
-updated: 2026-04-13
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -13,6 +13,7 @@ source_pages:
   - wiki/sources/2026-04-10-conversation-commandments-for-better-connection.md
   - wiki/sources/2026-04-13-how-to-win-friends-and-influence-people-by-dale-carnegie.md
   - wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation.md
+  - wiki/sources/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams
 related:
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/attunement.md
@@ -45,6 +46,8 @@ Conversational curiosity is the practice of entering a conversation with real in
   - curiosity is not only a social warm-up but also an antidote to the `something to prove` mindset that hardens disagreement
   - questions can `empty the pitcher` enough that the other person has room to hear something new
   - the source also adds a depth-aware version of curiosity: do not confuse the behavior you can see with the full person you are actually talking to
+- [[wiki/sources/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams]] adds a practical expectation-clarifying move: ask whether the other person wants listening or brainstorming before choosing the response mode.
+- The same source also adds heuristic auditing: replacing default openers such as `What do you do?` with more alive prompts can make small talk less automatic and more discovery-oriented.
 
 # Source Comparisons
 
@@ -53,6 +56,7 @@ Conversational curiosity is the practice of entering a conversation with real in
 - Compared with [[wiki/concepts/communication/effective-communication|Effective Communication]], conversational curiosity is narrower but more socially generative: it explains how conversations become engaging rather than merely clear.
 - Compared with the newer Carnegie source, the conversation-commandments source is more modern and varied, while Carnegie is more austere and principle-driven. Carnegie is strongest on the compounding social value of genuine interest and on treating curiosity as a durable relationship asset.
 - Compared with the new Fisher source, the earlier pages are stronger on socially connective conversation and rapport, while Fisher is stronger on curiosity under disagreement, identity threat, and the temptation to argue for proof rather than for understanding.
+- Compared with the new Abrahams source, this concept is broader and more relational, while Abrahams is more tactical about switching from automatic conversational habits into chosen questions that fit the moment.
 
 # Tensions / Open Questions
 
@@ -61,6 +65,7 @@ Conversational curiosity is the practice of entering a conversation with real in
 - The branch still needs stronger material on how curiosity should adapt across cultures, status differences, and emotionally tired contexts.
 - Carnegie strengthens the page, but it also sharpens a risk: `interest in others` can be faked convincingly enough to work in the short term, which makes sincerity a real but under-specified boundary.
 - The new Fisher source adds a neighboring risk: curiosity about hidden depth can improve patience, but it can also become projection if the speaker grows too confident about the story behind the behavior.
+- The Abrahams source adds another risk: upgraded prompts can still feel scripted if they are used as techniques rather than as real interest.
 
 # Related Pages
 
@@ -70,6 +75,7 @@ Conversational curiosity is the practice of entering a conversation with real in
 - [[wiki/concepts/communication/authentic-communication|Authentic Communication]]
 - [[wiki/entities/dale-carnegie|Dale Carnegie]]
 - [[wiki/syntheses/communication/conversation-connection-framework|Conversation Connection Framework]]
+- [[wiki/sources/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams|Beyond Public Speaking - Elevate Your Impromptu Speaking Skills with Matt Abrahams]]
 - [[wiki/sources/2026-04-10-conversation-commandments-for-better-connection|Conversation Commandments for Better Connection]]
 - [[wiki/sources/2026-04-13-how-to-win-friends-and-influence-people-by-dale-carnegie|How to Win Friends and Influence People by Dale Carnegie]]
 - [[wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation|3 Communication Truths That Will Change Every Conversation]]

@@ -13,7 +13,9 @@ source_pages:
   - wiki/sources/2026-04-09-riceco-prompt-framework
   - wiki/sources/2026-04-09-jeremy-utley-ai-creativity-and-productivity
   - wiki/sources/2026-04-21-the-5-step-playbook-for-10x-your-ai-productivity
+  - wiki/sources/2026-04-21-how-to-master-ai-powered-creativity-in-just-13-minutes-jeremy-utley
 related:
+  - wiki/concepts/ai/ai-powered-creativity
   - wiki/concepts/ai/riceco-prompt-framework
   - wiki/concepts/ai/few-shot-prompting
   - wiki/concepts/ai/context-engineering
@@ -43,6 +45,7 @@ It is the first practical control layer most users have over a general-purpose m
 - That source also adds reverse prompting, role assignment, and collaboration loops as practical methods for getting deeper outputs.
 - [[wiki/sources/2026-04-21-the-5-step-playbook-for-10x-your-ai-productivity]] adds the strongest warning in the branch that AI can become an agreeable yes-man unless prompted to critique, ask questions, and expose assumptions.
 - It also pushes prompt engineering toward workflow design through roleplay, transcript feedback, and reusable example libraries.
+- [[wiki/sources/2026-04-21-how-to-master-ai-powered-creativity-in-just-13-minutes-jeremy-utley]] adds two prompt moves: ask AI to interview the user about where AI can augment the work, and ask for volume/variation so the first coherent answer does not become the creative ceiling.
 
 # Source Comparisons
 
@@ -50,6 +53,7 @@ It is the first practical control layer most users have over a general-purpose m
 - Compared with the current AI foundations branch, this concept is less about what models are and more about how to make them more useful in practice.
 - Compared with [[wiki/concepts/ai/context-engineering]], prompt engineering is the broader umbrella, while context engineering is the stronger claim that good briefing often matters more than prompt cleverness.
 - Compared with [[wiki/concepts/ai/ai-critical-thinking-partner|AI Critical Thinking Partner]], prompt engineering includes many output-control techniques; critical-thinking partnership is the subset aimed at preserving judgment.
+- Compared with [[wiki/concepts/ai/ai-powered-creativity|AI-Powered Creativity]], prompt engineering is the control surface; AI-powered creativity is one use case where the prompt should intentionally create divergence, critique, and selection pressure.
 
 # Tensions / Open Questions
 
@@ -61,6 +65,7 @@ It is the first practical control layer most users have over a general-purpose m
 # Related Pages
 
 - [[wiki/concepts/ai/riceco-prompt-framework|RICECO Prompt Framework]]
+- [[wiki/concepts/ai/ai-powered-creativity|AI-Powered Creativity]]
 - [[wiki/concepts/ai/few-shot-prompting|Few-Shot Prompting]]
 - [[wiki/concepts/ai/context-engineering|Context Engineering]]
 - [[wiki/concepts/ai/reverse-prompting|Reverse Prompting]]

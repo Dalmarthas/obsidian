@@ -5498,3 +5498,294 @@ Summary:
 - Ingested a Jordan Belfort sales source centered on Straight Line selling, certainty transfer, first-four-second authority, conversation control, tonality, body language, state management, scripting, and objection reframing.
 - Added a dedicated source page, Belfort entity page, call-level sales synthesis, and Sales Conversation Control concept.
 - Updated the broader sales and persuasion branches so the source strengthens live-call mechanics while preserving the ethical caveat that `no` can mean poor fit or legitimate refusal, not only unresolved uncertainty.
+
+## [2026-04-21 15:59] ingest | How to be a creative thinker - Carnegie Mellon University Po-Shen Loh
+
+Pages touched:
+- [[raw/inbox/2026-04-21-how-to-be-a-creative-thinker-carnegie-mellon-university-po-shen-loh|How to be a creative thinker - Carnegie Mellon University Po-Shen Loh]]
+- [[wiki/sources/2026-04-21-how-to-be-a-creative-thinker-carnegie-mellon-university-po-shen-loh|How to be a creative thinker - Carnegie Mellon University Po-Shen Loh]]
+- [[wiki/entities/po-shen-loh|Po-Shen Loh]]
+- [[wiki/concepts/creativity/creative-problem-solving|Creative Problem Solving]]
+- [[wiki/syntheses/creativity/po-shen-loh-creative-thinking-framework|Po-Shen Loh Creative Thinking Framework]]
+- [[wiki/concepts/creativity/idea-development|Idea Development]]
+- [[wiki/concepts/ai/human-machine-collaboration|Human-Machine Collaboration]]
+- [[wiki/concepts/ai/ai-critical-thinking-partner|AI Critical Thinking Partner]]
+- [[wiki/concepts/productivity/effective-practice|Effective Practice]]
+- [[index|index]]
+
+Summary:
+- Ingested a Po-Shen Loh source on creative thinking in the AI era, centered on grading generated answers, preserving novelty through unfamiliar math problems, and treating real-world interaction as creative discovery.
+- Added a dedicated source page, Po-Shen Loh entity page, Creative Problem Solving concept, and Loh creative-thinking synthesis.
+- Updated the AI collaboration, critical-thinking, idea-development, and effective-practice branches so the source strengthens judgment-preserving AI use, anti-drill practice design, and social pain-point discovery rather than remaining isolated.
+
+## [2026-04-21 16:09] ingest | How to Master AI Powered Creativity in Just 13 Minutes - Jeremy Utley
+
+Pages touched:
+- [[raw/inbox/2026-04-21-how-to-master-ai-powered-creativity-in-just-13-minutes-jeremy-utley|How to Master AI Powered Creativity in Just 13 Minutes - Jeremy Utley]]
+- [[wiki/sources/2026-04-21-how-to-master-ai-powered-creativity-in-just-13-minutes-jeremy-utley|How to Master AI Powered Creativity in Just 13 Minutes - Jeremy Utley]]
+- [[wiki/entities/jeremy-utley|Jeremy Utley]]
+- [[wiki/concepts/ai/ai-powered-creativity|AI-Powered Creativity]]
+- [[wiki/syntheses/ai/jeremy-utley-ai-collaboration-framework|Jeremy Utley AI Collaboration Framework]]
+- [[wiki/syntheses/ai/prompt-design-workflow|Prompt Design Workflow]]
+- [[wiki/concepts/ai/reverse-prompting|Reverse Prompting]]
+- [[wiki/concepts/ai/context-engineering|Context Engineering]]
+- [[wiki/concepts/ai/human-machine-collaboration|Human-Machine Collaboration]]
+- [[wiki/concepts/ai/ai-critical-thinking-partner|AI Critical Thinking Partner]]
+- [[wiki/concepts/ai/prompt-engineering|Prompt Engineering]]
+- [[wiki/concepts/creativity/creative-problem-solving|Creative Problem Solving]]
+- [[index|index]]
+
+Summary:
+- Ingested a Jeremy Utley source on AI-powered creativity, centered on treating AI as a teammate, having AI interview the user about workflows and objectives, targeting dreaded tasks, and using volume/variation to move beyond first-pass adequacy.
+- Added a dedicated source page and a new AI-Powered Creativity concept page.
+- Updated the existing Utley, prompt-design, reverse-prompting, context-engineering, human-machine collaboration, critical-thinking, prompt-engineering, and creative problem-solving branches so the new source strengthens workflow discovery, inspiration discipline, teammate framing, and anti-satisficing creative practice.
+
+## [2026-04-21 16:15] ingest | The Only Trait for Success in the AI Era - How to Build It - Po-Shen Loh
+
+Pages touched:
+- [[raw/inbox/2026-04-21-the-only-trait-for-success-in-the-ai-era-how-to-build-it-po-shen-loh|The Only Trait for Success in the AI Era - How to Build It - Po-Shen Loh]]
+- [[wiki/sources/2026-04-21-the-only-trait-for-success-in-the-ai-era-how-to-build-it-po-shen-loh|The Only Trait for Success in the AI Era - How to Build It - Po-Shen Loh]]
+- [[wiki/entities/po-shen-loh|Po-Shen Loh]]
+- [[wiki/concepts/ai/ai-era-thoughtfulness|AI-Era Thoughtfulness]]
+- [[wiki/concepts/business/social-entrepreneurship|Social Entrepreneurship]]
+- [[wiki/syntheses/ai/po-shen-loh-ai-era-thoughtfulness-framework|Po-Shen Loh AI-Era Thoughtfulness Framework]]
+- [[wiki/syntheses/creativity/po-shen-loh-creative-thinking-framework|Po-Shen Loh Creative Thinking Framework]]
+- [[wiki/concepts/creativity/creative-problem-solving|Creative Problem Solving]]
+- [[wiki/concepts/ai/ai-critical-thinking-partner|AI Critical Thinking Partner]]
+- [[wiki/concepts/ai/human-machine-collaboration|Human-Machine Collaboration]]
+- [[wiki/concepts/productivity/effective-practice|Effective Practice]]
+- [[index|index]]
+
+Summary:
+- Ingested a Po-Shen Loh source on the AI-era trait of thoughtfulness: mental fitness, empathy, world simulation, bias-aware perspective gathering, value creation, social entrepreneurship, and generate-destroy-refine idea discipline.
+- Added a dedicated source page, AI-Era Thoughtfulness concept, Social Entrepreneurship concept, and a Po-Shen Loh AI-Era Thoughtfulness Framework synthesis.
+- Updated the existing Loh, creative problem-solving, AI critical-thinking, human-machine collaboration, and effective-practice branches so the source strengthens the distinction between AI as training partner and AI as cognitive crutch.
+
+## [2026-04-21 16:24] ingest | Jeremy Utley - AI Ignites Human Creativity
+
+Pages touched:
+- [[raw/inbox/2026-04-21-jeremy-utley-ai-ignites-human-creativity|Jeremy Utley - AI Ignites Human Creativity]]
+- [[wiki/sources/2026-04-21-jeremy-utley-ai-ignites-human-creativity|Jeremy Utley - AI Ignites Human Creativity]]
+- [[wiki/entities/jeremy-utley|Jeremy Utley]]
+- [[wiki/concepts/creativity/idea-flow|Idea Flow]]
+- [[wiki/concepts/ai/ai-powered-creativity|AI-Powered Creativity]]
+- [[wiki/concepts/ai/human-machine-collaboration|Human-Machine Collaboration]]
+- [[wiki/concepts/ai/reverse-prompting|Reverse Prompting]]
+- [[wiki/concepts/ai/ai-critical-thinking-partner|AI Critical Thinking Partner]]
+- [[wiki/concepts/creativity/creative-problem-solving|Creative Problem Solving]]
+- [[wiki/concepts/creativity/idea-development|Idea Development]]
+- [[wiki/syntheses/ai/jeremy-utley-ai-collaboration-framework|Jeremy Utley AI Collaboration Framework]]
+- [[wiki/syntheses/ai/prompt-design-workflow|Prompt Design Workflow]]
+- [[index|index]]
+
+Summary:
+- Ingested a Jeremy Utley source on AI as an ignition layer for human creativity, centered on idea flow, quantity-driven quality, bad-idea tolerance, voice-first thought capture, regeneration, feedback loops, and AI adoption as a people-skills transformation.
+- Added a dedicated source page and a new Idea Flow concept so the quantity-and-variation model is reusable beyond the Utley source page.
+- Updated the Utley, AI-powered creativity, human-machine collaboration, reverse-prompting, critical-thinking, creative-problem-solving, idea-development, and prompt-workflow branches so the source strengthens the distinction between AI as an answer oracle and AI as a conversational sampling partner.
+
+## [2026-04-21 16:31] ingest | The Habit That Built Every Genius
+
+Pages touched:
+- [[raw/inbox/2026-04-21-the-habit-that-built-every-genius|The Habit That Built Every Genius]]
+- [[wiki/sources/2026-04-21-the-habit-that-built-every-genius|The Habit That Built Every Genius]]
+- [[wiki/entities/jeremy-utley|Jeremy Utley]]
+- [[wiki/concepts/creativity/inspiration-discipline|Inspiration Discipline]]
+- [[wiki/concepts/creativity/creative-white-space|Creative White Space]]
+- [[wiki/concepts/creativity/idea-flow|Idea Flow]]
+- [[wiki/concepts/creativity/idea-development|Idea Development]]
+- [[wiki/concepts/creativity/creative-incubation|Creative Incubation]]
+- [[wiki/concepts/creativity/creative-problem-solving|Creative Problem Solving]]
+- [[wiki/concepts/ai/ai-powered-creativity|AI-Powered Creativity]]
+- [[wiki/concepts/productivity/focused-and-diffuse-learning-modes|Focused and Diffuse Learning Modes]]
+- [[wiki/syntheses/productivity/attention-and-focus-framework|Attention and Focus Framework]]
+- [[wiki/syntheses/creativity/jeremy-utley-genius-habits-framework|Jeremy Utley Genius Habits Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a Jeremy Utley creativity source centered on genius as trainable habits rather than IQ: disciplined inspiration, constant idea capture, bug lists, protected white space, ambiguity tolerance, and quantity-first idea generation.
+- Added dedicated Inspiration Discipline and Creative White Space concept pages plus a Jeremy Utley Genius Habits Framework synthesis so the four-habit model is reusable beyond the source page.
+- Updated the Utley, idea-flow, idea-development, creative-incubation, creative-problem-solving, AI-powered creativity, focused/diffuse learning, and attention/focus branches so the source strengthens input design, capture systems, delayed closure, and AI as a force multiplier rather than a replacement for creative habits.
+
+## [2026-04-21 16:40] ingest | Beyond Public Speaking - Elevate Your Impromptu Speaking Skills with Matt Abrahams
+
+Pages touched:
+- [[raw/inbox/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams|Beyond Public Speaking - Elevate Your Impromptu Speaking Skills with Matt Abrahams]]
+- [[wiki/sources/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams|Beyond Public Speaking - Elevate Your Impromptu Speaking Skills with Matt Abrahams]]
+- [[wiki/entities/matt-abrahams|Matt Abrahams]]
+- [[wiki/concepts/communication/thinking-on-your-feet|Thinking on Your Feet]]
+- [[wiki/syntheses/communication/thinking-on-your-feet-framework|Thinking on Your Feet Framework]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/concepts/communication/conversational-curiosity|Conversational Curiosity]]
+- [[index|index]]
+
+Summary:
+- Ingested a Matt Abrahams source on impromptu speaking as a trainable skill, centered on anxiety reframing, rule-of-lung breathing, service orientation, anti-perfectionism, heuristic audits, empathy, apology repair, `brick not cathedral`, and `miss-take` practice.
+- Added a dedicated source page and a Matt Abrahams entity page because the vault already had several Abrahams sources without a stable entity.
+- Updated the thinking-on-your-feet, effective-communication, and conversational-curiosity branches so the source strengthens everyday spontaneous communication beyond formal public speaking.
+
+## [2026-04-21 16:44] ingest | Just Cause - The 5 Practices (Simon Sinek)
+
+Pages touched:
+- [[raw/inbox/2026-04-21-just-cause-the-5-practices-simon-sinek|Just Cause - The 5 Practices (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-just-cause-the-5-practices-simon-sinek|Just Cause - The 5 Practices (Simon Sinek)]]
+- [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/concepts/leadership/just-cause|Just Cause]]
+- [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
+- [[wiki/concepts/business/golden-circle|Golden Circle]]
+- [[index|index]]
+
+Summary:
+- Ingested a Simon Sinek source defining Just Cause as an ideal future state, independent of products and finite wins, that is meaningful enough for aligned people to accept sacrifice.
+- Added a dedicated source page and a new Just Cause concept page so the infinite-game branch has a clear cause-substance layer rather than only general purpose language.
+- Updated the Sinek entity, Infinite-Game Mindset, Sinek Infinite Game Framework, and Golden Circle pages so the source clarifies the relationship between cause, product, sacrifice, finite victories, and belief-led communication.
+
+## [2026-04-21 16:50] ingest | Worthy Rival - The 5 Practices (Simon Sinek)
+
+Pages touched:
+- [[raw/inbox/2026-04-21-worthy-rival-the-5-practices-simon-sinek|Worthy Rival - The 5 Practices (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-worthy-rival-the-5-practices-simon-sinek|Worthy Rival - The 5 Practices (Simon Sinek)]]
+- [[wiki/concepts/leadership/worthy-rival|Worthy Rival]]
+- [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/leadership/just-cause|Just Cause]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a Simon Sinek source on worthy rivals as respected comparison points whose strengths expose one's weaknesses and turn competition into infinite-game calibration.
+- Added a dedicated source page and a new Worthy Rival concept page so the competition practice is not trapped inside the source summary.
+- Updated the Sinek entity, Infinite-Game Mindset, Just Cause, and Simon Sinek Infinite Game Framework pages so rivalry now functions as a calibration layer alongside cause, trust, self-competition, and long-horizon purpose.
+
+## [2026-04-21 16:55] ingest | Existential Flexibility - The 5 Practices (Simon Sinek)
+
+Pages touched:
+- [[raw/inbox/2026-04-21-existential-flexibility-the-5-practices-simon-sinek|Existential Flexibility - The 5 Practices (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-existential-flexibility-the-5-practices-simon-sinek|Existential Flexibility - The 5 Practices (Simon Sinek)]]
+- [[wiki/concepts/leadership/existential-flexibility|Existential Flexibility]]
+- [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/leadership/just-cause|Just Cause]]
+- [[wiki/concepts/business/self-disruption|Self-Disruption]]
+- [[wiki/concepts/business/business-strategy|Business Strategy]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a Simon Sinek source defining existential flexibility as the capacity to make profound strategic shifts when a new model better advances the Just Cause.
+- Added a dedicated source page and a new Existential Flexibility concept page so the radical-change practice is reusable beyond the source summary.
+- Updated the Sinek entity, Infinite-Game Mindset, Just Cause, Self-Disruption, Business Strategy, and Sinek Infinite Game Framework pages so the branch now connects cause, trust, cannibalization, short-term pain, and long-term relevance.
+
+## [2026-04-21 17:00] ingest | Courage to Lead - The 5 Practices (Simon Sinek)
+
+Pages touched:
+- [[raw/inbox/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]]
+- [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]]
+- [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/business/values-driven-companies|Values-Driven Companies]]
+- [[wiki/concepts/business/success-metrics|Success Metrics]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework|Simon Sinek Trust-Centered Leadership Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a Simon Sinek source defining courage as the pressure-bearing practice that keeps Just Cause, trusting teams, worthy rivals, and existential flexibility from collapsing under short-term incentives.
+- Added a dedicated source page and a new Courage to Lead concept page so the ethical-tradeoff layer is reusable beyond the source summary.
+- Updated the Sinek entity, Infinite-Game Mindset, Leadership, Values-Driven Companies, Success Metrics, and both Sinek framework syntheses so the branch now captures legal-minimum versus ethical leadership, shareholder-pressure critique, CVS-style values tradeoffs, layoffs/rank-and-yank trust damage, and legacy through human impact.
+
+## [2026-04-21 17:06] ingest | The Infinite Game - How to Lead in the 21st Century
+
+Pages touched:
+- [[raw/inbox/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century|The Infinite Game - How to Lead in the 21st Century]]
+- [[wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century|The Infinite Game - How to Lead in the 21st Century]]
+- [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/leadership/just-cause|Just Cause]]
+- [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]]
+- [[wiki/concepts/leadership/existential-flexibility|Existential Flexibility]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework|Simon Sinek Trust-Centered Leadership Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a Simon Sinek overview that integrates the finite-versus-infinite game distinction with Just Cause, Trusting Teams, Worthy Rival, Existential Flexibility, and Courage to Lead.
+- Added a dedicated source page rather than a new concept page because the source primarily consolidates and sharpens the existing five-practices branch.
+- Updated the Sinek entity, Infinite-Game Mindset, Just Cause, Courage to Lead, Existential Flexibility, Trust-Based Collaboration, and both Sinek framework syntheses with the Carse game distinction, Just Cause versus `why`, courage as a social net, consistency over intensity, small-scale existential flexibility, and legacy as human impact beyond tenure.
+
+## [2026-04-21 17:14] ingest | Simon Sinek Explains What Almost Every Leader Gets Wrong
+
+Pages touched:
+- [[raw/inbox/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
+- [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
+- [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/business/success-metrics|Success Metrics]]
+- [[wiki/concepts/business/self-disruption|Self-Disruption]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework|Simon Sinek Trust-Centered Leadership Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested an Inc. Simon Sinek video summary that reinforces the infinite-game branch while sharpening the critique of shareholder primacy, arbitrary annual and quarterly targets, legal-minimum ethics, mass layoffs, rank-and-yank systems, and incumbent revenue traps.
+- Added a dedicated source page and integrated the source into existing Sinek, infinite-game, trust-centered leadership, success-metrics, leadership, and self-disruption pages rather than creating duplicate concept pages.
+- Updated the index and moved the canonical raw source into the inbox archive.
+
+## [2026-04-21 17:14] ingest | Simon Sinek How to Make Your Life A Success
+
+Pages touched:
+- [[raw/inbox/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
+- [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
+- [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/concepts/business/golden-circle|Golden Circle]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/business/success-metrics|Success Metrics]]
+- [[wiki/syntheses/business/simon-sinek-golden-circle-framework|Simon Sinek Golden Circle Framework]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework|Simon Sinek Trust-Centered Leadership Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested an Inc. Simon Sinek video summary that uses Sinek's own career path to connect personal `why`, the Golden Circle's origin, scientific testing of ideas, organic spread before TEDx scale, and success as momentum beyond the individual.
+- Added a dedicated source page and integrated the reusable claims into existing Golden Circle, infinite-game, trust-centered leadership, success-metrics, leadership, and Simon Sinek pages rather than creating a duplicate life-success page.
+- Updated the index and moved the canonical raw source into the inbox archive.
+
+## [2026-04-21 17:16] ingest | Business is an INFINITE GAME Full Speech (Simon Sinek)
+
+Pages touched:
+- [[raw/inbox/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
+- [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/leadership/human-skills|Human Skills]]
+- [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/business/success-metrics|Success Metrics]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework|Simon Sinek Trust-Centered Leadership Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a full-speech Simon Sinek source that restates the five infinite-game practices while adding stronger implementation detail around trust-performance measurement, goals as adjustable dials, human-skills training, difficult-conversation scripts, command-and-control as trust-dependent crisis mode, and the Great Resignation as a correction against disposable treatment of workers.
+- Added a dedicated source page and a new Human Skills concept page, then integrated the reusable material into the Sinek entity, Infinite-Game Mindset, Trust-Performance Matrix, Leadership, Success Metrics, and both Sinek leadership syntheses.
+- Updated the index and moved the canonical raw source into the inbox archive.
+## [2026-04-21 17:25] ingest | You're Losing Respect Every Time You Say This
+
+Pages touched:
+- [[raw/inbox/2026-04-21-youre-losing-respect-every-time-you-say-this|You're Losing Respect Every Time You Say This]]
+- [[wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this|You're Losing Respect Every Time You Say This]]
+- [[wiki/entities/jefferson-fisher|Jefferson Fisher]]
+- [[wiki/concepts/communication/assertiveness|Assertiveness]]
+- [[wiki/concepts/communication/effective-communication|Effective Communication]]
+- [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
+- [[wiki/syntheses/communication/conflict-frame-control-framework|Conflict Frame Control Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a communication source on three respect-eroding habits: absolute language, overexplaining, and poorly framed first seconds of a conversation.
+- Added a dedicated source page and integrated the reusable material into the existing assertiveness, effective communication, Jefferson Fisher, and conflict-frame-control branches rather than creating a near-duplicate concept page.
+- Updated the index and moved the canonical raw source into the inbox archive.

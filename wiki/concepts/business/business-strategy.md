@@ -2,13 +2,14 @@
 type: concept
 title: Business Strategy
 created: 2026-04-08
-updated: 2026-04-13
+updated: 2026-04-21
 status: active
 tags:
   - concept
   - strategy
   - business
 source_pages:
+  - wiki/sources/2026-04-21-existential-flexibility-the-5-practices-simon-sinek.md
   - wiki/sources/2026-04-12-steve-jobs-d8-conference-2010.md
   - wiki/sources/2026-04-12-steve-jobs-mit-1992.md
   - wiki/sources/2026-04-12-focusing-is-about-saying-no-steve-jobs.md
@@ -27,6 +28,7 @@ source_pages:
   - wiki/sources/2026-04-13-rory-sutherland-soft-power-in-a-hard-world.md
   - wiki/sources/2026-04-13-make-the-competition-irrelevant-blue-ocean-strategy.md
 related:
+  - wiki/concepts/leadership/existential-flexibility.md
   - wiki/concepts/business/operational-productivity.md
   - wiki/concepts/business/strategic-focus.md
   - wiki/concepts/leadership/leadership.md
@@ -129,6 +131,11 @@ Business strategy is the deliberate selection of a few priorities that determine
   - integrated hardware-software-service design is presented as a strategic choice rather than as aesthetic preference
   - openness and control are framed as tradeoffs among trust, quality, incentives, and user protection rather than as simple moral opposites
   - pricing and volume also become strategic weapons when entering a new category, provided product quality is preserved
+- The Simon Sinek existential-flexibility source adds a radical-renewal layer:
+  - strategy sometimes requires a profound shift, not just priority refinement
+  - the shift should be justified by a clearer path to the Just Cause rather than by trend excitement
+  - current profit streams can become traps when they block a better future model
+  - trust and communication matter because major pivots impose real pain on teams
 
 # Source Comparisons
 
@@ -151,6 +158,7 @@ Business strategy is the deliberate selection of a few priorities that determine
 - Steve Jobs is strongest on strategy as painful refusal: the leader has to decide which interesting efforts die so the surviving product system can become more coherent than the portfolio it replaced.
 - The Steve Jobs MIT source is strongest on strategy as integrated system design: product platform, sales model, manufacturing, and leadership philosophy should reinforce the same chosen opportunity.
 - The Steve Jobs D8 source is strongest on late-stage platform positioning: it shows how Jobs connected technology-cycle timing, integrated design, aggressive volume pricing, and values-preserving tradeoffs in the mobile transition era.
+- Simon Sinek's existential-flexibility source is strongest on the cause-and-trust test for radical strategic change: it explains why self-cannibalization should be rare, painful, and tied to a larger mission rather than treated as generic innovation theater.
 - Together these sources imply that strategy has at least eight layers in this vault: where to play, what to stop, what to prioritize, what kind of value to deliver, which systems and games shape the field, which time horizon the work can survive, how to test uncertainty honestly, and how to make the economics honest enough to confirm the choice.
 - The Blue Ocean source pushes that model one step further: sometimes the strategic question is whether the current field should be escaped, reframed, or recomposed rather than merely navigated better.
 
@@ -168,6 +176,7 @@ Business strategy is the deliberate selection of a few priorities that determine
 - The Jobs source adds a cancellation tension: strategic clarity may improve when projects are killed, but the way leaders handle the social aftermath determines whether focus builds maturity or fear.
 - The Steve Jobs MIT source adds an integration tension: vertical or tightly coupled strategy can create leverage, but it can also overfit to one era's economics, channels, or technical assumptions.
 - The D8 source adds a governance tension: platform control may improve consistency and safety, but the branch still needs stronger evidence on when such control protects users versus when it mainly protects the platform owner.
+- The existential-flexibility source adds a pivot-governance tension: waiting too long can preserve a doomed revenue model, but moving too often can turn strategy into a perpetual reorg machine.
 - The strongest open question is where the boundary lies between hygiene and true strategic differentiation: which improvements merely make a company competent, and which ones actually change market choice?
 - Blue Ocean sharpens a neighboring question: when does a category-creation thesis reflect real demand redesign, and when is it just a flattering story pasted onto ordinary differentiation?
 - The game-theory source sharpens a related question: when is a strategic problem best solved by choosing better, and when is it only solvable by redesigning incentives, enforcement, or allocation rules?
@@ -178,6 +187,7 @@ Business strategy is the deliberate selection of a few priorities that determine
 # Related Pages
 
 - [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/leadership/existential-flexibility|Existential Flexibility]]
 - [[wiki/concepts/business/strategic-focus|Strategic Focus]]
 - [[wiki/concepts/business/operational-productivity|Operational Productivity]]
 - [[wiki/concepts/business/framework-driven-action|Framework-Driven Action]]

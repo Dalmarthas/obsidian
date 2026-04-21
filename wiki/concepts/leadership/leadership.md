@@ -9,6 +9,10 @@ tags:
   - leadership
   - decision-making
 source_pages:
+  - wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek.md
+  - wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success.md
+  - wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong.md
+  - wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek.md
   - wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson.md
   - wiki/sources/2026-04-12-jordan-peterson-guide-to-leadership.md
   - wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont.md
@@ -28,6 +32,7 @@ source_pages:
   - wiki/sources/2026-04-21-trusting-teams-the-5-practices.md
   - wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work.md
 related:
+  - wiki/concepts/leadership/courage-to-lead.md
   - wiki/concepts/leadership/leadership-vs-management.md
   - wiki/concepts/leadership/infinite-game-mindset.md
   - wiki/concepts/leadership/diverse-teams.md
@@ -93,6 +98,10 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - The Jordan Peterson leadership source adds a narrative-and-consent version: leadership begins with an ethical destination, becomes legible through story, and works best when the organizational game is arranged so people can voluntarily accept their role in it rather than merely comply.
 - The newer Peterson character source adds a characterological version: leadership quality depends less on warmth or rank than on whether the leader is conscientious, trustworthy, and reliable enough that other people can orient themselves around what is said.
 - The new Sinek `Trusting Teams` source adds a care-for-the-people version: leadership is not squeezing more output from people, but creating an environment where the people responsible for results can work at their natural best and tell the truth before small problems become large failures.
+- The new Sinek `Courage to Lead` source adds an ethics-under-pressure version: leadership is proven when leaders choose people, values, and long-term cause over short-term revenue, legal-minimum excuses, or approval from finite scoreboards.
+- The new Sinek Inc. source adds an anti-finite-management version: leadership fails when it treats reporting cycles, shareholder primacy, layoffs, or rank-and-yank as neutral management tools while ignoring their effects on trust, loyalty, and adaptability.
+- The new Sinek life-success source adds a humility-through-help version: leadership weakens when the boss performs certainty and strengthens when the leader can admit not knowing, ask for help, and let others' expertise become usable.
+- The new Sinek full-speech source adds a human-skills training version: leadership fails when organizations promote technical performers into responsibility for people without training listening, feedback, empathy, confrontation, and difficult conversations.
 - The new Ted Lasso source adds a case-based coaching version: leadership becomes visible in names remembered, credit shared, feedback sought, individual motives understood, and optimism kept credible by naming what is broken.
 
 # Source Comparisons
@@ -114,6 +123,7 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - Peterson is strongest on leadership as ethical destination plus shared story: before systems, incentives, or team chemistry, the leader has to know what game is worth playing and why anyone should freely join it.
 - The newer Peterson character source is strongest on leadership as durable reliability: before style, charisma, or even motivation tactics, people need to know whether the leader's words can be trusted across time.
 - The new Sinek `Trusting Teams` source is strongest on leadership as environment maintenance: daily check-ins, support, and safety signals matter more than occasional leadership events because culture is built through repeated experience.
+- The new Sinek `Courage to Lead` source is strongest on leadership as costly ethical consistency: CVS removing cigarettes is used as the proof pattern, while shareholder-first layoffs and rank-and-yank systems are treated as trust-damaging finite behavior.
 - The Ted Lasso source is strongest on leadership as humane performance translation: it turns abstract trust and culture principles into everyday behaviors such as noticing invisible contributors, aligning personal ambition with team play, and making quieter people own visible contribution.
 - Both reject leadership as theater. Each favors clarity, candor, and responsibility over performative certainty.
 
@@ -133,11 +143,16 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - The Peterson source adds a consent tension: organizations often speak as if participation is voluntary while relying on economic dependence, hierarchy, and mission language that may weaken the reality of free acceptance.
 - The newer Peterson character source adds a style tension: a reliable hard-edged leader may outperform an unreliable warm one, but the vault still needs better criteria for when harsh consistency becomes culturally damaging enough to negate its coordinating value.
 - The new Sinek source adds an evidence tension: the model is compelling and practical, but the source relies on narrative comparisons more than measured causality, so it should be treated as a leadership heuristic rather than a fully quantified law.
+- The Inc. source adds a corporate-governance tension: rejecting shareholder primacy is rhetorically clean, but leaders still need concrete governance, financing, and board designs that let them resist finite score pressure without becoming vague or irresponsible.
+- The life-success source adds a vulnerability tension: help-seeking can unlock trust, but leaders still need to hold responsibility clearly enough that humility does not become avoidance.
+- The full-speech source adds a crisis-mode tension: command-and-control may be necessary in emergencies, but it depends on prior trust and should not become the normal operating style by default.
+- The Courage to Lead source adds a governance tension: individual courage is not enough if boards, incentives, and capital-market expectations keep punishing ethical long-horizon choices.
 - The Ted Lasso source adds a transfer tension: fictional coaching examples are memorable, but the vault should treat them as behavior patterns to test rather than proof that warmth, visibility, and optimism solve deeper structural problems.
 
 # Related Pages
 
 - [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]]
 - [[wiki/concepts/leadership/leadership-vs-management|Leadership vs. Management]]
 - [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
 - [[wiki/concepts/communication/negotiation-and-mediation|Negotiation and Mediation]]
@@ -166,6 +181,10 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - [[wiki/syntheses/business/iger-strategy-framework|Iger Strategy Framework]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]
 - [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
+- [[wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
+- [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
+- [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
 - [[wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work|Ted Lasso Leadership Lessons That Work]]
 
 

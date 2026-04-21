@@ -2,7 +2,7 @@
 type: entity
 title: Jefferson Fisher
 created: 2026-04-10
-updated: 2026-04-17
+updated: 2026-04-21
 status: active
 tags:
   - entity
@@ -11,6 +11,7 @@ tags:
   - conflict
   - boundaries
 source_pages:
+  - wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this.md
   - wiki/sources/2026-04-10-jefferson-fisher-fake-apologies-and-manipulative-communication.md
   - wiki/sources/2026-04-17-how-to-respond-when-someone-belittles-you-confidence-tips.md
   - wiki/sources/2026-04-17-how-to-handle-defensiveness-in-communication.md
@@ -57,6 +58,7 @@ Jefferson Fisher enters this vault as a practical communication teacher focused 
   - a more foundational conversation philosophy built around `unraveling` rather than winning, learning rather than proving, and treating visible behavior as only the surface of the person
   - a cleaner assertive-language model built around gratitude over reflexive apology, removing self-downplaying disclaimers, and holding `no` without guilt-driven overexplanation
   - a distinct anti-defensiveness acknowledgement model built around macro-level agreement, learner-mode reflection, and `helpful to know` phrasing that keeps ordinary arguments from locking up
+  - a respect-preserving micro-framing model built around avoiding absolutes, trimming overexplanation, and scripting the first seconds of a hard conversation
 
 # Evidence In This Vault
 
@@ -76,6 +78,7 @@ Jefferson Fisher enters this vault as a practical communication teacher focused 
 - The new communication-truths source rounds out the branch from beneath the tactics: Fisher now also contributes a more explicit conflict philosophy centered on protecting the relationship, staying in learner mode, and resisting snap judgments about the other person's visible behavior.
 - The new assertiveness source rounds out the branch from the self-advocacy side: Fisher now also contributes a more concrete cleanup model for how unnecessary apology, hedging, and overexplaining can make a person sound smaller than they need to.
 - The new argument-responses source rounds out the branch from the de-escalation side: Fisher now also contributes a three-part acknowledgment toolkit that reduces defensiveness by validating topic importance, showing visible learning, and making the other person feel useful without conceding the whole dispute.
+- The new respect-language source rounds out the branch from the phrasing-hygiene side: Fisher now also contributes a model for why absolutes, overexplaining, and poor first sentences can cost respect before the actual issue is considered.
 
 # Related Pages
 
@@ -93,6 +96,7 @@ Jefferson Fisher enters this vault as a practical communication teacher focused 
 - [[wiki/sources/2026-04-17-3-communication-truths-that-will-change-every-conversation|3 Communication Truths That Will Change Every Conversation]]
 - [[wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication|How to Sound Assertive Tips for Confident Communication]]
 - [[wiki/sources/2026-04-17-best-argument-responses-top-3-ways-to-stay-calm-and-assertive|Best Argument Responses Top 3 Ways to Stay Calm and Assertive]]
+- [[wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this|You're Losing Respect Every Time You Say This]]
 - [[wiki/concepts/communication/boundary-language|Boundary Language]]
 - [[wiki/concepts/communication/intention-and-impact|Intention and Impact]]
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]

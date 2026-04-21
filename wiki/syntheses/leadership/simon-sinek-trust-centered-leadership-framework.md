@@ -11,6 +11,11 @@ tags:
   - culture
 question: What reusable leadership framework does the Simon Sinek source add to the vault?
 basis:
+  - wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek.md
+  - wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success.md
+  - wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong.md
+  - wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century.md
+  - wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek.md
   - wiki/sources/2026-04-12-leaders-eat-last-why-some-teams-pull-together-and-others-dont.md
   - wiki/sources/2026-04-12-why-good-leaders-make-you-feel-safe.md
   - wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset.md
@@ -22,6 +27,7 @@ basis:
   - wiki/concepts/leadership/high-performance-team-culture.md
 related:
   - wiki/entities/simon-sinek.md
+  - wiki/concepts/leadership/courage-to-lead.md
   - wiki/syntheses/cross-source/high-performance-leadership-models.md
 ---
 
@@ -84,9 +90,30 @@ The current source base supports a seventeen-part model:
 17. Maintain trust like fitness.
    Trusting teams are built through repeated small practices: asking what people need, making help-seeking safe, running learning-oriented postmortems, and responding to vulnerability with support. One-off events cannot substitute for the daily lifestyle of leadership.
 
+18. Make courage visible through what leaders refuse to sacrifice.
+   The Courage to Lead source adds the pressure test for trust: people learn whether the organization is safe by watching whether leaders protect people, values, and the cause when short-term numbers make sacrifice tempting.
+
+19. Build the net before asking for courage.
+   The 21st-century overview adds that courage is social: people take risks when they trust that others will catch, protect, or reciprocate. Trust-centered leadership therefore prepares courage during ordinary times instead of demanding it only in crisis.
+
+20. Treat hiding behavior as evidence about the system.
+   The Inc. source reinforces that low-trust environments do not merely make people feel bad; they change information flow. People conceal errors, fake competence, avoid help-seeking, and protect themselves, which makes the organization less adaptive precisely when leaders need truthful signals.
+
+21. Stop performing omniscience.
+   The life-success source adds a leader-specific failure mode: when the boss pretends to know everything, capable people stop offering help. Trust-centered leadership therefore includes the disciplined ability to say `I don't know`, `I don't understand`, and `I need help` without collapsing authority.
+
+22. Train human skills as hard infrastructure.
+   The full-speech source rejects the phrase `soft skills` and treats active listening, feedback, empathy, confrontation, and difficult conversations as core leadership skills. Trust is maintained by trained behavior, not only by values language.
+
+23. Use trust before command-and-control.
+   The same source allows command-and-control in genuine crisis, but only when trust was built beforehand. Crisis authority is more likely to be accepted when people already believe the leader is protecting the group rather than exploiting emergency conditions.
+
 # Basis
 
-- Main sources: [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection|Simon Sinek Trust and Team Selection]], [[wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments|Simon Sinek Trusting Teams and Leadership Environments]], [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
+- Main sources: [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection|Simon Sinek Trust and Team Selection]], [[wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments|Simon Sinek Trusting Teams and Leadership Environments]], [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]], [[wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]], [[wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century|The Infinite Game - How to Lead in the 21st Century]]
+- Additional Inc. source: [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
+- Life-success source: [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
+- Full speech: [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
 - Canonical concepts: [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]], [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]], [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 
 # Comparisons
@@ -113,6 +140,20 @@ The current source base supports a seventeen-part model:
   - the Noah example shows the same person performing differently under different management climates
   - the United/Virgin contrast makes rule rigidity a possible fear signal
   - the fitness analogy turns trust-building from a value into a maintenance practice
+- The new `Courage to Lead` source sharpens the sacrifice layer:
+  - routine layoffs and rank-and-yank systems can teach fear even when they satisfy targets
+  - values are tested when leaders must give up revenue, approval, or legal-minimum excuses
+  - people judge safety by what leaders protect when pressure rises
+- The new 21st-century overview sharpens the courage-and-agency layer:
+  - courage depends on a social net of trusted people and systems
+  - over-control undermines trust by denying local judgment
+  - consistent small practices are more important than occasional intense leadership events
+- The Inc. source sharpens the fear-and-information layer: projection-driven layoffs, rank-and-yank, and low-trust management do not only reduce morale; they encourage concealment and make the institution less able to learn.
+- The life-success source sharpens the vulnerability layer from the leader's side: asking for help is not a decorative humility signal, but a way to unlock the expertise that certainty theater suppresses.
+- The full-speech source sharpens the training layer:
+  - human skills should be practiced explicitly, not assumed
+  - weekly connection rituals and phone calls for tense topics are concrete trust-maintenance tools
+  - difficult conversations can begin by naming fear and asking for mutual help rather than avoiding the issue
 
 # Gaps
 
@@ -123,12 +164,23 @@ The current source base supports a seventeen-part model:
 - The newest source makes the neurochemical explanation more vivid, but the vault still needs stronger support for how literally to treat those biology claims versus using them as memorable heuristics for incentive design.
 - The vault still needs more business-side examples where trust-first promotion logic and leader-built safety were applied well or badly.
 - The new `Trusting Teams` source is vivid on service anecdotes, but the vault still needs better tools for measuring trust, concealment, and judgment quality before a crisis exposes them.
+- The Courage to Lead source adds another gap: the branch needs better tools for designing incentives and board expectations that make courageous trust-protecting behavior repeatable.
+- The 21st-century overview adds a scale gap: leaders several layers down in finite-minded institutions need a realistic path for building a local net without pretending they control the entire system.
+- The Inc. source adds a governance gap: even leaders who understand trust may still face boards, reporting norms, and investor expectations that reward the visible finite number over slower trust maintenance.
+- The life-success source adds an authority-boundary gap: leaders need to ask for help without creating confusion about who owns the final decision and consequences.
+- The full-speech source adds a training-transfer gap: workshops on empathy or difficult conversations only matter if they change repeated behavior, incentives, and manager responses under pressure.
 
 # Related Pages
 
 - [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]]
 - [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]
 - [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
+- [[wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century|The Infinite Game - How to Lead in the 21st Century]]
+- [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
+- [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
+- [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]

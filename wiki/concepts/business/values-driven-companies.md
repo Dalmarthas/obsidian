@@ -2,7 +2,7 @@
 type: concept
 title: Values-Driven Companies
 created: 2026-04-08
-updated: 2026-04-12
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -10,6 +10,7 @@ tags:
   - leadership
   - values
 source_pages:
+  - wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek.md
   - wiki/sources/2026-04-12-steve-jobs-think-different-and-stanford-excerpts.md
   - wiki/sources/2026-04-08-howard-schultz-starbucks-values-driven-leadership-masterclass-summary.md
   - wiki/sources/2026-04-07-advertising-goodby-silverstein-masterclass-summary.md
@@ -18,6 +19,7 @@ source_pages:
   - wiki/sources/2026-04-11-seth-godin-everything-you-probably-dont-know-about-marketing.md
   - wiki/sources/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky.md
 related:
+  - wiki/concepts/leadership/courage-to-lead.md
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/leadership/organizational-culture.md
   - wiki/concepts/business/golden-circle.md
@@ -65,6 +67,11 @@ Values-driven companies are organizations that explicitly try to align commercia
   - a values-driven company should still anchor itself in whether customers truly love and repeatedly use what it makes
   - values are not a substitute for product meaning
   - they are part of how the company decides what kind of customer relationship and internal conduct are worth building
+- The Sinek `Courage to Lead` source adds a costly-alignment test:
+  - values are proven when a company absorbs short-term financial cost to remove a contradiction between stated mission and actual behavior
+  - CVS removing cigarettes is used as the positive example
+  - Rite Aid and Boots are used as contrast cases where legal compliance and vague examination were not treated as ethical courage
+  - the law is a floor, not the standard for values-driven leadership
 
 # Source Comparisons
 
@@ -75,6 +82,7 @@ Values-driven companies are organizations that explicitly try to align commercia
 - Steve Jobs is strongest on values made iconic: he shows how a company in strategic trouble can recover part of its identity by returning to one durable belief and expressing it through memorable symbols rather than internal mission language alone.
 - Seth Godin is strongest on marketer responsibility: values show up in whether the company races to the top culturally or accepts a race to the bottom because it measures only what is easy and immediate.
 - Chesky is strongest on values as selection and crisis behavior: he turns values from aspirational language into a hiring filter, a simplification filter, and a humane-conduct test during pain.
+- Sinek's Courage to Lead source is strongest on values as sacrifice under pressure: a company's stated mission becomes credible when it refuses profitable contradictions and protects people from fear-based finite scoreboards.
 
 # Tensions / Open Questions
 
@@ -83,9 +91,11 @@ Values-driven companies are organizations that explicitly try to align commercia
 - The Sinek source adds a second test: even before crisis, values may already be hollow if the firm cannot explain its `why` in a way that meaningfully shapes `how` and `what`.
 - The Seth source adds a neighboring tension: mission language can still be self-flattering if the company claims cultural virtue while using targeting, channel strategy, or measurement in ways that degrade trust and dignity.
 - The Chesky source adds another tension: values that are intentionally somewhat polarizing can strengthen coherence, but they can also narrow the talent pool or rationalize an unnecessarily punishing culture if leaders mistake harshness for honesty.
+- The Courage to Lead source adds a shareholder-pressure tension: values may be real at the executive level but still fail if boards, analyst expectations, or incentive systems punish leaders for absorbing short-term cost.
 
 # Related Pages
 
+- [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/leadership/organizational-culture|Organizational Culture]]
 - [[wiki/concepts/business/golden-circle|Golden Circle]]
@@ -93,6 +103,7 @@ Values-driven companies are organizations that explicitly try to align commercia
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/entities/brian-chesky|Brian Chesky]]
 - [[wiki/sources/2026-04-13-the-secret-art-of-micromanagement-with-airbnb-ceo-brian-chesky|The Secret Art of Micromanagement with Airbnb CEO Brian Chesky]]
+- [[wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]]
 - [[wiki/syntheses/business/simon-sinek-golden-circle-framework|Simon Sinek Golden Circle Framework]]
 - [[wiki/syntheses/business/schultz-values-driven-leadership-framework|Schultz Values-Driven Leadership Framework]]
 - [[wiki/syntheses/business/steve-jobs-think-different-framework|Steve Jobs Think Different Framework]]

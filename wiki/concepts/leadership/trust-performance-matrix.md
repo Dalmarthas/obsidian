@@ -2,7 +2,7 @@
 type: concept
 title: Trust-Performance Matrix
 created: 2026-04-10
-updated: 2026-04-20
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -10,6 +10,7 @@ tags:
   - trust
   - teams
 source_pages:
+  - wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek.md
   - wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection.md
   - wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics.md
   - wiki/sources/2026-04-12-unlocking-leadership-with-simon-sinek-the-infinite-mindset.md
@@ -52,6 +53,9 @@ The trust-performance matrix is a selection and promotion model that evaluates p
   - the matrix logic should not stop at hiring
   - it can be carried into reviews, coaching, and ongoing standards language
   - this makes trust-versus-performance tradeoffs more visible over time instead of only at the selection moment
+- The Sinek full-speech source adds two sharper examples:
+  - SEAL Team Six is described as preferring trustworthiness over raw output when the two conflict
+  - Marine Corps honesty examples distinguish a failure admitted immediately from a failure hidden until exposure, making truth-telling under pressure a core trust signal
 
 # Source Comparisons
 
@@ -60,6 +64,7 @@ The trust-performance matrix is a selection and promotion model that evaluates p
 - Compared with generic culture talk, the matrix is useful because it asks who should actually be selected, coached, promoted, or removed.
 - Compared with [[wiki/concepts/business/success-metrics|Success Metrics]], this page is more local and human-centered. The matrix evaluates people directly; success-metrics evaluates the broader system that decides which people appear successful.
 - Compared with Lencioni's `ideal team player` model, Sinek is stronger on the two-axis trust-versus-output judgment, while Lencioni is stronger on the specific character combinations that often hide inside those quadrants.
+- Compared with the full-speech source, the earlier Sinek matrix source is cleaner as a model, while the full speech is stronger on behavioral evidence: whether someone tells the truth before being caught, asks for help, and protects the team under pressure.
 
 # Tensions / Open Questions
 
@@ -70,6 +75,7 @@ The trust-performance matrix is a selection and promotion model that evaluates p
 - The newest source adds a third danger: if leaders talk about valuing trust and initiative but still celebrate only visible wins, employees will believe the scoreboard instead of the speech.
 - The new source adds a simplification danger too: memorable labels make trust-performance tradeoffs easier to discuss, but they can also become caricatures if teams stop looking at concrete behavior, context, and improvement trajectory.
 - The second source sharpens a neighboring misuse risk: once simple virtue language enters formal reviews, leaders may start mistaking elegant vocabulary for actual evidence unless the behaviors and consequences stay specific.
+- The full-speech source sharpens the measurement risk: if trust is added to scorecards, it must be anchored in specific behavior such as truth-telling, help-seeking, and reliability, not manager comfort or social polish.
 
 # Related Pages
 
@@ -82,3 +88,4 @@ The trust-performance matrix is a selection and promotion model that evaluates p
 - [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection|Simon Sinek Trust and Team Selection]]
 - [[wiki/sources/2026-04-20-are-you-an-ideal-team-player|Are you an ideal team player?]]
 - [[wiki/sources/2026-04-20-the-ideal-team-player-by-patrick-lencioni|The Ideal Team Player by Patrick Lencioni]]
+- [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]

@@ -11,6 +11,14 @@ tags:
   - trust
   - culture
 source_pages:
+  - wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek.md
+  - wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success.md
+  - wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong.md
+  - wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century.md
+  - wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek.md
+  - wiki/sources/2026-04-21-existential-flexibility-the-5-practices-simon-sinek.md
+  - wiki/sources/2026-04-21-worthy-rival-the-5-practices-simon-sinek.md
+  - wiki/sources/2026-04-21-just-cause-the-5-practices-simon-sinek.md
   - wiki/sources/2026-04-14-were-living-through-a-crisis-of-meaning-simon-sinek.md
   - wiki/sources/2026-04-12-authenticity-starts-with-knowing-your-why.md
   - wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why.md
@@ -26,6 +34,10 @@ source_pages:
   - wiki/sources/2026-04-10-simon-sinek-golden-circle-framework.md
   - wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics.md
 related:
+  - wiki/concepts/leadership/courage-to-lead.md
+  - wiki/concepts/leadership/existential-flexibility.md
+  - wiki/concepts/leadership/worthy-rival.md
+  - wiki/concepts/leadership/just-cause.md
   - wiki/concepts/business/golden-circle.md
   - wiki/concepts/business/brand-strategy.md
   - wiki/concepts/business/success-metrics.md
@@ -42,7 +54,7 @@ related:
 
 # Overview
 
-Simon Sinek enters this vault as a leadership and purpose teacher focused here on six linked problems: how teams should evaluate trust, how leaders should build safe working environments, how institutions should think in long horizons, how leaders or brands should communicate belief before output, how sales or relationship-building changes when the conversation begins with conviction instead of credentials, and how modern loneliness and weakened community structures create a wider crisis of meaning. In the current source base, his role is not generic motivational language, but a sharper challenge to narrow performance logic: teams become healthier when trustworthiness matters, leaders shape whether people hide or tell the truth, institutions become more durable when they orient around cause and values, messages become more magnetic when they begin with purpose rather than features, commercial relationships become less fragile when belief is made legible early, and purpose remains more livable when it is supported by friendship, service, and belonging rather than by isolated achievement alone.
+Simon Sinek enters this vault as a leadership and purpose teacher focused here on ten linked problems: how teams should evaluate trust, how leaders should build safe working environments, how institutions should think in long horizons, what kind of Just Cause makes sacrifice feel meaningful, how worthy rivals turn competition into calibration, how existential flexibility lets organizations sacrifice the current model for the cause, how courage turns values into costly choices under pressure, how leaders or brands should communicate belief before output, how sales or relationship-building changes when the conversation begins with conviction instead of credentials, and how modern loneliness and weakened community structures create a wider crisis of meaning. In the current source base, his role is not generic motivational language, but a sharper challenge to narrow performance logic: teams become healthier when trustworthiness matters, leaders shape whether people hide or tell the truth, institutions become more durable when they orient around cause and values, rivals become mirrors for improvement instead of enemies to defeat, radical pivots are judged by cause advancement rather than novelty, courage is measured by tradeoffs rather than speeches, messages become more magnetic when they begin with purpose rather than features, commercial relationships become less fragile when belief is made legible early, and purpose remains more livable when it is supported by friendship, service, and belonging rather than by isolated achievement alone.
 
 # Role In This Vault
 
@@ -56,8 +68,16 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
 - The new `Engage and Inspire` source deepens the branch again by translating `why` into client qualification, early-adopter prioritization, and deliberate refusal of misaligned buyers as a growth strategy.
 - The new `Authenticity Starts With Knowing Your WHY` source deepens the branch inward by treating `why` as a personal contribution pattern that must be discovered, verbalized, and lived in alignment rather than merely used as outward-facing messaging.
 - The Equinix Connect source adds an interpersonal sales layer: the same `why` logic that clarifies brands also changes how one-to-one trust forms in pitches, introductions, and relationship-building conversations.
+- The new life-success source adds a biographical origin layer: the Golden Circle began as a practical framework, became personally charged after Sinek articulated his own `why`, spread through informal usefulness before TED-scale visibility, and reframes success as momentum that can outlive the individual.
 - The new success-metrics source adds the incentive-design layer: if the scoreboard only counts visible output, it will eventually reward the very behaviors the broader philosophy claims to reject.
 - The newest infinite-mindset conversation integrates the earlier branches into a more practical leadership operating system: leadership is learnable, people come first structurally, vulnerability and feedback are trainable disciplines, and culture is taught through micro-behaviors plus what leaders actually reward.
+- The new Just Cause source adds a missing definition inside the infinite-game branch: the cause is an ideal future state, independent of product, worth sacrifice, and strong enough for people to internalize as their own.
+- The new Worthy Rival source adds the competitive-calibration practice inside the infinite-game branch: rival strengths reveal one's weaknesses, and the proper response is learning, improvement, and sometimes collaboration rather than permanent enemy logic.
+- The new Existential Flexibility source adds the radical-renewal practice inside the infinite-game branch: leaders may need to cannibalize current success when a new model better advances the Just Cause, but only if trust can carry people through the disruption.
+- The new Courage to Lead source adds the pressure-bearing practice inside the infinite-game branch: leaders prove the cause by choosing ethics, people, and long-term stewardship over short-term revenue, market approval, or legal-minimum excuses.
+- The new 21st-century overview source integrates the five practices into one narrative and adds several cross-practice refinements: finite versus infinite game structure, Just Cause versus `why`, courage as a social net, consistency over intensity, and legacy as human impact beyond one's tenure.
+- The new Inc. source reinforces that integration while sharpening the critique target: shareholder primacy, quarterly target management, legal-minimum ethics, mass layoffs, rank-and-yank, and incumbent protection of current revenue streams are presented as finite behaviors that damage trust and adaptability.
+- The new full-speech source deepens the same branch with implementation detail: goals as adjustable dials, trust-performance measurement, human-skills training, difficult-conversation scripts, junior hotshot listening, command-and-control as trust-dependent crisis mode, and the Great Resignation as a correction against disposable treatment of workers.
 - He now also deepens the moral-protective layer through the `circle of safety`: leadership exists to make people feel protected enough to trust, cooperate, and sacrifice for one another under pressure.
 - The new `Leaders Eat Last` source deepens the branch again by tying trust and sacrifice to incentive design: target-chasing, status hunger, and fear can be trained by the system just as surely as loyalty and mutual protection can.
 - He now also adds a broader meaning-and-friendship layer: purpose is not the same as goals, accountability is a route out of helplessness, and human flourishing depends on relationships where people grow, grieve, and tell the truth together.
@@ -93,10 +113,57 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
   - ask whether people can safely admit mistakes, ask for help, and use judgment
   - look for fear signals such as keeping heads down, policing rules to avoid punishment, and hiding trouble
   - treat customer-service breakdowns as possible symptoms of internal leadership conditions
+- The new Just Cause source adds a sacrifice-and-horizon test:
+  - the cause should describe a future world rather than a product category
+  - finite victories should be treated as milestones inside the ongoing work
+  - leaders should ask whether people are being offered something bigger than themselves that makes ordinary hardship feel worth it
+- The new Worthy Rival source adds a comparison test:
+  - ask who triggers insecurity, envy, or obsessive comparison
+  - identify the specific strength that makes that player worthy of comparison
+  - convert that exposed weakness into a development target rather than a status contest
+  - revisit rivals as the game, industry, and cause expression change
+- The new Existential Flexibility source adds a strategic-pivot test:
+  - ask whether the proposed shift better advances the Just Cause
+  - separate short-term revenue loss from long-term existential risk
+  - examine whether protecting the current model has become identity defense
+  - build enough trust and clarity that teams understand why the pain is being asked of them
+- The new Courage to Lead source adds an ethics-under-pressure test:
+  - ask where the company is merely legal but misaligned
+  - identify which short-term gain is pressuring leaders to violate values
+  - examine whether layoffs, rankings, or incentives are teaching fear
+  - define legacy by the people and successors made stronger, not only by accumulated wins
+- The new 21st-century overview adds an integration test:
+  - ask whether the situation is being treated with finite score logic even though the game has no final winner
+  - ask whether people can join the cause even if they did not invent it
+  - build the trust net before asking for courage in crisis
+  - replace intense one-off leadership events with consistent habits that compound
+- The new Inc. source adds a finite-management audit:
+  - ask whether annual or quarterly targets are being treated as the purpose rather than as instruments
+  - ask whether legal compliance is being used to avoid the harder ethical question
+  - ask whether layoffs or rankings are teaching concealment and defensive self-protection
+  - ask whether present revenue is blocking the organization from making the pivot the cause requires
+- The new life-success source adds a personal-alignment and leader-humility audit:
+  - ask whether choices are in or out of balance with one's stated `why`
+  - ask whether a big idea has been tested across contexts rather than merely asserted
+  - ask whether growth is happening through belief resonance and usefulness or only through self-promotion
+  - ask whether the leader's certainty is preventing capable people from contributing help
+- The new full-speech source adds an implementation audit:
+  - ask whether goals can be dialed back when they damage quality or culture
+  - ask whether trust is measured beside performance
+  - ask whether leaders are trained in human skills before being made responsible for people
+  - ask whether crisis authority is backed by pre-existing trust
 
 # Related Pages
 
 - [[wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025|Simon Sinek at Equinix Connect 2025]]
+- [[wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century|The Infinite Game - How to Lead in the 21st Century]]
+- [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
+- [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
+- [[wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-existential-flexibility-the-5-practices-simon-sinek|Existential Flexibility - The 5 Practices (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-just-cause-the-5-practices-simon-sinek|Just Cause - The 5 Practices (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-worthy-rival-the-5-practices-simon-sinek|Worthy Rival - The 5 Practices (Simon Sinek)]]
 - [[wiki/sources/2026-04-12-how-great-leaders-inspire-action|How Great Leaders Inspire Action]]
 - [[wiki/sources/2026-04-12-engage-and-inspire-simon-sineks-guide-to-starting-with-why|Engage and Inspire Simon Sinek's Guide to Starting with Why]]
 - [[wiki/sources/2026-04-12-authenticity-starts-with-knowing-your-why|Authenticity Starts With Knowing Your WHY]]
@@ -113,6 +180,10 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
 - [[wiki/concepts/business/golden-circle|Golden Circle]]
 - [[wiki/concepts/business/success-metrics|Success Metrics]]
 - [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/leadership/just-cause|Just Cause]]
+- [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]]
+- [[wiki/concepts/leadership/existential-flexibility|Existential Flexibility]]
+- [[wiki/concepts/leadership/worthy-rival|Worthy Rival]]
 - [[wiki/concepts/leadership/friendship-as-growth-pact|Friendship as Growth Pact]]
 - [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]

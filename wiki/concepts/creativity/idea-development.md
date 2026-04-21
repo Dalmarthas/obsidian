@@ -2,7 +2,7 @@
 type: concept
 title: Idea Development
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -21,6 +21,9 @@ source_pages:
   - wiki/sources/2026-04-08-martin-scorsese-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
+  - wiki/sources/2026-04-21-how-to-be-a-creative-thinker-carnegie-mellon-university-po-shen-loh
+  - wiki/sources/2026-04-21-jeremy-utley-ai-ignites-human-creativity
+  - wiki/sources/2026-04-21-the-habit-that-built-every-genius
 related:
   - wiki/concepts/creativity/creative-incubation.md
   - wiki/concepts/filmmaking/filmmaking.md
@@ -30,6 +33,10 @@ related:
   - wiki/concepts/creativity/creative-integrity.md
   - wiki/concepts/creativity/graphic-design.md
   - wiki/concepts/filmmaking/writer-worldview.md
+  - wiki/concepts/creativity/creative-problem-solving
+  - wiki/concepts/creativity/idea-flow
+  - wiki/concepts/creativity/inspiration-discipline
+  - wiki/concepts/creativity/creative-white-space
 ---
 
 # What It Is
@@ -46,6 +53,8 @@ Idea development is the process of noticing, catching, testing, externalizing, a
 - It now also captures abundance as a skill: better ideas often come not from rarer inspiration, but from generating more candidates before filtering.
 - It now also captures a blockage distinction: sometimes the right development move is not harder effort, but incubation until the idea regains heat and clarity.
 - It now also captures a structural-development distinction: some ideas need lightweight external scaffolds early, but those scaffolds should stay loose enough not to flatten the living signal.
+- It now also captures a social-discovery distinction: some ideas become real only after contact with actual users, learners, audiences, or constraints, not while remaining private abstractions.
+- It now also captures a capture-system distinction: ideas and frictions often need to be logged before they can become material for later development.
 
 # Evidence In This Vault
 
@@ -61,6 +70,10 @@ Idea development is the process of noticing, catching, testing, externalizing, a
 - The current outlining-comparison source adds a bridge between ideation and structure: many writers give the idea just enough beats, cards, sequence chunks, or notebook shape to make it testable without pretending it is fully known yet.
 - The current *Fight Club* source adds an emotional-voltage rule:
   start with the scenes that already have blood in them, let provocative fragments lead, and test story material in casual conversation to see whether it sparks contagious response.
+- [[wiki/sources/2026-04-21-how-to-be-a-creative-thinker-carnegie-mellon-university-po-shen-loh]] adds a problem-discovery layer: creative ideas can emerge from direct contact with people, repeated conversations about pain points, and field exposure to constraints that private ideation would miss.
+- [[wiki/sources/2026-04-21-jeremy-utley-ai-ignites-human-creativity]] adds idea-flow discipline: generate many candidates, tolerate bad ideas as the cost of variance, and use AI to widen the sample before developing the few ideas that deserve more attention.
+- [[wiki/sources/2026-04-21-the-habit-that-built-every-genius]] adds the capture-and-bug-list layer: notebooks, voice memos, journals, and lists of daily annoyances train attention to notice more usable material.
+- The same source adds a sequencing rule: diverse inputs and capture feed the idea pipeline before white space and idea quantity help recombine and select.
 
 # Source Comparisons
 
@@ -76,6 +89,12 @@ Idea development is the process of noticing, catching, testing, externalizing, a
 - The current outlining-comparison source is strongest on method pluralism during development: outline density can vary wildly as long as the writer externalizes enough structure to see whether the idea can carry narrative weight.
 - The current *Fight Club* source is strongest on social and visceral testing:
   a live idea often announces itself by provoking strong teller energy and by making other people answer with stories of their own.
+- The Loh source is strongest on social and entrepreneurial discovery:
+  an idea becomes more valuable when it is shaped by real people, real pain points, and system designs where multiple groups benefit.
+- The Utley idea-flow source is strongest on quantity and variation:
+  ideas improve when the creator samples enough possibilities, uses tools to create more divergent options, and waits to judge until there is a real set to compare.
+- The Utley genius-habits source is strongest on upstream creative hygiene:
+  better idea development starts before a single idea appears, through input variety, capture discipline, bug-list observation, and protected time for unresolved material.
 
 # Tensions / Open Questions
 
@@ -84,6 +103,9 @@ Idea development is the process of noticing, catching, testing, externalizing, a
 - Too much emphasis on volume can also become empty productivity theater if the writer never commits to choosing and developing the few ideas that survive.
 - Respecting incubation can help ideas fuse, but it can also become a self-flattering story if the writer never returns to choose, test, and build.
 - Too much early structuring can cool the idea into dead competence, but too little structure can leave the idea exciting only in the abstract because it has never been pressure-tested for shape.
+- Too much private ideation can miss the actual problem; too much immediate customer reaction can also flatten a more original idea before it has enough form to be understood.
+- Too much AI-assisted generation can inflate the candidate pool without improving the creator's commitment, selection, or taste.
+- Capture systems can become archives of inert fragments unless the creator periodically reviews, clusters, tests, or builds from them.
 
 # Related Pages
 
@@ -97,3 +119,7 @@ Idea development is the process of noticing, catching, testing, externalizing, a
 - [[wiki/concepts/creativity/creative-integrity|Creative Integrity]]
 - [[wiki/concepts/creativity/graphic-design|Graphic Design]]
 - [[wiki/concepts/filmmaking/writer-worldview|Writer Worldview]]
+- [[wiki/concepts/creativity/creative-problem-solving|Creative Problem Solving]]
+- [[wiki/concepts/creativity/idea-flow|Idea Flow]]
+- [[wiki/concepts/creativity/inspiration-discipline|Inspiration Discipline]]
+- [[wiki/concepts/creativity/creative-white-space|Creative White Space]]

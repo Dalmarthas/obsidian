@@ -2,7 +2,7 @@
 type: synthesis
 title: Conflict Frame Control Framework
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-21
 status: active
 tags:
   - synthesis
@@ -12,6 +12,7 @@ tags:
   - frame-control
 question: What reusable conflict-control framework can be extracted from the current ego-triangle source without collapsing it into generic `stay calm` advice?
 basis:
+  - wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this.md
   - wiki/sources/2026-04-13-the-cheat-code-for-controlling-conflict.md
   - wiki/concepts/communication/frame-control.md
   - wiki/concepts/communication/face-saving-de-escalation.md
@@ -53,6 +54,12 @@ The current source base supports an eight-part framework:
 8. Re-anchor on shared outcomes and next actions.
    The practical aim is not argument victory but getting the interaction back onto solvable ground.
 
+9. Control the first frame with the first sentence.
+   The respect-language source adds a lower-level entry move: the first seconds of tone, pace, and wording can decide whether the conversation starts as a threat frame or a collaborative frame.
+
+10. Keep the frame specific enough to be solvable.
+   Absolutes like `always` and `never` create a global accusation frame. Specific moment, pattern, and impact language keeps the exchange closer to behavior and next action.
+
 # Basis
 
 - Main source: [[wiki/sources/2026-04-13-the-cheat-code-for-controlling-conflict|The Cheat Code for Controlling Conflict]]
@@ -64,12 +71,14 @@ The current source base supports an eight-part framework:
 - Compared with [[wiki/concepts/communication/frame-control|Frame Control]], this page is more conflict-specific and procedural. Frame control explains why reactivity changes meaning; this synthesis turns that into a concrete diagnostic and de-escalation sequence.
 - Compared with [[wiki/concepts/communication/face-saving-de-escalation|Face-Saving De-Escalation]], this framework is less gentle by default. Face-saving de-escalation emphasizes preserving dignity; this page adds stronger refusal rules for hostile framing and manipulative setups.
 - Compared with [[wiki/concepts/communication/boundary-language|Boundary Language]], this synthesis sits one level up. Boundary language gives the short phrases; this page explains the threat logic and sequencing that make those phrases strategically coherent.
+- Compared with [[wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this|You're Losing Respect Every Time You Say This]], the original ego-triangle source is stronger on threat diagnosis, while the newer source is stronger on micro-framing through openings, frequency words, and explanation length.
 
 # Gaps
 
 - The source is still one secondary summary and remains more behaviorally sharp than evidentially deep.
 - The framework needs stronger counterweights for neurodivergence, culture, trauma history, and situations where the other party is not even minimally available for good-faith repair.
 - The vault also still needs a cleaner line between ethical frame awareness and manipulative conversational gamesmanship.
+- The new source adds another open line: a calm first sentence can help, but it can also become polish over avoidance if the real issue is never named with enough specificity.
 
 # Related Pages
 
@@ -79,3 +88,4 @@ The current source base supports an eight-part framework:
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/syntheses/communication/jefferson-fisher-conflict-response-framework|Jefferson Fisher Conflict Response Framework]]
 - [[wiki/sources/2026-04-13-the-cheat-code-for-controlling-conflict|The Cheat Code for Controlling Conflict]]
+- [[wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this|You're Losing Respect Every Time You Say This]]

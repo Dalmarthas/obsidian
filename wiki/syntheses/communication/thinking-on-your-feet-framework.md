@@ -2,7 +2,7 @@
 type: synthesis
 title: Thinking on Your Feet Framework
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-21
 status: active
 tags:
   - synthesis
@@ -23,11 +23,13 @@ basis:
   - wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message.md
   - wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words.md
   - wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling.md
+  - wiki/sources/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams
   - wiki/concepts/communication/thinking-on-your-feet.md
   - wiki/concepts/communication/effective-communication.md
   - wiki/concepts/communication/calibrated-questions.md
   - wiki/concepts/leadership/leadership-communication.md
 related:
+  - wiki/entities/matt-abrahams
   - wiki/syntheses/communication/george-stephanopoulos-communication-framework.md
   - wiki/concepts/communication/charismatic-presence.md
 ---
@@ -121,9 +123,18 @@ The current branch supports a nine-part framework:
 27. Keep this tactic on a short leash.
    The same source is useful precisely because it is narrow. Not every question is a baited frame test, and not every environment rewards wit. The broader branch still prioritizes clarity, service, and actual substance.
 
+28. Turn automatic heuristics into deliberate choices.
+   The new Abrahams source adds that spontaneous speaking often runs on defaults: stock small-talk openers, apology formulas, feedback phrases, and Q&A reflexes. The goal is not to eliminate shortcuts, but to notice them and replace weak defaults with better situational options.
+
+29. Use service orientation as the default attention target.
+   Anxiety drops when the speaker asks what the listener needs now: listening, reassurance, ideas, a decision, or repair. This also helps counter the curse of knowledge because the speaker starts from audience need rather than from speaker-owned content.
+
+30. Treat mistakes as editable takes.
+   `Miss-takes` and `take two` language preserve learning culture. The speaker can revise without making the error the center of the interaction.
+
 # Basis
 
-- Main sources: [[wiki/sources/2026-04-13-how-to-think-on-your-feet|How to Think On Your Feet]], [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams|Think Faster, Talk Smarter with Matt Abrahams]], [[wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques|Think Fast, Talk Smart Communication Techniques]], [[wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams|Speaking Up Without Freaking Out Matt Abrahams]], [[wiki/sources/2026-04-13-think-fast-talk-smart-matt-abrahams|Think Fast Talk Smart Matt Abrahams]], [[wiki/sources/2026-04-13-no-freaking-speaking-managing-public-speaking-anxiety|No Freaking Speaking Managing Public Speaking Anxiety]], [[wiki/sources/2026-04-13-effective-body-language-for-public-speaking|Effective Body Language for Public Speaking]], [[wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message|Think Faster Talk Smarter by Matt Abrahams Core Message]], [[wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words|How to Manage Adrenaline in Public Speaking 3 Magic Words]], [[wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling|The 3-2-1 Speaking Trick That Forces You To Stop Rambling]]
+- Main sources: [[wiki/sources/2026-04-13-how-to-think-on-your-feet|How to Think On Your Feet]], [[wiki/sources/2026-04-13-think-faster-talk-smarter-with-matt-abrahams|Think Faster, Talk Smarter with Matt Abrahams]], [[wiki/sources/2026-04-13-think-fast-talk-smart-communication-techniques|Think Fast, Talk Smart Communication Techniques]], [[wiki/sources/2026-04-13-speaking-up-without-freaking-out-matt-abrahams|Speaking Up Without Freaking Out Matt Abrahams]], [[wiki/sources/2026-04-13-think-fast-talk-smart-matt-abrahams|Think Fast Talk Smart Matt Abrahams]], [[wiki/sources/2026-04-13-no-freaking-speaking-managing-public-speaking-anxiety|No Freaking Speaking Managing Public Speaking Anxiety]], [[wiki/sources/2026-04-13-effective-body-language-for-public-speaking|Effective Body Language for Public Speaking]], [[wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message|Think Faster Talk Smarter by Matt Abrahams Core Message]], [[wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words|How to Manage Adrenaline in Public Speaking 3 Magic Words]], [[wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling|The 3-2-1 Speaking Trick That Forces You To Stop Rambling]], [[wiki/sources/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams|Beyond Public Speaking - Elevate Your Impromptu Speaking Skills with Matt Abrahams]]
 - Canonical concepts: [[wiki/concepts/communication/thinking-on-your-feet|Thinking on Your Feet]], [[wiki/concepts/communication/effective-communication|Effective Communication]], [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]], [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
 
 # Comparisons
@@ -140,6 +151,7 @@ The current branch supports a nine-part framework:
 - Compared with the new core-message source, the earlier Abrahams pages are richer and more complete, while this source is strongest on recall: it compresses anxiety, anti-perfectionism, silence control, and structure into fast-retrieval cues.
 - Compared with the new adrenaline source, the earlier anxiety pages are broader and more tool-rich, while this source is strongest on one specific failure mode: turning normal arousal into panic by resisting it.
 - Compared with the new `3-2-1` source, most of this synthesis is stronger on diagnosis, listening, and adaptation, while that source is strongest on one narrow problem: preventing cognitive sprawl when a speaker needs a usable answer shape immediately.
+- Compared with the newest Abrahams source, this synthesis remains broader across public-speaking anxiety and formal response structures, while the new source is strongest on everyday impromptu situations, heuristic audits, apology repair, and low-stakes improv-style drills.
 
 # Gaps
 
@@ -156,10 +168,12 @@ The current branch supports a nine-part framework:
 - The new core-message source improves memorability, but the branch still needs a clearer distinction between a useful mnemonic and a genuinely distinct model.
 - The new adrenaline source strengthens the acceptance layer, but the branch still needs clearer handoff rules for when this kind of self-regulation advice is not enough.
 - The new `3-2-1` source improves fallback speed, but the branch still needs a cleaner rule for when ultra-light list structures clarify the moment and when they oversimplify a question that deserves nuance or a clarifying pause.
+- The newest Abrahams source improves practical everyday transfer, but the branch still needs stronger evidence on which low-stakes drills best transfer to high-stakes speaking.
 
 # Related Pages
 
 - [[wiki/concepts/communication/thinking-on-your-feet|Thinking on Your Feet]]
+- [[wiki/entities/matt-abrahams|Matt Abrahams]]
 - [[wiki/concepts/communication/effective-communication|Effective Communication]]
 - [[wiki/concepts/communication/calibrated-questions|Calibrated Questions]]
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]]
@@ -176,3 +190,4 @@ The current branch supports a nine-part framework:
 - [[wiki/sources/2026-04-13-think-faster-talk-smarter-by-matt-abrahams-core-message|Think Faster Talk Smarter by Matt Abrahams Core Message]]
 - [[wiki/sources/2026-04-13-how-to-manage-adrenaline-in-public-speaking-3-magic-words|How to Manage Adrenaline in Public Speaking 3 Magic Words]]
 - [[wiki/sources/2026-04-16-the-3-2-1-speaking-trick-that-forces-you-to-stop-rambling|The 3-2-1 Speaking Trick That Forces You To Stop Rambling]]
+- [[wiki/sources/2026-04-21-beyond-public-speaking-impromptu-speaking-matt-abrahams|Beyond Public Speaking - Elevate Your Impromptu Speaking Skills with Matt Abrahams]]

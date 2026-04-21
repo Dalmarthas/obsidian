@@ -2,7 +2,7 @@
 type: concept
 title: Assertiveness
 created: 2026-04-10
-updated: 2026-04-17
+updated: 2026-04-21
 status: active
 tags:
   - concept
@@ -11,6 +11,7 @@ tags:
   - boundaries
   - self-advocacy
 source_pages:
+  - wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this.md
   - wiki/sources/2026-04-10-jordan-peterson-excessive-agreeableness-and-assertiveness.md
   - wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time.md
   - wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson.md
@@ -59,6 +60,11 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
   - in coercive hierarchies, assertiveness is not always immediate blunt confrontation
   - it can also include delay, selective silence, tactical non-reaction, documentation, and preserving exit options
   - the core is still self-advocacy, but it must be calibrated to power asymmetry and risk
+- The respect-language source adds a precision-and-brevity layer:
+  - absolutes such as `always` and `never` can make a valid issue sound like a character verdict
+  - overexplaining often signals that a request, boundary, or complaint is still internally unstable
+  - a short version first, followed by silence, can make assertiveness sound calmer and more credible
+  - experience language can state reality without forcing the other person immediately into identity defense
 
 # Source Comparisons
 
@@ -70,6 +76,7 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
 - Compared with [[wiki/concepts/communication/power-dynamics|Power Dynamics]], assertiveness is less adversarial and more self-representational. The new Greene source shows where the two overlap: under unequal power, assertiveness may need strategic timing rather than immediate directness.
 - Compared with [[wiki/concepts/others/childhood-development-triangle|Childhood Development Triangle]], assertiveness is a present-tense skill while the triangle is a developmental explanation for why that skill may feel dangerous.
 - Compared with the new Fisher source, the Peterson branch is stronger on developmental roots and long-run cost of excessive agreeableness, while Fisher is stronger on everyday verbal habits that make assertiveness audible in real time.
+- Compared with the respect-language source, the earlier Fisher assertiveness material is stronger on apology, hedging, and `no`; the new source is stronger on frequency precision, overexplanation, and opening-frame control.
 
 # Tensions / Open Questions
 
@@ -78,6 +85,7 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
 - The newest Peterson source sharpens another tension: truth-telling is useful, but the vault still needs better rules for when honesty should be direct, when it should be staged, and when power or safety constraints require a more indirect approach.
 - The new Fisher source sharpens a neighboring risk: anti-people-pleasing advice can be misused as moral permission for abruptness or ego-protective bluntness, so the branch still needs cleaner criteria for respectful firmness versus performative `brutal honesty`.
 - The new Fisher assertiveness source adds a calibration risk too: less apology and less hedging can sound healthier, but the branch still needs clearer rules for how to preserve warmth, uncertainty, and cultural fit without sliding back into self-minimization.
+- The respect-language source adds another calibration risk: removing absolutes and shortening explanations can improve respect, but chronic patterns, power imbalance, or high-stakes harm may still require fuller documentation and direct naming.
 - The vault still needs stronger evidence-grounded material on assertiveness training, conflict style, and organizational dynamics around invisible labor.
 
 # Related Pages
@@ -93,3 +101,4 @@ Assertiveness is the ability to state what is true, wanted, needed, or not accep
 - [[wiki/sources/2026-04-13-how-to-defeat-your-boss-every-time|How to DEFEAT Your BOSS Every Time]]
 - [[wiki/sources/2026-04-13-12-rules-for-life-by-jordan-peterson|12 Rules for Life by Jordan Peterson]]
 - [[wiki/sources/2026-04-17-how-to-sound-assertive-tips-for-confident-communication|How to Sound Assertive Tips for Confident Communication]]
+- [[wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this|You're Losing Respect Every Time You Say This]]
