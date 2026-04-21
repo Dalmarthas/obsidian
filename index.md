@@ -19,6 +19,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 ## Raw Sources
 
+- [[raw/inbox/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]] - Simon Sinek and Don Yaeger conversation on John Wooden, standards of being, appreciation rituals, employee-first leadership, mentorship, family presence, and long-game leadership.
 - [[raw/inbox/2026-04-21-youre-losing-respect-every-time-you-say-this|You're Losing Respect Every Time You Say This]] - Communication summary on respect-eroding habits: absolutes, overexplaining, and weak opening frames, with replacements based on precise frequency, short-version-first phrasing, and calm first sentences.
 - [[raw/inbox/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]] - Simon Sinek full-speech summary on infinite-game leadership, five practices, trust-performance metrics, human skills, adjustable goals, and Great Resignation implications.
 - [[raw/inbox/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]] - Inc. video summary on Sinek's own `why`, the Golden Circle's origin, success as transferable momentum, TEDx as lagging scale, and leader humility through asking for help.
@@ -360,6 +361,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 ## Sources
 
+- [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]] - Source page for a Simon Sinek and Don Yaeger leadership conversation on Wooden's standards of being, appreciation as a practice, mentorship as time-giving, employee-first cycles, and long-game leadership.
 - [[wiki/sources/2026-04-21-youre-losing-respect-every-time-you-say-this|You're Losing Respect Every Time You Say This]] - Source page for a communication summary on avoiding absolutes, trimming overexplanation, using experience language, and setting calmer first frames in hard conversations.
 - [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]] - Source page for a Simon Sinek full-speech summary on infinite-game leadership, five practices, trust-performance measurement, human skills, goals as dials, and trust-dependent crisis authority.
 - [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]] - Source page for an Inc. Simon Sinek video summary on personal `why`, Golden Circle origins, organic idea spread, success as momentum, and leadership maturity through asking for help.
@@ -677,6 +679,8 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/entities/bong-joon-ho|Bong Joon-Ho]] - Filmmaker whose branch adds interaction-first character design, spatial story logic, moral ambiguity, and universality through local specificity.
 - [[wiki/entities/bob-iger|Bob Iger]] - Leadership and strategy teacher whose source expands the vault's business and brand branch.
 - [[wiki/entities/clayton-christensen|Clayton Christensen]] - Innovation thinker whose branch sharpens the vault's business layer around jobs to be done, innovation portfolios, and long-horizon growth logic.
+- [[wiki/entities/don-yaeger|Don Yaeger]] - Leadership and sports-storytelling figure whose current vault role centers on Wooden, appreciation rituals, mentorship, and structural family presence.
+- [[wiki/entities/john-wooden|John Wooden]] - Coaching exemplar whose branch turns leadership standards into character, gratitude, team-first behavior, and consistent application to stars.
 - [[wiki/entities/simon-sinek|Simon Sinek]] - Leadership and purpose teacher whose branch now spans trust-centered team culture, vulnerability safety, Just Cause, worthy rivals, existential flexibility, courage to lead, integrated infinite-game thinking, why-first communication, and success-metric redesign.
 - [[wiki/entities/ted-lasso|Ted Lasso]] - Fictional leadership case used here to make recognition, individualized coaching, feedback exposure, distributed credit, and grounded optimism concrete.
 - [[wiki/entities/paul-thomas-anderson|Paul Thomas Anderson]] - Filmmaker whose branch sharpens screenplay economy, actor-space, intuitive process, and collaborative mutability.
@@ -1044,6 +1048,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - [[wiki/concepts/leadership/existential-flexibility|Existential Flexibility]] - Simon Sinek's infinite-game practice of making profound cause-aligned strategic shifts, even when they cannibalize current success and require trust-bearing pain.
 - [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]] - Simon Sinek's capstone infinite-game practice of choosing costly ethical consistency when short-term incentives reward finite behavior.
 - [[wiki/concepts/leadership/human-skills|Human Skills]] - Trainable interpersonal leadership capacities such as listening, feedback, empathy, confrontation, and difficult conversations treated as hard infrastructure for trust.
+- [[wiki/concepts/leadership/standards-of-being|Standards of Being]] - Behavioral and character standards for how people show up, treat teammates, manage ego, and embody team values beyond measurable output.
 - [[wiki/concepts/leadership/leadership|Leadership]] - Direction-setting, responsibility-taking, and environment design grounded in framework, process, care, and action.
 - [[wiki/concepts/leadership/leadership-vs-management|Leadership vs. Management]] - The distinction between optimizing known systems and taking responsibility for change when the map is missing.
 - [[wiki/concepts/leadership/leadership-communication|Leadership Communication]] - Conversational, story-driven public communication that builds trust and clarity.
@@ -1367,6 +1372,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 ## Queries
 
+- [[wiki/queries/how-many-index-cards-for-a-full-screenplay|How Many Index Cards For A Full Screenplay]] - Preserved answer distinguishing Sorkin's index-card/corkboard process from adjacent `40` / `<50` card screenplay heuristics.
 - [[wiki/queries/supporting-a-new-team-lead-under-impostor-pressure|Supporting a New Team Lead Under Impostor Pressure]] - A practical preserved answer on helping a newly promoted lead reinterpret impostor pressure through empathy, developmental language, trust evidence, service, and concrete behavioral anchors.
 - [[wiki/queries/three-day-performance-crunch-plan|Three-Day Performance Crunch Plan]] - A practical operating model for surviving a 72-hour high-stakes work crunch through closed-list prioritization, protected peak hours, visible focus blocks, and anti-panic execution.
 

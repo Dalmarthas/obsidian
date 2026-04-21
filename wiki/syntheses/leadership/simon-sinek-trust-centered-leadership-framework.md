@@ -11,6 +11,7 @@ tags:
   - culture
 question: What reusable leadership framework does the Simon Sinek source add to the vault?
 basis:
+  - wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should.md
   - wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek.md
   - wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success.md
   - wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong.md
@@ -26,6 +27,7 @@ basis:
   - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/leadership/high-performance-team-culture.md
 related:
+  - wiki/concepts/leadership/standards-of-being.md
   - wiki/entities/simon-sinek.md
   - wiki/concepts/leadership/courage-to-lead.md
   - wiki/syntheses/cross-source/high-performance-leadership-models.md
@@ -108,12 +110,19 @@ The current source base supports a seventeen-part model:
 23. Use trust before command-and-control.
    The same source allows command-and-control in genuine crisis, but only when trust was built beforehand. Crisis authority is more likely to be accepted when people already believe the leader is protecting the group rather than exploiting emergency conditions.
 
+24. Enforce standards of being equally.
+   The Sinek-Yaeger source adds the Wooden rule: behavioral standards build trust when everyone, including stars, is held to them for reasons that can be explained. This prevents high-status exceptions from teaching the team that culture is negotiable.
+
+25. Make recognition habitual.
+   Wooden's `thank the passer` habit and Yaeger's appreciation-letter practice show that trust grows when contribution is seen repeatedly. Recognition should not wait for formal reviews or heroic outcomes; it should be embedded in the team's normal behavior.
+
 # Basis
 
 - Main sources: [[wiki/sources/2026-04-10-simon-sinek-trust-and-team-selection|Simon Sinek Trust and Team Selection]], [[wiki/sources/2026-04-10-simon-sinek-trusting-teams-and-leadership-environments|Simon Sinek Trusting Teams and Leadership Environments]], [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]], [[wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]], [[wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century|The Infinite Game - How to Lead in the 21st Century]]
 - Additional Inc. source: [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
 - Life-success source: [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
 - Full speech: [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
+- Sinek and Yaeger conversation: [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]
 - Canonical concepts: [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]], [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]], [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
 
 # Comparisons
@@ -154,6 +163,10 @@ The current source base supports a seventeen-part model:
   - human skills should be practiced explicitly, not assumed
   - weekly connection rituals and phone calls for tense topics are concrete trust-maintenance tools
   - difficult conversations can begin by naming fear and asking for mutual help rather than avoiding the issue
+- The Sinek-Yaeger source sharpens the recognition-and-standards layer:
+  - culture is maintained when leaders notice assists, not only scores
+  - standards feel safer when they are reasoned, consistent, and applied to the highest-status people
+  - appreciation becomes more reliable when it is practiced as a routine rather than expressed only when emotion happens to arise
 
 # Gaps
 
@@ -169,6 +182,7 @@ The current source base supports a seventeen-part model:
 - The Inc. source adds a governance gap: even leaders who understand trust may still face boards, reporting norms, and investor expectations that reward the visible finite number over slower trust maintenance.
 - The life-success source adds an authority-boundary gap: leaders need to ask for help without creating confusion about who owns the final decision and consequences.
 - The full-speech source adds a training-transfer gap: workshops on empathy or difficult conversations only matter if they change repeated behavior, incentives, and manager responses under pressure.
+- The Sinek-Yaeger source adds a standards-assessment gap: teams need practical ways to evaluate standards of being without turning culture into popularity, moralism, or manager whim.
 
 # Related Pages
 
@@ -177,6 +191,7 @@ The current source base supports a seventeen-part model:
 - [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/standards-of-being|Standards of Being]]
 - [[wiki/syntheses/cross-source/high-performance-leadership-models|High-Performance Leadership Models]]
 - [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
 - [[wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]]
@@ -184,3 +199,4 @@ The current source base supports a seventeen-part model:
 - [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
 - [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
 - [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]

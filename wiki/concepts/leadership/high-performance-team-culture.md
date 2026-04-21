@@ -9,6 +9,7 @@ tags:
   - teams
   - performance
 source_pages:
+  - wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should.md
   - wiki/sources/2026-04-09-jurgen-klopp-coaching-legacy.md
   - wiki/sources/2026-04-08-geno-auriemma-leadership-and-team-building-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-lewis-hamilton-masterclass-master-summary.md
@@ -22,6 +23,7 @@ source_pages:
   - wiki/sources/2026-04-21-trusting-teams-the-5-practices.md
   - wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work.md
 related:
+  - wiki/concepts/leadership/standards-of-being.md
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/leadership/trust-based-collaboration.md
   - wiki/concepts/leadership/trust-performance-matrix.md
@@ -80,6 +82,11 @@ High-performance team culture is the set of norms, standards, and relationship p
   - team performance improves when individual ambition is aligned with collective behavior rather than treated as an enemy
   - quieter or lower-status contributors become performance assets when leaders invite ideas and make credit visible
   - appreciation and consequences both matter, but celebration should be more emotionally available than punishment
+- The Sinek-Yaeger source adds a Wooden standards layer:
+  - winning is treated as downstream of character, teamwork, and consistent standards rather than as the direct obsession
+  - standards of being govern how people treat teammates and show up, not only whether they produce
+  - thanking the passer makes invisible contribution visible inside the work itself
+  - applying standards to star performers prevents talent from becoming an exemption from culture
 
 # Source Comparisons
 
@@ -94,6 +101,7 @@ High-performance team culture is the set of norms, standards, and relationship p
 - The new Sinek `Trusting Teams` capture is strongest on the same-person comparison: if one worker delivers very different service under different managers, the performance variable is probably environmental, not merely individual.
 - Lencioni is strongest on team-player composition: he makes high performance less about abstract culture and more about whether the people inside the system combine low ego, initiative, and interpersonal awareness.
 - Ted Lasso is strongest on everyday team activation: recognition, personal motive alignment, feedback exposure, and credit-sharing turn culture from a slogan into repeated interactions.
+- Wooden, through the Sinek-Yaeger source, is strongest on standards of being: the practical point is not only that culture matters, but that a leader can embed humility, gratitude, and ego management into tiny repeated rules.
 
 # Tensions / Open Questions
 
@@ -106,10 +114,12 @@ High-performance team culture is the set of norms, standards, and relationship p
 - The second Lencioni source sharpens a related implementation risk: embedding virtue language into reviews can improve clarity, but it can also become simplistic moral sorting if leaders stop examining systems, incentives, and concrete role demands.
 - The new Sinek source adds a safety-standards risk: leaders may invoke trust to avoid hard correction, or invoke standards so harshly that people stop reporting truth early.
 - The Ted Lasso source adds a warmth-standards risk: visible care can strengthen performance, but if copied without clear standards it may become likability management rather than leadership.
+- The Wooden source adds a rule-design risk: consistent standards strengthen culture only when the rules have a clear reason and are enforced with judgment rather than nostalgia or control for its own sake.
 
 # Related Pages
 
 - [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/leadership/standards-of-being|Standards of Being]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
 - [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]]
 - [[wiki/concepts/filmmaking/showrunning|Showrunning]]
@@ -124,3 +134,4 @@ High-performance team culture is the set of norms, standards, and relationship p
 - [[wiki/sources/2026-04-20-the-ideal-team-player-by-patrick-lencioni|The Ideal Team Player by Patrick Lencioni]]
 - [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
 - [[wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work|Ted Lasso Leadership Lessons That Work]]
+- [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]

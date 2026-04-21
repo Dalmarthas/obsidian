@@ -11,6 +11,7 @@ tags:
   - purpose
   - culture
 source_pages:
+  - wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should.md
   - wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek.md
   - wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong.md
   - wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century.md
@@ -23,6 +24,7 @@ source_pages:
   - wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics.md
   - wiki/sources/2026-04-13-what-game-theory-teaches-us-about-war.md
 related:
+  - wiki/concepts/leadership/standards-of-being.md
   - wiki/concepts/leadership/courage-to-lead
   - wiki/concepts/leadership/existential-flexibility
   - wiki/concepts/leadership/worthy-rival
@@ -106,6 +108,10 @@ An infinite-game mindset is the discipline of leading as if the real goal is to 
   - trust should be measured beside performance because high-output low-trust people can damage the system
   - human skills should be trained because infinite organizations depend on listening, feedback, empathy, and difficult conversations
   - command-and-control can work in crisis only when prior trust makes it feel protective rather than coercive
+- The Sinek-Yaeger source adds a coaching-and-family layer:
+  - championships and quarterly results are lagging outcomes of standards, relationships, and people development
+  - employee-first leadership can create a virtuous cycle when customer loyalty and profit are reinvested back into employees
+  - leaders rationalize absence by saying they work for family or shareholders, but infinite-minded stewardship also asks whether people experience presence, care, and shared upside
 
 # Source Comparisons
 
@@ -123,6 +129,7 @@ An infinite-game mindset is the discipline of leading as if the real goal is to 
 - Compared with the 21st-century overview source, this concept page is the compiled abstraction. The source is useful because it puts the whole model in one narrative and makes clear that the same finite/infinite mismatch applies beyond business.
 - Compared with the Inc. source, the 21st-century overview is broader and more personal, while the Inc. source is stronger on business-system critique: shareholder primacy, arbitrary scoreboards, layoffs, and disruption by outsiders.
 - Compared with the full-speech source, this concept page is the compiled abstraction. The full speech is more useful for implementation details: dials, trust-performance scoring, human-skills training, and practical leader routines.
+- Compared with the Sinek-Yaeger source, this concept page is more strategic. The new source is stronger on how long-game leadership is practiced through team standards, appreciation, mentorship, employee-first economics, and calendar constraints.
 
 # Tensions / Open Questions
 
@@ -140,12 +147,14 @@ An infinite-game mindset is the discipline of leading as if the real goal is to 
 - Another open question is where finite tools still belong: infinite-minded organizations still need deadlines, budgets, and scoreboards, but those tools become dangerous when they become the purpose.
 - The Inc. source sharpens the public-company tension: infinite-minded leadership may be correct in principle while still being hard to practice under investor, board, and quarterly reporting pressure.
 - The full-speech source adds a crisis-mode tension: command-and-control can be necessary, but without pre-existing trust it may train compliance and fear rather than commitment.
+- The Sinek-Yaeger source adds a rationalization tension: leaders may claim a noble long-term purpose while their daily calendar, recognition habits, and upside-sharing rules reveal that people are still secondary to visible output.
 
 # Related Pages
 
 - [[wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games|Simon Sinek Finite vs Infinite Games]]
 - [[wiki/entities/simon-sinek|Simon Sinek]]
 - [[wiki/concepts/leadership/just-cause|Just Cause]]
+- [[wiki/concepts/leadership/standards-of-being|Standards of Being]]
 - [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]]
 - [[wiki/concepts/leadership/existential-flexibility|Existential Flexibility]]
 - [[wiki/concepts/leadership/worthy-rival|Worthy Rival]]
@@ -166,3 +175,4 @@ An infinite-game mindset is the discipline of leading as if the real goal is to 
 - [[wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century|The Infinite Game - How to Lead in the 21st Century]]
 - [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
 - [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]

@@ -11,6 +11,7 @@ tags:
   - purpose
 question: What reusable leadership framework does the Simon Sinek finite-versus-infinite-games source add to the vault?
 basis:
+  - wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should.md
   - wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek.md
   - wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success.md
   - wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong.md
@@ -27,6 +28,7 @@ basis:
   - wiki/concepts/leadership/leadership.md
   - wiki/concepts/business/business-strategy.md
 related:
+  - wiki/concepts/leadership/standards-of-being.md
   - wiki/entities/simon-sinek.md
   - wiki/concepts/leadership/courage-to-lead.md
   - wiki/concepts/leadership/existential-flexibility.md
@@ -132,9 +134,16 @@ The current source base supports a broader model:
 19. Build leadership capacity as a human-skills system.
    The full speech argues that business is a human enterprise and that active listening, feedback, empathy, confrontation, and difficult conversations should be trained as seriously as technical skills. Infinite-minded organizations need leaders who can maintain trust, not only managers who can track numbers.
 
+20. Define standards of being, not only targets.
+   The Sinek-Yaeger conversation adds Wooden's coaching model: the leader's job is to define how people should behave while pursuing excellence. Championships and quarters are downstream scoreboards; team culture is built through rules, gratitude, ego management, and equal application of standards.
+
+21. Make appreciation and presence structural.
+   The same source adds that love, gratitude, mentorship, and family presence cannot remain vague intentions. They become real through repeated letters, recognition rituals, time given to mentees, profit-sharing symbols, and calendar constraints that protect what leaders claim to value.
+
 # Basis
 
 - Full speech: [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
+- Sinek and Yaeger conversation: [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]
 - New Inc. overview: [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
 - Life-success source: [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
 - Main source: [[wiki/sources/2026-04-10-simon-sinek-finite-vs-infinite-games|Simon Sinek Finite vs Infinite Games]]
@@ -157,6 +166,7 @@ The current source base supports a broader model:
 - The Inc. source overlaps with the 21st-century overview but is stronger on what Sinek is arguing against: shareholder supremacy, quarterly target management, legal-minimum ethics, mass layoffs, and incumbent protection of current revenue streams.
 - The life-success source overlaps with the personal legacy layer but is stronger on Sinek's own path: `why` alignment, idea testing, organic spread, TEDx as lagging scale, and success as momentum beyond the individual.
 - The full-speech source overlaps with the complete five-practices branch but is stronger on implementation: trust/performance measurement, dials instead of absolute goals, human-skills training, Great Resignation implications, and crisis command-and-control as trust-dependent.
+- The Sinek-Yaeger source overlaps with the trust-centered branch but is stronger on coaching examples, standards of being, appreciation rituals, mentorship, employee-first economics, and the family-presence test.
 - The newest Simon conversation narrows the distance between the two pages: infinite-minded leadership now looks less like abstract horizon talk and more like concrete care, coaching, feedback, and reward design.
 - The newest crisis-of-meaning source widens the framework beyond formal leadership: infinite-minded living now includes not only long-horizon institutions, but the human infrastructure of friendship, attunement, accountability, and purpose that keeps achievement from collapsing into emptiness.
 - The war source extends the same framework into statecraft: it is strongest on quagmire, policy predictability, and the distinction between exhausting one opponent and ending the larger game.
@@ -182,6 +192,7 @@ The current source base supports a broader model:
 - The newest source adds another unresolved issue: the framework is now stronger on belonging and friendship, but still needs more concrete institutional patterns for rebuilding meaning in atomized environments rather than only diagnosing the loss.
 - The life-success source adds a personal-purpose gap: Sinek's one-`why` model is useful, but the branch needs counterpoints on whether purpose is discovered as a stable essence, constructed through commitments, or revised across life stages.
 - The full-speech source adds a target-governance gap: it is useful to call goals adjustable dials, but leaders still need clear rules for when dialing back protects quality versus when it excuses weak execution.
+- The Sinek-Yaeger source adds a standards-governance gap: the framework needs better modern guidance for making behavioral standards measurable enough to guide culture without reducing character to vague manager preference.
 
 # Related Pages
 
@@ -191,6 +202,7 @@ The current source base supports a broader model:
 - [[wiki/concepts/leadership/existential-flexibility|Existential Flexibility]]
 - [[wiki/concepts/leadership/worthy-rival|Worthy Rival]]
 - [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/leadership/standards-of-being|Standards of Being]]
 - [[wiki/concepts/leadership/friendship-as-growth-pact|Friendship as Growth Pact]]
 - [[wiki/concepts/leadership/leadership|Leadership]]
 - [[wiki/concepts/business/business-strategy|Business Strategy]]
@@ -204,6 +216,7 @@ The current source base supports a broader model:
 - [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
 - [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
 - [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]
 - [[wiki/sources/2026-04-21-courage-to-lead-the-5-practices-simon-sinek|Courage to Lead - The 5 Practices (Simon Sinek)]]
 - [[wiki/sources/2026-04-21-existential-flexibility-the-5-practices-simon-sinek|Existential Flexibility - The 5 Practices (Simon Sinek)]]
 - [[wiki/sources/2026-04-21-worthy-rival-the-5-practices-simon-sinek|Worthy Rival - The 5 Practices (Simon Sinek)]]

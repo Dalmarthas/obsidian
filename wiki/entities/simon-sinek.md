@@ -11,6 +11,7 @@ tags:
   - trust
   - culture
 source_pages:
+  - wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should.md
   - wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek.md
   - wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success.md
   - wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong.md
@@ -34,6 +35,9 @@ source_pages:
   - wiki/sources/2026-04-10-simon-sinek-golden-circle-framework.md
   - wiki/sources/2026-04-10-simon-sinek-incomplete-success-metrics.md
 related:
+  - wiki/entities/don-yaeger.md
+  - wiki/entities/john-wooden.md
+  - wiki/concepts/leadership/standards-of-being.md
   - wiki/concepts/leadership/courage-to-lead.md
   - wiki/concepts/leadership/existential-flexibility.md
   - wiki/concepts/leadership/worthy-rival.md
@@ -78,6 +82,7 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
 - The new 21st-century overview source integrates the five practices into one narrative and adds several cross-practice refinements: finite versus infinite game structure, Just Cause versus `why`, courage as a social net, consistency over intensity, and legacy as human impact beyond one's tenure.
 - The new Inc. source reinforces that integration while sharpening the critique target: shareholder primacy, quarterly target management, legal-minimum ethics, mass layoffs, rank-and-yank, and incumbent protection of current revenue streams are presented as finite behaviors that damage trust and adaptability.
 - The new full-speech source deepens the same branch with implementation detail: goals as adjustable dials, trust-performance measurement, human-skills training, difficult-conversation scripts, junior hotshot listening, command-and-control as trust-dependent crisis mode, and the Great Resignation as a correction against disposable treatment of workers.
+- The new Don Yaeger conversation adds a coaching-and-mentorship layer: people-first leadership is reinforced through Wooden-style standards of being, systematic appreciation, employee-first virtuous cycles, real mentorship as time-giving, and family presence as an integrity test rather than a private side issue.
 - He now also deepens the moral-protective layer through the `circle of safety`: leadership exists to make people feel protected enough to trust, cooperate, and sacrifice for one another under pressure.
 - The new `Leaders Eat Last` source deepens the branch again by tying trust and sacrifice to incentive design: target-chasing, status hunger, and fear can be trained by the system just as surely as loyalty and mutual protection can.
 - He now also adds a broader meaning-and-friendship layer: purpose is not the same as goals, accountability is a route out of helplessness, and human flourishing depends on relationships where people grow, grieve, and tell the truth together.
@@ -152,9 +157,15 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
   - ask whether trust is measured beside performance
   - ask whether leaders are trained in human skills before being made responsible for people
   - ask whether crisis authority is backed by pre-existing trust
+- The new Yaeger conversation adds a standards-and-appreciation audit:
+  - ask whether the team has standards of being, not only performance targets
+  - ask whether star performers are held to the same behavioral standard as everyone else
+  - ask whether recognition reaches the people who make the visible win possible
+  - ask whether appreciation, mentorship, and family presence are built into repeated routines rather than left as intentions
 
 # Related Pages
 
+- [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]
 - [[wiki/sources/2026-04-10-simon-sinek-at-equinix-connect-2025|Simon Sinek at Equinix Connect 2025]]
 - [[wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century|The Infinite Game - How to Lead in the 21st Century]]
 - [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
@@ -184,6 +195,7 @@ Simon Sinek enters this vault as a leadership and purpose teacher focused here o
 - [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]]
 - [[wiki/concepts/leadership/existential-flexibility|Existential Flexibility]]
 - [[wiki/concepts/leadership/worthy-rival|Worthy Rival]]
+- [[wiki/concepts/leadership/standards-of-being|Standards of Being]]
 - [[wiki/concepts/leadership/friendship-as-growth-pact|Friendship as Growth Pact]]
 - [[wiki/concepts/leadership/trust-performance-matrix|Trust-Performance Matrix]]
 - [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]

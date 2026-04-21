@@ -375,10 +375,12 @@ Expected behavior:
 2. Prefer `wiki/concepts/` and `wiki/syntheses/` as the primary answer substrate.
 3. Open the most relevant wiki pages.
 4. Use `wiki/sources/` or `raw/inbox/` only when needed to verify details, preserve disagreements, or fill gaps that the compiled pages do not yet cover.
-5. Synthesize an answer from existing wiki content.
-6. If the answer creates durable insight as a preserved answer to the user's question, file it into `wiki/queries/`. If the answer instead improves reusable cross-source knowledge, update `wiki/syntheses/`, concept pages, or entity pages as appropriate.
-7. Update `index.md` if a new durable page was created.
-8. Append to `log.md` when the result materially changes the vault.
+5. Never use web search, internet browsing, external live lookup, or non-vault sources to answer a query unless the user explicitly overrides this rule for that request.
+6. If the answer cannot be found in `index.md`, `wiki/`, `raw/inbox/`, or other local vault files, say clearly that no answer was found within the wiki/vault and stop rather than filling the gap from the web.
+7. Synthesize an answer from existing wiki content only.
+8. If the answer creates durable insight as a preserved answer to the user's question, file it into `wiki/queries/`. If the answer instead improves reusable cross-source knowledge, update `wiki/syntheses/`, concept pages, or entity pages as appropriate.
+9. Update `index.md` if a new durable page was created.
+10. Append to `log.md` when the result materially changes the vault.
 
 ### Lint workflow
 

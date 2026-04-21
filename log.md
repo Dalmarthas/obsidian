@@ -5789,3 +5789,49 @@ Summary:
 - Ingested a communication source on three respect-eroding habits: absolute language, overexplaining, and poorly framed first seconds of a conversation.
 - Added a dedicated source page and integrated the reusable material into the existing assertiveness, effective communication, Jefferson Fisher, and conflict-frame-control branches rather than creating a near-duplicate concept page.
 - Updated the index and moved the canonical raw source into the inbox archive.
+
+## [2026-04-21 20:50] ingest | The Leadership Advice Nobody Follows But Everyone Should
+
+Pages touched:
+- [[raw/inbox/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]
+- [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]
+- [[wiki/entities/simon-sinek|Simon Sinek]]
+- [[wiki/entities/don-yaeger|Don Yaeger]]
+- [[wiki/entities/john-wooden|John Wooden]]
+- [[wiki/concepts/leadership/standards-of-being|Standards of Being]]
+- [[wiki/concepts/leadership/leadership|Leadership]]
+- [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/trust-based-collaboration|Trust-Based Collaboration]]
+- [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/business/mentorship|Mentorship]]
+- [[wiki/syntheses/leadership/simon-sinek-infinite-game-framework|Simon Sinek Infinite Game Framework]]
+- [[wiki/syntheses/leadership/simon-sinek-trust-centered-leadership-framework|Simon Sinek Trust-Centered Leadership Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a Simon Sinek and Don Yaeger leadership conversation centered on John Wooden, standards of being, appreciation rituals, employee-first virtuous cycles, mentorship as time-giving, and family presence as a values constraint.
+- Added a dedicated source page, new Don Yaeger and John Wooden entity pages, and a new Standards of Being concept page.
+- Integrated the reusable material into existing Sinek, leadership, high-performance team culture, trust-based collaboration, infinite-game, mentorship, and Sinek framework pages rather than leaving the ideas trapped in a source summary.
+- Updated the index and moved the canonical raw source into the inbox archive.
+
+## [2026-04-22 02:03] query | How Many Index Cards For A Full Screenplay
+
+Pages touched:
+- [[wiki/queries/how-many-index-cards-for-a-full-screenplay|How Many Index Cards For A Full Screenplay]]
+- [[index|index]]
+
+Summary:
+- Added a durable query answer clarifying that the vault's Sorkin summaries record index cards on a cork board but do not preserve a fixed full-script card count.
+- Preserved the practical screenplay scale heuristic as roughly `40-50` cards while distinguishing it from Sorkin's source-grounded process notes and linking the relevant scene-card, outlining, and Sorkin entries.
+
+## [2026-04-22 02:08] admin | Query Workflow Is Wiki-Only
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[wiki/queries/how-many-index-cards-for-a-full-screenplay|How Many Index Cards For A Full Screenplay]]
+- [[log|log]]
+
+Summary:
+- Updated the query workflow to explicitly forbid web search, internet browsing, external live lookup, or non-vault sources during query mode unless the user explicitly overrides the rule for that request.
+- Added the required fallback behavior: if the answer is not found in local vault files, return that no answer was found within the wiki/vault instead of filling the gap externally.
+- Removed the external Screenwriting.io citation from the preserved screenplay index-card query page so the page is grounded only in local vault material.

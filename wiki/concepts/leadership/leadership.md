@@ -9,6 +9,7 @@ tags:
   - leadership
   - decision-making
 source_pages:
+  - wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should.md
   - wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek.md
   - wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success.md
   - wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong.md
@@ -32,6 +33,7 @@ source_pages:
   - wiki/sources/2026-04-21-trusting-teams-the-5-practices.md
   - wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work.md
 related:
+  - wiki/concepts/leadership/standards-of-being.md
   - wiki/concepts/leadership/courage-to-lead.md
   - wiki/concepts/leadership/leadership-vs-management.md
   - wiki/concepts/leadership/infinite-game-mindset.md
@@ -102,6 +104,7 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - The new Sinek Inc. source adds an anti-finite-management version: leadership fails when it treats reporting cycles, shareholder primacy, layoffs, or rank-and-yank as neutral management tools while ignoring their effects on trust, loyalty, and adaptability.
 - The new Sinek life-success source adds a humility-through-help version: leadership weakens when the boss performs certainty and strengthens when the leader can admit not knowing, ask for help, and let others' expertise become usable.
 - The new Sinek full-speech source adds a human-skills training version: leadership fails when organizations promote technical performers into responsibility for people without training listening, feedback, empathy, confrontation, and difficult conversations.
+- The new Sinek and Yaeger conversation adds a standards-of-being version: leadership is not only setting targets, but defining how people must behave while pursuing them, applying those standards to stars, and making recognition of unseen contribution part of the operating rhythm.
 - The new Ted Lasso source adds a case-based coaching version: leadership becomes visible in names remembered, credit shared, feedback sought, individual motives understood, and optimism kept credible by naming what is broken.
 
 # Source Comparisons
@@ -146,12 +149,14 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - The Inc. source adds a corporate-governance tension: rejecting shareholder primacy is rhetorically clean, but leaders still need concrete governance, financing, and board designs that let them resist finite score pressure without becoming vague or irresponsible.
 - The life-success source adds a vulnerability tension: help-seeking can unlock trust, but leaders still need to hold responsibility clearly enough that humility does not become avoidance.
 - The full-speech source adds a crisis-mode tension: command-and-control may be necessary in emergencies, but it depends on prior trust and should not become the normal operating style by default.
+- The Yaeger conversation adds a standards tension: equal rules can build culture, but leaders still need to separate useful, reasoned behavioral standards from outdated or symbolic rules that no longer serve the team.
 - The Courage to Lead source adds a governance tension: individual courage is not enough if boards, incentives, and capital-market expectations keep punishing ethical long-horizon choices.
 - The Ted Lasso source adds a transfer tension: fictional coaching examples are memorable, but the vault should treat them as behavior patterns to test rather than proof that warmth, visibility, and optimism solve deeper structural problems.
 
 # Related Pages
 
 - [[wiki/concepts/leadership/infinite-game-mindset|Infinite-Game Mindset]]
+- [[wiki/concepts/leadership/standards-of-being|Standards of Being]]
 - [[wiki/concepts/leadership/courage-to-lead|Courage to Lead]]
 - [[wiki/concepts/leadership/leadership-vs-management|Leadership vs. Management]]
 - [[wiki/concepts/leadership/diverse-teams|Diverse Teams]]
@@ -185,6 +190,7 @@ Leadership is the practice of setting direction, making decisions, organizing pe
 - [[wiki/sources/2026-04-21-simon-sinek-explains-what-almost-every-leader-gets-wrong|Simon Sinek Explains What Almost Every Leader Gets Wrong]]
 - [[wiki/sources/2026-04-21-simon-sinek-how-to-make-your-life-a-success|Simon Sinek How to Make Your Life A Success]]
 - [[wiki/sources/2026-04-21-business-is-an-infinite-game-full-speech-simon-sinek|Business is an INFINITE GAME Full Speech (Simon Sinek)]]
+- [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]
 - [[wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work|Ted Lasso Leadership Lessons That Work]]
 
 

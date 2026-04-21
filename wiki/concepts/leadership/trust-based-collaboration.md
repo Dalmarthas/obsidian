@@ -9,6 +9,7 @@ tags:
   - collaboration
   - trust
 source_pages:
+  - wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should.md
   - wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century.md
   - wiki/sources/2026-04-12-the-importance-of-character-in-leadership-jordan-peterson.md
   - wiki/sources/2026-04-12-jordan-peterson-guide-to-leadership.md
@@ -35,6 +36,7 @@ source_pages:
   - wiki/sources/2026-04-21-trusting-teams-the-5-practices.md
   - wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work.md
 related:
+  - wiki/concepts/leadership/standards-of-being.md
   - wiki/concepts/filmmaking/filmmaking.md
   - wiki/concepts/filmmaking/casting-and-performance-direction.md
   - wiki/concepts/leadership/diverse-teams.md
@@ -128,6 +130,11 @@ Trust-based collaboration is the practice of designing work so that other people
   - people show courage more readily when they believe others will protect, support, or reciprocate
   - trust is therefore built before crisis through ordinary consistency, not only by demanding bravery in crisis
   - over-control weakens trust by stripping local agency and increasing stress
+- The Sinek-Yaeger source adds an appreciation-and-standards version:
+  - trust grows when leaders notice specific contributions rather than only final outcomes
+  - gratitude can be built into routine behavior, as in Wooden's `thank the passer` habit
+  - standards are more trustworthy when leaders explain their reasons and apply them to star performers
+  - employee-first loops become credible when upside, communication, and support are shared materially rather than only promised
 
 # Source Comparisons
 
@@ -154,6 +161,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - The new `Trusting Teams` source focuses on trust inside daily leadership environment: before trust can become a selection criterion or a noble value, the actual workplace has to make vulnerability survivable.
 - The Ted Lasso source focuses on trust inside small recognition and ownership moments: a leader builds collaboration by noticing ignored people, sharing credit, and creating low-friction ways for truthful feedback to reach power.
 - The Sinek 21st-century overview focuses on trust as the social infrastructure for courage: the net must exist before people are asked to make principled moves under pressure.
+- The Sinek-Yaeger source focuses on trust as repeated appreciation plus equal standards: people trust a culture more when contribution is noticed and no one is too talented to be held to the team norm.
 
 # Tensions / Open Questions
 
@@ -173,6 +181,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - The new `Trusting Teams` source adds an accountability ambiguity: psychological safety is necessary for truth-telling, but the branch still needs clearer operating rules for costly mistakes, chronic underperformance, and regulated environments where judgment must coexist with procedure.
 - The Ted Lasso source adds a credit-allocation ambiguity: giving others the stage builds ownership, but leaders still need to keep accountability legible so distributed credit does not become fuzzy responsibility.
 - The Sinek overview adds a loyalty-pressure ambiguity: a strong trust net can support courage, but it can also create group pressure if people are expected to take risks for the collective without real consent or protection.
+- The Sinek-Yaeger source adds an appreciation ambiguity: noticing what is good can improve trust, but it must not become a way to avoid naming real problems or enforcing standards.
 
 # Related Pages
 
@@ -186,6 +195,7 @@ Trust-based collaboration is the practice of designing work so that other people
 - [[wiki/concepts/others/community-based-conservation|Community-Based Conservation]]
 - [[wiki/concepts/business/creative-pitching|Creative Pitching]]
 - [[wiki/concepts/leadership/high-performance-team-culture|High-Performance Team Culture]]
+- [[wiki/concepts/leadership/standards-of-being|Standards of Being]]
 - [[wiki/concepts/leadership/friendship-as-growth-pact|Friendship as Growth Pact]]
 - [[wiki/concepts/communication/tactical-empathy|Tactical Empathy]]
 - [[wiki/syntheses/cross-source/human-centered-change-models|Human-Centered Change Models]]
@@ -194,5 +204,6 @@ Trust-based collaboration is the practice of designing work so that other people
 - [[wiki/sources/2026-04-19-over-100-years-of-leadership-advice-in-97-minutes|Over 100 Years of Leadership Advice in 97 Minutes]]
 - [[wiki/sources/2026-04-21-trusting-teams-the-5-practices|Trusting Teams The 5 Practices]]
 - [[wiki/sources/2026-04-21-the-infinite-game-how-to-lead-in-the-21st-century|The Infinite Game - How to Lead in the 21st Century]]
+- [[wiki/sources/2026-04-21-the-leadership-advice-nobody-follows-but-everyone-should|The Leadership Advice Nobody Follows But Everyone Should]]
 - [[wiki/syntheses/leadership/ted-lasso-leadership-framework|Ted Lasso Leadership Framework]]
 - [[wiki/sources/2026-04-21-ted-lasso-leadership-lessons-that-work|Ted Lasso Leadership Lessons That Work]]
