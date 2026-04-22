@@ -41,7 +41,8 @@
     "/",
     "//Untitled",
     "//wiki/wiki/concepts/wiki/concepts/communication",
-    "//wiki"
+    "//wiki",
+    "//raw"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
