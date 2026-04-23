@@ -2,7 +2,7 @@
 type: concept
 title: Text and Subtext
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-23
 status: active
 tags:
   - concept
@@ -10,11 +10,13 @@ tags:
   - screenwriting
   - storytelling
 source_pages:
+  - wiki/sources/2026-04-23-how-to-write-vividly-well-michael-connelly.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-screenwriting-roundtable-on-dialogue-craft.md
   - wiki/sources/2026-04-09-succession-writers-room-methodology.md
 related:
+  - wiki/entities/michael-connelly.md
   - wiki/concepts/filmmaking/dialogue-as-music.md
   - wiki/concepts/filmmaking/visual-storytelling-first.md
   - wiki/concepts/filmmaking/audience-as-collaborator.md
@@ -41,6 +43,11 @@ Text and subtext is the distinction between what characters literally say and wh
 - The dialogue roundtable adds two useful refinements: misunderstanding itself can be a technique, and subtext gets stronger when visual action and scene objective are doing more of the storytelling load.
 - Across both sources, better dialogue lets implication, performance, silence, and scene context carry part of the meaning load.
 - The `Succession` source sharpens the self-deception layer: characters often speak from a false story about themselves, so the scene's force comes from the tension between the spoken line, the hidden motive, and the status game underneath.
+- The Connelly source adds a fiction-dialogue layer:
+  - dialogue should be cut until it carries new information or character pressure
+  - surface conversations can hide insecurity, aging, resentment, or love
+  - readers should be trusted to infer the deeper conflict without every implication being explained
+  - silence, nods, and laconic habits can become part of the subtext system
 
 # Source Comparisons
 
@@ -48,6 +55,7 @@ Text and subtext is the distinction between what characters literally say and wh
 - Sorkin is strongest on dramatic concealment through velocity and pressure: the information is there, but it is not served as inert explanation.
 - The dialogue roundtable is strongest on practical scene design: if characters are saying exactly what they mean, the writer should often look first at missing objective, missing conflict, or missing visual storytelling.
 - `Succession` is strongest on `truth under the truth`: dialogue becomes richer when the writer tracks what the character cannot admit to themselves as well as what they are hiding from everyone else.
+- Connelly is strongest on compressed prose-fiction dialogue: his journalistic quote discipline makes dialogue earn its space by adding information, character, or subtext that exposition has not already supplied.
 
 # Tensions / Open Questions
 
@@ -55,12 +63,15 @@ Text and subtext is the distinction between what characters literally say and wh
 - Naturalism is not the only goal; highly stylized dialogue can still preserve subtext if the underlying pressure remains legible.
 - Persistent misunderstanding can add realism and conflict, but if overused it can start to feel like writerly stalling instead of organic human friction.
 - Self-deception also has limits: if every character is always opaque, the audience can lose track of emotional orientation instead of feeling invited into complexity.
+- The Connelly source adds an explicitness tension: editors or screen expectations may push toward clarification, while the writer may preserve power by trusting readers to do some inferential work.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/entities/michael-connelly|Michael Connelly]]
 - [[wiki/concepts/filmmaking/visual-storytelling-first|Visual Storytelling First]]
 - [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
 - [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
 - [[wiki/syntheses/filmmaking/screenwriting-dialogue-craft-framework|Screenwriting Dialogue Craft Framework]]
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
+- [[wiki/syntheses/filmmaking/michael-connelly-crime-fiction-framework|Michael Connelly Crime Fiction Framework]]

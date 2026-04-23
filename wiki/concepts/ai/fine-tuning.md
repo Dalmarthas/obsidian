@@ -2,7 +2,7 @@
 type: concept
 title: Fine-Tuning
 created: 2026-04-09
-updated: 2026-04-09
+updated: 2026-04-23
 status: active
 tags:
   - ai
@@ -11,8 +11,10 @@ tags:
 source_pages:
   - wiki/sources/2026-04-09-google-beginner-ai-course
   - wiki/sources/2026-04-09-riceco-prompt-framework
+  - wiki/sources/2026-04-23-how-large-language-models-work
 related:
   - wiki/entities/google
+  - wiki/concepts/ai/foundation-models
   - wiki/concepts/ai/large-language-models
   - wiki/concepts/ai/generative-ai
   - wiki/concepts/ai/machine-learning
@@ -35,6 +37,7 @@ This is the concept that connects large general-purpose models to specific real-
 - [[wiki/sources/2026-04-09-google-beginner-ai-course]] presents fine-tuning as the step that turns broadly pre-trained LLMs into more specialized systems for domains like healthcare, retail, and finance.
 - The source also uses fine-tuning to explain how smaller organizations can build on top of general-purpose foundation models instead of training everything from scratch.
 - [[wiki/sources/2026-04-09-riceco-prompt-framework]] sharpens the contrast: many practical gains can come from better prompting, examples, constraints, and formatting without touching the model weights at all.
+- [[wiki/sources/2026-04-23-how-large-language-models-work]] reinforces the specialization logic with concrete business framing: a broad base model becomes more useful when adapted to a company's support data, documentation, tickets, or other domain-specific workflows.
 
 # Tensions / Open Questions
 
@@ -44,6 +47,7 @@ This is the concept that connects large general-purpose models to specific real-
 # Related Pages
 
 - [[wiki/entities/google|Google]]
+- [[wiki/concepts/ai/foundation-models|Foundation Models]]
 - [[wiki/concepts/ai/large-language-models|Large Language Models]]
 - [[wiki/concepts/ai/generative-ai|Generative AI]]
 - [[wiki/concepts/ai/machine-learning|Machine Learning]]

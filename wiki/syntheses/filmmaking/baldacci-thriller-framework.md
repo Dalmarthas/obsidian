@@ -2,7 +2,7 @@
 type: synthesis
 title: Baldacci Thriller Framework
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-23
 status: active
 tags:
   - synthesis
@@ -17,6 +17,8 @@ basis:
   - wiki/concepts/filmmaking/writing-process-and-revision.md
 related:
   - wiki/entities/david-baldacci.md
+  - wiki/entities/michael-connelly.md
+  - wiki/syntheses/filmmaking/michael-connelly-crime-fiction-framework.md
 ---
 
 # Question
@@ -47,6 +49,8 @@ The current source base supports a six-part model:
 
 The distinctive Baldacci layer is professional stamina: treat thriller writing as a long craft career built from disciplined observation, research, and revision.
 
+The later Connelly source now gives this framework a useful comparison point: Baldacci is strongest on commercial thriller stamina, plausibility, chapter propulsion, and editor collaboration, while Connelly is strongest on crime fiction as character plus city, with telling details and moral cost carrying more of the craft burden.
+
 # Basis
 
 - Main source: [[wiki/sources/2026-04-08-david-baldacci-masterclass-summary|David Baldacci Masterclass Summary]]
@@ -55,12 +59,14 @@ The distinctive Baldacci layer is professional stamina: treat thriller writing a
 # Gaps
 
 - This framework rests on a secondary summary rather than primary class material.
-- The vault still needs a direct comparison page between Baldacci and Dan Brown on suspense and research philosophy.
+- The vault still needs a direct comparison page between Baldacci, Dan Brown, and Michael Connelly on suspense, research philosophy, city, and character.
 - The branch would benefit from actual chapter excerpts or manuscripts to test these pacing claims on the page.
 
 # Related Pages
 
 - [[wiki/entities/david-baldacci|David Baldacci]]
+- [[wiki/entities/michael-connelly|Michael Connelly]]
 - [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]]
 - [[wiki/concepts/filmmaking/immersive-research|Immersive Research]]
 - [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
+- [[wiki/syntheses/filmmaking/michael-connelly-crime-fiction-framework|Michael Connelly Crime Fiction Framework]]

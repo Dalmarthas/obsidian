@@ -10,6 +10,7 @@ tags:
   - storytelling
   - television
 source_pages:
+  - wiki/sources/2026-04-23-how-to-write-vividly-well-michael-connelly.md
   - wiki/sources/2026-04-09-29-common-screenwriting-mistakes.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
@@ -34,6 +35,7 @@ source_pages:
   - wiki/sources/2026-04-09-studio-script-reader-strengths-and-weaknesses.md
   - wiki/sources/2026-04-21-storyworthy-by-matthew-dicks-core-message.md
 related:
+  - wiki/concepts/filmmaking/telling-details.md
   - wiki/concepts/filmmaking/acting-craft.md
   - wiki/concepts/filmmaking/character-interviews.md
   - wiki/concepts/filmmaking/hero-goal-sequence.md
@@ -98,6 +100,11 @@ Character-driven storytelling is the idea that story movement should arise from 
   protagonists need enough specificity and pressure-bearing capacity to carry the story, and antagonists need enough force and originality that the conflict does not collapse into stock friction.
 - The Matthew Dicks source adds a personal-storytelling version of character change:
   the protagonist of the story may simply be the speaker, but the same rule holds: the story becomes meaningful when the audience can locate the speaker's before-state, the pressured experience, and the moment that changes self-understanding.
+- The Connelly source adds a crime-fiction version:
+  - readers stay for characters more than puzzles
+  - plot, setting, research, names, and procedural mechanics should all sell the reality of the person
+  - one telling detail can reveal character pressure more efficiently than explanation
+  - crime protagonists are defined not only by solving cases, but by what repeated contact with darkness does to them
 
 # Source Comparisons
 
@@ -125,6 +132,7 @@ Character-driven storytelling is the idea that story movement should arise from 
 - The current studio-reader source is strongest on first-pass dramatic usability:
   can the lead sustain attention, and can the opposing force create enough sweat that the reader believes the story has real pressure?
 - The Matthew Dicks source is strongest on autobiographical compression: character is revealed through the speaker's own five-second realization rather than through a full fictional arc.
+- Connelly is strongest on character grounded in real-world pressure: detective, lawyer, city, bureaucracy, addiction, aging, and moral cost all become lenses for making a crime-fiction character feel real.
 
 # Tensions / Open Questions
 
@@ -144,10 +152,12 @@ Character-driven storytelling is the idea that story movement should arise from 
 - The current Nolan source sharpens another tension: philosophically charged characters can deepen the film, but they can also flatten into symbolic chess pieces if the script stops grounding them in believable emotional behavior.
 - The current `29 mistakes` source sharpens another tension: writers can think they have built a deep protagonist because the backstory feels painful or meaningful, while the actual pages still hide the character from vulnerability, conflict, and visible desire.
 - The Dicks source sharpens the mirror-image tension for personal stories: speakers can recount an event with colorful detail while never revealing what changed inside them.
+- The Connelly source sharpens a genre tension: a crime plot can look active while the central character remains emotionally static unless the writer tracks the cost of exposure to darkness.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/acting-craft|Acting Craft]]
+- [[wiki/concepts/filmmaking/telling-details|Telling Details]]
 - [[wiki/concepts/filmmaking/character-interviews|Character Interviews]]
 - [[wiki/concepts/filmmaking/hero-goal-sequence|Hero Goal Sequence]]
 - [[wiki/concepts/filmmaking/intention-and-obstacle|Intention and Obstacle]]
@@ -166,3 +176,4 @@ Character-driven storytelling is the idea that story movement should arise from 
 - [[wiki/entities/succession|Succession]]
 - [[wiki/syntheses/filmmaking/succession-writing-framework|Succession Writing Framework]]
 - [[wiki/syntheses/filmmaking/matthew-dicks-personal-storytelling-framework|Matthew Dicks Personal Storytelling Framework]]
+- [[wiki/syntheses/filmmaking/michael-connelly-crime-fiction-framework|Michael Connelly Crime Fiction Framework]]

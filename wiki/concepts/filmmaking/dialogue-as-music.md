@@ -9,6 +9,7 @@ tags:
   - dialogue
   - screenwriting
 source_pages:
+  - wiki/sources/2026-04-23-how-to-write-vividly-well-michael-connelly.md
   - wiki/sources/2026-04-07-aaron-sorkin-masterclass-complete-summary.md
   - wiki/sources/2026-04-09-aaron-sorkin-on-the-social-network.md
   - wiki/sources/2026-04-08-shonda-rhimes-tv-writing-and-showrunning-masterclass-summary.md
@@ -18,6 +19,7 @@ source_pages:
   - wiki/sources/2026-04-09-succession-writers-room-methodology.md
   - wiki/sources/2026-04-21-how-to-become-a-master-storyteller.md
 related:
+  - wiki/entities/michael-connelly.md
   - wiki/concepts/filmmaking/screenwriting.md
   - wiki/concepts/filmmaking/text-and-subtext.md
   - wiki/concepts/filmmaking/visual-storytelling-first.md
@@ -57,6 +59,7 @@ Dialogue as music is the view that dramatic speech should be judged not only by 
 - The `Succession` source adds a harder authenticity test: jokes should not feel portable between characters, and funny lines should emerge from status struggle, self-deception, and the specific social texture of the scene.
 - The current short-form storytelling source adds a creator-script version: put each sentence on its own line, inspect the right edge for varied sentence length, and revise monotone cadence until the spoken script has rhythm.
 - It also generalizes musicality beyond dialogue into voiceover and direct-to-camera delivery.
+- The Connelly source adds a spare-crime-fiction version: dialogue often gains force by being short, character-specific, and information-bearing. A laconic nod, repeated silence, or distinct verbal habit can be as characterizing as a lyrical line.
 
 # Source Comparisons
 
@@ -68,6 +71,7 @@ Dialogue as music is the view that dramatic speech should be judged not only by 
 - The dialogue roundtable is strongest on practical workshop craft: cut ruthlessly, keep exposition off the nose, and use read-aloud passes to judge playability rather than merely literary neatness.
 - `Succession` is strongest on anti-transferability: a line becomes more believable and funnier when it could only have come from this character in this room under this pressure.
 - The current short-form source is strongest on practical cadence diagnostics for spoken creator scripts: sentence-length variation, read-aloud testing, and avoiding a uniform "stuck record" feel.
+- Connelly is strongest on compression rather than flourish: dialogue should not imitate all of real speech, but should keep the line that advances story, reveals character, or lets subtext register.
 
 # Tensions / Open Questions
 
@@ -76,10 +80,12 @@ Dialogue as music is the view that dramatic speech should be judged not only by 
 - Dialogue can also become too lean if cutting removes the very texture, asymmetry, or lived rhythm that made the scene feel human in the first place.
 - Character-specific humor can also fail if the writer mistakes cruelty, profanity, or insult density for actual voice precision.
 - Rhythm can become decorative if the story beat underneath it has no conflict, turn, or information value.
+- The Connelly source sharpens a lean-dialogue risk: compression can become flatness if the writer cuts away the specific rhythm or silence that actually reveals the person.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/screenwriting|Screenwriting]]
+- [[wiki/entities/michael-connelly|Michael Connelly]]
 - [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
 - [[wiki/concepts/filmmaking/visual-storytelling-first|Visual Storytelling First]]
 - [[wiki/concepts/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
@@ -89,3 +95,4 @@ Dialogue as music is the view that dramatic speech should be judged not only by 
 - [[wiki/syntheses/filmmaking/shonda-tv-writing-and-showrunning-framework|Shonda TV Writing and Showrunning Framework]]
 - [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
 - [[wiki/syntheses/filmmaking/screenwriting-dialogue-craft-framework|Screenwriting Dialogue Craft Framework]]
+- [[wiki/syntheses/filmmaking/michael-connelly-crime-fiction-framework|Michael Connelly Crime Fiction Framework]]

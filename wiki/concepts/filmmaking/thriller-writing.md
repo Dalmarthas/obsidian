@@ -2,7 +2,7 @@
 type: concept
 title: Thriller Writing
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-23
 status: active
 tags:
   - concept
@@ -10,9 +10,11 @@ tags:
   - fiction
   - thriller
 source_pages:
+  - wiki/sources/2026-04-23-how-to-write-vividly-well-michael-connelly.md
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
 related:
+  - wiki/concepts/filmmaking/telling-details.md
   - wiki/concepts/filmmaking/contract-clock-crucible.md
   - wiki/concepts/filmmaking/question-and-answer-structure.md
   - wiki/concepts/filmmaking/protect-the-process.md
@@ -46,11 +48,17 @@ Thriller writing is the practice of building fast-moving fiction around danger, 
 - Moral grayness, world collision, and domain-specific research all intensify the genre's core tensions.
 - Brown's thriller advice overlaps with broader writing craft on setup, payoff, revision, and disciplined process.
 - Baldacci adds an equally strong model of immersive research, editor collaboration, and visual chapter pacing.
+- Connelly adds the crime-fiction branch:
+  - the murder investigation can become a way to study a city rather than only solve a puzzle
+  - the investigator's access across social layers lets the writer reveal institutions, neighborhoods, and moral pressure
+  - procedural detail should serve character and momentum
+  - darkness matters most through its cost to the people trying to confront it
 
 # Source Comparisons
 
 - Brown is strongest on suspense architecture: promises, answers, clocks, and crucibles.
 - Baldacci is strongest on commercial readability: big-hook openings, chapter pressure, plausibility, and tactical research.
+- Connelly is strongest on crime fiction as character plus city: vivid details, Los Angeles as social map, and moral contamination give the genre more than puzzle mechanics.
 - Both writers insist that speed without clarity fails, and that thriller momentum depends on serious structural control rather than adrenaline alone.
 
 # Tensions / Open Questions
@@ -58,10 +66,12 @@ Thriller writing is the practice of building fast-moving fiction around danger, 
 - How much of this framework is genre-specific and how much is simply good narrative design under another name?
 - Brown's methods are optimized for commercial propulsion; quieter literary forms may use pressure differently.
 - The branch now contains a useful tension between Brown's theory-heavy suspense model and Baldacci's more pragmatic, market-tested operating model.
+- Connelly adds a genre-focus tension: crime fiction can use murder to reveal society and morality, but repeated violence can become formulaic if the writer treats darkness as atmosphere instead of ethical pressure.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/contract-clock-crucible|Contract, Clock, Crucible]]
+- [[wiki/concepts/filmmaking/telling-details|Telling Details]]
 - [[wiki/concepts/filmmaking/question-and-answer-structure|Question-and-Answer Structure]]
 - [[wiki/concepts/filmmaking/protect-the-process|Protect the Process]]
 - [[wiki/concepts/filmmaking/immersive-research|Immersive Research]]
@@ -69,3 +79,4 @@ Thriller writing is the practice of building fast-moving fiction around danger, 
 - [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/syntheses/filmmaking/dan-brown-thriller-framework|Dan Brown Thriller Framework]]
 - [[wiki/syntheses/filmmaking/baldacci-thriller-framework|Baldacci Thriller Framework]]
+- [[wiki/syntheses/filmmaking/michael-connelly-crime-fiction-framework|Michael Connelly Crime Fiction Framework]]

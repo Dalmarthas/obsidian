@@ -10,7 +10,6 @@ kanban-plugin: board
 
 ## Game
 
-- [ ] Super Meat Boy 3d
 - [ ] VR
 - [ ] RDR 2
 - [ ] Requiem

@@ -5835,3 +5835,96 @@ Summary:
 - Updated the query workflow to explicitly forbid web search, internet browsing, external live lookup, or non-vault sources during query mode unless the user explicitly overrides the rule for that request.
 - Added the required fallback behavior: if the answer is not found in local vault files, return that no answer was found within the wiki/vault instead of filling the gap externally.
 - Removed the external Screenwriting.io citation from the preserved screenplay index-card query page so the page is grounded only in local vault material.
+
+## [2026-04-23 01:47] ingest | How to Write Vividly Well - Michael Connelly
+
+Pages touched:
+- [[raw/inbox/2026-04-23-how-to-write-vividly-well-michael-connelly|How to Write Vividly Well - Michael Connelly]]
+- [[wiki/sources/2026-04-23-how-to-write-vividly-well-michael-connelly|How to Write Vividly Well - Michael Connelly]]
+- [[wiki/entities/michael-connelly|Michael Connelly]]
+- [[wiki/concepts/filmmaking/telling-details|Telling Details]]
+- [[wiki/concepts/filmmaking/fiction-writing|Fiction Writing]]
+- [[wiki/concepts/filmmaking/thriller-writing|Thriller Writing]]
+- [[wiki/concepts/filmmaking/character-driven-storytelling|Character-Driven Storytelling]]
+- [[wiki/concepts/filmmaking/setting-as-character|Setting as Character]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/text-and-subtext|Text and Subtext]]
+- [[wiki/concepts/filmmaking/dialogue-as-music|Dialogue as Music]]
+- [[wiki/concepts/filmmaking/immersive-research|Immersive Research]]
+- [[wiki/syntheses/filmmaking/michael-connelly-crime-fiction-framework|Michael Connelly Crime Fiction Framework]]
+- [[wiki/syntheses/filmmaking/baldacci-thriller-framework|Baldacci Thriller Framework]]
+- [[index|index]]
+
+Summary:
+- Ingested a Michael Connelly craft source on vivid crime fiction through telling details, daily paper rewriting, character-first investigation, Los Angeles as social map, compressed dialogue, and the moral cost of confronting darkness.
+- Added a dedicated source page, a Michael Connelly entity page, a Telling Details concept page, and a Michael Connelly Crime Fiction Framework synthesis.
+- Integrated the reusable material into the existing fiction, thriller, character, setting, revision, dialogue, subtext, research, and Baldacci comparison branches.
+- Updated the index and moved the canonical raw source into the inbox archive.
+
+## [2026-04-23 15:14] ingest | Large Language Models Explained Briefly
+
+Pages touched:
+- [[raw/inbox/2026-04-23-large-language-models-explained-briefly|Large Language Models Explained Briefly]]
+- [[wiki/sources/2026-04-23-large-language-models-explained-briefly|Large Language Models Explained Briefly]]
+- [[wiki/concepts/ai/large-language-models|Large Language Models]]
+- [[wiki/syntheses/ai/llm-training-and-inference-overview|LLM Training and Inference Overview]]
+- [[index|index]]
+
+Summary:
+- Ingested a beginner-oriented AI source that explains LLMs through next-token prediction, backpropagation over large corpora, transformer attention, RLHF-style post-training, stochastic decoding, and model opacity.
+- Added a dedicated source page and a compiled AI synthesis page so the vault can now answer not only where LLMs sit in the stack, but also how their training and inference loop works at a mechanistic overview level.
+- Updated the canonical [[wiki/concepts/ai/large-language-models|Large Language Models]] page with the source's new evidence and adjusted the branch's open questions toward tokenization, context limits, retrieval, evaluation, and tool use.
+- Updated the index and moved the canonical raw source into the inbox archive.
+
+## [2026-04-23 15:18] ingest | How Large Language Models Work
+
+Pages touched:
+- [[raw/inbox/2026-04-23-how-large-language-models-work|How Large Language Models Work]]
+- [[wiki/sources/2026-04-23-how-large-language-models-work|How Large Language Models Work]]
+- [[wiki/concepts/ai/foundation-models|Foundation Models]]
+- [[wiki/concepts/ai/generative-ai|Generative AI]]
+- [[wiki/concepts/ai/large-language-models|Large Language Models]]
+- [[wiki/concepts/ai/fine-tuning|Fine-Tuning]]
+- [[wiki/syntheses/ai/ai-stack-overview|AI Stack Overview]]
+- [[index|index]]
+
+Summary:
+- Ingested a second beginner LLM overview that overlaps with the prior mechanistic explainer but adds a clearer `foundation model -> LLM -> GPT-style instance` hierarchy and a more explicit business-use layer.
+- Added a new [[wiki/concepts/ai/foundation-models|Foundation Models]] concept page so the AI branch can now distinguish broad reusable base models from the narrower LLM branch rather than leaving that distinction implicit.
+- Updated the generative-AI, large-language-models, fine-tuning, and AI-stack-overview pages so the branch now records self-supervised pre-training, foundation-model framing, and concrete organizational use cases like support automation, drafting, and code assistance.
+- Updated the index and moved the canonical raw source into the inbox archive.
+
+## [2026-04-23 15:46] ingest | Most Devs Don't Understand How LLM Tokens Work
+
+Pages touched:
+- [[raw/inbox/2026-04-23-most-devs-dont-understand-how-llm-tokens-work|Most Devs Don't Understand How LLM Tokens Work]]
+- [[wiki/sources/2026-04-23-most-devs-dont-understand-how-llm-tokens-work|Most Devs Don't Understand How LLM Tokens Work]]
+- [[wiki/concepts/ai/tokenization|Tokenization]]
+- [[wiki/concepts/ai/large-language-models|Large Language Models]]
+- [[wiki/syntheses/ai/llm-training-and-inference-overview|LLM Training and Inference Overview]]
+- [[wiki/syntheses/ai/llm-tokenization-and-cost-overview|LLM Tokenization and Cost Overview]]
+- [[index|index]]
+
+Summary:
+- Ingested an AI source focused on tokenization as the hidden layer between text and LLM computation, including provider-specific token counts, encoding/decoding, vocabulary-size tradeoffs, token billing, and the token penalty imposed on rarer languages or codebases.
+- Added a new [[wiki/concepts/ai/tokenization|Tokenization]] concept page and a new [[wiki/syntheses/ai/llm-tokenization-and-cost-overview|LLM Tokenization and Cost Overview]] synthesis so the branch now preserves token economics and tokenizer behavior as first-class compiled knowledge.
+- Updated the canonical [[wiki/concepts/ai/large-language-models|Large Language Models]] page and the existing [[wiki/syntheses/ai/llm-training-and-inference-overview|LLM Training and Inference Overview]] page so tokenization is no longer only an open gap in the AI branch.
+- Updated the index and moved the canonical raw source into the inbox archive.
+
+## [2026-04-23 16:26] ingest | How Modern LLMs Work - Lex Fridman Podcast (Lex Clips)
+
+Pages touched:
+- [[raw/inbox/2026-04-23-how-modern-llms-work-lex-fridman-podcast-lex-clips|How Modern LLMs Work - Lex Fridman Podcast (Lex Clips)]]
+- [[wiki/sources/2026-04-23-how-modern-llms-work-lex-fridman-podcast-lex-clips|How Modern LLMs Work - Lex Fridman Podcast (Lex Clips)]]
+- [[wiki/concepts/ai/open-weight-models|Open-Weight Models]]
+- [[wiki/concepts/ai/foundation-models|Foundation Models]]
+- [[wiki/concepts/ai/large-language-models|Large Language Models]]
+- [[wiki/syntheses/ai/llm-training-and-inference-overview|LLM Training and Inference Overview]]
+- [[wiki/syntheses/ai/ai-stack-overview|AI Stack Overview]]
+- [[index|index]]
+
+Summary:
+- Ingested a modern LLM landscape source that shifts the AI branch from beginner mechanics toward current practice: open-weight ecosystems, GPT-lineage continuity, tool-use training, sparse MoE scaling, pre/mid/post-training, and systems-level efficiency work.
+- Added a new [[wiki/concepts/ai/open-weight-models|Open-Weight Models]] concept page so the branch now has a canonical place for local inference, customization, licensing flexibility, and model-availability strategy.
+- Updated the foundation-models, large-language-models, llm-training-and-inference-overview, and ai-stack-overview pages so the branch now captures architecture continuity, tool use, and the claim that recent progress is driven at least as much by training and systems engineering as by radical architectural replacement.
+- Updated the index and moved the canonical raw source into the inbox archive.

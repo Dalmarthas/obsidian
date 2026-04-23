@@ -2,7 +2,7 @@
 type: concept
 title: Fiction Writing
 created: 2026-04-08
-updated: 2026-04-09
+updated: 2026-04-23
 status: active
 tags:
   - concept
@@ -10,11 +10,13 @@ tags:
   - fiction
   - storytelling
 source_pages:
+  - wiki/sources/2026-04-23-how-to-write-vividly-well-michael-connelly.md
   - wiki/sources/2026-04-09-george-r-r-martin-on-a-song-of-ice-and-fire-and-adaptation.md
   - wiki/sources/2026-04-08-salman-rushdie-writing-masterclass-complete-summary.md
   - wiki/sources/2026-04-08-david-baldacci-masterclass-summary.md
   - wiki/sources/2026-04-07-dan-brown-masterclass-complete-summary.md
 related:
+  - wiki/concepts/filmmaking/telling-details.md
   - wiki/concepts/filmmaking/adaptation-divergence.md
   - wiki/concepts/filmmaking/story-propulsion.md
   - wiki/concepts/filmmaking/writing-process-and-revision.md
@@ -41,6 +43,7 @@ Fiction writing is the craft of inventing narrative worlds, voices, people, and 
 - Brown contributes the commercial-thriller end through urgency, suspense rhythm, and question-driven reader propulsion.
 - Baldacci contributes practical novel-production discipline through chapter architecture, plausibility, research, and revision.
 - Martin adds large-world fiction discipline: POV characters should carry real agency, invented worlds should be grounded in transformed history, and adaptation success should not be allowed to rewrite the deeper logic of the original work.
+- Connelly adds the crime-fiction specificity layer: make invented people believable through one telling detail, a real-feeling city, compressed dialogue, conflict on every page, and revision that replaces inert detail with detail that reveals character or place.
 - Across these sources, fiction depends on both invention and discipline rather than on inspiration alone.
 
 # Source Comparisons
@@ -49,6 +52,7 @@ Fiction writing is the craft of inventing narrative worlds, voices, people, and 
 - Brown is strongest on suspense engineering and reader compulsion.
 - Baldacci is strongest on workmanlike endurance, plausibility, and usable chapter craft.
 - Martin is strongest on long-form world architecture, agency-based POV selection, and realistic treatments of power, history, and adaptation drift.
+- Connelly is strongest on vivid compression in commercial crime fiction: research, setting, murder, courtroom debate, and dialogue all have to serve character and momentum rather than become separate displays of knowledge.
 
 # Tensions / Open Questions
 
@@ -56,14 +60,17 @@ Fiction writing is the craft of inventing narrative worlds, voices, people, and 
 - Commercial pressure can sharpen narrative force or flatten stylistic risk.
 - Adaptive success can create pressure to bend the source work toward screen logic rather than the deeper requirements of the original medium.
 - The branch still needs more sources on short fiction and minimalist fiction to balance Rushdie's expansive tendencies.
+- The Connelly source sharpens a specificity tension: vivid fiction needs concrete detail, but too many details slow the reader and can make the prose feel observed rather than alive.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/adaptation-divergence|Adaptation Divergence]]
+- [[wiki/concepts/filmmaking/telling-details|Telling Details]]
 - [[wiki/concepts/filmmaking/story-propulsion|Story Propulsion]]
 - [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
 - [[wiki/concepts/filmmaking/narrative-voice-and-perspective|Narrative Voice and Perspective]]
 - [[wiki/concepts/filmmaking/setting-as-character|Setting as Character]]
 - [[wiki/concepts/filmmaking/writer-worldview|Writer Worldview]]
 - [[wiki/syntheses/filmmaking/salman-rushdie-fiction-framework|Salman Rushdie Fiction Framework]]
+- [[wiki/syntheses/filmmaking/michael-connelly-crime-fiction-framework|Michael Connelly Crime Fiction Framework]]
 - [[wiki/syntheses/cross-source/writing-craft-overlaps|Writing Craft Overlaps]]
