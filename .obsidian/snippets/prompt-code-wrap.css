@@ -1,0 +1,41 @@
+/* Prompt notes opt in with `cssclasses: prompt-note` in frontmatter. */
+
+/* Reading view: wrap fenced code blocks instead of forcing horizontal scroll.
+   The language-class selector is needed because Obsidian/theme rules often
+   target language code blocks more specifically than plain `pre code`. */
+.markdown-preview-view.prompt-note pre,
+.markdown-reading-view.prompt-note pre,
+.prompt-note .markdown-preview-view pre,
+.prompt-note .markdown-reading-view pre {
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+}
+
+.markdown-preview-view.prompt-note pre > code[class*="language-"],
+.markdown-preview-view.prompt-note pre > code,
+.markdown-reading-view.prompt-note pre > code[class*="language-"],
+.markdown-reading-view.prompt-note pre > code,
+.prompt-note .markdown-preview-view pre > code[class*="language-"],
+.prompt-note .markdown-preview-view pre > code,
+.prompt-note .markdown-reading-view pre > code[class*="language-"],
+.prompt-note .markdown-reading-view pre > code {
+  white-space: pre-wrap !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+}
+
+/* Live Preview/source mode. */
+.markdown-source-view.mod-cm6.prompt-note .cm-line.HyperMD-codeblock,
+.prompt-note .markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock {
+  white-space: pre-wrap !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+}
+
+/* Prompt notes are for copying prompts; hide the large rendered properties
+   panel so the prompt block is visible without a long vertical detour. */
+.markdown-preview-view.prompt-note .metadata-container,
+.markdown-reading-view.prompt-note .metadata-container,
+.prompt-note .metadata-container {
+  display: none !important;
+}

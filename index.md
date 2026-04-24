@@ -6,6 +6,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 - [[AGENTS|AGENTS]] - Operating schema for the vault, including ingest, query, lint, and maintenance rules.
 - [[log|log]] - Append-only chronological history of important operations in the vault.
+- [[wiki/prompts/README|Prompt Library]] - Verbatim prompt archive for pasted prompts, routed by category under `wiki/prompts/`.
 
 ## Question Routing
 
@@ -1399,6 +1400,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 - `raw/` - Immutable source material and attachments.
 - `wiki/` - LLM-authored summaries, concepts, entities, and syntheses.
 - `wiki/queries/` - Durable answer pages created from user questions that are worth preserving.
+- `wiki/prompts/` - Verbatim prompt library for prompt-ingest captures.
 - `AGENTS.md` - Schema and workflow contract.
 - `index.md` - Content-oriented catalog.
 - `log.md` - Chronological operation log.

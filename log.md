@@ -5928,3 +5928,180 @@ Summary:
 - Added a new [[wiki/concepts/ai/open-weight-models|Open-Weight Models]] concept page so the branch now has a canonical place for local inference, customization, licensing flexibility, and model-availability strategy.
 - Updated the foundation-models, large-language-models, llm-training-and-inference-overview, and ai-stack-overview pages so the branch now captures architecture continuity, tool use, and the claim that recent progress is driven at least as much by training and systems engineering as by radical architectural replacement.
 - Updated the index and moved the canonical raw source into the inbox archive.
+
+## [2026-04-24 15:23] admin | Add AI Prompt Library Workflow
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[wiki/prompts/ai/README|AI Prompt Library]]
+- [[wiki/prompts/ai/agents/README|Agents Prompts]]
+- [[wiki/prompts/ai/coding/README|Coding Prompts]]
+- [[wiki/prompts/ai/research/README|Research Prompts]]
+- [[wiki/prompts/ai/writing/README|Writing Prompts]]
+- [[wiki/prompts/ai/creativity/README|Creativity Prompts]]
+- [[wiki/prompts/ai/business/README|Business Prompts]]
+- [[wiki/prompts/ai/productivity/README|Productivity Prompts]]
+- [[wiki/prompts/ai/image-video/README|Image Video Prompts]]
+- [[wiki/prompts/ai/other/README|Other Prompts]]
+- [[index|index]]
+
+Summary:
+- Added a special prompt-ingest workflow for saving pasted AI prompts verbatim under `wiki/prompts/ai/` without normal source synthesis, frontmatter, or formatting changes.
+- Created category folders and README rules for agents, coding, research, writing, creativity, business, productivity, image-video, and other prompts.
+- Updated the index so the prompt library is visible from the vault's main navigation.
+
+## [2026-04-24 15:23] admin | Flatten Prompt Library Structure
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[wiki/prompts/README|Prompt Library]]
+- [[index|index]]
+
+Summary:
+- Flattened the prompt library from `wiki/prompts/ai/<category>/` to `wiki/prompts/<category>/`.
+- Removed per-category README files; category routing now lives in `AGENTS.md` and the single top-level prompt-library README.
+- Updated index references so future prompt-ingest captures use the simplified folder structure.
+
+## [2026-04-24 15:32] prompt-ingest | Coding Assistant Operating Prompt
+
+Pages touched:
+- [[wiki/prompts/agents/2026-04-24-coding-assistant-operating-prompt|Coding Assistant Operating Prompt]]
+- [[log|log]]
+
+Summary:
+- Saved the pasted coding-assistant operating prompt verbatim under `wiki/prompts/agents/`.
+- Chose `agents/` because the prompt primarily defines assistant role, communication style, judgment, instruction priority, coding integrity, scope, and verification behavior.
+
+## [2026-04-24 15:35] admin | Add Tags To Prompt Ingests
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[wiki/prompts/README|Prompt Library]]
+- [[wiki/prompts/agents/2026-04-24-coding-assistant-operating-prompt|Coding Assistant Operating Prompt]]
+- [[log|log]]
+
+Summary:
+- Updated the prompt-ingest schema so prompt files use minimal YAML frontmatter with `type: prompt`, `category`, and `tags`.
+- Preserved the prompt payload convention by placing the unchanged pasted prompt under a `# Prompt` heading.
+- Retrofitted the existing coding-assistant operating prompt with tags for agent behavior, coding assistance, code review, coding standards, verification, and instruction priority.
+
+## [2026-04-24 15:37] prompt-ingest | Project Manager Task Breakdown Prompt
+
+Pages touched:
+- [[wiki/prompts/productivity/2026-04-24-project-manager-task-breakdown-prompt|Project Manager Task Breakdown Prompt]]
+- [[log|log]]
+
+Summary:
+- Saved the pasted project-manager task breakdown prompt under `wiki/prompts/productivity/`.
+- Added tags for productivity, project management, task breakdown, planning, checklists, and pitfalls.
+
+## [2026-04-24 15:39] admin | Make Prompt Files Copy-Friendly
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[wiki/prompts/README|Prompt Library]]
+- [[wiki/prompts/agents/2026-04-24-coding-assistant-operating-prompt|Coding Assistant Operating Prompt]]
+- [[wiki/prompts/productivity/2026-04-24-project-manager-task-breakdown-prompt|Project Manager Task Breakdown Prompt]]
+- [[log|log]]
+
+Summary:
+- Updated prompt-ingest rules so prompt payloads are stored inside fenced code blocks under `# Prompt` for easier copying in Obsidian.
+- Added the fence-length rule for prompts that already contain triple backticks.
+- Retrofitted existing prompt files to use copy-friendly fenced prompt blocks.
+
+## [2026-04-24 15:41] prompt-ingest | Council Of Ghosts Ethical Dilemma Prompt
+
+Pages touched:
+- [[wiki/prompts/agents/2026-04-24-council-of-ghosts-ethical-dilemma-prompt|Council Of Ghosts Ethical Dilemma Prompt]]
+- [[log|log]]
+
+Summary:
+- Saved the pasted Council of Ghosts ethical dilemma prompt under `wiki/prompts/agents/`.
+- Added tags for agents, roleplay, council-of-ghosts, ethical dilemmas, decision-making, masculine models, and persona prompts.
+
+## [2026-04-24 15:42] admin | Wrap Prompt Code Blocks In Obsidian
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[wiki/prompts/README|Prompt Library]]
+- `.obsidian/snippets/prompt-code-wrap.css`
+- `.obsidian/appearance.json`
+- [[log|log]]
+
+Summary:
+- Added an Obsidian CSS snippet to visually wrap fenced code blocks in `wiki/prompts/` notes without hard-wrapping the saved prompt payload.
+- Enabled the `prompt-code-wrap` snippet in Obsidian appearance settings.
+- Updated prompt-ingest rules to keep prompt text unchanged and rely on the snippet for display wrapping.
+
+## [2026-04-24 15:42] admin | Strengthen Prompt Code Wrap Selectors
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[wiki/prompts/README|Prompt Library]]
+- [[wiki/prompts/agents/2026-04-24-coding-assistant-operating-prompt|Coding Assistant Operating Prompt]]
+- [[wiki/prompts/agents/2026-04-24-council-of-ghosts-ethical-dilemma-prompt|Council Of Ghosts Ethical Dilemma Prompt]]
+- [[wiki/prompts/productivity/2026-04-24-project-manager-task-breakdown-prompt|Project Manager Task Breakdown Prompt]]
+- `.obsidian/snippets/prompt-code-wrap.css`
+- [[log|log]]
+
+Summary:
+- Broadened the prompt code-wrap CSS selectors to target Obsidian's workspace-leaf `data-path` structure, rendered markdown, reading view, and Live Preview codeblock lines.
+- Added `cssclasses: prompt` to prompt frontmatter as a fallback targeting hook for prompt notes.
+- Updated prompt-ingest rules so future prompt files include the `prompt` CSS class automatically.
+
+## [2026-04-24 15:48] admin | Simplify Prompt Code Wrap CSS
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[wiki/prompts/README|Prompt Library]]
+- [[wiki/prompts/agents/2026-04-24-coding-assistant-operating-prompt|Coding Assistant Operating Prompt]]
+- [[wiki/prompts/agents/2026-04-24-council-of-ghosts-ethical-dilemma-prompt|Council Of Ghosts Ethical Dilemma Prompt]]
+- [[wiki/prompts/productivity/2026-04-24-project-manager-task-breakdown-prompt|Project Manager Task Breakdown Prompt]]
+- `.obsidian/snippets/prompt-code-wrap.css`
+- [[log|log]]
+
+Summary:
+- Replaced the broader path-based prompt wrapping CSS with a dedicated `prompt-note` class to avoid unintended layout side effects.
+- Corrected the Obsidian CSS class targeting model by using `.prompt-note` rather than the non-working `.cssclass-prompt` fallback.
+- Updated existing prompt notes and future prompt-ingest rules to use `cssclasses: prompt-note`.
+
+## [2026-04-24 15:48] admin | Fix Prompt Code Wrap Specificity
+
+Pages touched:
+- `.obsidian/snippets/prompt-code-wrap.css`
+- [[log|log]]
+
+Summary:
+- Updated the prompt code-wrap snippet to use Obsidian's known `pre > code[class*="language-"]` selector pattern for fenced code blocks.
+- Kept the rule scoped to `cssclasses: prompt-note` notes.
+- Hid the large rendered properties panel on prompt notes so the copyable prompt block is visible immediately.
+
+## [2026-04-24 15:55] prompt-ingest | 80 20 Strategy Prompt Pack
+
+Pages touched:
+- [[wiki/prompts/productivity/2026-04-24-80-20-strategy-prompt-pack|80 20 Strategy Prompt Pack]]
+- [[log|log]]
+
+Summary:
+- Saved a productivity prompt pack covering fast skill acquisition, contrarian strategy, reverse-engineering success, minimalist execution, and 80/20 analysis.
+- Preserved the prompt payload verbatim in a copy-friendly fenced text block with `cssclasses: prompt-note`.
+
+## [2026-04-24 16:30] prompt-ingest | Cognitive Advisory Council Simulation Prompt
+
+Pages touched:
+- [[wiki/prompts/agents/2026-04-24-cognitive-advisory-council-simulation-prompt|Cognitive Advisory Council Simulation Prompt]]
+- [[log|log]]
+
+Summary:
+- Saved an agent prompt for simulating a five-person advisory council around a user-provided dilemma.
+- Preserved the prompt payload verbatim in a copy-friendly fenced text block with `cssclasses: prompt-note`.
+
+## [2026-04-24 16:35] prompt-ingest | AI Automation Specialist Prompt
+
+Pages touched:
+- [[wiki/prompts/agents/2026-04-24-ai-automation-specialist-prompt|AI Automation Specialist Prompt]]
+- [[log|log]]
+
+Summary:
+- Saved an agent prompt for identifying routine tasks suitable for AI automation and setting up practical low-skill automations.
+- Preserved the prompt payload verbatim in a copy-friendly fenced text block with `cssclasses: prompt-note`.

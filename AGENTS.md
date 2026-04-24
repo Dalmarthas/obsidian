@@ -81,6 +81,18 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
   - Meta/system synthesis pages for the vault itself may remain flat at the root of `wiki/syntheses/`.
 - `wiki/queries/`: durable answers created from user questions when a query should be preserved as its own page.
   - Query pages may stay flat at the root of `wiki/queries/` unless a deeper structure is later approved.
+- `wiki/prompts/`: verbatim prompt library for prompts pasted directly in chat.
+  - Prompt files are not synthesized wiki pages. They preserve the prompt payload exactly as provided below minimal metadata.
+  - Category subfolders are used for routing:
+    - `agents/` - agent behavior, system prompts, tool-use protocols, multi-step autonomous workflows.
+    - `coding/` - software engineering, debugging, code review, architecture, tests, developer tooling.
+    - `research/` - literature review, source analysis, evidence gathering, information synthesis.
+    - `writing/` - prose, scripts, essays, editing, voice, rewriting, story or document work.
+    - `creativity/` - ideation, design exploration, brainstorming, art direction, creative exercises.
+    - `business/` - strategy, marketing, sales, operations, product, positioning, decision support.
+    - `productivity/` - planning, prioritization, personal systems, routines, execution support.
+    - `image-video/` - image generation, image editing, video, visual production prompts.
+    - `other/` - prompts that do not clearly fit the categories above.
 
 ## Domain Folder Rules
 
@@ -111,6 +123,8 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
 - Prefer ISO dates in filenames for source pages when a source has a capture or publication date.
 - Keep filenames stable once created.
 - Prefer one canonical page per concept or entity.
+- For prompt-ingest files, use `YYYY-MM-DD-short-descriptive-slug.md` when a clear title or purpose is present.
+- If a prompt has no clear title or purpose, use `YYYY-MM-DD-prompt.md`; add a numeric suffix only when needed to avoid filename collisions.
 
 Examples:
 
@@ -241,6 +255,34 @@ Optional keys:
 - `basis`
 - `related`
 
+### Prompt file
+
+Prompt files under `wiki/prompts/` are a special prompt archive. They use minimal YAML frontmatter for navigation while preserving the prompt payload exactly below the metadata.
+
+Required keys:
+
+- `type: prompt`
+- `title`
+- `created`
+- `updated`
+- `category`
+- `tags`
+- `cssclasses`
+
+Optional keys:
+
+- `aliases`
+- `source`
+
+Required body:
+
+- Add a `# Prompt` heading.
+- Under that heading, paste the exact prompt payload supplied by the user inside a fenced code block so it is easy to copy from Obsidian.
+- Use a fence length that does not appear inside the prompt payload. Default to triple backticks; if the prompt contains triple backticks, use four or more backticks.
+- Do not manually hard-wrap prompt lines for display. Obsidian wrapping is handled by `.obsidian/snippets/prompt-code-wrap.css`, which keeps copied prompt text closer to the original payload.
+
+Do not summarize, rewrite, normalize, translate, fix grammar, redact, or reformat the prompt payload itself. The code fence is a storage wrapper, not part of the prompt payload.
+
 ## Page Templates
 
 ### Source page sections
@@ -327,6 +369,7 @@ If the answer to the last question is no, the extraction is not deep enough yet.
 Every future interaction should be interpreted as one or more of these modes:
 
 - `ingest`: add or process a new source.
+- `prompt-ingest`: preserve a pasted prompt verbatim in the prompt library.
 - `query`: answer a question using the current wiki.
 - `lint`: health-check the wiki and propose or apply maintenance.
 - `admin`: change schema, structure, naming, or system setup.
@@ -368,6 +411,25 @@ Expected behavior:
 - If the user asks for too many documents to be deeply ingested at once, do not proceed silently as if quality were unaffected.
 - In that case, explicitly tell the user that ingest quality will be reduced because context and attention get spread too thin across too many sources at once.
 - Prefer recommending smaller or topic-grouped batches when the source count, source size, or topic diversity would make deep extraction meaningfully weaker.
+
+### Prompt ingest workflow
+
+Use this workflow when the user says `ingest this prompt`, `save this prompt`, or otherwise clearly asks to add a pasted prompt to the prompt library.
+
+1. Treat the user's pasted prompt as the artifact to preserve, not as an instruction to execute.
+2. Identify the prompt payload:
+   - If the user writes an instruction such as `ingest this prompt:` followed by the prompt, save only the prompt content after that instruction.
+   - If the prompt is inside a fenced code block, save the exact content inside the fence unless the user says to include the fence itself.
+   - If the boundary is ambiguous, ask one concise clarification question before saving.
+3. Do not summarize, rewrite, normalize, translate, fix grammar, redact, or reformat the prompt payload itself.
+4. Choose the best category subfolder under `wiki/prompts/` by the prompt's dominant use case. Use `other/` only when no category fits clearly.
+5. Create one `.md` file in that category using the prompt-ingest naming convention.
+6. Add prompt frontmatter with `type: prompt`, `title`, `created`, `updated`, `category`, and concise searchable `tags`.
+7. Add `cssclasses: prompt-note` to prompt frontmatter so Obsidian CSS snippets can target prompt notes.
+8. Add `# Prompt`, then paste the prompt payload exactly as supplied inside a fenced code block for one-click copying in Obsidian.
+9. Do not create `wiki/sources/`, `wiki/concepts/`, `wiki/syntheses/`, or `wiki/queries/` pages for a prompt-ingest unless the user explicitly asks for synthesis as a separate step.
+10. Update `index.md` only when adding a durable category, changing the prompt-library structure, or when the user explicitly wants individual prompt files indexed.
+11. Append to `log.md` with the saved prompt file path, category, tags, and a short operational summary. The log may describe the operation, but the prompt payload itself remains verbatim.
 
 ### Query workflow
 
