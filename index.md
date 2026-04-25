@@ -20,6 +20,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 ## Raw Sources
 
+- [[raw/inbox/2026-04-25-johnny-harris-reveals-how-he-writes-youtube-videos|Johnny Harris Reveals How He Writes YouTube Videos]] - Johnny Harris primary-process summary on premium YouTube documentary production: reporting briefs, research dossiers, visual-first scripting, promise-led packaging, art direction, fact-checking, iterative cuts, and creator-led scaling tension.
 - [[raw/inbox/2026-04-23-how-to-write-vividly-well-michael-connelly|How to Write Vividly Well - Michael Connelly]] - Michael Connelly summary on telling details, daily rewriting, character-first crime fiction, Los Angeles as story engine, compressed dialogue, moral darkness, and book-versus-TV tradeoffs.
 - [[raw/inbox/2026-04-23-how-large-language-models-work|How Large Language Models Work]] - Beginner-oriented AI overview on foundation models, self-supervised pre-training, transformer context handling, fine-tuning, and business uses like support, drafting, and code assistance.
 - [[raw/inbox/2026-04-23-how-modern-llms-work-lex-fridman-podcast-lex-clips|How Modern LLMs Work - Lex Fridman Podcast (Lex Clips)]] - Modern LLM landscape summary on open-weight ecosystems, tool use, GPT-lineage continuity, sparse MoE scaling, pre/mid/post-training, and systems-level efficiency gains.
@@ -367,6 +368,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 ## Sources
 
+- [[wiki/sources/2026-04-25-johnny-harris-reveals-how-he-writes-youtube-videos|Johnny Harris Reveals How He Writes YouTube Videos]] - Source page for a Johnny Harris process breakdown on reporting briefs, research dossiers, two-column audiovisual scripting, viewer promise, bespoke art direction, fact-checking, edit stages, and creator-led production tradeoffs.
 - [[wiki/sources/2026-04-23-how-to-write-vividly-well-michael-connelly|How to Write Vividly Well - Michael Connelly]] - Source page for a Michael Connelly craft summary on telling details, revision loops, character-first crime fiction, Los Angeles as social map, dialogue compression, and moral cost.
 - [[wiki/sources/2026-04-23-how-large-language-models-work|How Large Language Models Work]] - Source page for an LLM overview that adds foundation-model hierarchy, self-supervised pre-training framing, fine-tuning-for-business positioning, and concrete deployment examples.
 - [[wiki/sources/2026-04-23-how-modern-llms-work-lex-fridman-podcast-lex-clips|How Modern LLMs Work - Lex Fridman Podcast (Lex Clips)]] - Source page for a modern LLM overview covering open weights, tool use, transformer continuity, sparse-vs-dense tradeoffs, training stages, and systems optimization.
@@ -793,6 +795,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 ## Concepts
 
+- [[wiki/concepts/filmmaking/video-documentary-production-pipeline|Video Documentary Production Pipeline]] - End-to-end nonfiction video workflow joining packaging promise, reporting, research dossier, visual-first scripting, art direction, fact-checking, filming, edit stages, and final polish.
 - [[wiki/concepts/llm-wiki|LLM Wiki]] - A persistent, LLM-maintained wiki that compiles and updates knowledge instead of re-deriving it on every query.
 - [[wiki/concepts/ai/artificial-intelligence|Artificial Intelligence]] - The umbrella field that contains the narrower model families and training paradigms in the AI branch.
 - [[wiki/concepts/ai/ai-and-biotechnology-convergence|AI and Biotechnology Convergence]] - The claim that AI becomes especially disruptive when fused with biological and behavioral insight that can steer human choice.

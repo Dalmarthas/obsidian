@@ -6105,3 +6105,25 @@ Pages touched:
 Summary:
 - Saved an agent prompt for identifying routine tasks suitable for AI automation and setting up practical low-skill automations.
 - Preserved the prompt payload verbatim in a copy-friendly fenced text block with `cssclasses: prompt-note`.
+
+## [2026-04-25 15:26] ingest | Johnny Harris Reveals How He Writes YouTube Videos
+
+Pages touched:
+- [[raw/inbox/2026-04-25-johnny-harris-reveals-how-he-writes-youtube-videos|Johnny Harris Reveals How He Writes YouTube Videos]]
+- [[wiki/sources/2026-04-25-johnny-harris-reveals-how-he-writes-youtube-videos|Johnny Harris Reveals How He Writes YouTube Videos]]
+- [[wiki/concepts/filmmaking/video-documentary-production-pipeline|Video Documentary Production Pipeline]]
+- [[wiki/entities/johnny-harris|Johnny Harris]]
+- [[wiki/syntheses/communication/johnny-harris-explainer-framework|Johnny Harris Explainer Framework]]
+- [[wiki/concepts/communication/anchor-bridge-structure|Anchor-Bridge Structure]]
+- [[wiki/concepts/filmmaking/visual-storytelling-first|Visual Storytelling First]]
+- [[wiki/concepts/filmmaking/writing-process-and-revision|Writing Process and Revision]]
+- [[wiki/concepts/filmmaking/protect-the-process|Protect the Process]]
+- [[wiki/concepts/filmmaking/audience-as-collaborator|Audience as Collaborator]]
+- [[wiki/concepts/communication/concrete-specificity|Concrete Specificity]]
+- [[index|index]]
+- [[log|log]]
+
+Summary:
+- Ingested a Johnny Harris process source as a primary-process companion to the existing Harris explainer branch.
+- Added a source page and a new filmmaking concept for the video documentary production pipeline.
+- Updated the Harris entity, explainer framework, and overlapping concepts around anchor-bridge structure, visual-first scripting, protected process, audience promise, and concrete active prose.

@@ -2,7 +2,7 @@
 type: concept
 title: Audience as Collaborator
 created: 2026-04-07
-updated: 2026-04-09
+updated: 2026-04-25
 status: active
 tags:
   - concept
@@ -18,6 +18,7 @@ source_pages:
   - wiki/sources/2026-04-09-chris-gore-movie-quality-decline-and-studio-malpractice.md
   - wiki/sources/2026-04-09-creating-the-sopranos.md
   - wiki/sources/2026-04-09-johnny-harris-explainer-storytelling-formula.md
+  - wiki/sources/2026-04-25-johnny-harris-reveals-how-he-writes-youtube-videos.md
 related:
   - wiki/concepts/filmmaking/acting-craft.md
   - wiki/concepts/filmmaking/conflicting-perspectives.md
@@ -60,6 +61,7 @@ Audience as collaborator is the idea that the audience completes part of the sto
 - The current `Sopranos` source adds a prestige-TV version of the same respect: the writers deliberately resisted `least offensive programming`, trusted the audience to stay with morally ambiguous people, and refused the obligation to provide neat emotional or interpretive comfort.
 - The current blockbuster-decline source adds a market-broadening warning: industries often claim to be serving the audience while actually flattening films into generic stimulation patterns built from fear of boredom and fear of cultural specificity.
 - The current Johnny Harris source adds an explainer-specific version of respect: do not frontload abstraction before the audience has anything to feel or picture. Give them a vivid anchor first, then reward the curiosity it produces with concise explanation.
+- The Harris process source adds a more explicit empathy layer: write for smart viewers who may lack context, anticipate how sensitive subgroups will hear each word, and treat the title/thumbnail as a promise that must be honored rather than a trick.
 
 # Tensions / Open Questions
 
@@ -72,6 +74,7 @@ Audience as collaborator is the idea that the audience completes part of the sto
 - Ambiguity can earn respect, but if the audience starts feeling merely toyed with, withheld-from, or thematically abandoned, the collaboration collapses into irritation.
 - Constant stimulation creates a separate failure mode: the audience may remain awake and reactive while no longer feeling that the film trusts them to engage with slower, richer dramatic tension.
 - Experience-first explanation adds a parallel risk: a vivid anchor can hook attention, but if the later bridge is thin, the audience may feel seduced without being truly informed.
+- Packaging can create useful audience collaboration by telling viewers what question they are helping answer, but overpromising turns that collaboration into disappointment.
 
 # Related Pages
 

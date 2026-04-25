@@ -2,7 +2,7 @@
 type: concept
 title: Writing Process and Revision
 created: 2026-04-07
-updated: 2026-04-23
+updated: 2026-04-25
 status: active
 tags:
   - concept
@@ -35,7 +35,9 @@ source_pages:
   - wiki/sources/2026-04-09-paul-thomas-anderson-on-screenwriting-and-storytelling.md
   - wiki/sources/2026-04-09-screenwriters-on-outlining-approaches.md
   - wiki/sources/2026-04-09-sam-esmail-on-mr-robot-creative-process.md
+  - wiki/sources/2026-04-25-johnny-harris-reveals-how-he-writes-youtube-videos.md
 related:
+  - wiki/concepts/filmmaking/video-documentary-production-pipeline.md
   - wiki/concepts/filmmaking/telling-details.md
   - wiki/concepts/creativity/creative-incubation.md
   - wiki/concepts/filmmaking/craft-mastery.md
@@ -109,6 +111,12 @@ Writing process and revision is the larger workflow that governs how a writer or
   - use a full printed manuscript pass at the end to see the book as a whole
   - let revision replace generic details with telling details and seed later payoffs earlier
   - ask precise research questions so external facts support the draft without breaking momentum
+- The Harris process source adds a nonfiction-video workflow:
+  - start with a reporting brief rather than a script
+  - let a research dossier gather facts, visuals, context, and tensions before story lock
+  - protect concentrated scripting blocks from meetings and messages
+  - draft in two columns so prose and visual direction develop together
+  - continue rewriting through shame cuts, rough cuts, fine cuts, and locks
 - Both Sorkin and Brown treat deletion and cutting as central rather than incidental to good writing.
 - Across the sources, preparation is important, but so is avoiding paralysis or perfectionism before there is enough material to shape.
 
@@ -139,6 +147,7 @@ Writing process and revision is the larger workflow that governs how a writer or
 - The current Max Landis source is strongest on quick readability diagnostics: if the dialogue sounds wrong aloud, the page is too dense, or the script is not moving, the problem is already visible before deeper theoretical analysis starts.
 - The current Sam Esmail source is strongest on linking ugly-first-draft freedom to long-range TV architecture: write messily at the page level if needed, but stay clear about the season's destination and about what the show exists to say.
 - Connelly is strongest on daily revision as continuity with the story: rewriting yesterday's pages is not only cleanup, but a way of staying inside the tunnel while keeping the prose concrete and momentum-aware.
+- Harris is strongest on audiovisual writing as production coordination: the draft is simultaneously voiceover, visual plan, source-control layer, and handoff document for editors and animators.
 - Together they suggest a layered workflow: catch a live idea, test whether it can carry real weight, develop structure before expensive pages, draft far enough to have something real, and then revise without sentimentality.
 
 # Tensions / Open Questions
@@ -165,10 +174,12 @@ Writing process and revision is the larger workflow that governs how a writer or
 - The current `29 mistakes` source sharpens a final professionalism tension: getting feedback early can help, but premature sharing can also become a way of asking other people to solve problems the writer has not yet honestly diagnosed alone.
 - The current Sam Esmail source sharpens a related TV tension: predetermined goalposts can protect coherence, but if the path is reverse engineered lazily they can produce emotionally false transitions that feel clever but not earned.
 - The Connelly source sharpens a draft-rhythm tension: daily rewriting can preserve contact and quality, but it can also become premature polishing if the writer never lets the book move forward.
+- Harris sharpens a production-scale tension: a system can increase output and polish, but if it removes the creator's curiosity and obsession, it can also damage the work's core signal.
 
 # Related Pages
 
 - [[wiki/concepts/filmmaking/craft-mastery|Craft Mastery]]
+- [[wiki/concepts/filmmaking/video-documentary-production-pipeline|Video Documentary Production Pipeline]]
 - [[wiki/concepts/filmmaking/telling-details|Telling Details]]
 - [[wiki/concepts/creativity/creative-incubation|Creative Incubation]]
 - [[wiki/concepts/filmmaking/character-interviews|Character Interviews]]
