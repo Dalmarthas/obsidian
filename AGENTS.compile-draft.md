@@ -79,9 +79,8 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
   - Domain syntheses mirror the same subfolders used in `wiki/concepts/`.
   - Cross-source comparison pages go in `wiki/syntheses/cross-source/`.
   - Meta/system synthesis pages for the vault itself may remain flat at the root of `wiki/syntheses/`.
-- `wiki/queries/`: one preserved Markdown answer page for every query-mode user question by default.
+- `wiki/queries/`: durable answers created from user questions when a query should be preserved as its own page.
   - Query pages may stay flat at the root of `wiki/queries/` unless a deeper structure is later approved.
-  - The only exceptions are when the user explicitly asks for a chat-only answer, asks not to modify files, or the query cannot be answered from the local vault.
 - `wiki/prompts/`: verbatim prompt library for prompts pasted directly in chat.
   - Prompt files are not synthesized wiki pages. They preserve the prompt payload exactly as provided below minimal metadata.
   - Category subfolders are used for routing:
@@ -441,14 +440,9 @@ Use this workflow when the user says `ingest this prompt`, `save this prompt`, o
 5. Never use web search, internet browsing, external live lookup, or non-vault sources to answer a query unless the user explicitly overrides this rule for that request.
 6. If the answer cannot be found in `index.md`, `wiki/`, `raw/inbox/`, or other local vault files, say clearly that no answer was found within the wiki/vault and stop rather than filling the gap from the web.
 7. Synthesize an answer from existing wiki content only.
-8. Create or update one Markdown page under `wiki/queries/` for the answer before giving the final chat response.
-   - Treat query-page creation as mandatory for every query-mode answer unless the user explicitly requests chat-only output, explicitly says not to modify files, or the vault has no answer.
-   - Use the synthesis frontmatter schema with `type: synthesis`, a `query` tag, the original question in `question`, and `basis` links to the pages used.
-   - Prefer updating an existing query page when the same question is being refined; otherwise create a new lowercase kebab-case page.
-9. If the answer mainly improves reusable cross-source knowledge beyond the immediate question, also update the relevant `wiki/syntheses/`, concept pages, or entity pages as appropriate.
-10. Update `index.md` whenever a query page is created or materially re-scoped.
-11. Append to `log.md` for every query page creation or material query-page update.
-12. In the final chat response, answer the user and include a Codex-compatible absolute markdown link to the saved query page.
+8. If the answer creates durable insight as a preserved answer to the user's question, file it into `wiki/queries/`. If the answer instead improves reusable cross-source knowledge, update `wiki/syntheses/`, concept pages, or entity pages as appropriate.
+9. Update `index.md` if a new durable page was created.
+10. Append to `log.md` when the result materially changes the vault.
 
 ### Lint workflow
 
@@ -514,6 +508,330 @@ This vault starts as a general-purpose personal second brain with a research-fri
 From now on:
 
 - Treat this vault as an LLM Wiki by default.
-- For query-mode interactions, always preserve the answer as a Markdown page under `wiki/queries/` before the final chat response, unless the user explicitly asks for chat-only output, explicitly says not to modify files, or the vault has no answer.
+- When a question answer should be preserved as its own artifact, store it under `wiki/queries/` rather than mixing it into `wiki/syntheses/`.
 - In chat responses, prefer Codex-compatible absolute markdown file links to local pages rather than Obsidian wikilinks.
 - Keep the wiki navigable for a human browsing it in Obsidian.
+
+---
+
+# Compiler Workflow Draft Addendum
+
+This section is a draft extension for adding a compiler-style workflow to the vault. It is not active unless this file replaces `AGENTS.md` or its rules are deliberately merged into the active schema.
+
+## Compiler Purpose
+
+The compiler workflow does not replace deep ingest. It adds a staging layer between raw sources and canonical wiki pages so large, ambiguous, or multi-source ingests can be planned before they permanently modify the wiki.
+
+The goal is to reduce:
+
+- duplicate concept creation
+- order-dependent ingests
+- unreviewed page sprawl
+- lost provenance about which raw source changed which durable pages
+- unclear maintenance after re-ingest or source correction
+
+The canonical wiki remains markdown-first and Obsidian-friendly. The compiler layer is a workflow scaffold, not a separate app.
+
+## Additional Directories
+
+Add these directories when compiler mode is adopted:
+
+```text
+wiki/candidates/
+wiki/candidates/sources/
+wiki/candidates/concepts/
+wiki/candidates/entities/
+wiki/candidates/syntheses/
+wiki/candidates/queries/
+wiki/reports/
+wiki/reports/ingest/
+wiki/reports/lint/
+wiki/manifests/
+wiki/lenses/
+```
+
+### Candidates
+
+`wiki/candidates/` contains proposed pages or proposed page patches that are not yet canonical.
+
+Use candidates when:
+
+- a source is large or multi-topic
+- multiple sources are being ingested as a batch
+- the correct concept/entity/synthesis placement is uncertain
+- a new page may duplicate an existing page
+- the user asks to review before applying
+- the ingest would update many existing pages
+
+Candidate pages should use the same frontmatter schema as canonical pages, plus:
+
+```yaml
+candidate: true
+candidate_status: proposed
+candidate_basis:
+  - raw/inbox/example.md
+promotion_target: wiki/concepts/example.md
+```
+
+Do not link candidate pages from `index.md` unless a dedicated candidate index is later created.
+
+### Reports
+
+`wiki/reports/ingest/` contains planning reports for compiler ingests.
+
+Each report should summarize:
+
+- raw sources examined
+- source language
+- candidate concepts
+- candidate entities
+- candidate syntheses
+- existing pages likely to be updated
+- proposed new pages
+- overlap and duplicate risks
+- contradictions or tensions
+- recommended promotion plan
+
+Reports are working artifacts. They are not concept pages, source pages, or syntheses.
+
+### Manifests
+
+`wiki/manifests/` stores machine-readable or table-based operational state.
+
+Start with:
+
+```text
+wiki/manifests/source-map.json
+```
+
+The source map records which raw files produced or updated which durable pages.
+
+Minimal shape:
+
+```json
+{
+  "raw/inbox/example.md": {
+    "ingested_at": "2026-04-28T12:00:00+03:00",
+    "source_page": "wiki/sources/example.md",
+    "created_pages": [
+      "wiki/concepts/example.md"
+    ],
+    "updated_pages": [
+      "wiki/syntheses/example-framework.md"
+    ],
+    "status": "active"
+  }
+}
+```
+
+Optional later fields:
+
+```json
+{
+  "sha256": "...",
+  "language": "en",
+  "source_kind": "pdf",
+  "candidate_report": "wiki/reports/ingest/example.md",
+  "raw_assets": [
+    "raw/assets/example/image-1.png"
+  ]
+}
+```
+
+The manifest is not a replacement for `log.md`. `log.md` remains the human-readable append-only history. The manifest is for precise maintenance.
+
+### Lenses
+
+`wiki/lenses/` contains curated views over the wiki, not new knowledge claims.
+
+A lens answers: "Show me this vault through a specific operational angle."
+
+Examples:
+
+- `wiki/lenses/content-creation.md` - routes to storytelling, video production, writing, visual design, and audience pages.
+- `wiki/lenses/business-building.md` - routes to niche, validation, sales, brand, positioning, and execution pages.
+- `wiki/lenses/ai-workflows.md` - routes to prompting, agents, model evaluation, automation, and AI collaboration pages.
+- `wiki/lenses/current-projects.md` - routes to active project notes if project pages are later added.
+
+Difference from `index.md`:
+
+- `index.md` is the global catalog.
+- A lens is a purpose-specific browsing path.
+
+Difference from `wiki/syntheses/`:
+
+- a synthesis creates an answer or argument from sources.
+- a lens is navigation and workflow orientation.
+
+Lenses may contain short annotations, but they should not become hidden syntheses. If a lens starts making substantial claims, convert that material into a synthesis and link to it.
+
+## Interaction Modes Extension
+
+Add a new mode:
+
+- `compile-ingest`: stage one or more raw sources through inventory, candidate generation, review, and promotion before canonical wiki updates.
+
+Use normal `ingest` when:
+
+- there is one source
+- the target concepts are obvious
+- page changes are small
+- the user expects immediate canonical updates
+
+Use `compile-ingest` when:
+
+- there are many sources
+- the source is long or multi-topic
+- the source overlaps many existing pages
+- the source may create several new concepts
+- the user wants a reviewable plan
+- correctness of page placement matters more than speed
+
+If ambiguous, default to normal `ingest` for small sources and `compile-ingest` for large batches or uncertain concept placement.
+
+## Compile-Ingest Workflow
+
+1. Locate new raw sources in `raw/`.
+2. Detect source language.
+3. If a source is `.txt`, convert it to `.md` before analysis.
+4. Do not immediately edit canonical `wiki/` pages unless the source is obviously small and unambiguous.
+5. Read the raw source or batch of raw sources.
+6. Create an inventory of:
+   - governing thesis
+   - key concepts
+   - entities
+   - frameworks
+   - methods
+   - reusable claims
+   - examples
+   - tensions
+   - open questions
+7. Search existing `wiki/` pages for overlap.
+8. Write a report under `wiki/reports/ingest/YYYY-MM-DD-source-slug.md`.
+9. In the report, classify each candidate idea as:
+   - update existing page
+   - create new page
+   - merge into existing page
+   - defer
+   - reject as too thin
+10. Create candidate pages under `wiki/candidates/` only for genuinely new or substantially rewritten durable pages.
+11. For existing canonical pages, either:
+   - describe the proposed patch in the ingest report, or
+   - create a candidate patch note under `wiki/candidates/`.
+12. Run a review pass:
+   - check duplicate concepts
+   - check folder placement
+   - check source attribution
+   - check whether important ideas are still trapped only in the source page
+   - check whether candidate pages link to existing pages
+13. Promote accepted candidates into canonical `wiki/`.
+14. Update existing canonical pages.
+15. Move canonical raw sources into `raw/inbox/`.
+16. Update `wiki/manifests/source-map.json`.
+17. Update `index.md`.
+18. Append to `log.md`.
+19. Leave rejected or deferred candidates in `wiki/candidates/` only if they remain useful; otherwise remove them before closing the ingest.
+
+## Candidate Promotion Rules
+
+Promote a candidate page when:
+
+- it has a stable title and folder location
+- it links to at least one durable page
+- it cites at least one source page or raw source
+- it does not duplicate an existing page
+- its content is durable enough to be useful outside the current ingest
+
+Do not promote a candidate page when:
+
+- it is only a temporary extraction note
+- it merely duplicates a section already better handled in an existing page
+- it contains unresolved placement ambiguity
+- it lacks enough evidence to justify a durable page
+
+When promoting:
+
+1. Remove candidate-only frontmatter keys.
+2. Move the file into its canonical folder.
+3. Update related pages with reciprocal links where useful.
+4. Add it to `index.md`.
+5. Record created and updated pages in the source map manifest.
+6. Record the promotion in `log.md`.
+
+## Source Map Maintenance
+
+Whenever an ingest creates or materially updates wiki pages, update `wiki/manifests/source-map.json`.
+
+If no manifest exists yet, create it.
+
+Rules:
+
+- Use relative vault paths.
+- Keep one top-level key per canonical raw source.
+- Include the source page.
+- Separate `created_pages` from `updated_pages`.
+- Do not include tiny mechanical edits unless they matter for provenance.
+- Keep `log.md` as the human narrative; keep the manifest as precise operational state.
+
+## Lint Workflow Extension
+
+Compiler-aware lint should check:
+
+- every source page has an existing `raw_source`
+- every `raw/inbox/` source with status `active` appears in the source map or has a deliberate exemption
+- every created page in the source map exists
+- every candidate page has `candidate: true`
+- no candidate page is linked from the global `index.md`
+- every promoted page has had candidate-only frontmatter removed
+- every new durable page appears in `index.md`
+- every durable page links to at least one other durable page
+- important related links are reciprocal where useful
+
+## Query Workflow With Compiler Artifacts
+
+For normal user questions, prefer canonical `wiki/` pages.
+
+Use `wiki/candidates/` only when:
+
+- the user explicitly asks about pending candidate material
+- no canonical answer exists and a candidate clearly contains relevant but unpromoted work
+- the answer states that the material is not yet canonical
+
+Use `wiki/reports/ingest/` only for operational questions about ingestion decisions, not as a primary knowledge substrate.
+
+Use `wiki/lenses/` as navigation helpers when a question matches a lens, but answer from canonical concepts, syntheses, entities, source pages, or queries.
+
+## Recommended Initial Implementation
+
+Start lightweight:
+
+1. Add directories:
+   - `wiki/candidates/`
+   - `wiki/reports/ingest/`
+   - `wiki/reports/lint/`
+   - `wiki/manifests/`
+   - `wiki/lenses/`
+2. Add `wiki/manifests/source-map.json`.
+3. Use compile-ingest manually for the next large or multi-source batch.
+4. Do not build scripts until the manual workflow proves useful.
+
+Only later consider scripts for:
+
+- source hashing
+- broken link checking
+- unindexed page checking
+- candidate promotion
+- source-map validation
+
+## What Not To Adopt Yet
+
+Do not add these unless the user explicitly approves:
+
+- mandatory claim-level provenance for every paragraph
+- confidence scores on every page
+- freshness metadata on every page
+- a full typed knowledge graph
+- external database requirements
+- replacing Obsidian-style navigation
+
+These may be useful later, but they add friction and are not necessary for the current vault's strongest use case: high-quality human-readable synthesis.

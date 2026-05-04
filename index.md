@@ -1394,6 +1394,7 @@ This is the content map for the LLM Wiki. Read this first before drilling into s
 
 ## Queries
 
+- [[wiki/queries/presenting-yourself-for-creative-agency-sales-director-interview|Presenting Yourself For Creative Agency Sales Director Interview]] - Preserved answer on positioning adjacent traffic-agency sales experience for a creative production agency sales-director interview.
 - [[wiki/queries/how-many-index-cards-for-a-full-screenplay|How Many Index Cards For A Full Screenplay]] - Preserved answer distinguishing Sorkin's index-card/corkboard process from adjacent `40` / `<50` card screenplay heuristics.
 - [[wiki/queries/supporting-a-new-team-lead-under-impostor-pressure|Supporting a New Team Lead Under Impostor Pressure]] - A practical preserved answer on helping a newly promoted lead reinterpret impostor pressure through empathy, developmental language, trust evidence, service, and concrete behavioral anchors.
 - [[wiki/queries/three-day-performance-crunch-plan|Three-Day Performance Crunch Plan]] - A practical operating model for surviving a 72-hour high-stakes work crunch through closed-list prioritization, protected peak hours, visible focus blocks, and anti-panic execution.

@@ -6127,3 +6127,24 @@ Summary:
 - Ingested a Johnny Harris process source as a primary-process companion to the existing Harris explainer branch.
 - Added a source page and a new filmmaking concept for the video documentary production pipeline.
 - Updated the Harris entity, explainer framework, and overlapping concepts around anchor-bridge structure, visual-first scripting, protected process, audience promise, and concrete active prose.
+
+## [2026-05-04 13:49] query | Creative Agency Sales Director Interview Positioning
+
+Pages touched:
+- [[wiki/queries/presenting-yourself-for-creative-agency-sales-director-interview|Presenting Yourself For Creative Agency Sales Director Interview]]
+- [[index|index]]
+- [[log|log]]
+
+Summary:
+- Preserved a durable query answer on how to position adjacent traffic-agency sales experience for a director of sales interview at a creative production agency.
+- Grounded the answer in the vault's sales systems, sales conversation control, brand strategy, positioning, Golden Circle, impromptu speaking, and workplace-confidence materials.
+
+## [2026-05-04 13:53] admin | Make Query Page Creation Mandatory
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[log|log]]
+
+Summary:
+- Updated the query workflow so every query-mode answer is preserved as a Markdown page under `wiki/queries/` by default.
+- Replaced conditional durable-answer wording with an explicit create-or-update requirement before the final chat response, with only narrow exceptions for chat-only requests, no-file-modification requests, or unanswered vault queries.

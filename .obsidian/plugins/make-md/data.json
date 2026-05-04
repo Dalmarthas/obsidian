@@ -42,11 +42,11 @@
     "//Untitled",
     "//wiki/wiki/concepts/wiki/concepts/communication",
     "//wiki",
-    "//raw",
     "//raw/raw/assets/raw/assets/2026-04-09-studio-script-reader-strengths-and-weaknesses",
     "//wiki/wiki/prompts/wiki/prompts/ai",
     "//wiki/wiki/prompts/wiki/prompts/agents",
-    "//wiki/wiki/prompts"
+    "//raw/raw/assets",
+    "//wiki/wiki/queries"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
