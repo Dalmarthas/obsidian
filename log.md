@@ -6148,3 +6148,25 @@ Pages touched:
 Summary:
 - Updated the query workflow so every query-mode answer is preserved as a Markdown page under `wiki/queries/` by default.
 - Replaced conditional durable-answer wording with an explicit create-or-update requirement before the final chat response, with only narrow exceptions for chat-only requests, no-file-modification requests, or unanswered vault queries.
+
+## [2026-05-04 14:03] admin | Clear Schema Redundancies
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[log|log]]
+
+Summary:
+- Removed redundant domain-folder patch-note lines for health, AI, chess, and productivity after those domains were already covered in the domain defaults.
+- Trimmed the naming examples from seventeen entries to eight entries.
+- Aligned `wiki/syntheses/` and `wiki/queries/` wording so preserved user query answers clearly belong in `wiki/queries/`.
+- Replaced the repeated Russian ingest step with a reference to the Language Handling rules.
+
+## [2026-05-04 14:07] admin | Compact Schema Tables
+
+Pages touched:
+- [[AGENTS|AGENTS]]
+- [[log|log]]
+
+Summary:
+- Collapsed the repetitive frontmatter schema sections into a common-key rule plus a compact page-type table.
+- Collapsed the page-template subsections into a single compact list while preserving the same required section headings.

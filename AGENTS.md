@@ -75,7 +75,7 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
     - `others/`
   - Meta/system concept pages for the vault itself may remain flat at the root of `wiki/concepts/`.
 - `wiki/entities/`: stable pages for people, companies, books, tools, places, projects, or named things.
-- `wiki/syntheses/`: cross-source analyses, comparisons, timelines, thesis pages, question answers worth preserving.
+- `wiki/syntheses/`: cross-source analyses, comparisons, timelines, and thesis pages.
   - Domain syntheses mirror the same subfolders used in `wiki/concepts/`.
   - Cross-source comparison pages go in `wiki/syntheses/cross-source/`.
   - Meta/system synthesis pages for the vault itself may remain flat at the root of `wiki/syntheses/`.
@@ -111,10 +111,6 @@ The wiki is a persistent, compounding knowledge artifact. The goal is not to re-
   - art, design, visual thinking, creativity, idea-generation -> `creativity/`
   - smaller standalone branches that do not yet justify their own domain -> `others/`
 - There is no separate `career/` domain folder. Career and professional-development material is filed under `business/`.
-- There is now a dedicated `health/` domain folder. Health-related material should default there rather than being filed under `others/`.
-- There is now a dedicated `ai/` domain folder. AI-related material should default there rather than being filed under `others/`.
-- There is now a dedicated `chess/` domain folder. Chess-related material should default there rather than being filed under `others/`.
-- There is now a dedicated `productivity/` domain folder. Productivity and personal-systems material should default there rather than being filed under `others/`.
 - Political pages are usually filed under `communication/` unless the page is primarily about organizational leadership or governance.
 - Do not create a new domain folder without explicit user approval.
 
@@ -132,20 +128,11 @@ Examples:
 - `raw/David Lynch writing summary.txt`
 - `raw/inbox/2026-04-07-llm-wiki-idea.md`
 - `wiki/sources/2026-04-07-llm-wiki-idea.md`
-- `wiki/concepts/llm-wiki.md`
 - `wiki/concepts/ai/agentic-workflows.md`
-- `wiki/concepts/business/business-strategy.md`
-- `wiki/concepts/chess/endgame-technique.md`
-- `wiki/concepts/communication/effective-communication.md`
 - `wiki/concepts/health/sleep.md`
-- `wiki/concepts/productivity/task-prioritization.md`
 - `wiki/entities/obsidian.md`
 - `wiki/syntheses/cross-source/communication-and-influence-models.md`
-- `wiki/syntheses/ai/model-evaluation-overview.md`
-- `wiki/syntheses/health/recovery-protocols-overview.md`
-- `wiki/syntheses/chess/opening-preparation-overview.md`
-- `wiki/syntheses/productivity/weekly-review-protocol.md`
-- `wiki/syntheses/this-vault-operating-model.md`
+- `wiki/queries/three-day-performance-crunch-plan.md`
 
 ## Language Handling
 
@@ -186,141 +173,27 @@ Examples:
 
 Use YAML frontmatter on all wiki pages.
 
-### Source page
+Common required keys for source, concept, entity, and synthesis pages: `type`, `title`, `created`, `updated`, `status`, `tags`.
 
-Required keys:
+| Page type | Extra required keys | Optional keys |
+| --- | --- | --- |
+| `source` | `raw_source` | `source_kind`, `source_date`, `author`, `source_count` |
+| `concept` | none | `aliases`, `related`, `source_pages` |
+| `entity` | none | `aliases`, `related`, `source_pages` |
+| `synthesis` | none | `question`, `basis`, `related` |
 
-- `type: source`
-- `title`
-- `created`
-- `updated`
-- `raw_source`
-- `status`
-- `tags`
+Prompt files under `wiki/prompts/` use `type: prompt` and require `title`, `created`, `updated`, `category`, `tags`, and `cssclasses`; optional keys are `aliases` and `source`.
 
-Optional keys:
-
-- `source_kind`
-- `source_date`
-- `author`
-- `source_count`
-
-### Concept page
-
-Required keys:
-
-- `type: concept`
-- `title`
-- `created`
-- `updated`
-- `status`
-- `tags`
-
-Optional keys:
-
-- `aliases`
-- `related`
-- `source_pages`
-
-### Entity page
-
-Required keys:
-
-- `type: entity`
-- `title`
-- `created`
-- `updated`
-- `status`
-- `tags`
-
-Optional keys:
-
-- `aliases`
-- `related`
-- `source_pages`
-
-### Synthesis page
-
-Required keys:
-
-- `type: synthesis`
-- `title`
-- `created`
-- `updated`
-- `status`
-- `tags`
-
-Optional keys:
-
-- `question`
-- `basis`
-- `related`
-
-### Prompt file
-
-Prompt files under `wiki/prompts/` are a special prompt archive. They use minimal YAML frontmatter for navigation while preserving the prompt payload exactly below the metadata.
-
-Required keys:
-
-- `type: prompt`
-- `title`
-- `created`
-- `updated`
-- `category`
-- `tags`
-- `cssclasses`
-
-Optional keys:
-
-- `aliases`
-- `source`
-
-Required body:
-
-- Add a `# Prompt` heading.
-- Under that heading, paste the exact prompt payload supplied by the user inside a fenced code block so it is easy to copy from Obsidian.
-- Use a fence length that does not appear inside the prompt payload. Default to triple backticks; if the prompt contains triple backticks, use four or more backticks.
-- Do not manually hard-wrap prompt lines for display. Obsidian wrapping is handled by `.obsidian/snippets/prompt-code-wrap.css`, which keeps copied prompt text closer to the original payload.
-
-Do not summarize, rewrite, normalize, translate, fix grammar, redact, or reformat the prompt payload itself. The code fence is a storage wrapper, not part of the prompt payload.
+Prompt files must add `# Prompt`, then preserve the exact prompt payload inside a fenced code block. Use a fence length that does not appear inside the payload, and do not manually hard-wrap, summarize, rewrite, normalize, translate, fix grammar, redact, or reformat the payload.
 
 ## Page Templates
 
-### Source page sections
+Use these page structures unless the material demands something more specific:
 
-Use this structure unless the source demands something more specific:
-
-1. `# Summary`
-2. `# Key Claims`
-3. `# Important Details`
-4. `# Tensions / Caveats`
-5. `# Links`
-6. `# Open Questions`
-
-### Concept page sections
-
-1. `# What It Is`
-2. `# Why It Matters`
-3. `# Evidence In This Vault`
-4. `# Source Comparisons` when two or more sources materially overlap on the concept
-5. `# Tensions / Open Questions`
-6. `# Related Pages`
-
-### Entity page sections
-
-1. `# Overview`
-2. `# Role In This Vault`
-3. `# Evidence In This Vault`
-4. `# Related Pages`
-
-### Synthesis page sections
-
-1. `# Question`
-2. `# Answer`
-3. `# Basis`
-4. `# Comparisons` when the synthesis is explicitly cross-source
-5. `# Gaps`
-6. `# Related Pages`
+- Source: `# Summary`, `# Key Claims`, `# Important Details`, `# Tensions / Caveats`, `# Links`, `# Open Questions`.
+- Concept: `# What It Is`, `# Why It Matters`, `# Evidence In This Vault`, `# Source Comparisons` when two or more sources materially overlap, `# Tensions / Open Questions`, `# Related Pages`.
+- Entity: `# Overview`, `# Role In This Vault`, `# Evidence In This Vault`, `# Related Pages`.
+- Synthesis and query: `# Question`, `# Answer`, `# Basis`, `# Comparisons` when explicitly cross-source, `# Gaps`, `# Related Pages`.
 
 ## Deep Extraction Standard
 
@@ -383,7 +256,7 @@ If the user message is ambiguous, infer the most likely mode and proceed.
 
 1. Capture or locate the new raw source in the root of `raw/`.
 2. Detect the source language.
-3. If the raw source is primarily Russian, set the working language for human-facing wiki output to Russian while keeping schema-critical structure stable.
+3. Apply the Language Handling rules for the source language.
 4. If the raw source is a `.txt` file, convert it to `.md` before continuing.
 5. Read the source from `raw/`.
 6. If the source is image-derived or depends on local attachments, move those supporting files into `raw/assets/<source-slug>/` and update the raw note to point at the canonical asset paths.
@@ -481,7 +354,7 @@ If a lint pass produces durable changes, record them in `log.md`.
 - `index.md` is the first navigation page to read when operating on the wiki.
 - Keep a compact `Question Routing` section near the top that points to concepts and syntheses for common life, business, health, and execution questions.
 - Organize it by content type.
-- Include a `Queries` section for durable question-answer pages stored under `wiki/queries/`.
+- Include a `Queries` section for query answer pages stored under `wiki/queries/`.
 - Each entry should have a link and a one-line description.
 - Keep it compact enough to scan quickly.
 - Update it whenever a durable page is added or materially re-scoped.
